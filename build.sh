@@ -61,6 +61,9 @@ for FILE in _recipes/*; do
     x cp "$FILE" _site/
 done
 
+# Install dependencies if requirements.txt exists
+if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
 status "Extracting metadata..."
 for FILE in _recipes/*.md; do
 
