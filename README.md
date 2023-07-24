@@ -80,7 +80,7 @@ The **body of a recipe consists of horizontal-rule-separated steps, each listing
 ---
 title: Cheese Buldak
 original_title: 치즈불닭
-category: Korean Food
+category: Entrees
 description: Super-spicy chicken tempered with loads of cheese and fresh spring onions. Serve with rice and a light salad – or, better yet, an assortment of side dishes.
 image: cheesebuldak.jpg
 size: 2-3 servings

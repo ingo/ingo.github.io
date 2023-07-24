@@ -63,17 +63,22 @@ done
 
 status "Extracting metadata..."
 for FILE in _recipes/*.md; do
+
+    python add_metadata.py "$FILE" "_temp/$(basename "$FILE" .md).yml"
+
     # extract category name for each recipe, set basename to avoid having to
     # use $sourcefile$ in the template which pandoc sets automatically but
     # contains the relative path
     x pandoc "$FILE" \
         --metadata-file config.yaml \
+        --metadata-file "_temp/$(basename "$FILE" .md).yml" \
         --metadata basename="$(basename "$FILE" .md)" \
         --template _templates/technical/category.template.txt \
         -t html -o "_temp/$(basename "$FILE" .md).category.txt"
 
     # extract metadata, set htmlfile in order to link to it on the index page
     x pandoc "$FILE" \
+        --metadata-file "_temp/$(basename "$FILE" .md).yml" \
         --metadata htmlfile="$(basename "$FILE" .md).html" \
         --template _templates/technical/metadata.template.json \
         -t html -o "_temp/$(basename "$FILE" .md).metadata.json"
@@ -128,6 +133,7 @@ for FILE in _recipes/*.md; do
     # category_faux_urlencoded in order to link to that in the header
     x pandoc "$FILE" \
         --metadata-file config.yaml \
+        --metadata-file "_temp/$(basename "$FILE" .md).yml" \
         --metadata basename="$(basename "$FILE" .md)" \
         --metadata category_faux_urlencoded="$CATEGORY_FAUX_URLENCODED" \
         --metadata updatedtime="$UPDATED_AT" \

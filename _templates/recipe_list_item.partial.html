@@ -1,23 +1,41 @@
-$if(show_images_on_index)$<div class="entry">$endif$
-    $if(show_images_on_index)$
-        <div class="servingsuggestion"$if(it.image)$style="background-image: url($it.image$);"$endif$></div>
-    $endif$
-    <h3>
-        <i class="icons">
-            $if(it.favorite)$<img src="assets/tabler-icons/tabler-icon-star.svg">$endif$
-            $if(it.veggie)$$else$$if(it.vegan)$$else$<img src="assets/tabler-icons/tabler-icon-meat.svg" alt="$strings.meat_label$">$endif$$endif$
-            $if(it.vegan)$<img src="assets/tabler-icons/tabler-icon-leaf.svg" alt="$strings.vegan_label$">$endif$
-            $if(it.spicy)$<img src="assets/tabler-icons/tabler-icon-pepper.svg" alt="$strings.spicy_label$">$endif$
-            $if(it.sweet)$<img src="assets/tabler-icons/tabler-icon-candy.svg" alt="$strings.sweet_label$">$endif$
-            $if(it.salty)$<img src="assets/tabler-icons/tabler-icon-salt.svg" alt="$strings.salty_label$">$endif$
-            $if(it.sour)$<img src="assets/tabler-icons/tabler-icon-lemon.svg" alt="$strings.sour_label$">$endif$
-            $if(it.bitter)$<img src="assets/tabler-icons/tabler-icon-coffee.svg" alt="$strings.bitter_label$">$endif$
-            $if(it.umami)$<img src="assets/tabler-icons/tabler-icon-mushroom.svg" alt="$strings.umami_label$">$endif$
-        </i>
-        <a href="${it.htmlfile}"><span>${it.title}</span></a>
-        $if(it.original_title)$<em>$it.original_title$</em>$endif$
-    </h3>
-    $if(it.description)$
-        <p>$it.description$</p>
-    $endif$
-$if(show_images_on_index)$</div>$endif$
+<article class="post type-post status-publish format-standard has-post-thumbnail hentry category-entrees category-featured category-food c-gallery__item c-gallery__item--portrait">
+
+    <div class="c-card">
+
+
+        <div class="c-card__aside c-card__thumbnail-background">
+            <div class="c-card__frame">
+                <img width="450" height="677" src="$it.image_validated$"
+                    class="attachment-pixelgrade_card_image size-pixelgrade_card_image wp-post-image is-loaded" alt=""
+                    decoding="async" loading="lazy"><span
+                    class="c-card__letter" style="font-size: 162.343px;">S</span>
+            </div>
+        </div>
+
+        <div class="c-card__content">
+
+
+            <div class="c-card__meta c-meta">
+                <div class="c-meta__primary">
+                    <span class="screen-reader-text">Categories</span>
+                    <ul>
+                        <li><a href="${it.category}.html" rel="category">${it.category}</a></li>
+                    </ul>
+                </div>
+                <div class="c-meta__separator js-card-meta-separator" style="display: none;"></div>
+            </div>
+
+            <h2 class="c-card__title"><span>${it.title}</span></h2>
+            <div class="c-card__excerpt">
+                <p>$it.description$</p>
+            </div>
+
+        </div>
+
+        <a class="c-card__link" href="${it.htmlfile}"></a>
+        <div class="c-card__badge"></div>
+
+
+    </div>
+
+</article>

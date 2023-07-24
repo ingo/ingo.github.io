@@ -1,12 +1,15 @@
-<footer>
-    <p>$strings.footer_text$</p>
-    <p class="updatededit">
-        $strings.updated_on$ $updatedtime$
-        $if(basename)$
-            $if(github_url)$
-                ·
-                <a href="$github_url$/edit/main/_recipes/$basename$.md">$strings.edit$</a>
+<footer class="site-footer u-footer-background u-container-sides-spacing">
+    <div class="o-wrapper u-container-width">
+        <p>$strings.footer_text$</p>
+        <p class="updatededit">
+            $strings.updated_on$ $updatedtime$
+            $if(basename)$
+                $if(github_url)$
+                    ·
+                    <a href="$github_url$/edit/main/_recipes/$basename$.md">$strings.edit$</a>
+                $endif$
             $endif$
-        $endif$
-    </p>
+        </p>
+    </div>
+    <!-- .o-wrapper.u-container-width.content-area -->
 </footer>

@@ -1,0 +1,33 @@
+---
+title: Garlic Butter Mushrooms
+category: Sides
+description: Insanely addictive garlic butter mushrooms. If you can't find crimini mushrooms, look for baby bella's or button mushrooms—they're essentially the same thing!
+image: delish-garlic-butter-mushrooms-007-1541801828-1.jpg
+size: 3 servings
+time: 0 hours 30 mins
+author: Parker Feierbach
+source: https://www.delish.com/cooking/recipe-ideas/a24520074/garlic-butter-mushrooms-recipe/
+---
+
+These garlic butter mushrooms are a great side dish for any meal. They are easy to prepare and are sure to be a hit with everyone. If you can't find crimini mushrooms, you can substitute with baby bella's or button mushrooms as they are essentially the same thing.
+
+### Ingredients
+
+* `4 tbsp` melted butter
+* `2` cloves garlic, minced
+* `2 tsp` freshly chopped thyme
+* `1 tsp` balsamic vinegar
+* Kosher salt
+* Freshly ground black pepper
+* `1 1/2 lb` crimini mushrooms, cleaned
+
+### Directions
+
+1. Preheat oven to 375°. In a medium bowl, whisk together butter, garlic, thyme, and vinegar.
+2. Spread mushrooms into an even layer on a large baking sheet. Pour butter mixture over mushrooms, then season with salt and pepper. Toss to coat, then spread mushrooms back into an even layer.
+3. Roast 15 to 18 minutes, until golden and tender.
+
+### Notes
+
+* If you can't find crimini mushrooms, look for baby bella's or button mushrooms—they're essentially the same thing!
+* For a healthier version, you can substitute the butter with olive oil.
