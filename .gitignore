@@ -1,2 +1,6 @@
 _temp/
 _site/
+_recipes_output/
+_recipes_to_process/
+_assets/.DS_Store
+.DS_Store
