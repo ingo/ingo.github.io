@@ -1,7 +1,7 @@
 ---
 title: Authentic Zhoug Sauce Recipe
 original_title: Zhug
-category: Condiments
+category: Sauces
 description: A flavorful Middle Eastern Green Chili Sauce that gives meals a burst of flavor. This version is simple and easy without compromising flavor.
 image: zhoug-recipe-200.jpg
 size: 1 ¼ cup

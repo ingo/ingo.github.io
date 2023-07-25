@@ -1,7 +1,7 @@
 ---
 
 title: Senator Hollings' Flaky Appetizer Cream Cheese Biscuits (Carolina Biscuits)
-category: Appetizers
+category: Sides
 description: Deliciously flaky cream cheese biscuits that are perfect for any gathering. These biscuits can be frozen, unbaked or baked, and reheated for convenience.
 image: placeholder.jpg
 size: Varies

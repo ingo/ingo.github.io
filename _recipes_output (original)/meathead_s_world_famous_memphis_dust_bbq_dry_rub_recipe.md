@@ -1,7 +1,7 @@
 ---
 title: Meathead's World Famous Memphis Dust BBQ Dry Rub Recipe
 original_title: Meathead’s World Famous Memphis Dust Rub Recipe
-category: Sauces and Condiments
+category: Sauces
 description: This flavorful BBQ dry rub recipe is the best and only backyard seasoning you’ll ever need. It is carefully formulated to flavor, color, and form the proper crust when cooked at low temps. Try it on chicken, fish, and vegetables too.
 image: ribs-rub-jpg.webp
 size: About 2 1/2 cups

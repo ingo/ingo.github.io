@@ -1,7 +1,7 @@
 ---
 title: Naan Sangak - Persian flatbread
 original_title: نان سنگک 
-category: Bread
+category: Breads
 description: A unique Persian flatbread baked on a layer of hot pebbles, giving it an uneven surface with many indentations. It has a higher ratio of whole wheat to all-purpose flour and is naturally leavened by a sourdough starter instead of yeast.
 image: sangak4.jpg
 size: 2 flatbreads

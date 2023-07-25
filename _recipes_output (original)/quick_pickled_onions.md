@@ -1,6 +1,6 @@
 ---
 title: Quick Pickled Onions
-category: Condiment
+category: Sides
 description: This tangy and crisp pickled onion recipe is ready in 30 minutes. These onions are the perfect condiment for tacos, burritos, nachos, burgers and more.
 image: placeholder.jpg
 size: 2 cups

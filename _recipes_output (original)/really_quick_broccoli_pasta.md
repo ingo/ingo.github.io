@@ -1,7 +1,7 @@
 ---
 title: Really Quick Broccoli Pasta
 original_title: Really Quick Broccoli Pasta
-category: Mains, Side
+category: Entrees
 description: A great emergency meal OR carb + veg side for all those times when your cupboards are bare except for broccoli, pasta, and some kind of cheese. It's saucy without using tons of oil, and there's loads of sub options. Quick and utterly scrumptious – loaded with tons of broccoli!
 image: Broccoli-Pasta_0-1.jpg
 size: 4 servings

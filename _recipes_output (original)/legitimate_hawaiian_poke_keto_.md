@@ -1,7 +1,7 @@
 ---
 title: Legitimate Hawaiian Poke (& Keto)
 original_title: Legit Hawaiian Poke – No Soy Sauce Necessary
-category: Main Course
+category: Entrees
 description: Simple, savory, and no soy sauce necessary. Make this traditional Hawaiian poke with the freshest fish you can find, and let the luau begin!
 image: tuna-poke-2-1-of-1.jpg
 size: 2 servings

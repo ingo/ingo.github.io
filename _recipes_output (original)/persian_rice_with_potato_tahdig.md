@@ -1,7 +1,7 @@
 ---
 title: Persian Rice with Potato Tahdig
 original_title: Persian Rice with Potato Tahdig
-category: Main Course
+category: Entrees
 description: An Iranian dish with perfectly steamed saffron rice and crispy fried potatoes. This is the ultimate comfort food!
 image: Persian-Rice-with-Potato-Tahdig-720x477.jpg
 size: 4 servings

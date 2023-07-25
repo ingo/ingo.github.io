@@ -1,7 +1,7 @@
 ---
 title: Miso Cod (Black Cod with Miso)
 original_title: 銀だらの西京焼き
-category: Main Course
+category: Entrees
 description: Marinated in saikyo miso and baked to perfection, Black Cod with Miso is a beautiful seafood dish you can pull off at home. With its delicate and buttery texture, the Miso Cod simply melts in your mouth.
 image: placeholder.jpg
 size: 4 servings

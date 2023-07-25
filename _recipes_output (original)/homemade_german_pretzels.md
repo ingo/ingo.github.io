@@ -1,6 +1,6 @@
 ---
 title: Homemade German Pretzels
-category: Snacks
+category: Breads
 description: Authentic German pretzel recipe that's easy to make at home. You'll love them!
 image: homemade-german-pretzels-2.jpg
 size: 12 pretzels

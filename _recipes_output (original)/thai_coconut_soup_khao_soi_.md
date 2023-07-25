@@ -1,7 +1,7 @@
 ---
 title: Thai Coconut Soup (Khao Soi)
 original_title: ข้าวซอย
-category: Main
+category: Soups
 description: A flavorful and very addicting Northern Style Thai Coconut Curry Noodle Soup, called Khao Soi. Easy and fast, and so yummy.
 image: Thai-Curry-Noodles-101-3-150x150.jpg
 size: 3-4 servings

@@ -1,6 +1,6 @@
 ---
 title: Ras el Hanout
-category: Spice Mixes
+category: Sides
 description: Ras el Hanout, a North African Spice mix, is a pungent, earthy spice blend with a balance of sweet and bitter elements, as well as floral notes. Its name translates from Arabic as "head of the shop" because all the best spices go into it!
 image: placeholder.jpg
 size: 10 servings
