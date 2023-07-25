@@ -5,7 +5,7 @@ description: A delightful pasta dish with a rich, creamy cheese sauce. Perfect f
 image: placeholder.jpg
 size: 4 servings
 time: 30 minutes
-author: Unknown
+author: Ingo Muschenetz
 favorite: 
 veggie: ✓
 vegan: 

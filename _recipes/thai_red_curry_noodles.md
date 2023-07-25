@@ -5,8 +5,7 @@ description: A perfect blend of curry, beans, and eggs, this Thai Red Curry Nood
 image: 21305405145_8f0e43f6ea_o.jpg
 size: 2-4 servings
 time: Not specified
-author: Not specified
-source: Not specified
+author: Ingo Muschenetz
 spicy: ✓
 ---
 

@@ -5,8 +5,7 @@ description: A fun and delicious campfire treat, perfect for kids and adults ali
 image: b319c1b8-1019-4468-9334-603f32d6e035.png
 size: Varies
 time: 15 minutes
-author: Unknown
-source: Unknown
+author: Ingo Muschenetz
 favorite: ✓
 sweet: ✓
 difficulty: easy

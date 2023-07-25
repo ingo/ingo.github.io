@@ -5,7 +5,7 @@ description: Crispy chicken marinated in sour cream and served on ciabatta rolls
 image: placeholder.jpg
 size: 4 servings
 time: 35 minutes
-author: Unknown
+author: Ingo Muschenetz
 source: http://kitchensimplicity.com/homemade-shaken-bake/
 ---
 

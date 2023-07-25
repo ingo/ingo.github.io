@@ -5,7 +5,7 @@ description: A simple yet delicious crockpot dish that always has people asking 
 image: crockpotranchmushrooms.jpg
 size: 4-6 servings
 time: Few hours
-author: Unknown
+author: Ingo Muschenetz
 favorite: ✓
 ---
 

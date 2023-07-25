@@ -5,7 +5,7 @@ description: A delightful dish of halibut poached in carrot butter, served with 
 image: placeholder.jpg
 size: 4 servings
 time: 1 hour
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 This recipe brings together the delicate flavors of halibut, carrot, and fennel, creating a harmonious blend that is sure to impress. The halibut is poached in a rich carrot butter, while the carrots are roasted with anchovies for a unique twist. The dish is completed with a crisp fennel salad, adding a refreshing crunch to the meal.

@@ -6,8 +6,7 @@ description: A great dish that also inspires many passions. This version is tune
 image: paella_scaled.jpeg
 size: 4-8 servings
 time: 2 hours
-author: Unknown
-source: Unknown
+author: Ingo Muschenetz
 ---
 
 ### Ingredients

@@ -3,7 +3,7 @@ title: Hungarian Goulash
 category: Entrees
 description: A tasty way to make Hungarian Goulash.
 size: 4 servings
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 ### Ingredients

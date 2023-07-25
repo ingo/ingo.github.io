@@ -6,7 +6,7 @@ description: A crisp and refreshing salad with the unique flavor of fresh fennel
 image: 195e89c3-5f14-4ed3-9ab0-6b3964af11b7.jpg
 size: 2-4 servings
 time: 10 minutes
-author: Unknown
+author: Ingo Muschenetz
 source: http://www.30minutedinnerparty.com/2010/fresh-fennel-salad-with-parmesan-recipe
 ---
 

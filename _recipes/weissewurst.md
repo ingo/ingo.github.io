@@ -5,7 +5,7 @@ description: Traditional Munich sausages, supposedly eaten "very fresh", that is
 image: weißewurst.jpg
 size: 10-15 servings
 time: 1 hour
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 ### Ingredients

@@ -4,7 +4,7 @@ category: Entrees
 description: Our favorite after-Thanksgiving sandwich that uses all of the leftover ingredients sitting around from the main Thanksgiving feast.
 image: img_2530.jpg
 size: 1 serving
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 ### Ingredients

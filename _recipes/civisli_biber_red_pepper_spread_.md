@@ -5,7 +5,7 @@ description: This red pepper paste has a nice texture and flavor from the additi
 image: civislibiber.jpg
 size: 2 cups
 time: 30 minutes
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 ### Ingredients

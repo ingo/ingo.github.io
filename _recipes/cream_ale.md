@@ -5,8 +5,7 @@ description: A home-brewed cream ale with a twist of peaches and a hint of oak.
 image: placeholder.jpg
 size: 5 gallons
 time: 1 month and 10 days
-author: Unknown
-source: N/A
+author: Ingo Muschenetz
 favorite: N/A
 veggie: ✓
 vegan: ✓

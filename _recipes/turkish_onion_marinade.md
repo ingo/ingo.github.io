@@ -6,7 +6,6 @@ image:
 size: 2 cups, enough for 3-4 pounds of meat
 time: 1 hour to overnight
 author: Claudia Roden
-source: The New Book of Middle Eastern Food
 ---
 
 ### Ingredients

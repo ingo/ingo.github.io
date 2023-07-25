@@ -4,7 +4,7 @@ category: Entrees
 description: Ingo's favorite dim sum. Takes a little while to make, but is well worth it.
 size: 5 buns
 time: 1 hour
-author: Unknown
+author: Ingo Muschenetz
 favorite: ✓
 ---
 

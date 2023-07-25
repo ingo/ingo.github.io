@@ -5,7 +5,7 @@ description: A delightful shrimp dish made with sweet onions, beer, and lemon ze
 image: shrimp_lahaina.jpg
 size: 4 servings
 time: 30 minutes
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 ### Ingredients

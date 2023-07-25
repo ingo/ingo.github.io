@@ -7,7 +7,6 @@ image: img_0660.jpg
 size: 4 cups
 time: 3 hours
 author: David Rosengarten
-source: It's All American Food
 favorite: 
 veggie: ✓
 vegan: ✓

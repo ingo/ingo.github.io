@@ -5,7 +5,7 @@ description: A must-have for any party, this Chinese Fried Chicken is marinated 
 image: chinesefriedchicken.jpg
 size: Varies
 time: Overnight + Frying Time
-author: Unknown
+author: Ingo Muschenetz
 favorite: ✓
 ---
 

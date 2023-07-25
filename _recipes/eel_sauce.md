@@ -6,7 +6,7 @@ description: A crowd favorite that goes well on various types of rolls as well a
 image: placeholder.jpg
 size: 1 1/2 cups of sauce (375 ml)
 time: 30 minutes
-author: Unknown
+author: Ingo Muschenetz
 favorite: ✓
 ---
 

@@ -5,7 +5,7 @@ description: A very simple, very German salad. Great with spicy foods.
 image: cucumber_salad.jpg
 size: 2 cups
 time: 1 hour 10 minutes
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 ### Ingredients

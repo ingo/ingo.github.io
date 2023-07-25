@@ -5,7 +5,7 @@ description: Delicious homemade gnocchi made from potatoes, eggs, and flour. A c
 image: placeholder.jpg
 size: 4 servings
 time: 2 hours
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 This classic Italian dish is a labor of love, but the result is worth it. The gnocchi are soft, pillowy, and perfect with any sauce. 

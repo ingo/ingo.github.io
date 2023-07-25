@@ -5,7 +5,7 @@ description: A succulent beef tenderloin wrapped in bacon and served with a tang
 image: seasoned-bacon-wrapped-filets.jpg
 size: 2-4 servings
 time: 2-6 hours
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 This recipe is a gourmet take on the classic filet mignon, using a sous vide for perfect, even cooking. The bacon wrap adds a smoky flavor and the whipped horseradish cream provides a tangy contrast to the rich beef.

@@ -6,7 +6,6 @@ image: img_3337.jpg
 size: 2 pizzas
 time: Few hours
 author: Marcella Hazan
-source: Essentials of Classic Italian Cooking
 ---
 
 ### Ingredients

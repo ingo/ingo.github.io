@@ -2,7 +2,7 @@
 title: Rice Pilaf With Pistachios And Raisins
 category: Sides
 description: This dish we've made multiple times. Sometimes it has turned out wonderful, other times, just good. We are still working on tuning the spice amounts.
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 ### Ingredients

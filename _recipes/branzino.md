@@ -5,7 +5,7 @@ description: A flavorful, crispy branzino dish with a combination of garlic, gin
 image: branzino.jpg
 size: 2 servings
 time: 2 hours
-author: Unknown
+author: Ingo Muschenetz
 ---
 
 ### Ingredients

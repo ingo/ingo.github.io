@@ -5,7 +5,7 @@ description: Crispy, smoky wings with a homemade chipotle sauce. Perfect for gam
 image: placeholder.jpg
 size: Varies
 time: 1 day, 1 hour
-author: Unknown
+author: Ingo Muschenetz
 spicy: ✓
 ---
 
