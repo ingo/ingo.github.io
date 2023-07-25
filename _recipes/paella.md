@@ -3,7 +3,7 @@ title: Paella
 original_title: Paella
 category: Entrees
 description: A great dish that also inspires many passions. This version is tuned a bit to my family’s preferences, in particular the addition of sausage. If you’d like to be truly traditional with ingredients, there are some suggestions at the bottom of the recipe.
-image: paella_scaled.jpeg
+image: paella.jpeg
 size: 4-8 servings
 time: 2 hours
 author: Ingo Muschenetz

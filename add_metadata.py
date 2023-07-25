@@ -5,6 +5,7 @@ import markdown
 from bs4 import BeautifulSoup, NavigableString
 import html2text
 import os
+from PIL import Image
 
 # validate command line arguments
 if len(sys.argv) != 3:
@@ -50,6 +51,15 @@ if image_filename:
         pre_dict["image_validated"] = image_filename
 else:
     pre_dict["image_validated"] = placeholder_name
+
+image_name = pre_dict["image_validated"]
+image_path = os.path.join(current_file_path, image_name)
+print(f"Image path: {image_path}")
+with Image.open(image_path) as img:
+    width, height = img.size
+    print(f"Image size: {width}x{height}")
+    if width > height:
+        pre_dict["landscape"] = "true"
 
 # Check if difficulty key exists
 difficulty = pre_dict.get("difficulty")

@@ -7,6 +7,8 @@ size: 4 servings
 time: 15 minutes
 ---
 
+A great sauce for everything.
+
 ### Ingredients
 
 * `1/3 Cup` Butter
@@ -25,12 +27,11 @@ time: 15 minutes
 
 ### Nutrition
 
-nutrition:
-  - 192 calories
-  - 2.8 g sugar
-  - 17.4 g fat
-  - 2.7 g protein
-  - 7 g carbohydrates
-  - 0.2 g fiber
-  - 139 mg sodium
-  - 50 g cholesterol
+* 192 calories
+*  2.8 g sugar
+*  17.4 g fat
+*  2.7 g protein
+*  7 g carbohydrates
+*  0.2 g fiber
+*  139 mg sodium
+*  50 g cholesterol
