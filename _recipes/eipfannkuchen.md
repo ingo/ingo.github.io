@@ -10,6 +10,9 @@ size: 2 servings
 time: 30 minutes
 title: Eipfannkuchen
 ---
+
+You'll want to serve them immediately out of the pan with a knife and fork to cut them into squares.
+
 ### Ingredients
 
 * `1 cup` milk
