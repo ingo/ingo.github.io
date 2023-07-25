@@ -15671,6 +15671,7 @@ body.nav--is-open {
       .o-layout__full:not(:first-child) .widget:nth-child(2n+1).widget_categories {
         padding-bottom: 13.65854px; } }
 
+/*
 .widget_categories_image_grid img,
 .c-card__frame img,
 .entry-thumbnail img {
@@ -15680,6 +15681,7 @@ body.nav--is-open {
   .c-card__frame img:not(.is-loaded),
   .entry-thumbnail img:not(.is-loaded) {
     opacity: 0; }
+*/
 
 @media only screen {
   html:not(.is-loaded) {
