@@ -5,7 +5,7 @@ category: Entrees
 description: A no-marinade-needed Marbella that gets the job done in under an hour. Chicken thighs are seared hard until deep golden brown to render the fat, which also helps amp up the chicken flavor. This version is also significantly less sweet than the original, but if you like your brown sugar, use 1/3 cup instead. The reduced pan sauce is easy to love, so be sure to serve with a loaf of crusty bread to mop it all up.
 image: rm-chicken-marbella-articleLarge.jpg
 image_attribution: David Malosh
-image_source: The New York Times. Food Stylist: Simon Andrews.
+image_source: The New York Times
 size: 4 to 6 servings
 time: 45 minutes
 author: Rick A. Martinez

@@ -4,7 +4,7 @@ category: Entrees
 description: Scallops have a mildly briny, delicately nutty flavor that pairs extremely well with sweet corn. The key to properly cooked scallops is making sure they’re very dry, then allowing them to cook, undisturbed, to caramelize. Chopping the seared scallops into tender morsels helps to infuse the pasta with rich seafood flavor, while fresh corn adds texture to complement them. The emulsification of pasta water, butter and cheese creates a silky sauce for a satisfying pasta meal that still feels light.
 image: merlin_190773741_8a1ae4e4-09f9-4b73-868c-c634b62ff608-articleLarge.jpg
 image_attribution: Bryan Gardner
-image_source: The New York Times. Food Stylist: Barrett Washburne.
+image_source: The New York Times
 size: 4 servings
 time: 20 minutes
 author: Kay Chun

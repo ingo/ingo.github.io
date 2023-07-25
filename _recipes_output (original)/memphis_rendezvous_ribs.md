@@ -5,7 +5,7 @@ description: Delicious Memphis-style barbecue ribs with a flavorful seasoning mi
 image: memphis_style_bbq_ribs_4-670x405.jpg
 size: 2 slabs (about 4 pounds)
 time: Varies
-author: Mark Boughton/styling: Teresa Blackburn
+author: Mark Boughton
 source: https://www.relish.com/recipes/memphis-rendezvous-ribs/
 ---
 

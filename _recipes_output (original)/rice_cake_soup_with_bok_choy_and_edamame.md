@@ -4,7 +4,7 @@ category: Soups
 description: This fresh soup is a riff on something that a Chinese or Korean mom might make, with rice cakes added to bulk it up. They are precooked, but will rehydrate and soak up more liquid in this soup. If you find that they have soaked up too much, simply add a little more broth or water to thin out the soup.
 image: sl-rice-cake-soup-articleLarge.jpg
 image_attribution: Andrew Purcell
-image_source: The New York Times. Food Stylist: Barrett Washburne.
+image_source: The New York Times
 size: 4 servings
 time: 30 minutes
 author: Sue Li

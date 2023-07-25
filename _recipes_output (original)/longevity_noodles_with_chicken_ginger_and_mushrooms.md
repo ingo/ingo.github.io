@@ -4,7 +4,7 @@ category: Entrees
 description: During Chinese New Year, long noodles are eaten in all corners of China. “Longevity noodles,” also presented at birthday celebrations, are never cut or broken by the cook, and if they can be eaten without biting through the strands, it’s considered even more auspicious. Longevity noodles are usually stir fried, presenting challenges to the home cook.
 image: jm-longevity-noodles-articleLarge.jpg
 image_attribution: Romulo Yanes
-image_source: The New York Times. Food Stylist: Vivian Lui.
+image_source: The New York Times
 size: 2 to 3 main-dish servings
 time: 30 minutes
 author: Julia Moskin

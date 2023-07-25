@@ -8,7 +8,7 @@ time: 20 minutes
 author: Kay Chun
 source: https://cooking.nytimes.com/search?q=Kay+Chun&action=click&module=byline&region=recipe%20page
 image_attribution: Julia Gartland
-image_source: The New York Times. Food Stylist: Barrett Washburne.
+image_source: The New York Times
 ---
 
 This meatball mixture can be made ahead and left to marinate in the fridge for 3 hours or even overnight. Use ground beef that is 85 percent lean meat, 15 percent fat, or 80 percent lean and 20 percent fat for juicier meatballs. The Ritz crackers here make for a more tender meatball, but feel free to substitute plain dry bread crumbs. The meatballs are tasty on their own, but for a simple dipping sauce, combine 2 tablespoons soy sauce and 1 tablespoon distilled white vinegar. Serve over steamed rice with kimchi, or as a sandwich with mayonnaise or marinara sauce.

@@ -5,7 +5,7 @@ category: Breakfasts
 description: Towering pancakes made with a meringue mixture for extra height, cooked at a very low temperature for a custardy texture. Perfect for breakfast, an afternoon snack, or even dessert.
 image: merlin_152093436_8efda54f-e29a-40c5-92b3-fdbcbe490277-master768.jpg
 image_attribution: Romulo Yanes
-image_source: The New York Times. Food Stylist: Vivian Lui.
+image_source: The New York Times
 size: 8 pancakes
 time: 30 minutes
 author: Daniela Galarza

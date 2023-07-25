@@ -1,6 +1,6 @@
 ---
-title: Seafood Terrine: It's All in the Mousseline
-original_title: Seafood Terrine: It's All in the Mousseline
+title: Seafood Terrine
+original_title: Seafood Terrine
 category: Entrees
 description: A delicate mixture of ground fish or shellfish, cream, egg whites and seasonings. It's a luxurious dish that is amazingly quick to prepare.
 image: placeholder.jpg

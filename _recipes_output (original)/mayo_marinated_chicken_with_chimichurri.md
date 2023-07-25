@@ -5,7 +5,7 @@ category: Entrees
 description: Chicken cutlets rubbed with mayo and marinated in chimichurri sauce, delivering a consistent flavor and improved browning. The chicken can be cooked on the grill or in a cast-iron skillet indoors.
 image: 28Kenjirex1-articleLarge.jpg
 image_attribution: David Malosh
-image_source: The New York Times. Food Stylist: Barrett Washburne
+image_source: The New York Times
 size: 2-4 servings
 time: About 10 minutes, plus marinating if desired
 author: J. Kenji López-Alt

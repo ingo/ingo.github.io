@@ -54,7 +54,7 @@ else:
 
 # update the yaml part in the markdown content
 md_content = md_content[md_content.index("---\n") + len(pre.split("\n")) + 3:]
-md_content.insert(0, "---\n" + yaml.safe_dump(pre_dict) + "---\n")
+md_content.insert(0, "---\n" + yaml.safe_dump(pre_dict, allow_unicode=True) + "---\n")
 
 # write back to the original markdown file
 with open(args.input_filename, "w") as file:

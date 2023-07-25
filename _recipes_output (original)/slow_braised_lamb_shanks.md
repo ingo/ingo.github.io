@@ -4,7 +4,7 @@ category: Entrees
 description: Deliciously tender slow-braised lamb shanks that can be served with a variety of dishes.
 image: 23eat1-articleLarge-v2.jpg
 image_attribution: Levi Brown
-image_source: The New York Times; Food stylist: Maggie Ruggiero
+image_source: The New York Times
 size: 4 to 6 servings
 time: At least 2 hours
 author: Mark Bittman

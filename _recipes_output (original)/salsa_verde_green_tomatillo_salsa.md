@@ -1,5 +1,5 @@
 ---
-title: Salsa Verde: Green Tomatillo Salsa
+title: Salsa Verde
 category: Sides
 description: A bright, tangy salsa made from fresh tomatillos, chiles, and cilantro. Perfect for adding a kick to your meals.
 image: CC_Green-Tomatillo-Salsa_s4x3-jpg-rend-sni12col-landscape.jpeg
