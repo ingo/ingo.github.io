@@ -11746,48 +11746,6 @@ hr {
       hr:not(:last-child) {
         margin-bottom: 23.82979px; } }
 
-.link--arrow {
-  position: relative;
-  -webkit-transition: all 0.2s ease;
-  transition: all 0.2s ease;
-  border-bottom: none;
-  text-decoration: none; }
-  .link--arrow:after, .link--arrow:before {
-    display: none;
-    content: " ";
-    width: 13px;
-    height: 11px;
-    margin-left: 10px;
-    background: url("http://muschenetz.com/assets/images/directional-arrow.svg") 100% center no-repeat;
-    speak: none;
-    -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
-            user-select: none;
-    -webkit-transition: all 0.2s ease;
-    transition: all 0.2s ease; }
-  .link--arrow:after {
-    display: inline-block; }
-  .link--arrow:hover {
-    -webkit-transform: translateX(5px);
-            transform: translateX(5px);
-    text-decoration: none; }
-    .link--arrow:hover:before, .link--arrow:hover:after {
-      opacity: 0.4; }
-  .link--arrow.left:after {
-    display: none; }
-  .link--arrow.left:before {
-    display: inline-block;
-    -webkit-transform: rotate(180deg);
-            transform: rotate(180deg);
-    margin-left: 0;
-    margin-right: 10px; }
-  .link--arrow.left:hover {
-    -webkit-transform: translateX(-5px);
-            transform: translateX(-5px); }
-  .link--arrow.light:after {
-    background: url("http://muschenetz.com/assets/images/directional-arrow-white.svg") 100% center no-repeat; }
-
 @media only screen and (min-width: 62.5em) {
   .widget_promo_box:not(.widget--full):before, .widget_promo_box:not(.widget--full):after {
     content: none; } }
