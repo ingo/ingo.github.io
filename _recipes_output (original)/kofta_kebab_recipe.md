@@ -2,7 +2,7 @@
 title: Kofta Kebab Recipe
 original_title: Kofta Kebab
 category: Entrees
-description: A must-try authentic Kofta kebab recipe: ground beef and lamb mixed with fresh parsley, onions, garlic and Middle Eastern spices. Add some Mediterranean sides and salads for your next picnic!
+description: A must-try authentic Kofta kebab recipe. Ground beef and lamb mixed with fresh parsley, onions, garlic and Middle Eastern spices. Add some Mediterranean sides and salads for your next picnic!
 image: Kofta-Kebab-Recipe-17.jpg
 size: 10 skewers
 time: 28 minutes

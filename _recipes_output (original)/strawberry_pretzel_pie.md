@@ -3,7 +3,7 @@ title: Strawberry Pretzel Pie
 category: Desserts
 description: A wonderful but simple summer pie inspired by strawberry pretzel salad, a popular Southern dessert. This fresher adaptation consists of an easy shortbread crust, a fluffy cream filling and a pile of fresh strawberries.
 image: merlin_156815769_95060ad1-0724-419f-a1dd-e8affd8d61ee-articleLarge.jpg
-image_attribution: Johnny Miller for The New York Times. Food Stylist: Erin Jeanne McDowell.
+image_attribution: Johnny Miller for The New York Times
 size: 8 servings
 time: 40 minutes, plus cooling and chilling
 author: Jerrelle Guy

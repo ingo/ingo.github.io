@@ -4,7 +4,7 @@ original_title: Depression Burger
 category: Entrees
 description: A delicious burger invented in El Reno, Okla., during the Depression era. The buns are steamed in onion-scented vapor, and the patties are cooked smashed-style with a huge amount of thinly shaved onions.
 image: merlin_209983146_a42ab18e-d9e0-45d7-af24-891a1239fbcc-articleLarge.jpg
-image_attribution: Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne.
+image_attribution: Bryan Gardner for The New York Times
 size: 4 servings
 time: 15 to 30 minutes
 author: J. Kenji López-Alt

@@ -1,7 +1,7 @@
 ---
 title: Juniper Rye Bock
 category: Beverages
-description: This beer recipe combines the best of two European styles: centuries-old Nordic sahti and malty-sweet German bock. Juniper berries and rye are common sahti ingredients that, combined with the malt character and strength of bock, make for this delicious, deep amber juniper rye bock.
+description: This beer recipe combines the best of two European styles. Centuries-old Nordic sahti and malty-sweet German bock. Juniper berries and rye are common sahti ingredients that, combined with the malt character and strength of bock, make for this delicious, deep amber juniper rye bock.
 image: bock-beer-recipe_645x645.jpg
 size: 5 US gal. (19 L)
 time: 90 minutes boil time, 4 to 6 months maturation

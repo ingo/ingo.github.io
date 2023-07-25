@@ -1,7 +1,7 @@
 ---
 title: The BA Muffuletta
 category: Entrees
-description: There is no better beach or picnic sandwich: It feeds a crowd, gets better as it sits, and is a hearty meal built inside a loaf of bread. Unless you live in New Orleans and can get the real thing, opt for a ciabatta or other loaf with a sturdy but not too crusty exterior.
+description: There is no better beach or picnic sandwich, It feeds a crowd, gets better as it sits, and is a hearty meal built inside a loaf of bread. Unless you live in New Orleans and can get the real thing, opt for a ciabatta or other loaf with a sturdy but not too crusty exterior.
 image: ba-muffuletta-081016.jpg
 image_attribution: Gentl & Hyers
 size: 4 servings

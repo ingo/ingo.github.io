@@ -4,7 +4,7 @@ original_title: Sauerkraut Jeon
 category: Entrees
 description: Savory Korean vegetable pancakes bound with a basic batter. They can be made with virtually any meat or vegetable odds and ends, but they’re especially great with that crunchy sauerkraut.
 image: merlin_181993518_c1bebde2-3555-4691-a19d-113132906e76-articleLarge.jpg
-image_attribution: David Malosh for The New York Times. Food Stylist: Maggie Ruggiero.
+image_attribution: David Malosh for The New York Times
 size: 4 servings
 time: 30 minutes
 author: J. Kenji López-Alt

@@ -4,7 +4,7 @@ original_title: Joojeh Kabab ba Holu
 category: Entrees
 description: An Iranian barbecue delight with the dizzying scent of saffron chicken kababs on the grill, served with grilled peaches and blistered tomatoes. 
 image: merlin_189026649_a6cfa961-6e2d-419e-889d-7df8610b1765-articleLarge.jpg
-image_attribution: Linda Xiao for The New York Times. Food Stylist: Monica Pierini.
+image_attribution: Linda Xiao for The New York Times
 size: 4 servings
 time: 40 minutes, plus 2 to 24 hours’ marinating
 author: Naz Deravian

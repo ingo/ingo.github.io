@@ -4,7 +4,7 @@ original_title: Konbi’s Egg Salad Sandwich
 category: Entrees
 description: This famous egg salad sandwich comes from Konbi, the tiny Los Angeles cafe run by the co-chefs Akira Akuto and Nick Montgomery. It’s as pretty as it is delicious. The egg salad is brightened with a touch of rice wine vinegar and mustard and bound with Kewpie mayonnaise.
 image: 09Eggs-KonbiEgg-rex-master768.jpg
-image_attribution: Sang An for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.
+image_attribution: Sang An for The New York Times
 size: 4 sandwiches
 time: 45 minutes
 author: Tejal Rao

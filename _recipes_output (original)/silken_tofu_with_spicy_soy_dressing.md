@@ -4,7 +4,7 @@ original_title: Silken Tofu With Spicy Soy Dressing
 category: Entrees
 description: Silky soft tofu draped in a punchy soy dressing, creating a lively dish with little effort. Make it your own with other fresh herbs or add crunch with fried shallots or roasted peanuts.
 image: merlin_193269246_21f040e4-19a1-46d5-b644-b4c727c95d37-articleLarge.jpg
-image_attribution: Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.
+image_attribution: Christopher Simpson for The New York Times
 size: 4 servings
 time: 5 minutes
 author: Hetty McKinnon

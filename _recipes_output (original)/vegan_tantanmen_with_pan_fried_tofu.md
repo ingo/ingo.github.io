@@ -4,7 +4,7 @@ original_title: Vegan Tantanmen With Pan-Fried Tofu
 category: Entrees
 description: Tantanmen is the Japanese version of dan dan noodles, a Sichuan dish of noodles and pork bathed in a spicy sesame broth. This vegan version features pan-fried tofu and mushrooms.
 image: 19Tantanmenrex-articleLarge.jpg
-image_attribution: Linda Xiao for The New York Times. Food Stylist: Monica Pierini.
+image_attribution: Linda Xiao for The New York Times
 size: 4 servings
 time: 45 minutes
 author: Hetty McKinnon

@@ -7,7 +7,7 @@ size: 12 servings
 time: 10 minutes
 author: Marcus Nilsson
 source: https://www.nytimes.com/interactive/2017/10/25/magazine/food-issue-gabrielle-hamilton-old-school-dinner-party.html
-image_attribution: Marcus Nilsson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Gozde Eker.
+image_attribution: Marcus Nilsson for The New York Times
 ---
 
 This cocktail is a perfect blend of gin, sweet vermouth, Luxardo maraschino, Angostura bitters, and orange. It's a refreshing and balanced drink that's perfect for the early fall.

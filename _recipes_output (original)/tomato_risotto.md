@@ -8,7 +8,7 @@ size: 4-6 servings
 time: 30 minutes
 author: David Tanis
 source: https://cooking.nytimes.com/recipes/1020378-tomato-risotto#notes_section
-image_attribution: Andrew Scrivani for The New York Times. Food Stylist: Iah Pinkney.
+image_attribution: Andrew Scrivani for The New York Times
 veggie: ✓
 ---
 

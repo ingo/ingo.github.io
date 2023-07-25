@@ -7,7 +7,7 @@ size: 6 servings
 time: 2 hours, plus at least 4 hours’ refrigerating
 author: David Tanis
 source: https://cooking.nytimes.com/ourcooks/david-tanis/my-recipes?action=click&module=byline&region=recipe%20page
-image_attribution: David Malosh for The New York Times. Food Stylist: Simon Andrews.
+image_attribution: David Malosh for The New York Times
 ---
 
 This flan often incorporates orange notes, but this version looks to that jewel of winter, tangerine. The end result is somewhat brighter in flavor, and is ideally made a day in advance of serving so the ingredients have time to mingle. Be sure to let the caramel go quite dark, but take care to avoid burning it.

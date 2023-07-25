@@ -1,7 +1,7 @@
 ---
 title: Open-Face Steak Sandwich with Parmesan Dressing
 category: Entrees
-description: Mark your calendar: It’s steak sandwich night in America. Feeling virtuous? Remove the bread and…voilà: steak salad!
+description: Mark your calendar. It’s steak sandwich night in America. Feeling virtuous? Remove the bread and…voilà. Steak salad!
 image: 0416-BA-MFEF-04.jpg
 size: 4 servings
 time: 35 minutes

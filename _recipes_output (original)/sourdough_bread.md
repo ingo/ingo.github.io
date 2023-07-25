@@ -8,7 +8,7 @@ size: 2 loaves
 time: 3 days
 author: NYT Cooking
 source: https://cooking.nytimes.com/guides/59-how-to-make-sourdough-bread
-image_attribution: Johnny Miller for The New York Times, Stylist: Laurie Ellen Pellicano. Prop Stylist: Sarah Smart.
+image_attribution: Johnny Miller for The New York Times
 difficulty: hard
 ---
 

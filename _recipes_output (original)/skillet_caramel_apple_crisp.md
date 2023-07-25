@@ -3,7 +3,7 @@ title: Skillet Caramel-Apple Crisp
 category: Desserts
 description: The caramel sauce does double duty in this warm, comforting crisp. First, it lends sweetness to the apple filling, and second, it yields a lot of leftovers to serve alongside. Use firm, tart apples like Mutsu, Jonathan or Honeycrisp, which will hold their shape during baking.
 image: ya-apple-crisp-articleLarge.jpg
-image_attribution: Christopher Testani for The New York Times. Food Stylist: Eugene Jho.
+image_attribution: Christopher Testani for The New York Times
 size: 8 to 10 servings
 time: 1 hour
 author: Yossy Arefi

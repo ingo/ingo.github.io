@@ -3,7 +3,7 @@ title: Huli Huli Chicken
 category: Entrees
 description: A Honolulu classic, this grilled chicken is marinated in a teriyaki-style sauce and turned halfway through cooking for an even, delicious finish.
 image: ml-hulihuli-chicken-articleLarge-v2.jpg
-image_attribution: Andrew Purcell for The New York Times. Food Stylist: Barrett Washburne.
+image_attribution: Andrew Purcell for The New York Times
 size: 4-6 servings
 time: 45 minutes, plus 8 hours’ marinating
 author: Margaux Laskey

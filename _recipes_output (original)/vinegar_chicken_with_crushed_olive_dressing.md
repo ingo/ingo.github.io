@@ -4,7 +4,7 @@ original_title: Vinegar Chicken With Crushed Olive Dressing
 category: Entrees
 description: This tangy, turmeric-stained, sheet-pan chicken makes the most of the schmaltzy bits left behind on the pan, which is deglazed with fresh garlic, briny olives and a bit of water. Think pan sauce, but done on a sheet pan.
 image: 23romanrex-articleLarge.jpg
-image_attribution: Michael Graydon & Nikole Herriott for The New York Times. Prop Stylist: Paige Hicks.
+image_attribution: Michael Graydon & Nikole Herriott for The New York Times
 size: 4 servings
 time: 40 minutes
 author: Alison Roman

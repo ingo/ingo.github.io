@@ -4,7 +4,7 @@ original_title: Updated No-Knead Bread
 category: Breakfasts
 description: This recipe is based on Jim Lahey’s recipe from 2006, with a few modifications for the sake of precision and a touch of acid to improve dough strength.
 image: merlin_186913560_24dd1c65-b972-47db-86a8-8b8b010ab741-articleLarge.jpg
-image_attribution: Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne.
+image_attribution: Ryan Liebe for The New York Times
 size: 1 loaf
 time: 1 hour, plus 14 to 20 hours’ resting
 author: J. Kenji López-Alt

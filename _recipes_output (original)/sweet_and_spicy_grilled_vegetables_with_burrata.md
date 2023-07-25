@@ -4,7 +4,7 @@ original_title: Sweet-and-Spicy Grilled Vegetables With Burrata
 category: Entrees
 description: A colorful platter of soft, grilled vegetables in a sweet and spicy sauce can be the centerpiece of a light summery meal; just add some creamy cheese for richness and crusty bread to round things out.
 image: merlin_172407834_73520f1c-e7b4-401e-a738-abd9051178a0-articleLarge.jpg
-image_attribution: Andrew Purcell for The New York Times. Food Stylist: Carrie Purcell.
+image_attribution: Andrew Purcell for The New York Times
 size: 6-8 servings
 time: 45 minutes
 author: Melissa Clark

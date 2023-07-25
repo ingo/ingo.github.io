@@ -4,7 +4,7 @@ original_title: Roasted Turkey Ramen
 category: Entrees
 description: Transform your Thanksgiving leftovers into a delicious turkey ramen, complete with mushrooms, scallions and a six-minute egg in each bowl. The rich, cloudy broth is a tribute to traditional turkey recipes.
 image: 27mag-Eat-master768.jpg
-image_attribution: Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.
+image_attribution: Chris Simpson for The New York Times
 size: 6 to 8 servings
 time: 6 hours
 author: Joshua Mangerson, Adapted by Ligaya Mishan

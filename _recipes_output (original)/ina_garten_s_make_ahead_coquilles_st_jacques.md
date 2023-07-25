@@ -4,7 +4,7 @@ original_title: Coquilles St.-Jacques
 category: Entrees
 description: An easy version of the classic French preparation of scallops in a creamy sauce, under a crust of bread crumbs and cheese. It makes for a beautiful entree that matches well with a green salad, flinty white wine and good conversation.
 image: 04eat1-articleLarge-v5.jpg
-image_attribution: Johnny Miller for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Kate S. Jordan.
+image_attribution: Johnny Miller for The New York Times
 size: 6 servings
 time: 1 hour
 author: Ina Garten
