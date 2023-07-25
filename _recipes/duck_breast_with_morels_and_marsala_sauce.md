@@ -1,12 +1,12 @@
 ---
-title: Duck breast with morels and Marsala sauce
 category: Entrees
-description: A flavorful dish of duck breast served with morels and a rich Marsala sauce.
-image: 9c2b91d8-0650-4e48-873c-2bdedb526b99.png
+description: A flavorful dish of duck breast served with morels and a rich Marsala
+  sauce.
+image: duck_breast_with_morels_and_marsala_sauce.jpg
 size: 4 servings
 time: 1 hour
+title: Duck breast with morels and Marsala sauce
 ---
-
 This dish is a perfect blend of flavors, with the rich taste of duck breast perfectly complemented by the earthy morels and the sweet Marsala sauce. It's a great choice for a special occasion or a fancy dinner at home.
 
 ### Ingredients

@@ -1,16 +1,16 @@
 ---
-title: Sourdough Bread Recipe
-original_title: Best Sourdough Bread Recipe (with Video!) – A Couple Cooks
-category: Sides
-description: A detailed guide to making your own sourdough bread at home, with step-by-step instructions for each day of the process.
-image: sourdoughbread.jpg
-size: 1 loaf
-time: 3 days
 author: A Couple Cooks
+category: Sides
+description: A detailed guide to making your own sourdough bread at home, with step-by-step
+  instructions for each day of the process.
+favorite: "\u2713"
+image: sourdough_bread_recipe.jpg
+original_title: "Best Sourdough Bread Recipe (with Video!) \u2013 A Couple Cooks"
+size: 1 loaf
 source: https://www.acouplecooks.com/sourdough-bread-recipe/
-favorite: ✓
+time: 3 days
+title: Sourdough Bread Recipe
 ---
-
 ### Ingredients
 
 * `500g` type 85 malted flour

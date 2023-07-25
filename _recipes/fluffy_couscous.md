@@ -1,16 +1,15 @@
 ---
-title: Fluffy Couscous
-original_title: Fluffy Couscous
+author: Michael Natkin
 category: Sides
 description: A simple and quick recipe to make fluffy couscous every time.
-image: da0adb63-a547-4cd7-84e0-a0ce7985196b.jpg
+image: fluffy_couscous.jpg
+original_title: Fluffy Couscous
 size: 6 servings
-time: 20 minutes
-author: Michael Natkin
 source: http://herbivoracious.com/2007/11/recipe-how-to-m.html
-vegan: ✓
+time: 20 minutes
+title: Fluffy Couscous
+vegan: "\u2713"
 ---
-
 This recipe for fluffy couscous is a game changer. Instead of the usual method of cooking couscous in a pot, this recipe instructs you to steam it in a casserole. The result is a much fluffier and tastier couscous that is ready in just 20 minutes. This couscous is perfect as a side dish or as a base for a couscous salad.
 
 ### Ingredients

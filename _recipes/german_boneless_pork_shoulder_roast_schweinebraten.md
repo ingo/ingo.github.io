@@ -1,15 +1,16 @@
 ---
-title: German Boneless Pork Shoulder Roast (Schweinebraten)
-original_title: Schweinebraten
-category: Entrees 
-description: Boneless pork shoulder roast as they do it in Bavaria. Known as Schweinebraten this traditional dish couldn't be easier to make or taste more fulfilling. Plus - how to make pork gravy.
-image: Boneless_Pork_Shoulder_Roast_Schweinebraten_Recipe_Card_Image_SQ.jpg
-size: 6 servings
-time: 2 hours 15 minutes
 author: CraftBeering
+category: Entrees
+description: Boneless pork shoulder roast as they do it in Bavaria. Known as Schweinebraten
+  this traditional dish couldn't be easier to make or taste more fulfilling. Plus
+  - how to make pork gravy.
+image: german_boneless_pork_shoulder_roast_schweinebraten.jpg
+original_title: Schweinebraten
+size: 6 servings
 source: https://www.craftbeering.com/boneless-pork-shoulder-roast-schweinebraten/
+time: 2 hours 15 minutes
+title: German Boneless Pork Shoulder Roast (Schweinebraten)
 ---
-
 ### Ingredients
 
 * `4 lbs` boneless pork shoulder (if you find it with the skin on you will have great crackling capping the roast)

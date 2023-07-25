@@ -1,12 +1,13 @@
 ---
-title: Banana Rum Gelato
 category: Desserts
-description: Rich and chewy, this gelato is incredibly easy to make. Use really ripe bananas and a good-quality dark rum for the best results. Once the gelato has frozen, place in an airtight container and freeze for an hour to firm it up a bit.
-image: img_1832.jpg
+description: Rich and chewy, this gelato is incredibly easy to make. Use really ripe
+  bananas and a good-quality dark rum for the best results. Once the gelato has frozen,
+  place in an airtight container and freeze for an hour to firm it up a bit.
+image: banana_rum_gelato.jpg
 size: 1 pint
 time: 2 hours (including freezing time)
+title: Banana Rum Gelato
 ---
-
 ### Ingredients
 
 * `1 lb` ripe bananas (the riper the better, but not yet brown)

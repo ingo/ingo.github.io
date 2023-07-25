@@ -1,17 +1,18 @@
 ---
-title: Asparagus and Morel Quiche
+author: Sunset
 category: Entrees
-description: Umami-delicious morels pop up in Western woods and orchards, and make plump, savory nuggets in this quiche. For the neatest slices, make quiche a day ahead; let it cool, loosen it from pan edges, and chill. Cut into wedges, then reheat.
-image: asparagus_and_morel_quiche.webp
+description: Umami-delicious morels pop up in Western woods and orchards, and make
+  plump, savory nuggets in this quiche. For the neatest slices, make quiche a day
+  ahead; let it cool, loosen it from pan edges, and chill. Cut into wedges, then reheat.
+image: asparagus_and_morel_quiche.jpg
 image_attribution: Annabelle Breakey
 image_source: http://www.sunset.com/
 size: Serves 6 to 8
-time: 1 Hour 45 Mins  
-author: Sunset
 source: http://www.sunset.com/
-umami: ✓
+time: 1 Hour 45 Mins
+title: Asparagus and Morel Quiche
+umami: "\u2713"
 ---
-
 ### Ingredients
 
 * `1 1/2 cups` whole-wheat pastry flour or all-purpose flour

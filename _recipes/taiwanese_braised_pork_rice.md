@@ -1,14 +1,14 @@
 ---
-title: Taiwanese Braised Pork Rice
-category: Entrees 
-description: A delicious, restaurant-standard dish of braised pork belly served over rice. This recipe is a crowd favorite and always requested.
-image: taiwanesebraisedporkrice.jpg
+author: Anonymous
+category: Entrees
+description: A delicious, restaurant-standard dish of braised pork belly served over
+  rice. This recipe is a crowd favorite and always requested.
+favorite: "\u2713"
+image: taiwanese_braised_pork_rice.jpg
 size: 4-6 servings
 time: 3-4 hours
-author: Anonymous
-favorite: ✓
+title: Taiwanese Braised Pork Rice
 ---
-
 ### Ingredients
 
 * `12-15` medium sized shallots, sliced

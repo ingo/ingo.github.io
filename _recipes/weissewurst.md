@@ -1,13 +1,13 @@
 ---
-title: Weißewurst
+author: Ingo Muschenetz
 category: Entrees
-description: Traditional Munich sausages, supposedly eaten "very fresh", that is to be eaten the morning they are prepared.
-image: weißewurst.jpg
+description: Traditional Munich sausages, supposedly eaten "very fresh", that is to
+  be eaten the morning they are prepared.
+image: weissewurst.jpg
 size: 10-15 servings
 time: 1 hour
-author: Ingo Muschenetz
+title: "Wei\xDFewurst"
 ---
-
 ### Ingredients
 
 * `5 kg` pork belly

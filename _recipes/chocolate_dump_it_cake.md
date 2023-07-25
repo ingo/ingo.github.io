@@ -1,17 +1,18 @@
 ---
-title: Chocolate Dump-It Cake
-original_title: Chocolate Dump-It Cake
-category: Desserts
-description: A dense but moist chocolate birthday cake, mixed all in a pot over medium heat, then dumped into a cake pan to bake. The icing is a swirl of melted Nestlé's semisweet-chocolate chips and sour cream.
-image: CHOCdumpitCAKE-articleLarge.jpg
-size: 1 cake
-time: 1 hour 30 minutes
 author: Judith Hesser
-source: http://www.nytimes.com/2002/05/12/magazine/food-diary-personal-best.html
+category: Desserts
+description: "A dense but moist chocolate birthday cake, mixed all in a pot over medium\
+  \ heat, then dumped into a cake pan to bake. The icing is a swirl of melted Nestl\xE9\
+  's semisweet-chocolate chips and sour cream."
+favorite: "\u2713"
+image: chocolate_dump_it_cake.jpg
 image_attribution: Danny Ghitis for The New York Times
-favorite: ✓
+original_title: Chocolate Dump-It Cake
+size: 1 cake
+source: http://www.nytimes.com/2002/05/12/magazine/food-diary-personal-best.html
+time: 1 hour 30 minutes
+title: Chocolate Dump-It Cake
 ---
-
 This recipe was taught to the author by her mother and has been a family favorite ever since. The cake is dense but moist, and the icing is a delightful mix of melted Nestlé's semisweet-chocolate chips and sour cream. It's a simple recipe that delivers a delicious result.
 
 ### Ingredients

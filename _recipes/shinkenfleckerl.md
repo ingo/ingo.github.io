@@ -1,11 +1,11 @@
 ---
-title: Shinkenfleckerl
 category: Entrees
 description: A favorite lunch-time dish of Tante Traudl.
+image: shinkenfleckerl.jpg
 size: 2 cups
 time: 2 hours
+title: Shinkenfleckerl
 ---
-
 ### Ingredients
 
 * Fleckerl Noodles

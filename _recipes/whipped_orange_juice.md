@@ -1,13 +1,15 @@
 ---
-title: Whipped Orange Juice
 category: Beverages
-description: The world's simplest recipe, but a favorite one from Ingo's childhood. His mom would make this when friends came over or for special breakfasts. The short time in the blender enhances the frothy head and makes especially orange juice concentrate taste just a bit closer to fresh.
-image: img_0602.jpg
+description: The world's simplest recipe, but a favorite one from Ingo's childhood.
+  His mom would make this when friends came over or for special breakfasts. The short
+  time in the blender enhances the frothy head and makes especially orange juice concentrate
+  taste just a bit closer to fresh.
+favorite: "\u2713"
+image: whipped_orange_juice.jpg
 size: 4 servings
 time: 5 minutes
-favorite: ✓
+title: Whipped Orange Juice
 ---
-
 ### Ingredients
 
 * `1 can` Orange juice concentrate

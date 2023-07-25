@@ -1,12 +1,12 @@
 ---
-title: Braised Rosemary Lamb Shoulder Chops
 author: Nancy Lopez-McHugh
 category: Entrees
+image: braised_rosemary_lamb_shoulder_chops.jpg
 size: Serves variable
+source: null
 time: 3-4 hours
-source: 
+title: Braised Rosemary Lamb Shoulder Chops
 ---
-
 ### Ingredients
 
 * `4` lamb shoulder chops

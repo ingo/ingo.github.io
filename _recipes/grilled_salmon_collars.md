@@ -1,14 +1,16 @@
 ---
-title: Grilled Salmon Collars
-category: Entrees
-description: Don’t fuss with the salmon too much once it’s on the grill. You can also use the marinade for any cut of salmon. This recipe is from AL's Place, which we named our No. 1 new restaurant in America in 2015, in San Francisco, CA.
-image: placeholder.jpg
-size: 4 servings
-time: 2 hours 30 minutes
 author: AL's Place
+category: Entrees
+description: "Don\u2019t fuss with the salmon too much once it\u2019s on the grill.\
+  \ You can also use the marinade for any cut of salmon. This recipe is from AL's\
+  \ Place, which we named our No. 1 new restaurant in America in 2015, in San Francisco,\
+  \ CA."
+image: grilled_salmon_collars.jpg
+size: 4 servings
 source: http://www.bonappetit.com/city-guides/san-francisco/venue/als-place
+time: 2 hours 30 minutes
+title: Grilled Salmon Collars
 ---
-
 ### Ingredients
 
 * `1` 2-inch piece ginger, peeled, thinly sliced

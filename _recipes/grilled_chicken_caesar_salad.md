@@ -1,16 +1,18 @@
 ---
-title: Grilled Chicken Caesar Salad
+author: Florence Fabricant
 category: Entrees
-description: A variation on a classic Caesar salad with grilled chicken that makes an excellent first-course or a full-on meal. The lettuce is slightly charred and crisp, and the insides become slightly tender, but you still get the satisfying crunch everyone loves about romaine.
-image: 17PAIR2-articleLarge.jpg
+description: A variation on a classic Caesar salad with grilled chicken that makes
+  an excellent first-course or a full-on meal. The lettuce is slightly charred and
+  crisp, and the insides become slightly tender, but you still get the satisfying
+  crunch everyone loves about romaine.
+image: grilled_chicken_caesar_salad.jpg
 image_attribution: Melina Hammer
 image_source: The New York Times
 size: 6 servings
-time: 40 minutes, plus 2 hours marinating
-author: Florence Fabricant
 source: https://cooking.nytimes.com/ourcooks/florence-fabricant/my-recipes?action=click&module=byline&region=recipe%20page
+time: 40 minutes, plus 2 hours marinating
+title: Grilled Chicken Caesar Salad
 ---
-
 This recipe is a variation on a classic Caesar salad with grilled chicken. Depending on your appetite, it makes an excellent first-course or a full-on meal. Hitting the lettuce with a little fire is an unexpectedly brilliant trick; the green leaves char and crisp and the insides become slightly tender, but you still get the satisfying crunch everyone loves about romaine.
 
 ### Ingredients

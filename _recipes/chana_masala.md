@@ -1,17 +1,18 @@
 ---
-title: Chana Masala
-original_title: Chana Masala
-category: Entrees
-description: A beautifully balanced Indian dish with a wonderful blend of spices. The color due to the tea, paprika and turmeric is beautiful as well. The fresh coriander on top at the end is a nice touch.
-image: placeholder.jpg
-size: 4 servings
-time: 2 hours 30 minutes
 author: Atul Kochhar
+category: Entrees
+description: A beautifully balanced Indian dish with a wonderful blend of spices.
+  The color due to the tea, paprika and turmeric is beautiful as well. The fresh coriander
+  on top at the end is a nice touch.
+favorite: "\u2713"
+image: chana_masala.jpg
+original_title: Chana Masala
+size: 4 servings
 source: http://www.timesonline.co.uk/tol/life_and_style/food_and_drink/recipes/recipeexchange/article6294659.ece
-spicy: ✓
-favorite: ✓
+spicy: "\u2713"
+time: 2 hours 30 minutes
+title: Chana Masala
 ---
-
 This recipe is a wonderful blend of Indian spices, creating a beautifully balanced dish. The color due to the tea, paprika and turmeric is beautiful as well. The fresh coriander on top at the end is a nice touch.
 
 ### Ingredients

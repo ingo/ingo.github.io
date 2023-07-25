@@ -1,15 +1,16 @@
 ---
-title: Avocado Grapefruit and Fennel Salad
-category: Sides
-description: The Sicilian-inspired salad’s flavor combination of fennel’s sweet licorice flavor, juicy tart grapefruit and smooth avocado topped with salty Parmesan is a welcome addition to any meal any time of the year.
-image: avocado_grapefruit_and_fennel_saladfoodiecrush_com.jpg
-size: 2-3 servings
-time: 30 minutes
 author: FoodieCrush
+category: Sides
+description: "The Sicilian-inspired salad\u2019s flavor combination of fennel\u2019\
+  s sweet licorice flavor, juicy tart grapefruit and smooth avocado topped with salty\
+  \ Parmesan is a welcome addition to any meal any time of the year."
+image: avocado_grapefruit_and_fennel_salad.jpg
+size: 2-3 servings
 source: https://www.foodiecrush.com/grapefruit-avocado-fennel-salad/
-veggie: ✓
+time: 30 minutes
+title: Avocado Grapefruit and Fennel Salad
+veggie: "\u2713"
 ---
-
 ### Ingredients
 
 * `1` fennel bulb thinly sliced

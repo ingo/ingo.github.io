@@ -1,14 +1,15 @@
 ---
-title: Chicken Piccata
-category: Entrees
-description: A classic preparation for chicken, this lighter version saves you calories by adding the zip of white wine with a tiny bit of vinegar to finish, and getting the most of 1 tablespoon of butter by swirling it into the sauce at the end.
-image: FN_Chicken-Piccata-008_s4x3-jpg-rend-sni12col-landscape.jpeg
-size: 4 servings
-time: 30 minutes
 author: Food Network Kitchens
+category: Entrees
+description: A classic preparation for chicken, this lighter version saves you calories
+  by adding the zip of white wine with a tiny bit of vinegar to finish, and getting
+  the most of 1 tablespoon of butter by swirling it into the sauce at the end.
+image: chicken_piccata.jpg
+size: 4 servings
 source: http://www.foodnetwork.com/recipes/ree-drummond/chicken-piccata-with-buttery-lemon-noodles.html
+time: 30 minutes
+title: Chicken Piccata
 ---
-
 Piccata is a classic preparation for chicken, but can be heavy on your diet as it's a butter and wine-based sauce. This lighter version saves you calories by adding the zip of white wine with a tiny bit of vinegar to finish (as opposed to a cup or more simmered down), and getting the most of 1 tablespoon of butter by swirling it into the sauce at the end.
 
 ### Ingredients

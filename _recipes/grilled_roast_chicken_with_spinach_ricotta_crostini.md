@@ -1,15 +1,17 @@
 ---
-title: Grilled Roast Chicken With Spinach-Ricotta Crostini
-category: Entrees
-description: This whole chicken cooked on the grill is incredibly succulent with a brittle-crisp, burnished skin, combined with the deep smoky flavor of the grill. The chicken drippings are used as a cooking medium for dill-flecked, garlicky spinach which is then heaped upon ricotta-smeared crostini.
-image: placeholder.jpg
-size: 4 servings
-time: 1 1/2 hours, plus at least 4 hours' marinating
 author: Melissa Clark
+category: Entrees
+description: This whole chicken cooked on the grill is incredibly succulent with a
+  brittle-crisp, burnished skin, combined with the deep smoky flavor of the grill.
+  The chicken drippings are used as a cooking medium for dill-flecked, garlicky spinach
+  which is then heaped upon ricotta-smeared crostini.
+image: grilled_roast_chicken_with_spinach_ricotta_crostini.jpg
+size: 4 servings
 source: https://cooking.nytimes.com/ourcooks/melissa-clark/my-recipes?action=click&module=byline&region=recipe%20page
-spicy: ✓
+spicy: "\u2713"
+time: 1 1/2 hours, plus at least 4 hours' marinating
+title: Grilled Roast Chicken With Spinach-Ricotta Crostini
 ---
-
 ### Ingredients
 
 * `2 tsp` kosher salt, more as needed

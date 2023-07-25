@@ -1,22 +1,22 @@
 ---
-title: Classic New York Cheesecake
-original_title: Classic New York Cheesecake
-category: Desserts
-description: A creamy, gorgeous, crack-free New York-style cheesecake that is totally doable, even for beginners.
-image: cheesecake-1.jpg
-size: 8-10 servings
-time: 2 hours 25 minutes, plus at least 8 hours to cool
 author: Jennifer Segal
-source: https://www.onceuponachef.com/recipes/new-york-style-cheesecake.html
-favorite: ✓
+category: Desserts
+description: A creamy, gorgeous, crack-free New York-style cheesecake that is totally
+  doable, even for beginners.
 difficulty: medium
+favorite: "\u2713"
+image: classic_new_york_cheesecake.jpg
 nutrition:
-  - 659 calories
-  - 59 g carbohydrates
-  - 43 g fat
-  - 11 g protein
+- 659 calories
+- 59 g carbohydrates
+- 43 g fat
+- 11 g protein
+original_title: Classic New York Cheesecake
+size: 8-10 servings
+source: https://www.onceuponachef.com/recipes/new-york-style-cheesecake.html
+time: 2 hours 25 minutes, plus at least 8 hours to cool
+title: Classic New York Cheesecake
 ---
-
 Cheesecake is my husband, Michael’s, favorite dessert. In fact, the first time I met my future mother-in-law over 20 years ago, she told me the way to her son’s heart was through his stomach – and whenever she wanted him to do anything as a child, she bribed him with a slice of NY cheesecake. A traditional lady she may be, but I got the message loud and clear: learn to make a good cheesecake!
 
 Though the ingredients are simple, cheesecake can be a little intimidating to make. Because cheesecake is a custard, it needs to be baked gently in a water bath, and you have to worry about the surface of the cake cracking, as well as over or undercooking. However, with the right recipe and a few pointers, a creamy, crack-free, perfect NY-style cheesecake is totally doable, even for beginners. This is the only cheesecake recipe you’ll ever need.

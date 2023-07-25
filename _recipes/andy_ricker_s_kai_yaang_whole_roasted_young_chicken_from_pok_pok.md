@@ -1,15 +1,15 @@
 ---
-title: Andy Ricker's Kai Yaang (Whole Roasted Young Chicken), From 'Pok Pok'
-original_title: Kai Yaang
-category: Entrees 
-description: A delicious recipe for whole roasted young chicken, inspired by the flavors of Thailand.
-image: andy_ricker's_kai_yaang_(whole_roasted_young_chicken)_from_'pok_pok'.webp
-size: 2 servings
-time: 4 hours
 author: Andy Ricker
+category: Entrees
+description: A delicious recipe for whole roasted young chicken, inspired by the flavors
+  of Thailand.
+image: andy_ricker_s_kai_yaang_whole_roasted_young_chicken_from_pok_pok.jpg
+original_title: Kai Yaang
+size: 2 servings
 source: https://www.seriouseats.com/andy-ricker-whole-roasted-chicken-game-hen-recipe-from-pok-pok-cookbook
+time: 4 hours
+title: Andy Ricker's Kai Yaang (Whole Roasted Young Chicken), From 'Pok Pok'
 ---
-
 ### Ingredients
 
 * `2` Cornish game hens or poussins (1 1/4 to 1 1/2 pounds each)

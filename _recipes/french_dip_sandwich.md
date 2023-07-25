@@ -1,11 +1,11 @@
 ---
-title: French Dip Sandwich
+author: Ingo
 category: Entrees
 description: Ingo's favorite version of a French Dip sandwich
+image: french_dip_sandwich.jpg
 size: 1 serving
-author: Ingo
+title: French Dip Sandwich
 ---
-
 ### Ingredients
 
 * French or Sourdough Bread

@@ -1,16 +1,17 @@
 ---
-title: German Spent Grain Bread Biertreberbrot
-original_title: Biertreberbrot
-category: Breads
-description: A nutritious bread made from brewer's spent grain, leftovers from brewing, known as der biertreber. The bread made from them is known as biertreberbrot. It has increased protein, fiber, and taste.
-image: German-Spent-Grain-Bread-GettyImages-758555949-59d597de054ad9001130e86f.webp
-size: 1 loaf (6 servings)
-time: 65 mins
 author: Jennifer McGavin
-source: https://www.thespruceeats.com/spent-grain-bread-recipe-1447221
+category: Breads
+description: A nutritious bread made from brewer's spent grain, leftovers from brewing,
+  known as der biertreber. The bread made from them is known as biertreberbrot. It
+  has increased protein, fiber, and taste.
+image: german_spent_grain_bread_biertreberbrot.jpg
 image_attribution: Klaus Radetzki / EyeEm / Getty Images
+original_title: Biertreberbrot
+size: 1 loaf (6 servings)
+source: https://www.thespruceeats.com/spent-grain-bread-recipe-1447221
+time: 65 mins
+title: German Spent Grain Bread Biertreberbrot
 ---
-
 This German recipe for spent grain bread is made with the brewer's spent grain, leftovers from brewing, known as _der biertreber._ The bread made from them is known as _biertreberbrot._
 
 The spent grain is usually added into a regular dough, along with optional nuts or raisins, which produces a bread with increased protein, fiber, and taste. 

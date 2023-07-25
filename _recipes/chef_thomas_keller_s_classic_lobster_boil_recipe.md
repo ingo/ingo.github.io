@@ -1,17 +1,17 @@
 ---
-title: Chef Thomas Keller’s Classic Lobster Boil Recipe
-category: Entrees
-description: A classic lobster boil recipe with a perfect blend of flavors and a feast spread out on butcher paper.
-image: placeholder.jpg
-size: Varies
-time: 1 hour
 author: Chef Thomas Keller
-source: https://www.masterclass.com/
-spicy: ✓
-favorite: ✓
+category: Entrees
+description: A classic lobster boil recipe with a perfect blend of flavors and a feast
+  spread out on butcher paper.
 difficulty: medium
+favorite: "\u2713"
+image: chef_thomas_keller_s_classic_lobster_boil_recipe.jpg
+size: Varies
+source: https://www.masterclass.com/
+spicy: "\u2713"
+time: 1 hour
+title: "Chef Thomas Keller\u2019s Classic Lobster Boil Recipe"
 ---
-
 Chef Thomas Keller's Classic Lobster Boil recipe is a feast for seafood lovers. The key to this recipe is timing, staggering the addition of each ingredient so they are ready at the same time. Once you’re ready, spread your feast out on butcher paper and dig in.
 
 ### Ingredients

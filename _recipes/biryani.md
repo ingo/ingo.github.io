@@ -1,16 +1,18 @@
 ---
-title: Biryani
-original_title: Biryani
-category: Entrees 
-description: Biryani is a celebration of all that is great about Indian food – the heady aromas, the vibrant colours, the fluffy rice and those addictive curry flavours. Make this Chicken Biryani with your protein of choice – or try a vegetable biryani!
-image: Chicken_Biryani_1_1_1.jpg
-size: 8 servings
-time: 1 hour 20 minutes
 author: Nagi
+category: Entrees
+description: "Biryani is a celebration of all that is great about Indian food \u2013\
+  \ the heady aromas, the vibrant colours, the fluffy rice and those addictive curry\
+  \ flavours. Make this Chicken Biryani with your protein of choice \u2013 or try\
+  \ a vegetable biryani!"
+favorite: "\u2713"
+image: biryani.jpg
+original_title: Biryani
+size: 8 servings
 source: https://www.recipetineats.com/biryani/
-favorite: ✓
+time: 1 hour 20 minutes
+title: Biryani
 ---
-
 ### Ingredients
 
 * `750g` chicken thighs, skin on, bone in, halved along bone

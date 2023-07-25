@@ -1,14 +1,13 @@
 ---
-title: Ciabatta
+author: La Brea Bakery
 category: Entrees
 description: A classic Italian bread with a light, airy texture and a crisp crust.
-image: IMG_3687.jpg
+image: ciabatta.jpg
 size: 1 loaf
-time: 3-4 hours
-author: La Brea Bakery
 source: https://www.labreabakery.com/
+time: 3-4 hours
+title: Ciabatta
 ---
-
 The Ciabatta is a classic Italian bread that is known for its light, airy texture and a crisp crust. This recipe is from the renowned La Brea Bakery.
 
 ### Ingredients

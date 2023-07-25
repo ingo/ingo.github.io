@@ -1,14 +1,13 @@
 ---
-title: German Soft Pretzel Sticks
+author: Grant Achatz
 category: Sides
 description: Delicious and authentic German soft pretzel sticks, perfect for any occasion.
-image: placeholder.jpg
+image: german_soft_pretzel_sticks.jpg
 size: 24 servings
-time: 2 hours
-author: Grant Achatz
 source: https://www.foodandwine.com/recipes/german-soft-pretzel-sticks
+time: 2 hours
+title: German Soft Pretzel Sticks
 ---
-
 This recipe for German Soft Pretzel Sticks is a wonderful treat brought to you by Grant Achatz. These pretzel sticks are authentic and delicious, perfect for any occasion. They are slightly sticky and silky, and are best served warm or at room temperature with mustard.
 
 ### Ingredients

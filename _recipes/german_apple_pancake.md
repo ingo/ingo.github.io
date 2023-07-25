@@ -1,16 +1,16 @@
 ---
-title: German Apple Pancake
-original_title: Apfel Pfannekuchen
-category: Breakfasts
-description: A tart, apple-ly cinnamon flavor in a soft, pudding-light bread of a pancake that you won't be able to stop eating.
-image: ea6eac30-66a9-4a0d-a2eb-99c7124ee2d0.jpg
-size: 4 servings
-time: 30 minutes
 author: Carolyn
+category: Breakfasts
+description: A tart, apple-ly cinnamon flavor in a soft, pudding-light bread of a
+  pancake that you won't be able to stop eating.
+image: german_apple_pancake.jpg
+original_title: Apfel Pfannekuchen
+size: 4 servings
 source: http://theperfectpancake.blogspot.com/2006/11/german-apple-pancake.html
-sweet: ✓
+sweet: "\u2713"
+time: 30 minutes
+title: German Apple Pancake
 ---
-
 This delightful German Apple Pancake recipe comes from Carolyn, a passionate pancake maker who runs a website dedicated to perfect pancakes. On a quiet Wednesday morning, she decided to make use of some leftover Granny Smith apples and ended up creating this heavenly dish. She recommends using Braeburn apples for a sweeter pancake, but feel free to experiment with your favorite apple varieties.
 
 ### Ingredients

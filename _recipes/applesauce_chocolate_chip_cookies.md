@@ -1,15 +1,15 @@
 ---
-title: Applesauce Chocolate Chip Cookies
+author: "Ethan Adeland\u2019s Grandmother"
 category: Desserts
-description: These cookies are soft, cakey and have just the right amount of spice to them. They are divine little morsels and definitely are a keeper in my book.
-image: applesaucechocolatechipcookies.jpg
+description: These cookies are soft, cakey and have just the right amount of spice
+  to them. They are divine little morsels and definitely are a keeper in my book.
+favorite: "\u2713"
+image: applesauce_chocolate_chip_cookies.jpg
 size: Varies
-time: 1 hour
-author: Ethan Adeland’s Grandmother
 source: http://tastesbetterwithfriends.wordpress.com/
-favorite: ✓
+time: 1 hour
+title: Applesauce Chocolate Chip Cookies
 ---
-
 ### Ingredients
 
 * `1/2 c` butter, room temperature

@@ -1,17 +1,22 @@
 ---
-title: Fried Chicken Sandwich with Slaw and Spicy Mayo
-original_title: Fried Chicken Sandwich with Slaw and Spicy Mayo
-category: Entrees
-description: If your idea of coleslaw is the pleated paper cup of shredded stuff alongside BLTs at the diner, it's time for a new rule. Slaw doesn't go with the sandwich, it goes on the sandwich. Slaws deliver on several fronts. They're crunchy, and sandwiches need crunch. Done right, slaws give a bright acidic kick to counter the fatty goodness of meats and mayo. And they provide a temperature contrast to warm sandwiches, like this fried-chicken masterpiece from Son of a Gun in Los Angeles. We can't think of a sandwich that doesn't deserve slaw, so pile it on.
-image: 740a59d9-c674-4e0d-930a-3b19fb0ee26a.png
-size: 4 servings
-time: 1 hour
 author: Son of a Gun, Los Angeles, CA
+category: Entrees
+description: If your idea of coleslaw is the pleated paper cup of shredded stuff alongside
+  BLTs at the diner, it's time for a new rule. Slaw doesn't go with the sandwich,
+  it goes on the sandwich. Slaws deliver on several fronts. They're crunchy, and sandwiches
+  need crunch. Done right, slaws give a bright acidic kick to counter the fatty goodness
+  of meats and mayo. And they provide a temperature contrast to warm sandwiches, like
+  this fried-chicken masterpiece from Son of a Gun in Los Angeles. We can't think
+  of a sandwich that doesn't deserve slaw, so pile it on.
+favorite: "\u2713"
+image: fried_chicken_sandwich_with_slaw_and_spicy_mayo.jpg
+original_title: Fried Chicken Sandwich with Slaw and Spicy Mayo
+size: 4 servings
 source: https://www.epicurious.com/recipes/food/views/fried-chicken-sandwich-with-slaw-and-spicy-mayo-51155290?intcid=inline_amp
-spicy: ✓
-favorite: ✓
+spicy: "\u2713"
+time: 1 hour
+title: Fried Chicken Sandwich with Slaw and Spicy Mayo
 ---
-
 ### Ingredients
 
 **Spicy mayo and slaw:**

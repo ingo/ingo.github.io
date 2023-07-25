@@ -1,10 +1,11 @@
 ---
-title: Rice Pilaf With Pistachios And Raisins
-category: Sides
-description: This dish we've made multiple times. Sometimes it has turned out wonderful, other times, just good. We are still working on tuning the spice amounts.
 author: Ingo Muschenetz
+category: Sides
+description: This dish we've made multiple times. Sometimes it has turned out wonderful,
+  other times, just good. We are still working on tuning the spice amounts.
+image: rice_pilaf_with_pistachios_and_raisins.jpg
+title: Rice Pilaf With Pistachios And Raisins
 ---
-
 ### Ingredients
 
 * `1/4 cup` finely chopped onion

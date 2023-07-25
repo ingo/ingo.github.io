@@ -1,16 +1,16 @@
 ---
-title: Cucumber and Chicken Marinated in Chili Oil
-original_title: Cucumber and Chicken Marinated in Chili Oil
-category: Entrees
-description: Easy steamed chicken mixed with cucumber in a spicy oil (La-yu) dressing, perfect way to start a meal.
-image: 9aa0ec45-e61a-4d92-854f-ae17c8d4c0af.png
-size: 4 servings
-time: 15 mins
 author: Nami
+category: Entrees
+description: Easy steamed chicken mixed with cucumber in a spicy oil (La-yu) dressing,
+  perfect way to start a meal.
+image: cucumber_and_chicken_marinated_in_chili_oil.jpg
+original_title: Cucumber and Chicken Marinated in Chili Oil
+size: 4 servings
 source: https://www.justonecookbook.com/cucumber-and-chicken-marinated-in-chili-oil/
-spicy: ✓
+spicy: "\u2713"
+time: 15 mins
+title: Cucumber and Chicken Marinated in Chili Oil
 ---
-
 This Japanese dish is a delightful blend of cucumber and chicken marinated in chili oil. It's a simple, yet flavorful dish that can be served as a main course or a side dish. The recipe was adapted from Hashimoto's Tohoku Recipes and has been further refined by Nami from Just One Cookbook.
 
 ### Ingredients

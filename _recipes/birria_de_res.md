@@ -1,15 +1,17 @@
 ---
-title: Birria de Res
-category: Entrees 
-description: Birria, the regional stew from Mexico saw a meteoric rise in popularity recently, as a soupy style made with beef, popularized by birria vendors in Tijuana, took off in the United States. The best way to serve birria is immediately and simply, in a bowl, with some warm corn tortillas.
-image: merlin_183102807_b67d22d9_5849_47d3_9360_a5927e956757_articleLarge.jpg
+author: Tejal Rao
+category: Entrees
+description: Birria, the regional stew from Mexico saw a meteoric rise in popularity
+  recently, as a soupy style made with beef, popularized by birria vendors in Tijuana,
+  took off in the United States. The best way to serve birria is immediately and simply,
+  in a bowl, with some warm corn tortillas.
+image: birria_de_res.jpg
 image_attribution: David Malosh for The New York Times
 size: 8-10 servings
-time: 2 3/4 hours
-author: Tejal Rao
 source: https://cooking.nytimes.com/recipes/1021858-birria-de-resundefined
+time: 2 3/4 hours
+title: Birria de Res
 ---
-
 ### Ingredients
 
 * `2` poblano chiles

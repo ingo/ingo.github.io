@@ -1,12 +1,11 @@
 ---
-title: Chicken with Paprika Sauce
 category: Entrees
 description: A chicken with paprika sauce, often served with Hefeknoedel.
-image: singlepic4207.jpg
+image: chicken_with_paprika_sauce.jpg
 size: 4-6 servings
 time: 1 hour
+title: Chicken with Paprika Sauce
 ---
-
 ### Ingredients
 
 * `1` 4-5 pound chicken

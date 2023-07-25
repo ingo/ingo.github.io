@@ -1,16 +1,17 @@
 ---
-title: Chocolate Cloud Cake
-original_title: 
-category: Desserts
-description: A great, flourless chocolate cake that's not too heavy. Don't skip on the whipped cream topping--that definitely adds a necessary piece to the overall mixture.
-image: img_1732.jpg
-size: 8 servings
-time: 
 author: Richard Sax
-source: 
-favorite: ✓
+category: Desserts
+description: A great, flourless chocolate cake that's not too heavy. Don't skip on
+  the whipped cream topping--that definitely adds a necessary piece to the overall
+  mixture.
+favorite: "\u2713"
+image: chocolate_cloud_cake.jpg
+original_title: null
+size: 8 servings
+source: null
+time: null
+title: Chocolate Cloud Cake
 ---
-
 ### Ingredients
 
 * `8 ounces` very good bittersweet or unsweetened chocolate, chopped

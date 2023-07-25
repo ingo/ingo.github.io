@@ -1,16 +1,17 @@
 ---
-title: Chicken-Liver Pâté
-category: Entrees
-description: A delicious chicken pâté that can serve as an appetizer at a dinner party, or simply as a light supper or a sandwich spread. It takes less than a half-hour to prepare, and it will firm up in the refrigerator in a few hours.
-image: mag-26Eat-t_CA0-articleLarge.jpg
-size: 6 to 8 servings
-time: 20 minutes, plus chilling
 author: Sam Sifton
-source: https://cooking.nytimes.com/recipes/1015975-chicken-liver-pate
+category: Entrees
+description: "A delicious chicken p\xE2t\xE9 that can serve as an appetizer at a dinner\
+  \ party, or simply as a light supper or a sandwich spread. It takes less than a\
+  \ half-hour to prepare, and it will firm up in the refrigerator in a few hours."
+image: chicken_liver_pate.jpg
 image_attribution: Christopher Testani
 image_source: The New York Times
+size: 6 to 8 servings
+source: https://cooking.nytimes.com/recipes/1015975-chicken-liver-pate
+time: 20 minutes, plus chilling
+title: "Chicken-Liver P\xE2t\xE9"
 ---
-
 This chicken pâté recipe is a favorite of Sam Sifton, a food editor at The New York Times. It's a versatile dish that can be served in various ways, and it's quick and easy to prepare.
 
 ### Ingredients

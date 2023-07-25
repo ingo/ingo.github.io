@@ -1,13 +1,13 @@
 ---
-title: Gnocchi
+author: Ingo Muschenetz
 category: Entrees
-description: Delicious homemade gnocchi made from potatoes, eggs, and flour. A classic Italian dish that's sure to impress.
-image: placeholder.jpg
+description: Delicious homemade gnocchi made from potatoes, eggs, and flour. A classic
+  Italian dish that's sure to impress.
+image: gnocchi.jpg
 size: 4 servings
 time: 2 hours
-author: Ingo Muschenetz
+title: Gnocchi
 ---
-
 This classic Italian dish is a labor of love, but the result is worth it. The gnocchi are soft, pillowy, and perfect with any sauce. 
 
 ### Ingredients

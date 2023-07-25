@@ -1,14 +1,13 @@
 ---
-title: Benedictine Sandwiches
+author: Catherine McCord
 category: Entrees
 description: A delightful sandwich filled with cucumber, onion, and cream cheese.
-image: benedictine_sandwiches_recipeepicurious.jpg
+image: benedictine_sandwiches.jpg
 size: Varies
-time: 30 minutes
-author: Catherine McCord
 source: https://www.epicurious.com/contributors/catherine-mccord
+time: 30 minutes
+title: Benedictine Sandwiches
 ---
-
 ### Ingredients
 
 * `1` medium cucumber, peeled (use english or seedless cucumbers if you can find them)

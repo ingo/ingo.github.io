@@ -1,15 +1,16 @@
 ---
-title: Bryant Terry's Amazing Green Rice
-category: Sides
-description: An intensely green and fragrant pot of fluffy grains made from kale, spinach, and a creamy stock cooked with onions, garlic, green pepper, and long-grain rice.
-image: GREEN_RICE_RECIPE_DSF5701.jpg
-size: Varies
-time: Varies
 author: Bryant Terry
+category: Sides
+description: An intensely green and fragrant pot of fluffy grains made from kale,
+  spinach, and a creamy stock cooked with onions, garlic, green pepper, and long-grain
+  rice.
+image: bryant_terry_s_amazing_green_rice.jpg
+size: Varies
 source: https://www.bryant-terry.com/
-vegan: ✓
+time: Varies
+title: Bryant Terry's Amazing Green Rice
+vegan: "\u2713"
 ---
-
 ### Ingredients
 
 * Green juice made from kale and spinach

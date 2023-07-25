@@ -1,16 +1,17 @@
 ---
-title: Dwaeji Galbi/Kalbi (Korean-Style Pork Ribs)
-original_title: 돼지갈비
-category: Entrees
-description: Tender baby back ribs marinated in two different Korean sauces – one sweet and savory, the other spicy and slightly sweet – and then grilled to perfection.
-image: pork-ribs-recipe.jpg
-size: 2 whole slabs (5-7 pounds) of baby back ribs
-time: 8 hours (including marination time)
 author: Korean Bapsang
+category: Entrees
+description: "Tender baby back ribs marinated in two different Korean sauces \u2013\
+  \ one sweet and savory, the other spicy and slightly sweet \u2013 and then grilled\
+  \ to perfection."
+image: dwaeji_galbi_kalbi_korean_style_pork_ribs.jpg
+original_title: "\uB3FC\uC9C0\uAC08\uBE44"
+size: 2 whole slabs (5-7 pounds) of baby back ribs
 source: https://www.koreanbapsang.com/dwaeji-galbi-korean-pork-ribs/
-spicy: ✓
+spicy: "\u2713"
+time: 8 hours (including marination time)
+title: Dwaeji Galbi/Kalbi (Korean-Style Pork Ribs)
 ---
-
 This recipe for Dwaeji Galbi, or Korean-style pork ribs, is a favorite for BBQ gatherings. The ribs are marinated in two different Korean sauces – one sweet and savory, the other spicy and slightly sweet – and then grilled to perfection. The secret to these tasty ribs is the use of lots of fresh garlic and ginger.
 
 ### Ingredients

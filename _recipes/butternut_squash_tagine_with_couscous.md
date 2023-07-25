@@ -1,15 +1,15 @@
 ---
-title: Butternut Squash Tagine with Couscous
-category: Entrees
-description: Sweet butternut squash with sour preserved lemons makes a fragrant and easy vegetarian tagine with herby couscous on the side.
-image: herbycouscouswithbut_92552_16x9.jpg
-size: 4 servings
-time: 30 mins
 author: James Martin
+category: Entrees
+description: Sweet butternut squash with sour preserved lemons makes a fragrant and
+  easy vegetarian tagine with herby couscous on the side.
+image: butternut_squash_tagine_with_couscous.jpg
+size: 4 servings
 source: https://www.bbc.co.uk/food/recipes/herbycouscouswithbut_92552
-veggie: ✓
+time: 30 mins
+title: Butternut Squash Tagine with Couscous
+veggie: "\u2713"
 ---
-
 ### Ingredients
 
 #### For the butternut squash tagine

@@ -1,11 +1,11 @@
 ---
-title: Korean BBQ
 category: Entrees
 description: A Korean BBQ recipe similar to Korean BBQ restaurants in San Diego.
+image: korean_bbq.jpg
 size: 4 servings
 time: Overnight marination + 5 minutes cooking
+title: Korean BBQ
 ---
-
 ### Ingredients
 
 * `1 cup` water

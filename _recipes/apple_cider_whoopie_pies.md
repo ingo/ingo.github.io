@@ -1,16 +1,17 @@
 ---
-title: Apple Cider Whoopie Pies
-original_title: Apple Cider Whoopie Pies
-category: Desserts
-description: Soft, cakelike cookie sandwiches inspired by a classic apple cider doughnut and dusted with cinnamon sugar. Apple cider and apple butter subtly flavor the fluffy cakes, and cream cheese frosting makes the ideal filling.
-image: apple_cider_whoopie_pies_recipe_nyt_cooking.jpg
-image_attribution: Linda Xiao for The New York Times.
-size: 8 to 10 servings
-time: About 55 minutes, plus chilling
 author: Samantha Seneviratne
+category: Desserts
+description: Soft, cakelike cookie sandwiches inspired by a classic apple cider doughnut
+  and dusted with cinnamon sugar. Apple cider and apple butter subtly flavor the fluffy
+  cakes, and cream cheese frosting makes the ideal filling.
+image: apple_cider_whoopie_pies.jpg
+image_attribution: Linda Xiao for The New York Times.
+original_title: Apple Cider Whoopie Pies
+size: 8 to 10 servings
 source: https://cooking.nytimes.com/search?q=Samantha+Seneviratne&action=click&module=byline&region=recipe%20page
+time: About 55 minutes, plus chilling
+title: Apple Cider Whoopie Pies
 ---
-
 ### Ingredients
 
 #### For the Cakes

@@ -1,15 +1,16 @@
 ---
-title: Cacio e Pepe Pizza
-original_title: Cacio e Pepe Recipes Recipe
-category: Entrees
-description: A perfect pizza dough topped with the flavors of cacio e pepe pasta, devised by chef Stefano Callegari at Sbanco restaurant in Rome. The recipe is largely about the dough—the topping, while delicious, is relatively scant.
-image: image.webp
-size: Makes six 10- to 12-inch pizzas
-time: 1 hour 30 minutes
 author: Stefano Callegari
+category: Entrees
+description: "A perfect pizza dough topped with the flavors of cacio e pepe pasta,\
+  \ devised by chef Stefano Callegari at Sbanco restaurant in Rome. The recipe is\
+  \ largely about the dough\u2014the topping, while delicious, is relatively scant."
+image: cacio_e_pepe_pizza.jpg
+original_title: Cacio e Pepe Recipes Recipe
+size: Makes six 10- to 12-inch pizzas
 source: https://www.foodandwine.com/slideshows/pizza
+time: 1 hour 30 minutes
+title: Cacio e Pepe Pizza
 ---
-
 At Sbanco restaurant in Rome, chef Stefano Callegari takes his time making this perfect pizza dough, topping it with the flavors of cacio e pepe pasta. He's also devised a clever trick: putting a bit of crushed ice on the dough as it goes into the hot oven to keep the center moist and tender while the bottom and edge become crisp and crackling. It's worth noting that this recipe is largely about the dough—the topping, while delicious, is relatively scant.
 
 ### Ingredients

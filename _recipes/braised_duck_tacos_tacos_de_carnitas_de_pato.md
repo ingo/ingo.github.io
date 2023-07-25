@@ -1,15 +1,15 @@
 ---
-title: Braised Duck Tacos (Tacos de Carnitas de Pato)
-original_title: Tacos de Carnitas de Pato
-category: Entrees 
-description: Slowly braised duck infused with the aroma of Mexican cinnamon and orange is shredded and pan-fried until crisp.
-image: c9ce57d1_2b6e_4ae5_a1ae_320574c06daf.png
-size: 6 servings
-time: 3 hours
 author: Roberto Santibanez
+category: Entrees
+description: Slowly braised duck infused with the aroma of Mexican cinnamon and orange
+  is shredded and pan-fried until crisp.
+image: braised_duck_tacos_tacos_de_carnitas_de_pato.jpg
+original_title: Tacos de Carnitas de Pato
+size: 6 servings
 source: http://www.saveur.com/article/recipes/tacos-de-carnitas-de-pato-braised-duck-tacos
+time: 3 hours
+title: Braised Duck Tacos (Tacos de Carnitas de Pato)
 ---
-
 ### Ingredients
 
 * `3 lb` duck legs

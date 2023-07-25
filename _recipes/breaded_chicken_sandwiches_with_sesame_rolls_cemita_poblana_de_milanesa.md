@@ -1,16 +1,16 @@
 ---
-title: Breaded Chicken Sandwiches with Sesame Rolls (Cemita Poblana de Milanesa)
-original_title: Cemita Poblana de Milanesa
-category: Entrees 
-description: A unique breed of Mexican sandwich, wildly popular in Puebla, piled high with breaded chicken, chipotle, Oaxacan cheese, and pápalo. 
-image: cemita_poblana_de_milanesa_041817.jpg
-size: 6 servings
-time: 1 hour
-author: Gonzalo Guzmán
-source: https://www.epicurious.com/recipes/food/views/breaded-chicken-sandwiches-with-sesame-rolls-cemita-poblana-de-milanesa
+author: "Gonzalo Guzm\xE1n"
+category: Entrees
+description: "A unique breed of Mexican sandwich, wildly popular in Puebla, piled\
+  \ high with breaded chicken, chipotle, Oaxacan cheese, and p\xE1palo."
+image: breaded_chicken_sandwiches_with_sesame_rolls_cemita_poblana_de_milanesa.jpg
 image_attribution: Eva Kolenko
+original_title: Cemita Poblana de Milanesa
+size: 6 servings
+source: https://www.epicurious.com/recipes/food/views/breaded-chicken-sandwiches-with-sesame-rolls-cemita-poblana-de-milanesa
+time: 1 hour
+title: Breaded Chicken Sandwiches with Sesame Rolls (Cemita Poblana de Milanesa)
 ---
-
 ### Ingredients
 
 * Chicken:

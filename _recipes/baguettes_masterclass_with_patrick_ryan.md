@@ -1,13 +1,14 @@
 ---
-title: Baguettes Masterclass with Patrick Ryan
+author: Patrick Ryan
 category: Sides
-description: A detailed guide to making classic baguettes, using a pre-fermented dough for complex flavor. This recipe takes up to 3 days to make, but the results are worth it.
-image: baguettes.jpg
+description: A detailed guide to making classic baguettes, using a pre-fermented dough
+  for complex flavor. This recipe takes up to 3 days to make, but the results are
+  worth it.
+image: baguettes_masterclass_with_patrick_ryan.jpg
 size: 4 baguettes
 time: 3 days
-author: Patrick Ryan
+title: Baguettes Masterclass with Patrick Ryan
 ---
-
 ### Ingredients
 
 #### Pre-fermented Dough

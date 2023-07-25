@@ -1,15 +1,16 @@
 ---
-title: Churros and Hot Chocolate
-category: Desserts
-description: A classic Spanish dessert of crispy, sugar-coated churros served with a rich, dark hot chocolate for dipping. Perfect for a sweet treat or a decadent breakfast.
-image: placeholder.jpg
-size: 4 servings
-time: 1 hour
 author: Chocolateria San Gines
+category: Desserts
+description: A classic Spanish dessert of crispy, sugar-coated churros served with
+  a rich, dark hot chocolate for dipping. Perfect for a sweet treat or a decadent
+  breakfast.
+image: churros_and_hot_chocolate.jpg
+size: 4 servings
 source: https://www.foodnetwork.com/recipes/churros-and-hot-chocolate-recipe-1941131#reviewsTop
-sweet: ✓
+sweet: "\u2713"
+time: 1 hour
+title: Churros and Hot Chocolate
 ---
-
 This recipe is a classic from the famous Chocolateria San Gines in Madrid, Spain. It brings the authentic taste of Spanish churros and hot chocolate right into your kitchen.
 
 ### Ingredients

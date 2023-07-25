@@ -1,12 +1,13 @@
 ---
-title: Kartoffelkloße
+author: Ingo
 category: Sides
-description: A favorite German dish consisting of dumplings. This recipe has not been tested yet, but appears promising and seems like the right method.
+description: A favorite German dish consisting of dumplings. This recipe has not been
+  tested yet, but appears promising and seems like the right method.
+image: kartoffelklosse.jpg
 size: 24 dumplings
 time: Not specified
-author: Ingo
+title: "Kartoffelklo\xDFe"
 ---
-
 ### Ingredients
 
 * `2 tbsp` butter

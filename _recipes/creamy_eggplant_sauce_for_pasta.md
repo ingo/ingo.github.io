@@ -1,14 +1,16 @@
 ---
-title: Creamy Eggplant Sauce for Pasta
-category: Sauces
-description: A creamy pasta sauce made from roasted eggplant, offering a unique twist to traditional pasta sauces. This recipe is concise and requires a little planning, as the oven is involved. It's a great way to experience a creamy sauce quality without all the cream. 
-image: placeholder.jpg
-size: 4 servings
-time: 1 hour
 author: Nick Schneider
+category: Sauces
+description: A creamy pasta sauce made from roasted eggplant, offering a unique twist
+  to traditional pasta sauces. This recipe is concise and requires a little planning,
+  as the oven is involved. It's a great way to experience a creamy sauce quality without
+  all the cream.
+image: creamy_eggplant_sauce_for_pasta.jpg
+size: 4 servings
 source: https://millcityfarmersmarket.org/recipes/creamy-eggplant-sauce-for-pasta/
+time: 1 hour
+title: Creamy Eggplant Sauce for Pasta
 ---
-
 Eggplant, once roasted, produces a soft and creamy interior, which can be used for purees and in this case, a pasta sauce. Eggplant is often used in pastas as a chunky element in the sauce, sharing the stage with tomatoes, peppers, or sausage. This recipe is concise and takes a little planning, as the oven is involved. Also, it’s a good way to experience a creamy sauce quality without all the cream. Cauliflower sauces work in a similar fashion.
 
 ### Ingredients

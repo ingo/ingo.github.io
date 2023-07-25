@@ -1,12 +1,13 @@
 ---
-title: Poached Sunny Side Up Eggs
 category: Breakfasts
-description: A simple, yet delicious way to prepare eggs. The addition of a little liquid at the beginning allows you to use a little less fat, and very carefully time how runny you want the yolk to be.
-image: img_0319.jpg
+description: A simple, yet delicious way to prepare eggs. The addition of a little
+  liquid at the beginning allows you to use a little less fat, and very carefully
+  time how runny you want the yolk to be.
+image: poached_sunny_side_up_eggs.jpg
 size: 1 serving
 time: 5 minutes
+title: Poached Sunny Side Up Eggs
 ---
-
 ### Ingredients
 
 * `1` egg (or more)

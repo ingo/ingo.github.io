@@ -1,15 +1,15 @@
 ---
-title: Fresh Fennel Salad with Parmesan
-original_title: Fresh Fennel Salad with Parmesan
-category: Sides
-description: A crisp and refreshing salad with the unique flavor of fresh fennel, complemented by parmesan cheese and a tangy lime dressing. 
-image: 195e89c3-5f14-4ed3-9ab0-6b3964af11b7.jpg
-size: 2-4 servings
-time: 10 minutes
 author: Ingo Muschenetz
+category: Sides
+description: A crisp and refreshing salad with the unique flavor of fresh fennel,
+  complemented by parmesan cheese and a tangy lime dressing.
+image: fresh_fennel_salad_with_parmesan.jpg
+original_title: Fresh Fennel Salad with Parmesan
+size: 2-4 servings
 source: http://www.30minutedinnerparty.com/2010/fresh-fennel-salad-with-parmesan-recipe
+time: 10 minutes
+title: Fresh Fennel Salad with Parmesan
 ---
-
 This salad is a revelation in the world of fresh fennel. The crispness of the fennel, the tanginess of the lime, and the richness of the parmesan cheese come together to create a salad that is both refreshing and satisfying. It's a great way to introduce fennel to those who haven't tried it before, and a new favorite for those who already love it.
 
 ### Ingredients

@@ -1,12 +1,13 @@
 ---
-title: Bratwurst
+author: Ingo's Dad
 category: Entrees
-description: These are the Nuernberger bratwursts Ingo's dad would make. These are truly a "family recipe."
+description: These are the Nuernberger bratwursts Ingo's dad would make. These are
+  truly a "family recipe."
+image: bratwurst.jpg
 size: 10 lbs
 time: Varies
-author: Ingo's Dad
+title: Bratwurst
 ---
-
 ### Ingredients
 
 * `10 lbs` pork butts

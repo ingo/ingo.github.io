@@ -1,12 +1,12 @@
 ---
-title: Best Buttermilk Pancakes
 category: Breakfasts
-description: Delicious and fluffy buttermilk pancakes that are perfect for a weekend breakfast.
-image: bestbuttermilkpancakes.jpg
+description: Delicious and fluffy buttermilk pancakes that are perfect for a weekend
+  breakfast.
+image: best_buttermilk_pancakes.jpg
 size: 12 servings
 time: 30 minutes
+title: Best Buttermilk Pancakes
 ---
-
 ### Ingredients
 
 * `2 1/2 cups` cake flour (all-purpose is fine)

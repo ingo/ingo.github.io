@@ -1,11 +1,12 @@
 ---
-title: Baigan Bharta
-category: Entrees 
-description: A very popular dish in India. It is best when made with all ingredients, but you can leave out some of the smaller spices with decent results.
-size: 4 servings
 author: Ingo Muschenetz
+category: Entrees
+description: A very popular dish in India. It is best when made with all ingredients,
+  but you can leave out some of the smaller spices with decent results.
+image: baigan_bharta.jpg
+size: 4 servings
+title: Baigan Bharta
 ---
-
 ### Ingredients
 
 * `1` medium-sized eggplant, roasted and peeled

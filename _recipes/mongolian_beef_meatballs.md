@@ -1,15 +1,15 @@
 ---
-title: Mongolian Beef Meatballs
-category: Entrees 
-description: Delicious and flavorful meatballs with a spicy kick, perfect for any gathering.
-image: mongolianbeefmeatballs.jpg
-size: 22 meatballs
-time: 30 minutes
 author: Reddit User
-favorite: ✓
-spicy: ✓
+category: Entrees
+description: Delicious and flavorful meatballs with a spicy kick, perfect for any
+  gathering.
+favorite: "\u2713"
+image: mongolian_beef_meatballs.jpg
+size: 22 meatballs
+spicy: "\u2713"
+time: 30 minutes
+title: Mongolian Beef Meatballs
 ---
-
 ### Ingredients
 
 #### Meatballs

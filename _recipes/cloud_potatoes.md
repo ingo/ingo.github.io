@@ -1,14 +1,14 @@
 ---
-title: Cloud Potatoes
+author: Anonymous
 category: Sides
-description: These potatoes are like eating clouds. They are always a hit and people often ask for the recipe.
-image: cloudpotatoes.jpg
+description: These potatoes are like eating clouds. They are always a hit and people
+  often ask for the recipe.
+favorite: "\u2713"
+image: cloud_potatoes.jpg
 size: 2 large pots
 time: 30 minutes
-author: Anonymous
-favorite: ✓
+title: Cloud Potatoes
 ---
-
 Cloud Potatoes are a heavenly side dish that will have your guests floating on cloud nine. This recipe was passed down from a mysterious source, and has been a crowd favorite ever since. The secret to their cloud-like texture is a combination of cream cheese and mayo, whipped to perfection.
 
 ### Ingredients

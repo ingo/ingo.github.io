@@ -1,15 +1,16 @@
 ---
-title: Extra-Creamy Scrambled Eggs
-category: Breakfasts 
-description: Scrambled eggs that stay tender and moist, whether you like them soft, medium or hard-scrambled. A small amount of a starchy slurry prevents them from setting up too firmly.
-image: merlin_183955200_c2bc0f52-9ed8-495d-a7db-217cc8a201a6-articleLarge.jpg
-size: 1-2 servings
-time: 15 minutes
 author: Linda Xiao
-source: https://cooking.nytimes.com/recipes/1021931-extra-creamy-scrambled-eggsundefined
+category: Breakfasts
+description: Scrambled eggs that stay tender and moist, whether you like them soft,
+  medium or hard-scrambled. A small amount of a starchy slurry prevents them from
+  setting up too firmly.
+image: extra_creamy_scrambled_eggs.jpg
 image_attribution: Linda Xiao for The New York Times
+size: 1-2 servings
+source: https://cooking.nytimes.com/recipes/1021931-extra-creamy-scrambled-eggsundefined
+time: 15 minutes
+title: Extra-Creamy Scrambled Eggs
 ---
-
 Adding a small amount of a starchy slurry to scrambled eggs — a technique learned from Mandy Lee of the food blog Lady & Pups — prevents them from setting up too firmly, resulting in eggs that stay tender and moist, whether you like them soft, medium or hard-scrambled. Potato or tapioca starch is active at slightly lower temperatures than cornstarch and will produce a slightly more tender scramble, but cornstarch works just fine if it’s what you’ve got on hand. Make sure your skillet is at just the right temperature by heating a tablespoon of water in the skillet and waiting for it to evaporate. For creamier eggs, you can replace the water with milk or half-and-half.
 
 ### Ingredients

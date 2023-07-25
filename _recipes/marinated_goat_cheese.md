@@ -1,10 +1,10 @@
 ---
-title: Marinated Goat Cheese
 category: Sides
 description: Fantastic, yet simple marinated goat cheese recipe.
+image: marinated_goat_cheese.jpg
 size: 8 servings
+title: Marinated Goat Cheese
 ---
-
 ### Ingredients
 
 * `12` large fresh thyme sprigs

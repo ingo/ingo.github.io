@@ -1,12 +1,15 @@
 ---
-title: Eipfannkuchen
 category: Breakfasts
-description: These huge, bigger-than-my-head, eggy pancakes, which my Oma would cook for me after a cold morning tromping through the snow. My favorite topping is melted butter with a little honey, but they can be topped like normal crepes. You'll want to serve them immediately out of the pan with a knife and fork to cut them into squares.
+description: These huge, bigger-than-my-head, eggy pancakes, which my Oma would cook
+  for me after a cold morning tromping through the snow. My favorite topping is melted
+  butter with a little honey, but they can be topped like normal crepes. You'll want
+  to serve them immediately out of the pan with a knife and fork to cut them into
+  squares.
 image: eipfannkuchen.jpg
 size: 2 servings
 time: 30 minutes
+title: Eipfannkuchen
 ---
-
 ### Ingredients
 
 * `1 cup` milk

@@ -1,12 +1,13 @@
 ---
-title: Roast Peppers in Oil
 category: Sides
-description: A quick and delicious recipe for roast peppers in oil, perfect for using up a bounty of fresh peppers. It tastes best after a few days, and will keep at least a few weeks.
-image: img_2296.jpg
+description: A quick and delicious recipe for roast peppers in oil, perfect for using
+  up a bounty of fresh peppers. It tastes best after a few days, and will keep at
+  least a few weeks.
+image: roast_peppers_in_oil.jpg
 size: 1 cup
 time: 30 minutes
+title: Roast Peppers in Oil
 ---
-
 ### Ingredients
 
 * `2 lbs` peppers. Any kind will do, just watch the heat level depending on what you can tolerate

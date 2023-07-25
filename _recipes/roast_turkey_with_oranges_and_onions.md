@@ -1,11 +1,11 @@
 ---
-title: Roast Turkey with Oranges and Onions
 category: Entrees
 description: Our traditional roasted turkey, when smoking it is not an option.
+image: roast_turkey_with_oranges_and_onions.jpg
 size: 4-8 servings
 time: 2 hours
+title: Roast Turkey with Oranges and Onions
 ---
-
 ### Ingredients
 
 * `1` 12-14 lb turkey, basted, kosher, or brined

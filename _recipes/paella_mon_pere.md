@@ -1,14 +1,16 @@
 ---
-title: Paella
-original_title: Paella
+author: Ingo Muschenetz
 category: Entrees
-description: A great dish that also inspires many passions. This version is tuned a bit to my family’s preferences, in particular the addition of sausage. If you’d like to be truly traditional with ingredients, there are some suggestions at the bottom of the recipe.
-image: paella_mon_pere.jpeg
+description: "A great dish that also inspires many passions. This version is tuned\
+  \ a bit to my family\u2019s preferences, in particular the addition of sausage.\
+  \ If you\u2019d like to be truly traditional with ingredients, there are some suggestions\
+  \ at the bottom of the recipe."
+image: paella_mon_pere.jpg
+original_title: Paella
 size: 4-8 servings
 time: 2 hours
-author: Ingo Muschenetz
+title: Paella
 ---
-
 Paella is a great dish that also inspires many passions. The version I most often make is tuned a bit to my family’s preferences, in particular the addition of sausage. If you’d like to be truly traditional with ingredients, there are some suggestions at the bottom of the recipe.
 
 ### Ingredients

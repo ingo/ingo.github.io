@@ -1,15 +1,15 @@
 ---
-title: Fluffy Dinner Rolls
-original_title: Fluffy Dinner Rolls
-category: Breads
-description: Moist, fluffy American dinner rolls that are great when fresh and can be made a day ahead. 
-image: 38378_dptghyubxvwt8slj6u0x.jpg
-size: Makes 12 rolls
-time: 1¾ hours, plus 1¾ hours resting and 20 minutes cooling
 author: Cook's Illustrated
+category: Breads
+description: Moist, fluffy American dinner rolls that are great when fresh and can
+  be made a day ahead.
+image: fluffy_dinner_rolls.jpg
+original_title: Fluffy Dinner Rolls
+size: Makes 12 rolls
 source: https://www.americastestkitchen.com/search?q=Desserts%20or%20Baked%20Goods&dFR[search_site_list][0]=cio&fR[search_course_list][0]=Desserts%20or%20Baked%20Goods&fR[search_document_klass][0]=recipe
+time: "1\xBE hours, plus 1\xBE hours resting and 20 minutes cooling"
+title: Fluffy Dinner Rolls
 ---
-
 This recipe is a classic dinner roll recipe that applies a bread-making method commonly called by its Chinese name, tangzhong. The rolls can be made a day ahead and refreshed before serving by wrapping them in aluminum foil and heating them in a 350-degree oven for 15 minutes.
 
 ### Ingredients

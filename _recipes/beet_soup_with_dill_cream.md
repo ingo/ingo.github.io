@@ -1,12 +1,11 @@
 ---
-title: Beet Soup With Dill Cream
 category: Soups
 description: A great beet soup.
 image: beet_soup_with_dill_cream.jpg
 size: 4 servings
 time: 4 hours 35 minutes
+title: Beet Soup With Dill Cream
 ---
-
 ### Ingredients
 
 * `4 cups` (or more) canned low-salt chicken broth

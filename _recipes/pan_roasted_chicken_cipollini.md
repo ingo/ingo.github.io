@@ -1,13 +1,16 @@
 ---
-title: Pan-Roasted Chicken Cipollini
+author: Tyler Florence
 category: Entrees
-description: This dish is inspired by a recipe from Tyler Florence on a show featuring one-dish meals. It's very easy to do, relatively quick to prepare, and requires only a single pan. We use cipollini onions, but shallots work just as well. You can use any mushrooms you like for the recipe. We've tried crimini, shitaki, and chanterelles.
-image: img_0858.jpg
+description: This dish is inspired by a recipe from Tyler Florence on a show featuring
+  one-dish meals. It's very easy to do, relatively quick to prepare, and requires
+  only a single pan. We use cipollini onions, but shallots work just as well. You
+  can use any mushrooms you like for the recipe. We've tried crimini, shitaki, and
+  chanterelles.
+image: pan_roasted_chicken_cipollini.jpg
 size: 2-3 servings
 time: 1 hour
-author: Tyler Florence
+title: Pan-Roasted Chicken Cipollini
 ---
-
 ### Ingredients
 
 * `1` shallot

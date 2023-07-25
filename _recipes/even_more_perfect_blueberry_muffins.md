@@ -1,16 +1,18 @@
 ---
-title: Even More Perfect Blueberry Muffins
-original_title: Blueberry Muffins
-category: Breakfasts
-description: A delightful blueberry muffin recipe with a crunchy lid of coarse sugar and a generous amount of berries in each muffin. This recipe has been improved over the years to be a one-bowl, no sifting, no creaming, and no measuring zest in half-teaspoons affair. It makes 9 beautifully bronzed muffins.
-image: 29207441731_3e6163f1f2_z.jpg
-size: 9 muffins
-time: Not specified
 author: Smitten Kitchen
+category: Breakfasts
+description: A delightful blueberry muffin recipe with a crunchy lid of coarse sugar
+  and a generous amount of berries in each muffin. This recipe has been improved over
+  the years to be a one-bowl, no sifting, no creaming, and no measuring zest in half-teaspoons
+  affair. It makes 9 beautifully bronzed muffins.
+favorite: "\u2713"
+image: even_more_perfect_blueberry_muffins.jpg
+original_title: Blueberry Muffins
+size: 9 muffins
 source: https://smittenkitchen.com/2010/08/perfect-blueberry-muffins/
-favorite: ✓
+time: Not specified
+title: Even More Perfect Blueberry Muffins
 ---
-
 ### Ingredients
 
 The ingredients are not listed in the original text.

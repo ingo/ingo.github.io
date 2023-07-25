@@ -1,14 +1,15 @@
 ---
-title: Chinese Fried Chicken
-category: Entrees 
-description: A must-have for any party, this Chinese Fried Chicken is marinated overnight for a distinct sherry, cilantro, and ginger presence, then deep-fried until golden brown.
-image: chinesefriedchicken.jpg
+author: Ingo Muschenetz
+category: Entrees
+description: A must-have for any party, this Chinese Fried Chicken is marinated overnight
+  for a distinct sherry, cilantro, and ginger presence, then deep-fried until golden
+  brown.
+favorite: "\u2713"
+image: chinese_fried_chicken.jpg
 size: Varies
 time: Overnight + Frying Time
-author: Ingo Muschenetz
-favorite: ✓
+title: Chinese Fried Chicken
 ---
-
 ### Ingredients
 
 * Chicken pieces

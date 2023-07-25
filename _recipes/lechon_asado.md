@@ -1,12 +1,12 @@
 ---
-title: Lechón Asado
 category: Entrees
 description: Roast pork to use with a Cuban Sandwich
-image: lechonasado.jpg
-size: Based on the size of your ham. Allow about `1/4 to 1/2` pound per person, depending on side dishes.
+image: lechon_asado.jpg
+size: Based on the size of your ham. Allow about `1/4 to 1/2` pound per person, depending
+  on side dishes.
 time: 3-4 hours
+title: "Lech\xF3n Asado"
 ---
-
 ### Ingredients
 
 * One "fresh ham" with bone in (or have your butcher butterfly it for you!) and skin on. You can also use a small pork roast with a good layer of fat on it. I prefer a picnic shoulder, approximately `8-10 lbs`.

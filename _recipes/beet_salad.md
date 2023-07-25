@@ -1,29 +1,30 @@
 ---
-title: Beet Salad
+author: EatingWell Test Kitchen
 category: Sides
-description: It's time we rescued beets from our childhood nightmares—when they were little better than bland wedges scooped out of a can. Roasted beets are delightful, sweet but very earthy and aromatic—great for a side salad.
-image: beetsalad.jpg
+description: "It's time we rescued beets from our childhood nightmares\u2014when they\
+  \ were little better than bland wedges scooped out of a can. Roasted beets are delightful,\
+  \ sweet but very earthy and aromatic\u2014great for a side salad."
+image: beet_salad.jpg
+nutrition:
+- 119 calories
+- 7 g fat
+- 3 g fiber
+- 12 g carbohydrates
+- 2 g protein
+- 128 mcg folate
+- 0 mg cholesterol
+- 8 g sugars
+- 0 g added sugars
+- 139 IU vitamin A
+- 6 mg vitamin C
+- 23 mg calcium
+- 1 mg iron
+- 243 mg sodium
+- 404 mg potassium
 size: 8 servings
 time: 1.5 hours
-author: EatingWell Test Kitchen
-nutrition:
-  - 119 calories
-  - 7 g fat
-  - 3 g fiber
-  - 12 g carbohydrates
-  - 2 g protein
-  - 128 mcg folate
-  - 0 mg cholesterol
-  - 8 g sugars
-  - 0 g added sugars
-  - 139 IU vitamin A
-  - 6 mg vitamin C
-  - 23 mg calcium
-  - 1 mg iron
-  - 243 mg sodium
-  - 404 mg potassium
+title: Beet Salad
 ---
-
 ### Ingredients
 
 * `2 pounds` golden beets (5-6 medium)

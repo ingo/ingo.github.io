@@ -1,15 +1,16 @@
 ---
-title: Bourbon Freddy Krueger (Whiskey Barrel Series)
-original_title: Bourbon Freddy Krueger (Whiskey Barrel Series)
-category: Beverages
-description: A rich, complex homebrew beer aged in a bourbon barrel for a unique flavor profile. This recipe is a clone of Hair of the Dog's Bourbon Fred, adjusted for available ingredients.
-image: bourbonfreddykruegersm.jpg
-size: 5.25 gallons
-time: 6 months and 1 month
 author: Homebrewers Guild of Seattle Proper
+category: Beverages
+description: A rich, complex homebrew beer aged in a bourbon barrel for a unique flavor
+  profile. This recipe is a clone of Hair of the Dog's Bourbon Fred, adjusted for
+  available ingredients.
+image: bourbon_freddy_krueger_whiskey_barrel_series.jpg
+original_title: Bourbon Freddy Krueger (Whiskey Barrel Series)
+size: 5.25 gallons
 source: http://www.seattleproper.com/Recipes/bourbon-freddy-krueger-whiskey-barrel-series/bourbonfreddykruegersm.jpg?attredirects=0
+time: 6 months and 1 month
+title: Bourbon Freddy Krueger (Whiskey Barrel Series)
 ---
-
 ### Ingredients
 
 * `74.5%` Gambrinus 2-Row

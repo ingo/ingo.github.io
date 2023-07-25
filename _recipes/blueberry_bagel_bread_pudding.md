@@ -1,12 +1,12 @@
 ---
-title: Blueberry Bagel Bread Pudding
 category: Desserts
-description: A delightful twist on the classic bread pudding, using blueberry bagels and fresh blueberries.
-image: 4606118896_69bc20cda2.jpg
+description: A delightful twist on the classic bread pudding, using blueberry bagels
+  and fresh blueberries.
+image: blueberry_bagel_bread_pudding.jpg
 size: 6 servings
 time: 1 hour
+title: Blueberry Bagel Bread Pudding
 ---
-
 ### Ingredients
 
 * `3 tbsp` unsalted butter

@@ -1,26 +1,26 @@
 ---
-title: Roasted Cauliflower Hummus
-original_title: Cauliflower Hummus
-category: Sides
-description: A delicious chickpea-free version of hummus that’s low-carb, keto, paleo and Whole30 friendly. It’s creamy, savory, and veggie-packed.
-image: cauliflower-hummus-3.jpg
-size: 4 servings
-time: 30 mins
 author: Lisa Bryan
-source: https://downshiftology.com/recipes/cauliflower-hummus/
-vegan: ✓
-favorite: ✓
+category: Sides
+description: "A delicious chickpea-free version of hummus that\u2019s low-carb, keto,\
+  \ paleo and Whole30 friendly. It\u2019s creamy, savory, and veggie-packed."
+favorite: "\u2713"
+image: roasted_cauliflower_hummus.jpg
 nutrition:
-  - 235.5 calories
-  - 14.7 g carbohydrates
-  - 6.7 g protein
-  - 18.8 g fat
-  - 2.8 g saturated fat
-  - 228.3 mg sodium
-  - 5.7 g fiber
-  - 4.6 g sugar
+- 235.5 calories
+- 14.7 g carbohydrates
+- 6.7 g protein
+- 18.8 g fat
+- 2.8 g saturated fat
+- 228.3 mg sodium
+- 5.7 g fiber
+- 4.6 g sugar
+original_title: Cauliflower Hummus
+size: 4 servings
+source: https://downshiftology.com/recipes/cauliflower-hummus/
+time: 30 mins
+title: Roasted Cauliflower Hummus
+vegan: "\u2713"
 ---
-
 Cauliflower hummus is a unique take on the traditional hummus recipe. Instead of using chickpeas, this recipe uses roasted cauliflower, making it a low-carb and easily digestible option. It's a great way to sneak more veggies into your daily routine. 
 
 ### Ingredients

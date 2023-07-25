@@ -1,16 +1,17 @@
 ---
-title: Broccoli Crunch Salad (à la Whole Foods)
-original_title: Broccoli Crunch Salad (à la Whole Foods)
-category: Sides
-description: A delicious, addictive salad with a perfect balance of crunchy, bacony, oniony and sweet flavors. It's a favorite from Whole Foods that you can now make at home.
-image: 687474703a2f2f7777772e6a616d6d65642e636f6d2f7e6d6c622f626c6f67706963732f323031332f30342f42726f63636f6c695f53616c61642f62726f63636f6c695f73616c61645f7469746c652e6a7067.jpg
-size: 2-4 servings
-time: 1 hour
 author: jemangelaville.com
+category: Sides
+description: A delicious, addictive salad with a perfect balance of crunchy, bacony,
+  oniony and sweet flavors. It's a favorite from Whole Foods that you can now make
+  at home.
+favorite: "\u2713"
+image: broccoli_crunch_salad_a_la_whole_foods.jpg
+original_title: "Broccoli Crunch Salad (\xE0 la Whole Foods)"
+size: 2-4 servings
 source: http://www.jemangelaville.com/2013/04/24/broccoli-crunch-salad-a-la-whole-foods/
-favorite: ✓
+time: 1 hour
+title: "Broccoli Crunch Salad (\xE0 la Whole Foods)"
 ---
-
 ### Ingredients
 
 * `4 cups` Broccoli florets

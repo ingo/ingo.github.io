@@ -1,15 +1,15 @@
 ---
-title: Feta Brulee With Honey and Sesame Seeds
-category: Entrees
-description: A stunning piece of Feta cheese with honey, bruleed to give that slight charred taste. Garnished with sesame seeds and mint.
-image: 17097418_10158326854110553_5113054438717280888_o-1.jpg
-size: 2 servings
-time: 20 minutes
 author: Peter Minaki
+category: Entrees
+description: A stunning piece of Feta cheese with honey, bruleed to give that slight
+  charred taste. Garnished with sesame seeds and mint.
+favorite: "\u2713"
+image: feta_brulee_with_honey_and_sesame_seeds.jpg
+size: 2 servings
 source: https://www.kalofagas.ca/2017/03/27/greek-meze-night/
-favorite: ✓
+time: 20 minutes
+title: Feta Brulee With Honey and Sesame Seeds
 ---
-
 This recipe is a standout from the dishes served at some of the Greek Supper Clubs. The twist here is that a kitchen torch is used to brulee the top of the Feta cheese, giving it a stunning look and a slight charred taste. Feta has been paired with honey for ages and sesame seeds are often in the mix. Lemon verbena is used in the photo but mint works just fine here.
 
 ### Ingredients

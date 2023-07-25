@@ -1,16 +1,17 @@
 ---
-title: Grilled Za’atar Chicken With Garlic Yogurt and Cilantro
-original_title: Grilled Za’atar Chicken With Garlic Yogurt and Cilantro
-category: Entrees
-description: This garlicky, herby chicken is full-flavored and very tender, thanks to its piquant yogurt marinade. It’s flexible, too — marinate the meat for as little as a couple of hours, or as long as overnight.
-image: 11apperex-chicken-articleLarge.jpg
-image_attribution: Ryan Liebe for The New York Times
-size: 4 to 6 servings
-time: 30 minutes, plus marinating time
 author: Melissa Clark
+category: Entrees
+description: "This garlicky, herby chicken is full-flavored and very tender, thanks\
+  \ to its piquant yogurt marinade. It\u2019s flexible, too \u2014 marinate the meat\
+  \ for as little as a couple of hours, or as long as overnight."
+image: grilled_za_atar_chicken_with_garlic_yogurt_and_cilantro.jpg
+image_attribution: Ryan Liebe for The New York Times
+original_title: "Grilled Za\u2019atar Chicken With Garlic Yogurt and Cilantro"
+size: 4 to 6 servings
 source: https://cooking.nytimes.com/ourcooks/melissa-clark/my-recipes?action=click&module=byline&region=recipe%20page
+time: 30 minutes, plus marinating time
+title: "Grilled Za\u2019atar Chicken With Garlic Yogurt and Cilantro"
 ---
-
 This garlicky, herby chicken is full-flavored and very tender, thanks to its piquant yogurt marinade. It’s flexible, too — marinate the meat for as little as a couple of hours, or as long as overnight. And the chicken is just as good cooked under the broiler as it is on the grill. You can serve this dish with almost anything, but it’s especially nice with pita or other flatbread and a big cucumber and tomato salad. 
 
 ### Ingredients

@@ -1,22 +1,24 @@
 ---
-title: Classic British Fish and Chips
-original_title: Classic British Fish and Chips Recipe
-category: Entrees
-description: Classic fish and chips are a British institution and a national dish that everyone can't help but love. You can buy them from one of the thousands of fish and chip shops all over the country, including the world-famous Harry Ramsden's—or you can make them at home.
-image: best-fish-and-chips-recipe-434856-Hero-5b61b89346e0fb00500f2141.webp
-size: 4 servings
-time: 1 hour 25 minutes
 author: The Spruce
-source: https://www.thespruceeats.com/best-fish-and-chips-recipe-434856
-favorite: ✓
+category: Entrees
+description: "Classic fish and chips are a British institution and a national dish\
+  \ that everyone can't help but love. You can buy them from one of the thousands\
+  \ of fish and chip shops all over the country, including the world-famous Harry\
+  \ Ramsden's\u2014or you can make them at home."
 difficulty: medium
+favorite: "\u2713"
+image: classic_british_fish_and_chips.jpg
 nutrition:
-  - 701 calories
-  - 20g fat
-  - 72g carbs
-  - 54g protein
+- 701 calories
+- 20g fat
+- 72g carbs
+- 54g protein
+original_title: Classic British Fish and Chips Recipe
+size: 4 servings
+source: https://www.thespruceeats.com/best-fish-and-chips-recipe-434856
+time: 1 hour 25 minutes
+title: Classic British Fish and Chips
 ---
-
 Classic fish and chips are a British institution and a national dish that everyone can't help but love. You can buy them from one of the thousands of fish and chip shops all over the country, including the world-famous Harry Ramsden's—or you can make them at home. 
 
 ### Ingredients

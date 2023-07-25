@@ -1,12 +1,13 @@
 ---
-title: Lamb Chops with Cherry-Port Reduction
 category: Entrees
-description: The tart cherries, balsamic vinegar and port combined together to make an exceptionally tasty dressing. The sauce is not complicated, and the whole dish comes together relatively quickly.
-image: img_0729.jpg
+description: The tart cherries, balsamic vinegar and port combined together to make
+  an exceptionally tasty dressing. The sauce is not complicated, and the whole dish
+  comes together relatively quickly.
+image: lamb_chops_with_cherry_port_reduction.jpg
 size: 2 servings
 time: 30 minutes
+title: Lamb Chops with Cherry-Port Reduction
 ---
-
 ### Ingredients
 
 * `2 tsp` olive oil

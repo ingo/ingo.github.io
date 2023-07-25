@@ -1,15 +1,15 @@
 ---
-title: Cuñapez
-original_title: Cuñapez
-category: Sides 
-description: Cheesy bread made with tapioca starch. A perfect snack that's loved by everyone.
-image: cunapez.jpg
+author: Anonymous
+category: Sides
+description: Cheesy bread made with tapioca starch. A perfect snack that's loved by
+  everyone.
+favorite: "\u2713"
+image: cu_apez.jpg
+original_title: "Cu\xF1apez"
 size: 20-25 servings
 time: 40 minutes
-author: Anonymous
-favorite: ✓
+title: "Cu\xF1apez"
 ---
-
 ### Ingredients
 
 * `500-600 g` tapioca flour/starch

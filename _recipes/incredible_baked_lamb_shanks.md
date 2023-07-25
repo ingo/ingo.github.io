@@ -1,21 +1,25 @@
 ---
-title: Incredible Baked Lamb Shanks
-category: Entrees
-description: Many people have a real affection for lamb shanks, thinking of them as a bit of a treat. This particular style of baking them is easy and comforting – almost like wrapping up a jacket potato to put on the bonfire. The shanks should be eaten with all the veggies and any buttery juices. They're really good served with creamy mashed potato and steamed greens to contrast with the roasting stickiness of the lamb.
-image: baked_lamb_shanks.jpg
-size: 4 servings
-time: 3 hours
 author: Jamie Oliver
-source: http://www.jamieoliver.com/
+category: Entrees
+description: "Many people have a real affection for lamb shanks, thinking of them\
+  \ as a bit of a treat. This particular style of baking them is easy and comforting\
+  \ \u2013 almost like wrapping up a jacket potato to put on the bonfire. The shanks\
+  \ should be eaten with all the veggies and any buttery juices. They're really good\
+  \ served with creamy mashed potato and steamed greens to contrast with the roasting\
+  \ stickiness of the lamb."
+image: incredible_baked_lamb_shanks.jpg
 nutrition:
-  - 626 kcal
-  - 10.2 g carbs
-  - 6.5 g sugar
-  - 42.0 g fat
-  - 21.8 g saturates
-  - 43.7 g protein
+- 626 kcal
+- 10.2 g carbs
+- 6.5 g sugar
+- 42.0 g fat
+- 21.8 g saturates
+- 43.7 g protein
+size: 4 servings
+source: http://www.jamieoliver.com/
+time: 3 hours
+title: Incredible Baked Lamb Shanks
 ---
-
 ### Ingredients
 
 * `6 sprigs` fresh rosemary

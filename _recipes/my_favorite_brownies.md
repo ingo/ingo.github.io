@@ -1,16 +1,17 @@
 ---
-title: My Favorite Brownies
-original_title: 
-category: Desserts
-description: Bittersweet and chewy brownies that are defined not by what they have in them but what they don’t; there’s no brown sugar or brown butter, baking powder, Dutched cocoa, cake flour, nuts, coffee granules, chips or frosting.
-image: my_favorite_brownies.jpg
-size: 16 2-inch squares
-time: 1 hour
 author: Smitten Kitchen
+category: Desserts
+description: "Bittersweet and chewy brownies that are defined not by what they have\
+  \ in them but what they don\u2019t; there\u2019s no brown sugar or brown butter,\
+  \ baking powder, Dutched cocoa, cake flour, nuts, coffee granules, chips or frosting."
+favorite: "\u2713"
+image: my_favorite_brownies.jpg
+original_title: null
+size: 16 2-inch squares
 source: https://smittenkitchen.com/2012/08/my-favorite-brownies/
-favorite: ✓
+time: 1 hour
+title: My Favorite Brownies
 ---
-
 ### Ingredients
 
 * `3 ounces` unsweetened chocolate, roughly chopped

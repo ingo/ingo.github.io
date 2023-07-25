@@ -1,13 +1,13 @@
 ---
-title: Civisli Biber (Red Pepper Spread)
+author: Ingo Muschenetz
 category: Sides
-description: This red pepper paste has a nice texture and flavor from the addition of walnuts. Serve it with pita chips, crackers, or as a spread on sandwiches.
-image: civislibiber.jpg
+description: This red pepper paste has a nice texture and flavor from the addition
+  of walnuts. Serve it with pita chips, crackers, or as a spread on sandwiches.
+image: civisli_biber_red_pepper_spread.jpg
 size: 2 cups
 time: 30 minutes
-author: Ingo Muschenetz
+title: Civisli Biber (Red Pepper Spread)
 ---
-
 ### Ingredients
 
 * `4` red bell peppers

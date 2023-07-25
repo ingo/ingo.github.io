@@ -1,31 +1,32 @@
 ---
-title: Au Jus Recipe
-original_title: Au Jus Recipe (With or Without Drippings)
-category: Sauces
-description: This au jus recipe is so rich and flavorful and can be made with or without drippings! Perfect alongside my easy prime rib recipe, for French dip sandwiches, or over beef and noodles. So much flavor, quick, and easy.
-image: au_jus_recipe_(with_or_without_drippings)_40_aprons.jpg
-size: 8 servings
-time: 10 minutes
 author: 40 Aprons
-source: https://40aprons.com/au-jus-recipe/
+category: Sauces
+description: This au jus recipe is so rich and flavorful and can be made with or without
+  drippings! Perfect alongside my easy prime rib recipe, for French dip sandwiches,
+  or over beef and noodles. So much flavor, quick, and easy.
+image: au_jus_recipe.jpg
 nutrition:
-  - 69 calories
-  - 2 g carbohydrates
-  - 1 g protein
-  - 6 g fat
-  - 4 g saturated fat
-  - 15 mg cholesterol
-  - 294 mg sodium
-  - 59 mg potassium
-  - 1 g fiber
-  - 1 g sugar
-  - 175 IU vitamin A
-  - 1 mg vitamin C
-  - 8 mg calcium
-  - 1 mg iron
-  - 1 g net carbs
+- 69 calories
+- 2 g carbohydrates
+- 1 g protein
+- 6 g fat
+- 4 g saturated fat
+- 15 mg cholesterol
+- 294 mg sodium
+- 59 mg potassium
+- 1 g fiber
+- 1 g sugar
+- 175 IU vitamin A
+- 1 mg vitamin C
+- 8 mg calcium
+- 1 mg iron
+- 1 g net carbs
+original_title: Au Jus Recipe (With or Without Drippings)
+size: 8 servings
+source: https://40aprons.com/au-jus-recipe/
+time: 10 minutes
+title: Au Jus Recipe
 ---
-
 ### Ingredients
 
 * `4 tbsp` butter or beef drippings

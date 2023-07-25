@@ -1,17 +1,17 @@
 ---
-title: El Fuego Viviente Chili Open Sauce
-original_title: El Fuego Viviente Chili Open Sauce
-category: Sauces
-description: A homemade hot sauce inspired by Marie Sharp's Hot Habanero Hot Sauce, using fermented chilis, carrot and parsnip. 
-image: elfuegoviviente.jpg
-size: 1 jar
-time: 2 weeks
 author: aweijnitz
+category: Sauces
+description: A homemade hot sauce inspired by Marie Sharp's Hot Habanero Hot Sauce,
+  using fermented chilis, carrot and parsnip.
+favorite: "\u2713"
+image: el_fuego_viviente_chili_open_sauce.jpg
+original_title: El Fuego Viviente Chili Open Sauce
+size: 1 jar
 source: https://github.com/aweijnitz/recipe-el_fuego_viviente
-spicy: ✓
-favorite: ✓
+spicy: "\u2713"
+time: 2 weeks
+title: El Fuego Viviente Chili Open Sauce
 ---
-
 ### Ingredients
 
 * `400g` Habanero Chilis

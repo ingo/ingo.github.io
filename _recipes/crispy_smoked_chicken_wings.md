@@ -1,14 +1,14 @@
 ---
-title: Crispy Smoked Chicken Wings
-category: Entrees
-description: Crispy, smoky wings with a homemade chipotle sauce. Perfect for game day or any day.
-image: placeholder.jpg
-size: Varies
-time: 1 day, 1 hour
 author: Ingo Muschenetz
-spicy: ✓
+category: Entrees
+description: Crispy, smoky wings with a homemade chipotle sauce. Perfect for game
+  day or any day.
+image: crispy_smoked_chicken_wings.jpg
+size: Varies
+spicy: "\u2713"
+time: 1 day, 1 hour
+title: Crispy Smoked Chicken Wings
 ---
-
 This recipe for Crispy Smoked Chicken Wings uses a unique method of coating the wings in a spice rub and baking powder, then refrigerating them overnight to dry out the skin. This results in incredibly crispy wings when smoked. The wings are then served with a homemade chipotle sauce that adds a spicy kick.
 
 ### Ingredients

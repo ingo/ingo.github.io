@@ -1,16 +1,19 @@
 ---
-title: Ají (Colombian-Style Fresh Salsa)
-original_title: Ají
-category: Sauces 
-description: Colombian food is typically not spicy on its own. Instead, a hot sauce called ají — also the Colombian word for chiles — is served tableside. There are as many types of ají as there are regions in Colombia, but this version, heavy on cilantro and onions, is a good all-purpose sauce that goes especially well with fried foods.
-image: aji_colombian_style_fresh_salsa_recipe_nyt_cooking.jpg
+author: "J. Kenji L\xF3pez-Alt"
+category: Sauces
+description: "Colombian food is typically not spicy on its own. Instead, a hot sauce\
+  \ called aj\xED \u2014 also the Colombian word for chiles \u2014 is served tableside.\
+  \ There are as many types of aj\xED as there are regions in Colombia, but this version,\
+  \ heavy on cilantro and onions, is a good all-purpose sauce that goes especially\
+  \ well with fried foods."
+image: aj_colombian_style_fresh_salsa.jpg
 image_attribution: Johnny Miller for The New York Times.
+original_title: "Aj\xED"
 size: About 1 1/4 cups
-time: 15 minutes
-author: J. Kenji López-Alt
 source: https://cooking.nytimes.com/ourcooks/j-kenji-lopez-alt/my-recipes
+time: 15 minutes
+title: "Aj\xED (Colombian-Style Fresh Salsa)"
 ---
-
 ### Ingredients
 
 * `1 packed cup` cilantro, leaves and tender stems

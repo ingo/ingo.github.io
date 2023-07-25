@@ -1,16 +1,16 @@
 ---
-title: BA's Best Fried Chicken Sandwich
-original_title: Buttermilk Fried Chicken Sandwich
-category: Entrees
-description: This sandwich is engineered for maximum impact. Each element is awesome, but it’s the way they come together that puts it over the top. Mmmmm, yeah.
-image: 0316_BA_WCHI_01.jpg
-size: 4 servings
-time: 2 hours 30 minutes
 author: Claire Saffitz
-source: https://www.epicurious.com/recipes/food/views/ba-best-fried-chicken-sandwich
+category: Entrees
+description: "This sandwich is engineered for maximum impact. Each element is awesome,\
+  \ but it\u2019s the way they come together that puts it over the top. Mmmmm, yeah."
+image: ba_s_best_fried_chicken_sandwich.jpg
 image_attribution: Alex Lau, Food Styling by Sue Li
+original_title: Buttermilk Fried Chicken Sandwich
+size: 4 servings
+source: https://www.epicurious.com/recipes/food/views/ba-best-fried-chicken-sandwich
+time: 2 hours 30 minutes
+title: BA's Best Fried Chicken Sandwich
 ---
-
 ### Ingredients
 
 For the Chicken:

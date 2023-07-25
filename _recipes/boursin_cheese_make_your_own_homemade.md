@@ -1,14 +1,14 @@
 ---
-title: Boursin Cheese - Make Your Own Homemade
-category: Sides
-description: Make your own boursin cheese at home. Very easy and economical too! It can be used to prepare other dishes with great success.
-image: picBsZQaM.jpg
-size: 16 servings
-time: 10 minutes preparation, overnight chilling
 author: Elly in Canada
+category: Sides
+description: Make your own boursin cheese at home. Very easy and economical too! It
+  can be used to prepare other dishes with great success.
+image: boursin_cheese_make_your_own_homemade.jpg
+size: 16 servings
 source: https://www.food.com/recipe/boursin-cheese-make-your-own-homemade-substitute-clone-65204
+time: 10 minutes preparation, overnight chilling
+title: Boursin Cheese - Make Your Own Homemade
 ---
-
 ### Ingredients
 
 * `2` garlic cloves

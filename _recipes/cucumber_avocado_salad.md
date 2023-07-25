@@ -1,15 +1,16 @@
 ---
-title: Cucumber-Avocado Salad
-category: Sides
-description: Crunchy cucumbers and creamy avocados are the stars of this simple five-ingredient salad. Finish with a hit of red-pepper flakes for heat, or embellish with herbs, lettuces, beans, soft-boiled eggs, feta, nuts and so on.
-image: merlin_189372006_a9ab5728-f86c-4727-aedf-3f1f6f4633b8-articleLarge.jpg
-size: 4 servings
-time: 15 minutes
 author: Ali Slagle
-source: https://cooking.nytimes.com/recipes/1022411-cucumber-avocado-saladundefined
+category: Sides
+description: Crunchy cucumbers and creamy avocados are the stars of this simple five-ingredient
+  salad. Finish with a hit of red-pepper flakes for heat, or embellish with herbs,
+  lettuces, beans, soft-boiled eggs, feta, nuts and so on.
+image: cucumber_avocado_salad.jpg
 image_attribution: Christopher Simpson for The New York Times
+size: 4 servings
+source: https://cooking.nytimes.com/recipes/1022411-cucumber-avocado-saladundefined
+time: 15 minutes
+title: Cucumber-Avocado Salad
 ---
-
 ### Ingredients
 
 * `2` scallions, trimmed then sliced crosswise 1/4-inch-thick

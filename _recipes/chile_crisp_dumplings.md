@@ -1,19 +1,22 @@
 ---
-title: Chile Crisp Dumplings
-original_title: Chile Crisp Dumplings
+author: Genevieve Ko
 category: Entrees
-description: Great dumplings are as much about texture as taste, and these double the welcome contrast of tenderness and crunch. Simultaneously fried and steamed in a covered skillet, the wrappers develop crackling brown bases, while the tops become delicately chewy. Inside, the crunch of spicy chile crisp punctuates soft tofu and greens.
-image: merlin_182770566_40458909-be4a-4dd7-afe9-7eb27906aa0b-articleLarge.jpg
+description: Great dumplings are as much about texture as taste, and these double
+  the welcome contrast of tenderness and crunch. Simultaneously fried and steamed
+  in a covered skillet, the wrappers develop crackling brown bases, while the tops
+  become delicately chewy. Inside, the crunch of spicy chile crisp punctuates soft
+  tofu and greens.
+image: chile_crisp_dumplings.jpg
 image_attribution: Christopher Simpson
 image_source: The New York Times
+original_title: Chile Crisp Dumplings
 size: About 35 dumplings
-time: 1 hour
-author: Genevieve Ko
 source: https://cooking.nytimes.com/ourcooks/genevieve-ko/my-recipes?action=click&module=byline&region=recipe%20page
-vegan: ✓
-spicy: ✓
+spicy: "\u2713"
+time: 1 hour
+title: Chile Crisp Dumplings
+vegan: "\u2713"
 ---
-
 ### Ingredients
 
 * `8 ounces` firm tofu, cut into 1/4-inch slices

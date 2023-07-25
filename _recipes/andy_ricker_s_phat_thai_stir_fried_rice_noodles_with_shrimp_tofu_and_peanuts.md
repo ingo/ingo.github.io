@@ -1,15 +1,15 @@
 ---
-title: Andy Ricker's Phat Thai (Stir-Fried Rice Noodles With Shrimp, Tofu, and Peanuts)
-category: Entrees 
-description: A flavorful Thai dish with shrimp, tofu, and peanuts stir-fried with rice noodles.
-image: andy_ricker's_phat_thai_(stir_fried_rice_noodles_with_shrimp_tofu_and_peanuts)serious_eats_recipes.jpg
+author: Andy Ricker
+category: Entrees
+description: A flavorful Thai dish with shrimp, tofu, and peanuts stir-fried with
+  rice noodles.
+image: andy_ricker_s_phat_thai_stir_fried_rice_noodles_with_shrimp_tofu_and_peanuts.jpg
 image_attribution: Austin Bush
 size: 1 serving
-time: 1 hour
-author: Andy Ricker
 source: http://www.seriouseats.com/2013/11/andy-rickers-phat-thai-stir-fried-rice-noodles-shrimp-tofu-peanuts-recipe.html
+time: 1 hour
+title: Andy Ricker's Phat Thai (Stir-Fried Rice Noodles With Shrimp, Tofu, and Peanuts)
 ---
-
 ### Ingredients
 
 * `1 tbsp` medium-size dried shrimp, rinsed and patted dry

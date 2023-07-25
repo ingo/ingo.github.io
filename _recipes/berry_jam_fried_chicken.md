@@ -1,14 +1,16 @@
 ---
-title: Berry-Jam Fried Chicken
-category: Entrees 
-description: The name sounds like a sweet-tooth parade, but this recipe makes sense when you pair it with a spicy scallion cornmeal waffle. Almost any summer-fruit jam can be substituted in the marinade, and if you don't have peanut oil, use another oil with a high smoke point.
-image: berry_jam_fried_chicken_recipe_nyt_cooking.jpg
-size: 4-6 servings
-time: 35 minutes, plus at least 30 minutes’ marinating
 author: Nicole Taylor
+category: Entrees
+description: The name sounds like a sweet-tooth parade, but this recipe makes sense
+  when you pair it with a spicy scallion cornmeal waffle. Almost any summer-fruit
+  jam can be substituted in the marinade, and if you don't have peanut oil, use another
+  oil with a high smoke point.
+image: berry_jam_fried_chicken.jpg
+size: 4-6 servings
 source: https://cooking.nytimes.com/search?q=Nicole+Taylor&action=click&module=byline&region=recipe%20page
+time: "35 minutes, plus at least 30 minutes\u2019 marinating"
+title: Berry-Jam Fried Chicken
 ---
-
 ### Ingredients
 
 #### For the marinated chicken:

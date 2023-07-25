@@ -1,13 +1,13 @@
 ---
-title: Aebleskivers
-category: Breakfasts 
-description: A traditional Danish dessert, perfect for breakfast or a sweet treat. These pancake balls are delicious with jam or fruit and a drizzle of maple syrup.
+author: Traditional Danish Recipe
+category: Breakfasts
+description: A traditional Danish dessert, perfect for breakfast or a sweet treat.
+  These pancake balls are delicious with jam or fruit and a drizzle of maple syrup.
 image: aebleskivers.jpg
 size: 4 servings
 time: 30 minutes
-author: Traditional Danish Recipe
+title: Aebleskivers
 ---
-
 ### Ingredients
 
 * `2` eggs

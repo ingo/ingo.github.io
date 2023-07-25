@@ -1,12 +1,14 @@
 ---
-title: Couscous with Parmesan and Zucchini
 category: Sides
-description: Couscous is a simple, fast-cooking grain that goes particularly well with Middle-Eastern dishes like lamb. Often, we'll cook couscous, sauté some vegetables and toss the vegetables and couscous with some herbs, and cheese. This is one of the more successful combinations we've made.
-image: img_0793.jpg
+description: "Couscous is a simple, fast-cooking grain that goes particularly well\
+  \ with Middle-Eastern dishes like lamb. Often, we'll cook couscous, saut\xE9 some\
+  \ vegetables and toss the vegetables and couscous with some herbs, and cheese. This\
+  \ is one of the more successful combinations we've made."
+image: couscous_with_parmesan_and_zucchini.jpg
 size: 3 cups
 time: 20 minutes
+title: Couscous with Parmesan and Zucchini
 ---
-
 ### Ingredients
 
 * `2 tsp` olive oil

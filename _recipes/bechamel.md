@@ -1,16 +1,17 @@
 ---
-title: Béchamel
-original_title: Béchamel
-category: Sauces
-description: One of the mainstays of classic French cuisine is the white sauce called béchamel, a “mother sauce” from which many others are made, including the famously rich sauce mornay.
-image: bechamel.jpg
-size: 1 1/2 cups
-time: 20 minutes
 author: Martha Rose Shulman
+category: Sauces
+description: "One of the mainstays of classic French cuisine is the white sauce called\
+  \ b\xE9chamel, a \u201Cmother sauce\u201D from which many others are made, including\
+  \ the famously rich sauce mornay."
+image: bechamel.jpg
+original_title: "B\xE9chamel"
+size: 1 1/2 cups
 source: http://www.martha-rose-shulman.com/
-vegan: ✓
+time: 20 minutes
+title: "B\xE9chamel"
+vegan: "\u2713"
 ---
-
 ### Ingredients
 
 * `2 tbsp` extra virgin olive oil

@@ -1,12 +1,12 @@
 ---
-title: Grilled Vegetables with Mustard Sauce
 category: Sides
 description: A very tasty way to grill and serve vegetables.
+image: grilled_vegetables_with_mustard_sauce.jpg
 size: 2 cups
 time: 1 hour
-veggie: ✓
+title: Grilled Vegetables with Mustard Sauce
+veggie: "\u2713"
 ---
-
 ### Ingredients
 
 #### Basting Sauce

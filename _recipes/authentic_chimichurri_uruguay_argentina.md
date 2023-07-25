@@ -1,16 +1,16 @@
 ---
-title: Authentic Chimichurri (Uruguay & Argentina)
-original_title: Chimichurri
-category: Sauces 
-description: Authentic Chimichurri from Uruguay & Argentina is the best accompaniment to any barbecued or grilled meats! Also used to serve as a dressing on salads!
-image: authentic_chimichurri_(uruguay_&_argentina)_cafe_delites.jpg
-size: Serves as a side
-time: 20 mins
 author: Cafe Delites
+category: Sauces
+description: Authentic Chimichurri from Uruguay & Argentina is the best accompaniment
+  to any barbecued or grilled meats! Also used to serve as a dressing on salads!
+image: authentic_chimichurri_uruguay_argentina.jpg
+original_title: Chimichurri
+size: Serves as a side
 source: https://cafedelites.com/wprm_print/recipe/40200
-spicy: ✓
+spicy: "\u2713"
+time: 20 mins
+title: Authentic Chimichurri (Uruguay & Argentina)
 ---
-### Ingredients
 
 * `1/2 cup` olive oil
 * `2 tbsp` red wine vinegar

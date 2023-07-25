@@ -1,11 +1,11 @@
 ---
-title: Ham Stir Fry
 category: Entrees
 description: A great way to use leftover roast ham
+image: ham_stir_fry.jpg
 size: 4 servings
 time: 30 minutes
+title: Ham Stir Fry
 ---
-
 ### Ingredients
 
 * `12 ounces` roast ham, cut into cubes

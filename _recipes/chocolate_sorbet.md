@@ -1,14 +1,14 @@
 ---
-title: Chocolate Sorbet
-category: Desserts
-description: An incredibly rich concoction, almost like eating frozen fudge. Once you try this recipe, you won't have to go searching any further.
-image: img_3377.jpg
-size: 1 quart
-time: 3 hours
 author: Double Rainbow
+category: Desserts
+description: An incredibly rich concoction, almost like eating frozen fudge. Once
+  you try this recipe, you won't have to go searching any further.
+image: chocolate_sorbet.jpg
+size: 1 quart
 source: http://www.amazon.com/Perfect-Scoop-Sorbets-Granitas-Accompaniments/dp/1580088082/ref=sr_1_1?ie=UTF8&s=books&qid=1230264322&sr=1-1
+time: 3 hours
+title: Chocolate Sorbet
 ---
-
 This recipe was inspired by the chocolate sorbet by Double Rainbow ice cream, a San Francisco company. It uses both chopped chocolate and cocoa powder, a combination that reminds me of the fantastic hot chocolate recipe from Pierre Hermé in Jeffrey Steingarten's _[It Must've Been Something I Ate](http://www.amazon.com/Mustve-Been-Something-I-Ate/dp/0375727124/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1230264290&sr=8-1)._ The result is an incredibly rich concoction--almost like eating frozen fudge.
 
 ### Ingredients

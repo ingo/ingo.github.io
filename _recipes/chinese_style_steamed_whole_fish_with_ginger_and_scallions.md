@@ -1,16 +1,17 @@
 ---
-title: Chinese-Style Steamed Whole Fish with Ginger and Scallions
-original_title: Chinese-Style Steamed Whole Fish with Ginger and Scallions
-category: Entrees
-description: A delicious and easy-to-make Chinese-style steamed whole fish. The fish is cooked on a bed of aromatics with a splash of sake, then dressed with a simple soy sauce mixture and garnished with cilantro, scallions, and ginger.
-image: f5653155-1345-4694-9d8b-68cf52b9361b.png
-size: 2 servings
-time: 30 minutes
 author: Alexandra
+category: Entrees
+description: A delicious and easy-to-make Chinese-style steamed whole fish. The fish
+  is cooked on a bed of aromatics with a splash of sake, then dressed with a simple
+  soy sauce mixture and garnished with cilantro, scallions, and ginger.
+favorite: "\u2713"
+image: chinese_style_steamed_whole_fish_with_ginger_and_scallions.jpg
+original_title: Chinese-Style Steamed Whole Fish with Ginger and Scallions
+size: 2 servings
 source: https://alexandracooks.com/2019/03/28/chinese-style-steamed-whole-fish-with-ginger-and-scallions/
-favorite: ✓
+time: 30 minutes
+title: Chinese-Style Steamed Whole Fish with Ginger and Scallions
 ---
-
 This recipe is inspired by Alana Kysar’s Aloha Kitchen. Cooking a whole fish might seem intimidating, but this method is both fun and forgiving. The fish is steamed on a bed of aromatics, then dressed with a simple soy sauce mixture and garnished with fresh herbs. The result is a moist, flavorful fish that's a delight to eat.
 
 ### Ingredients

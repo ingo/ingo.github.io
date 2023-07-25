@@ -1,12 +1,12 @@
 ---
-title: Butter & Garlic Cream Sauce
 category: Sauces
-description: This butter and garlic cream sauce comes together in just minutes and is the perfect topper for pasta, ravioli, shrimp, seafood or steak!
-image: buttergarliccreamsauce.jpg
+description: This butter and garlic cream sauce comes together in just minutes and
+  is the perfect topper for pasta, ravioli, shrimp, seafood or steak!
+image: butter_garlic_cream_sauce.jpg
 size: 4 servings
 time: 15 minutes
+title: Butter & Garlic Cream Sauce
 ---
-
 A great sauce for everything.
 
 ### Ingredients

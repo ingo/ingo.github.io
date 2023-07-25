@@ -1,16 +1,19 @@
 ---
-title: Braised Chicken Thighs With Olives and Herbs
-original_title: Braised Chicken Thighs With Olives and Herbs
-category: Entrees
-description: These fall-off-the-bone tender chicken thighs from chef Carla Hall are ideal for any night of the week. Hall starts with her Smoked Paprika and Sun-Dried Tomato Potlikker as a rich, smoky flavor foundation, then adds Kalamata olives, lemon zest, and fresh herbs for bright, uplifting notes.
-image: Braised_Chicken_Thighs_With_Olives_and_Herbs.jpg
-image_attribution: Emma Fishman, food styling by Micah Morton, prop styling by Stephanie Yeh
-size: 4 servings
-time: 1 hour
 author: Carla Hall
+category: Entrees
+description: These fall-off-the-bone tender chicken thighs from chef Carla Hall are
+  ideal for any night of the week. Hall starts with her Smoked Paprika and Sun-Dried
+  Tomato Potlikker as a rich, smoky flavor foundation, then adds Kalamata olives,
+  lemon zest, and fresh herbs for bright, uplifting notes.
+image: braised_chicken_thighs_with_olives_and_herbs.jpg
+image_attribution: Emma Fishman, food styling by Micah Morton, prop styling by Stephanie
+  Yeh
+original_title: Braised Chicken Thighs With Olives and Herbs
+size: 4 servings
 source: https://www.bonappetit.com/recipe/braised-chicken-thighs-with-olives-and-herbs
+time: 1 hour
+title: Braised Chicken Thighs With Olives and Herbs
 ---
-
 ### Ingredients
 
 * `4-6` bone-in, skin-on chicken thighs

@@ -1,13 +1,14 @@
 ---
-title: Roast Beef Au Jus
+author: Culinary Institute of America's The New Professional Chef
 category: Entrees
-description: A well-cooked roast beef with a dark flavorful "jus" perfect for a French Dip sandwich. This method is fairly foolproof, and yields a good roast with a large pink center.
-image: img_1488.jpg
+description: A well-cooked roast beef with a dark flavorful "jus" perfect for a French
+  Dip sandwich. This method is fairly foolproof, and yields a good roast with a large
+  pink center.
+image: roast_beef_au_jus.jpg
 size: 3-4 lbs servings
 time: 3 hours
-author: Culinary Institute of America's The New Professional Chef
+title: Roast Beef Au Jus
 ---
-
 ### Ingredients
 
 * `1` 4-5 beef roast, top sirloin preferred

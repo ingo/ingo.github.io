@@ -1,14 +1,15 @@
 ---
-title: Classic Fresh Egg Pasta
-category: Entrees
-description: A light, springy, delicate homemade fresh pasta, this recipe is as well-suited to slicing into noodles as it is to making stuffed pastas, which require thin, pliable sheets of dough.
-image: 20141222-pasta-making-vicky-wasik-50.jpg
-size: Varies
-time: 1 hour
 author: Niki Achitoff-Gray
+category: Entrees
+description: A light, springy, delicate homemade fresh pasta, this recipe is as well-suited
+  to slicing into noodles as it is to making stuffed pastas, which require thin, pliable
+  sheets of dough.
+image: classic_fresh_egg_pasta.jpg
+size: Varies
 source: https://www.seriouseats.com/2015/01/best-easy-all-purpose-fresh-pasta-dough-recipe-instructions.html
+time: 1 hour
+title: Classic Fresh Egg Pasta
 ---
-
 Making fresh pasta can be an intimidating process, especially if you're not used to working with flour and water. But it's also an imminently achievable skill, and once you're comfortable with the basic technique, there's really no reason why you can't reap the rewards on a regular basis. This recipe is for a light, springy, delicate fresh pasta that's as well-suited to slicing into noodles as it is to making stuffed pastas, which require super-thin, pliable sheets of dough.
 
 ### Ingredients

@@ -1,16 +1,16 @@
 ---
-title: Grilled Garlic Bread
+author: NYT Cooking
 category: Sides
-description: A quick and easy, but delicious side for summer dinners. Hot, smoky garlic bread is equally friendly to a juicy steak, a whole fish or a Caprese salad.
-image: 20SALAD4-articleLarge.jpg
+description: A quick and easy, but delicious side for summer dinners. Hot, smoky garlic
+  bread is equally friendly to a juicy steak, a whole fish or a Caprese salad.
+image: grilled_garlic_bread.jpg
 image_attribution: Sabra Krock
 image_source: The New York Times
 size: 1 large (or 2 small loaves)
-time: 30 minutes
-author: NYT Cooking
 source: https://cooking.nytimes.com/
+time: 30 minutes
+title: Grilled Garlic Bread
 ---
-
 This grilled garlic bread is a quick and easy side for summer dinners. It's hot, smoky, and friendly to a juicy steak, a whole fish, or a Caprese salad. Any loaf that is not too thick can be used, but whole grain stands up better to the oil-garlic-fire treatment. You may doubt that using garlic cloves with the papery skins on will work, but the rough surface of the toasted bread rubs them right off.
 
 ### Ingredients

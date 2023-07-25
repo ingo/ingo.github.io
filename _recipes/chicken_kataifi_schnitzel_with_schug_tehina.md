@@ -1,16 +1,16 @@
 ---
-title: Chicken Kataifi Schnitzel with Schug Tehina
-original_title: Chicken Kataifi Schnitzel with Schug Tehina
-category: Entrees
-description: Crispy chicken schnitzel with a crunchy kataifi crust and a spicy schug tehina sauce. A recipe adapted from the menu of K'Far, a Brooklyn restaurant.
-image: placeholder.jpg
-size: 2 servings
-time: 40 minutes
 author: Michael Solomonov
+category: Entrees
+description: Crispy chicken schnitzel with a crunchy kataifi crust and a spicy schug
+  tehina sauce. A recipe adapted from the menu of K'Far, a Brooklyn restaurant.
+image: chicken_kataifi_schnitzel_with_schug_tehina.jpg
+original_title: Chicken Kataifi Schnitzel with Schug Tehina
+size: 2 servings
 source: https://www.today.com/food/recipes
-spicy: ✓
+spicy: "\u2713"
+time: 40 minutes
+title: Chicken Kataifi Schnitzel with Schug Tehina
 ---
-
 This recipe was adapted from the menu of K'Far, a Brooklyn restaurant. The crispy chicken schnitzel is coated with a crunchy kataifi crust and served with a spicy schug tehina sauce. You can typically find kataifi in the Middle Eastern section of a supermarket or order it online.
 
 ### Ingredients

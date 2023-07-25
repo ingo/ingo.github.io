@@ -1,14 +1,14 @@
 ---
-title: Pad Thai
+author: Victor Sodsook
 category: Entrees
-description: This recipe comes via Victor Sodsook. It's Ingo's favorite ways to make this dish.
-image: padthai.jpg
+description: This recipe comes via Victor Sodsook. It's Ingo's favorite ways to make
+  this dish.
+favorite: "\u2713"
+image: pad_thai.jpg
 size: 2-3 servings
 time: 1 hour
-author: Victor Sodsook
-favorite: ✓
+title: Pad Thai
 ---
-
 ### Ingredients
 
 * `8 oz.` dried rice-stick noodles, or `1 16 oz.` package fresh (preferred)

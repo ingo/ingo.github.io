@@ -1,17 +1,19 @@
 ---
-title: Grilled Chicken With Parsley-Olive Sauce
-original_title: Grilled Chicken With Parsley-Olive Sauce
+author: Ali Slagle
 category: Entrees
-description: Boneless, skinless thighs or breasts grilled to perfection and plunged into a bright sauce made with parsley, olives, chile, lemon juice and small bits of lemon rind for added juiciness. Serve with plenty of sauce, and perhaps a salad, grilled bread or vegetables.
-image: merlin_189645756_e8fff0ad-8158-4d35-9de9-6608ce943124-articleLarge.jpg
+description: Boneless, skinless thighs or breasts grilled to perfection and plunged
+  into a bright sauce made with parsley, olives, chile, lemon juice and small bits
+  of lemon rind for added juiciness. Serve with plenty of sauce, and perhaps a salad,
+  grilled bread or vegetables.
+image: grilled_chicken_with_parsley_olive_sauce.jpg
 image_attribution: Johnny Miller
 image_source: The New York Times
+original_title: Grilled Chicken With Parsley-Olive Sauce
 size: 4 servings
-time: 25 minutes, plus grill heating
-author: Ali Slagle
 source: https://cooking.nytimes.com/search?q=Ali+Slagle&action=click&module=byline&region=recipe%20page
+time: 25 minutes, plus grill heating
+title: Grilled Chicken With Parsley-Olive Sauce
 ---
-
 Boneless, skinless thighs are a boon to grilling because they’re almost impossible to overcook. Breasts are a bit trickier because they are low in fat and can dry out quickly. But this technique works beautifully for both. If you have the time, dry brine in advance (see Tips). When ready to eat, grill the chicken longer on the first side to get a little color (if the breasts are uneven in thickness, pound them until they’re even first), finish cooking on the other side, then plunge it into a bright sauce for up to 30 minutes for added juiciness. The sauce here is made with parsley, olives, chile, lemon juice and small bits of lemon rind for tartness and texture, but adjust flavorings as you wish. Serve the chicken with plenty of sauce, and perhaps a salad, grilled bread or vegetables. (Save some for the next day’s lunch, too; the smokiness will develop as it sits.)
 
 ### Ingredients

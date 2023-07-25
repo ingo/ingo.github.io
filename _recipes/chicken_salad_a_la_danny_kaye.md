@@ -1,13 +1,13 @@
 ---
-title: Chicken Salad à la Danny Kaye
+author: Danny Kaye
 category: Entrees
-description: A delicious chicken salad recipe with a unique cold poaching technique. Served with a tangy Dijon mustard dressing and fresh tarragon leaves.
-image: placeholder.jpg
+description: A delicious chicken salad recipe with a unique cold poaching technique.
+  Served with a tangy Dijon mustard dressing and fresh tarragon leaves.
+image: chicken_salad_a_la_danny_kaye.jpg
 size: 4 servings
 time: 1 hour
-author: Danny Kaye
+title: "Chicken Salad \xE0 la Danny Kaye"
 ---
-
 This recipe not only gives you a delicious chicken salad but also teaches you the methodology for Cold Poaching a whole chicken for Chinese Ginger Chicken.
 
 ### Ingredients

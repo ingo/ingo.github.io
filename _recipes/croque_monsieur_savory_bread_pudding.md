@@ -1,14 +1,15 @@
 ---
-title: Croque Monsieur Savory Bread Pudding
-category: Entrees
-description: A deconstructed Croque Monsieur with caramelized onions, fresh thyme, nutty cheese, and all sorts of toasty, crunchy bits. Perfect for lazy days and long brunches.
-image: 110a7009-3755-4384-981c-352381982987.jpg
-size: 8 servings
-time: 1 hour 30 minutes
 author: Aida Mollenkamp
+category: Entrees
+description: A deconstructed Croque Monsieur with caramelized onions, fresh thyme,
+  nutty cheese, and all sorts of toasty, crunchy bits. Perfect for lazy days and long
+  brunches.
+image: croque_monsieur_savory_bread_pudding.jpg
+size: 8 servings
 source: http://saltandwind.com
+time: 1 hour 30 minutes
+title: Croque Monsieur Savory Bread Pudding
 ---
-
 This recipe is basically a giant deconstructed Croque Monsieur (aka ham, cheese, French Bread, and all things delicious). With caramelized onions, fresh thyme, nutty cheese, and all sorts of toasty, crunchy bits, it's make ahead and easy to put together, which makes it pretty much perfect for lazy days and long brunches.
 
 ### Ingredients

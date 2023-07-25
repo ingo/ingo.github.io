@@ -1,15 +1,16 @@
 ---
-title: Borek Dough
-original_title: Burek
-category: Sides 
-description: A delicious filled pastry that has been adopted by many nations surrounding present day Turkey. This recipe includes two varieties of burek, one cheese and one meat & potato.
-image: a4666abd_641a_4dd1_bac1_2f598376f459.jpg
-size: 2 servings
-time: 1 hour
 author: heneedsfood.com
+category: Sides
+description: A delicious filled pastry that has been adopted by many nations surrounding
+  present day Turkey. This recipe includes two varieties of burek, one cheese and
+  one meat & potato.
+image: borek_dough.jpg
+original_title: Burek
+size: 2 servings
 source: http://heneedsfood.com/2013/04/burek-two-ways/
+time: 1 hour
+title: Borek Dough
 ---
-
 ### Ingredients
 
 #### For the dough:

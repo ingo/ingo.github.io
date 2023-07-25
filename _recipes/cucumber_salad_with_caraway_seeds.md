@@ -1,13 +1,12 @@
 ---
-title: Cucumber Salad With Caraway Seeds
+author: Ingo Muschenetz
 category: Sides
 description: A very simple, very German salad. Great with spicy foods.
-image: cucumber_salad.jpg
+image: cucumber_salad_with_caraway_seeds.jpg
 size: 2 cups
 time: 1 hour 10 minutes
-author: Ingo Muschenetz
+title: Cucumber Salad With Caraway Seeds
 ---
-
 ### Ingredients
 
 * `2-3` cucumbers

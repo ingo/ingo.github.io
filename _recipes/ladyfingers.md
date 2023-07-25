@@ -1,12 +1,11 @@
 ---
-title: Ladyfingers
 category: Desserts
 description: A classic recipe for making these, used in Tiramisu.
-image: tiramisu.jpg
+image: ladyfingers.jpg
 size: 24-36 servings
 time: 30 minutes
+title: Ladyfingers
 ---
-
 ### Ingredients
 
 * `3` Eggs, separated

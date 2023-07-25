@@ -1,15 +1,15 @@
 ---
-title: Wet Roast Chicken with Mushroom Sauce
-category: Entrees
-description: A savory roast chicken recipe perfect for a cast iron pot, served with a parsnip-pumpkin puree.
-image: img_3101.jpg
-size: 4 servings
-time: 2 hours
 author: Meathenge
+category: Entrees
+description: A savory roast chicken recipe perfect for a cast iron pot, served with
+  a parsnip-pumpkin puree.
+favorite: "\u2713"
+image: wet_roast_chicken_with_mushroom_sauce.jpg
+size: 4 servings
 source: http://www.cyberbilly.com/meathenge/archives/000887.html
-favorite: ✓
+time: 2 hours
+title: Wet Roast Chicken with Mushroom Sauce
 ---
-
 ### Ingredients
 
 * `1` 4 lb. roasting chicken

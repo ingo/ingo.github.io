@@ -1,17 +1,17 @@
 ---
-title: Dungeness Crab Cioppino
-original_title: Judith's Dungeness Crab Cioppino
-category: Entrees
-description: A hearty, briny recipe, full of crab, shrimp and clams, perfect for Christmas Eve dinner.
-image: placeholder.jpg
-size: 8-10 servings
-time: 1.5 hours
 author: Judith Tirado
+category: Entrees
+description: A hearty, briny recipe, full of crab, shrimp and clams, perfect for Christmas
+  Eve dinner.
+favorite: "\u2713"
+image: dungeness_crab_cioppino.jpg
+original_title: Judith's Dungeness Crab Cioppino
+size: 8-10 servings
 source: http://www.foodandwine.com/holiday-guide/
-favorite: ✓
-spicy: ✓
+spicy: "\u2713"
+time: 1.5 hours
+title: Dungeness Crab Cioppino
 ---
-
 For Christmas Eve dinner, Judith Tirado, Michael Mina's late mother-in-law, always prepared cioppino—the San Francisco seafood stew that owes its origins to fishermen from Italy's Ligurian coast. "She'd spend a whole day infusing the broth with basil and tomatoes," Mina recalls. Now he carries on the tradition by making her hearty, briny recipe, full of crab, shrimp and clams.
 
 ### Ingredients

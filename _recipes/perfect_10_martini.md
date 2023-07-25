@@ -1,12 +1,11 @@
 ---
-title: Perfect 10 Martini
+author: Howard Tang
 category: Beverages
 description: A great martini courtesy of Howard Tang, a friend of Jane's.
-image: img_0990.jpg
+image: perfect_10_martini.jpg
 size: 4 servings
-author: Howard Tang
+title: Perfect 10 Martini
 ---
-
 ### Ingredients
 
 * `1 c.` Tanquery 10 Gin

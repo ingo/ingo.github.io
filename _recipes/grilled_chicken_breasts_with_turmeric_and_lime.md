@@ -1,15 +1,17 @@
 ---
-title: Grilled Chicken Breasts With Turmeric and Lime
-category: Entrees
-description: The secret to these five-star chicken breasts is a simple, flavorful marinade of turmeric, rosemary, garlic, lime juice and olive oil. Most importantly, as with all white meat chicken, don't overcook it or you'll end up with well-seasoned shoe leather.
-image: 21COOKING-GRILLEDCHICBREAST2-articleLarge-v2.jpg
-size: 4 to 6 servings
-time: 15 minutes
 author: Pierre Franey
-source: https://cooking.nytimes.com/search?q=Pierre+Franey&action=click&module=byline&region=recipe%20page
+category: Entrees
+description: The secret to these five-star chicken breasts is a simple, flavorful
+  marinade of turmeric, rosemary, garlic, lime juice and olive oil. Most importantly,
+  as with all white meat chicken, don't overcook it or you'll end up with well-seasoned
+  shoe leather.
+image: grilled_chicken_breasts_with_turmeric_and_lime.jpg
 image_attribution: Craig Lee for The New York Times
+size: 4 to 6 servings
+source: https://cooking.nytimes.com/search?q=Pierre+Franey&action=click&module=byline&region=recipe%20page
+time: 15 minutes
+title: Grilled Chicken Breasts With Turmeric and Lime
 ---
-
 This recipe is a simple, flavorful marinade of turmeric, rosemary, garlic, lime juice and olive oil. Most importantly, as with all white meat chicken, don't overcook it or you'll end up with well-seasoned shoe leather.
 
 ### Ingredients

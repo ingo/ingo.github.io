@@ -1,16 +1,19 @@
 ---
-title: Ginger-Lime Chicken
+author: Ali Slagle
 category: Entrees
-description: Buzzing with the bright flavors of ginger and lime, this chicken dish is a delightful surprise. The secret ingredient is mayonnaise, which carries flavor, sticks to the meat well, encourages browning and prevents the pieces of lime zest and ginger from burning. Serve with a pile of white rice and a fresh green salad topped with thinly sliced avocado.
-image: as-ginger-lime-chicken-articleLarge.jpg
+description: Buzzing with the bright flavors of ginger and lime, this chicken dish
+  is a delightful surprise. The secret ingredient is mayonnaise, which carries flavor,
+  sticks to the meat well, encourages browning and prevents the pieces of lime zest
+  and ginger from burning. Serve with a pile of white rice and a fresh green salad
+  topped with thinly sliced avocado.
+image: ginger_lime_chicken.jpg
 image_attribution: Johnny Miller
 image_source: The New York Times
 size: 4 servings
-time: 15 minutes
-author: Ali Slagle
 source: https://cooking.nytimes.com/search?q=Ali+Slagle&action=click&module=byline&region=recipe%20page
+time: 15 minutes
+title: Ginger-Lime Chicken
 ---
-
 ### Ingredients
 
 * `1 ½ to 2 pounds` boneless, skinless chicken thighs or breasts 

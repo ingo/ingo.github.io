@@ -1,16 +1,16 @@
 ---
-title: Porter Pot Roast
-original_title: Classic Beer Pot Roast
-category: Entrees
-description: Succulent pot roast with dark ale. Tips on the best cuts of beef and styles of beer.
-image: Beer-Pot-Roast-4-1-735x1103.jpg
-size: 6-8 servings
-time: 3 hours 40 minutes
 author: Craft Beering
+category: Entrees
+description: Succulent pot roast with dark ale. Tips on the best cuts of beef and
+  styles of beer.
+favorite: "\u2713"
+image: porter_pot_roast.jpg
+original_title: Classic Beer Pot Roast
+size: 6-8 servings
 source: https://www.craftbeering.com/beer-pot-roast-recipe/
-favorite: ✓
+time: 3 hours 40 minutes
+title: Porter Pot Roast
 ---
-
 This recipe demonstrates how to make a succulent pot roast with dark ale. We will be using rump and porter ale. The affinity between a well-chosen brew and beef goes beyond pairing the two to amplify each other's flavor base. In our cooking with beer escapades we tend to fall on the combination again and again to create flavor-packed, tender meat. A pot roast braised in beer is a perfect example.
 
 ### Ingredients

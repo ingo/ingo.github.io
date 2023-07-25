@@ -1,14 +1,14 @@
 ---
-title: Crockpot Ranch Mushrooms
+author: Ingo Muschenetz
 category: Sides
-description: A simple yet delicious crockpot dish that always has people asking for the recipe.
-image: crockpotranchmushrooms.jpg
+description: A simple yet delicious crockpot dish that always has people asking for
+  the recipe.
+favorite: "\u2713"
+image: crockpot_ranch_mushrooms.jpg
 size: 4-6 servings
 time: Few hours
-author: Ingo Muschenetz
-favorite: ✓
+title: Crockpot Ranch Mushrooms
 ---
-
 ### Ingredients
 
 * `1-2 lbs` mushrooms

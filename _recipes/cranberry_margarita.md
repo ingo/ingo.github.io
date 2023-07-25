@@ -1,10 +1,10 @@
 ---
-title: Cranberry Margarita
 category: Beverages
 description: Fantastic margarita recipe.
+image: cranberry_margarita.jpg
 size: 4 servings
+title: Cranberry Margarita
 ---
-
 ### Ingredients
 
 * `1 1/4 cup` cranberry juice

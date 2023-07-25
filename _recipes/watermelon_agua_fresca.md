@@ -1,15 +1,15 @@
 ---
-title: Watermelon Agua Fresca
+author: null
 category: Beverages
-description: Watermelon is fun to eat, but even more fun to drink. This cooling drink is a perfect antidote to hot summer days.
-image: watermelon_agua_fresca_scaled.jpg
+description: Watermelon is fun to eat, but even more fun to drink. This cooling drink
+  is a perfect antidote to hot summer days.
+favorite: null
+image: watermelon_agua_fresca.jpg
 size: 2 cups
-time: 
-author: 
-source: 
-favorite: 
+source: null
+time: null
+title: Watermelon Agua Fresca
 ---
-
 ### Ingredients
 
 * `1` 10lb watermelon

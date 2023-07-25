@@ -1,16 +1,18 @@
 ---
-title: Guacamole With Grilled Corn
-original_title: Guacamole With Grilled Corn
+author: "J. Kenji L\xF3pez-Alt"
 category: Sides
-description: This simple summer dip combines guacamole with sweet grilled corn and tangy Cotija cheese. The key to great guacamole is to pound the aromatics in a mortar and pestle or molcajete with salt, producing a guacamole with deep flavor from minimal ingredients.
-image: merlin_211506231_42aa7af6-f4c5-42b2-b986-72121b65762c-master768.jpg
+description: This simple summer dip combines guacamole with sweet grilled corn and
+  tangy Cotija cheese. The key to great guacamole is to pound the aromatics in a mortar
+  and pestle or molcajete with salt, producing a guacamole with deep flavor from minimal
+  ingredients.
+image: guacamole_with_grilled_corn.jpg
 image_attribution: David Malosh for The New York Times
+original_title: Guacamole With Grilled Corn
 size: About 3 cups
-time: 25 minutes, plus time for grill to heat
-author: J. Kenji López-Alt
 source: https://cooking.nytimes.com/recipes/1023414-guacamole-with-grilled-corn
+time: 25 minutes, plus time for grill to heat
+title: Guacamole With Grilled Corn
 ---
-
 ### Ingredients
 
 * `2` ears corn, shucked

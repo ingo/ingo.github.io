@@ -1,10 +1,11 @@
 ---
-title: Tarragon Seafood Cocktail Sauce
 category: Sauces
-description: An easy-to-make sauce for shrimp or crab claws. It's also good prepared with fresh dill or thyme instead of tarragon.
+description: An easy-to-make sauce for shrimp or crab claws. It's also good prepared
+  with fresh dill or thyme instead of tarragon.
+image: tarragon_seafood_cocktail_sauce.jpg
 size: 2 cups
+title: Tarragon Seafood Cocktail Sauce
 ---
-
 ### Ingredients
 
 * `1 cup` ketchup

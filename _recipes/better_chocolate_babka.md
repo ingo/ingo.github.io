@@ -1,16 +1,17 @@
 ---
-title: Better Chocolate Babka
-original_title: Chocolate Babka
-category: Desserts
-description: A rich, buttery, crumbly and intensely chocolaty babka that's sure to satisfy your sweet tooth. This recipe has been adapted and improved over time to make it as easy and delicious as possible.
-image: 15481949495_30e3295c12_z.jpg
-size: 2 loaf-sized chocolate babkas
-time: 1 day (including overnight dough refrigeration)
 author: Smitten Kitchen
+category: Desserts
+description: A rich, buttery, crumbly and intensely chocolaty babka that's sure to
+  satisfy your sweet tooth. This recipe has been adapted and improved over time to
+  make it as easy and delicious as possible.
+favorite: "\u2713"
+image: better_chocolate_babka.jpg
+original_title: Chocolate Babka
+size: 2 loaf-sized chocolate babkas
 source: https://smittenkitchen.com/blog/2014/10/better-chocolate-babka/
-favorite: ✓
+time: 1 day (including overnight dough refrigeration)
+title: Better Chocolate Babka
 ---
-
 This chocolate babka recipe has been refined over time, resulting in a rich, buttery, crumbly and intensely chocolaty dessert. The dough is made with a hint of orange zest for a unique twist, and the filling is a decadent chocolate paste. Despite the seemingly complicated process, the end result is well worth the effort. 
 
 ### Ingredients

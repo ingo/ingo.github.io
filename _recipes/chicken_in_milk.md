@@ -1,15 +1,17 @@
 ---
-title: Chicken in Milk
-original_title: Jamie Oliver’s Chicken in Milk Recipe
-category: Entrees
-description: A slightly odd but really fantastic combination that must be tried. The dish’s merits are, in fact, legion. The milk breaks apart in the acidity and heat to become a ropy and fascinating sauce, and the garlic goes soft and sweet within it, its fragrance filigreed with the cinnamon and sage.
-image: 23mag-23eat-t_CA0-articleLarge.jpg
-image_attribution: Gentl and Hyers for The New York Times
-time: 2 hours
 author: Jamie Oliver
+category: Entrees
+description: "A slightly odd but really fantastic combination that must be tried.\
+  \ The dish\u2019s merits are, in fact, legion. The milk breaks apart in the acidity\
+  \ and heat to become a ropy and fascinating sauce, and the garlic goes soft and\
+  \ sweet within it, its fragrance filigreed with the cinnamon and sage."
+image: chicken_in_milk.jpg
+image_attribution: Gentl and Hyers for The New York Times
+original_title: "Jamie Oliver\u2019s Chicken in Milk Recipe"
 source: https://www.nytimes.com/2017/04/20/magazine/the-secrets-of-jamie-olivers-chicken-in-milk.html
+time: 2 hours
+title: Chicken in Milk
 ---
-
 Jamie Oliver, the British chef and cooking star, once called this recipe, which is based on a classic Italian one for pork in milk, “a slightly odd but really fantastic combination that must be tried.” The dish’s merits are, in fact, legion. You sear a whole chicken in butter and a little oil, then dump out most of the fat and add cinnamon and garlic to the pot, along with a ton of lemon peel, sage leaves and a few cups of milk, then slide it into a hot oven to create one of the great dinners of all time.
 
 ### Ingredients

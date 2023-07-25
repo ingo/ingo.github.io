@@ -1,17 +1,19 @@
 ---
-title: Bulgogi Sauce
-original_title: 불고기 소스
-category: Entrees 
-description: A versatile 'mother' sauce traditionally used for beef in Korean cuisine. At Chan Seattle, we do a fairly traditional preparation of bulgogi sauce but with a few tweaks. One is using Coca-Cola in our sauce to help tenderize the meat and bring some acidity to the dish.
-image: 7ff211_7725adf94e6142afaf08a8c51c79ae32~mv2.webp
-size: 4-6 servings
-time: 3 hours 30 minutes
 author: Heong Soon Park
+category: Entrees
+description: A versatile 'mother' sauce traditionally used for beef in Korean cuisine.
+  At Chan Seattle, we do a fairly traditional preparation of bulgogi sauce but with
+  a few tweaks. One is using Coca-Cola in our sauce to help tenderize the meat and
+  bring some acidity to the dish.
+image: bulgogi_sauce.jpg
+original_title: "\uBD88\uACE0\uAE30 \uC18C\uC2A4"
+size: 4-6 servings
 source: http://www.chanseattle.com/blog/author/Heong-Soon-Park
-spicy: ✓
-umami: ✓
+spicy: "\u2713"
+time: 3 hours 30 minutes
+title: Bulgogi Sauce
+umami: "\u2713"
 ---
-
 ### Ingredients
 
 * `1 c` Soy sauce

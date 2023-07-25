@@ -1,29 +1,29 @@
 ---
-title: Giant Crinkled Chocolate Chip Cookies
-original_title: Giant Crinkled Chocolate Chip Cookies
-category: Desserts
-description: A unique take on the classic chocolate chip cookie, with a special technique to create rippled edges and a soft, chocolate-filled center.
-image: 04Cookie-articleLarge.jpg
-size: 10 cookies
-time: 30 minutes, plus chilling
 author: Sarah Kieffer
-source: http://www.nytimes.com/2017/09/29/dining/chocolate-chip-cookie-recipe-instagram.html
+category: Desserts
+description: A unique take on the classic chocolate chip cookie, with a special technique
+  to create rippled edges and a soft, chocolate-filled center.
+image: giant_crinkled_chocolate_chip_cookies.jpg
 image_attribution: Peter DaSilva for The New York Times
 nutrition:
-  - 482 calories
-  - 24 g fat
-  - 14 g saturated fat
-  - 0 g trans fat
-  - 6 g monounsaturated fat
-  - 1 g polyunsaturated fat
-  - 66 g carbohydrates
-  - 1 g dietary fiber
-  - 44 g sugars
-  - 4 g protein
-  - 64 mg cholesterol
-  - 246 mg sodium
+- 482 calories
+- 24 g fat
+- 14 g saturated fat
+- 0 g trans fat
+- 6 g monounsaturated fat
+- 1 g polyunsaturated fat
+- 66 g carbohydrates
+- 1 g dietary fiber
+- 44 g sugars
+- 4 g protein
+- 64 mg cholesterol
+- 246 mg sodium
+original_title: Giant Crinkled Chocolate Chip Cookies
+size: 10 cookies
+source: http://www.nytimes.com/2017/09/29/dining/chocolate-chip-cookie-recipe-instagram.html
+time: 30 minutes, plus chilling
+title: Giant Crinkled Chocolate Chip Cookies
 ---
-
 This recipe by baker and blogger Sarah Kieffer brings a new twist to the classic chocolate chip cookie. The unique technique of banging the pan during baking creates rippled edges that shatter in your mouth and a center that is soft and full of chocolate. Make sure to follow her instructions about freezing the dough and the size of the balls.
 
 ### Ingredients

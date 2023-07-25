@@ -1,14 +1,14 @@
 ---
-title: Santa Maria Style BBQ Oakwood Grilled Tri-tip
+author: Frank Ostini
 category: Entrees
-description: A classic BBQ recipe with a flavorful seasoning salt mixture and a tangy basting sauce. Perfect for a summer cookout.
-image: santamariabbq.jpg
+description: A classic BBQ recipe with a flavorful seasoning salt mixture and a tangy
+  basting sauce. Perfect for a summer cookout.
+favorite: "\u2713"
+image: santa_maria_style_bbq_oakwood_grilled_tri_tip.jpg
 size: 6 servings
 time: 1 hour 35 minutes
-author: Frank Ostini
-favorite: ✓
+title: Santa Maria Style BBQ Oakwood Grilled Tri-tip
 ---
-
 ### Ingredients
 
 * `2` 3-pound tri-tip roasts

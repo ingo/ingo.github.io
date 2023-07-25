@@ -1,15 +1,17 @@
 ---
-title: Copy Cat CPK Thai Crunch Salad
-original_title: California Pizza Kitchen Thai Crunch Salad
-category: Entrees
-description: A delicious and healthier version of the Thai Crunch Salad from California Pizza Kitchen. This recipe combines a variety of fresh vegetables, grilled chicken, and a homemade lime cilantro Thai peanut dressing, all topped with crispy baked wontons.
-image: placeholder.jpg
-size: 12-14 servings
-time: 45 minutes
 author: Judith Scharman
+category: Entrees
+description: A delicious and healthier version of the Thai Crunch Salad from California
+  Pizza Kitchen. This recipe combines a variety of fresh vegetables, grilled chicken,
+  and a homemade lime cilantro Thai peanut dressing, all topped with crispy baked
+  wontons.
+image: copy_cat_cpk_thai_crunch_salad.jpg
+original_title: California Pizza Kitchen Thai Crunch Salad
+size: 12-14 servings
 source: https://foodswithjudes.com/recipe/copy-cat-cpk-thai-crunch-salad-california-pizza-kitchen/
+time: 45 minutes
+title: Copy Cat CPK Thai Crunch Salad
 ---
-
 This recipe is a homemade version of the popular Thai Crunch Salad from California Pizza Kitchen. The author, Judith Scharman, simplified the original recipe and made it healthier without compromising on the taste. It's a great salad to prepare in advance and enjoy throughout the week.
 
 ### Ingredients

@@ -1,15 +1,16 @@
 ---
-title: Cheater’s Pickles
-original_title: Cheater’s Pickles
-category: Sides
-description: Quick and easy pickles that come together fast, with a shock from ice cubes and a touch of sugar helping them move from raw to something between a pickle and a refreshing salad in just about a half-hour.
-image: 02DORAWEB7-articleLarge.jpg
-size: 6-8 servings
-time: About 45 minutes
 author: Kim Severson
+category: Sides
+description: Quick and easy pickles that come together fast, with a shock from ice
+  cubes and a touch of sugar helping them move from raw to something between a pickle
+  and a refreshing salad in just about a half-hour.
+image: cheater_s_pickles.jpg
+original_title: "Cheater\u2019s Pickles"
+size: 6-8 servings
 source: https://cooking.nytimes.com/recipes/1017680-cheaters-pickles
+time: About 45 minutes
+title: "Cheater\u2019s Pickles"
 ---
-
 This recipe was developed by accident when Dora Charles was working on her book, “A Real Southern Cook: In Her Savannah Kitchen.” The pickles come together fast, with a shock from ice cubes and a touch of sugar helping them move from raw to something between a pickle and a refreshing salad in just about a half-hour. Fresh herbs other than dill, like basil or a bit of mint or chive, can be used. A few slivers of sweet onion are nice, too.
 
 ### Ingredients

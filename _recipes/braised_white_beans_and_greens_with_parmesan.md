@@ -1,16 +1,22 @@
 ---
-title: Braised White Beans and Greens With Parmesan
-category: Entrees 
-description: Inspired by the Italian dish of sautéed puntarelle and white beans, this recipe makes a satisfying vegetarian main course or a hearty side dish for roast chicken or sausages. It opts for canned white beans, for the sake of weeknight convenience, and Swiss chard, which is much milder than puntarelle and easier to find in the U.S. Kale or escarole would also work well, if that’s what you’ve got. On that note, grated Pecorino Romano cheese gives the broth a more pungent element, but Parmesan will work in its place. Serve in shallow bowls with toasted country bread to mop up the garlicky broth.
-image: merlin_183224118_e83ba06b_3d32_4ca6_a164_7e53b3fbc5fd_articleLarge.jpg
-size: 4 servings
-time: 30 minutes
 author: Lidey Heuck
-source: https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesanundefined
+category: Entrees
+description: "Inspired by the Italian dish of saut\xE9ed puntarelle and white beans,\
+  \ this recipe makes a satisfying vegetarian main course or a hearty side dish for\
+  \ roast chicken or sausages. It opts for canned white beans, for the sake of weeknight\
+  \ convenience, and Swiss chard, which is much milder than puntarelle and easier\
+  \ to find in the U.S. Kale or escarole would also work well, if that\u2019s what\
+  \ you\u2019ve got. On that note, grated Pecorino Romano cheese gives the broth a\
+  \ more pungent element, but Parmesan will work in its place. Serve in shallow bowls\
+  \ with toasted country bread to mop up the garlicky broth."
+image: braised_white_beans_and_greens_with_parmesan.jpg
 image_attribution: Julia Gartland for The New York Times (Photography and Styling)
-veggie: ✓
+size: 4 servings
+source: https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesanundefined
+time: 30 minutes
+title: Braised White Beans and Greens With Parmesan
+veggie: "\u2713"
 ---
-
 ### Ingredients
 
 * `¼ cup` olive oil

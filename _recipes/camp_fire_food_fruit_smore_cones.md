@@ -1,16 +1,17 @@
 ---
-title: Camp Fire Fruit & Smore Cones
-category: Desserts
-description: A fun and delicious campfire treat, perfect for kids and adults alike. Enjoy the gooey goodness of marshmallows and chocolate chips mixed with fresh fruit, all stuffed into a waffle cone and heated over the fire.
-image: b319c1b8-1019-4468-9334-603f32d6e035.png
-size: Varies
-time: 15 minutes
 author: Ingo Muschenetz
-favorite: ✓
-sweet: ✓
+category: Desserts
+description: A fun and delicious campfire treat, perfect for kids and adults alike.
+  Enjoy the gooey goodness of marshmallows and chocolate chips mixed with fresh fruit,
+  all stuffed into a waffle cone and heated over the fire.
 difficulty: easy
+favorite: "\u2713"
+image: camp_fire_food_fruit_smore_cones.jpg
+size: Varies
+sweet: "\u2713"
+time: 15 minutes
+title: Camp Fire Fruit & Smore Cones
 ---
-
 This recipe is a delightful twist on the traditional campfire s'mores. Instead of graham crackers, we use waffle cones to hold the delicious mix of marshmallows, chocolate, and fresh fruit. It's a fun and easy dessert that's perfect for camping trips or backyard bonfires.
 
 ### Ingredients

@@ -1,14 +1,14 @@
 ---
-title: Mythic Pico de Gallo
-category: Entrees 
-description: A refreshing and spicy pico de gallo with a secret ingredient - MSG. Perfect for dipping or topping your favorite Mexican dishes.
-image: pico_de_gallo.jpg
-size: 4-6 servings
-time: 30 minutes
 author: Anonymous
-spicy: ✓
+category: Entrees
+description: A refreshing and spicy pico de gallo with a secret ingredient - MSG.
+  Perfect for dipping or topping your favorite Mexican dishes.
+image: mythic_pico_de_gallo.jpg
+size: 4-6 servings
+spicy: "\u2713"
+time: 30 minutes
+title: Mythic Pico de Gallo
 ---
-
 ### Ingredients
 
 * `1` big red tomato

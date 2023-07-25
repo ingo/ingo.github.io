@@ -1,13 +1,17 @@
 ---
-title: Braised Brisket with Bourbon-Peach Glaze
-category: Entrees 
-description: No one will fault you for seasoning brisket with salt and pepper, braising it in beer, and calling it a day. But follow chef Lee's method—which calls for a bath of stout, bourbon, and soy sauce; a glaze made with peach jam; and a side of easy homemade pickles if you'd like—and you're on the path to savory-and-sweet nirvana.
+author: "Bon App\xE9tit"
+category: Entrees
+description: "No one will fault you for seasoning brisket with salt and pepper, braising\
+  \ it in beer, and calling it a day. But follow chef Lee's method\u2014which calls\
+  \ for a bath of stout, bourbon, and soy sauce; a glaze made with peach jam; and\
+  \ a side of easy homemade pickles if you'd like\u2014and you're on the path to savory-and-sweet\
+  \ nirvana."
+image: braised_brisket_with_bourbon_peach_glaze.jpg
 size: 8-10 servings
-time: 6 hours
-author: Bon Appétit
 source: https://www.bonappetit.com/recipe/braised-brisket-with-bourbon-peach-glaze
+time: 6 hours
+title: Braised Brisket with Bourbon-Peach Glaze
 ---
-
 ### Ingredients
 
 * Rub

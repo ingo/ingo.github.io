@@ -1,25 +1,25 @@
 ---
-title: Authentic Greek Tzatziki
+author: The Wanderlust Kitchen
 category: Sides
-description: A recipe learned in Athens, this is the authentic tzatziki recipe you've been looking for!
-image: authentic_greek_tzatziki_the_wanderlust_kitchen.jpg
+description: A recipe learned in Athens, this is the authentic tzatziki recipe you've
+  been looking for!
+image: authentic_greek_tzatziki.jpg
+nutrition:
+- 75 calories
+- 6g total fat
+- 2g saturated fat
+- 0g trans fat
+- 4g unsaturated fat
+- 6mg cholesterol
+- 148mg sodium
+- 3g carbohydrates
+- 0g fiber
+- 2g sugar
+- 4g protein
 size: 8 servings
 time: 8 hours 10 minutes
-author: The Wanderlust Kitchen
-nutrition:
-  - 75 calories
-  - 6g total fat
-  - 2g saturated fat
-  - 0g trans fat
-  - 4g unsaturated fat
-  - 6mg cholesterol
-  - 148mg sodium
-  - 3g carbohydrates
-  - 0g fiber
-  - 2g sugar
-  - 4g protein
+title: Authentic Greek Tzatziki
 ---
-
 ### Ingredients
 
 * `1/2` of a large cucumber, unpeeled

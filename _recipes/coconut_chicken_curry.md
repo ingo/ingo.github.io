@@ -1,16 +1,18 @@
 ---
-title: Coconut Chicken Curry
-category: Entrees
-description: A slow-simmered chicken dish with a bright hit of spice from curry powder, mellowed with paprika and turmeric. This dish gets even better after resting in the fridge, making it an ideal weeknight meal that can last days. There’s plenty of coconut milk broth to spoon over rice or noodles.
-image: merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-articleLarge.jpg
-size: 4-6 servings
-time: 1.5 hours
 author: Desmond Tan and Kate Leahy
-source: https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curryundefined
-spicy: ✓
+category: Entrees
+description: "A slow-simmered chicken dish with a bright hit of spice from curry powder,\
+  \ mellowed with paprika and turmeric. This dish gets even better after resting in\
+  \ the fridge, making it an ideal weeknight meal that can last days. There\u2019\
+  s plenty of coconut milk broth to spoon over rice or noodles."
+image: coconut_chicken_curry.jpg
 image_attribution: Julia Gartland for The New York Times (Photography and Styling)
+size: 4-6 servings
+source: https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curryundefined
+spicy: "\u2713"
+time: 1.5 hours
+title: Coconut Chicken Curry
 ---
-
 This dish from “Burma Superstar” by Desmond Tan and Kate Leahy needs time on the stove but not much attention. At his restaurant, Burma Superstar in Oakland, Calif., Mr. Tan also serves this with platha, a buttery, flaky Burmese flatbread, for dipping.
 
 ### Ingredients

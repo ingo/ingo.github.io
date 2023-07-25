@@ -1,12 +1,14 @@
 ---
-title: Butternut Squash Soup
 category: Soups
-description: This is a colorful and healthful soup made with butternut squash. It doesn't have any added cream, but it certainly tastes creamy. You can substitute other hard squashes in place of the butternut—we've had good success with soup pumpkins as well.
-image: img_0114.jpg
+description: "This is a colorful and healthful soup made with butternut squash. It\
+  \ doesn't have any added cream, but it certainly tastes creamy. You can substitute\
+  \ other hard squashes in place of the butternut\u2014we've had good success with\
+  \ soup pumpkins as well."
+image: butternut_squash_soup.jpg
 size: 6 cups
 time: 1 hour 15 minutes
+title: Butternut Squash Soup
 ---
-
 ### Ingredients
 
 * `2` butternut squash (about 4 3/4 pounds total), halved lengthwise, seeded

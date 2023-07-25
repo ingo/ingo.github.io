@@ -1,16 +1,17 @@
 ---
-title: Classic Sourdough Pancakes or Waffles
-original_title: Classic Sourdough Pancakes or Waffles
-category: Breakfasts
-description: Delightful mild tang, sourdough pancakes and waffles evoke memories of Gold Rush days in California, when sourdough in some form was served to miners morning, noon, and night.
-image: placeholder.jpg
-size: about 2 dozen medium pancakes or 1 dozen 8" waffles
-time: 12 hours 42 mins
 author: King Arthur Flour
+category: Breakfasts
+description: Delightful mild tang, sourdough pancakes and waffles evoke memories of
+  Gold Rush days in California, when sourdough in some form was served to miners morning,
+  noon, and night.
+favorite: "\u2713"
+image: classic_sourdough_pancakes_or_waffles.jpg
+original_title: Classic Sourdough Pancakes or Waffles
+size: about 2 dozen medium pancakes or 1 dozen 8" waffles
 source: https://www.kingarthurflour.com/recipes/classic-sourdough-waffles-or-pancakes-recipe
-favorite: ✓
+time: 12 hours 42 mins
+title: Classic Sourdough Pancakes or Waffles
 ---
-
 With their delightful mild tang, sourdough pancakes and waffles evoke memories of Gold Rush days in California, when sourdough in some form was served to miners morning, noon, and night. Be it in the shape of biscuits, a crusty loaf, or these breakfast treats, sourdough is an enduring American tradition.
 
 ### Ingredients

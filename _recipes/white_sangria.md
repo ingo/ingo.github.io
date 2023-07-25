@@ -1,12 +1,11 @@
 ---
-title: White Sangria
 category: Beverages
 description: A great recipe for white wine Sangria.
-image: whitesangria.jpg
+image: white_sangria.jpg
 size: 4 servings
 time: Several hours
+title: White Sangria
 ---
-
 ### Ingredients
 
 * `2 bottles` light white wine, on the sweet side (Pinot Grigio and a Moscato are what we last used)

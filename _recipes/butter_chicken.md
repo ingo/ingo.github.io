@@ -1,16 +1,17 @@
 ---
-title: Butter Chicken
-original_title: Murgh Makhani
-category: Entrees 
-description: This classic dish is often referred to as Murgh Makhani; here, the point is to smother good grilled chicken in a rich sauce. The dish was created as a way to keep cooked/leftover tandoori chicken from drying out.
-image: 7951cf5c_4bad_4a22_94fd_823c0548b367.png
-size: 4-6 servings
-time: 1 hour
 author: Monish Gujral
-source: https://www.washingtonpost.com/lifestyle/food/the-secrets-to-making-two-of-indias-most-famous-dishes-from-the-family-that-invented-them/2018/01/29/0e47f76c-fd37-11e7-8f66-2df0b94bb98a_story.html?utm_term=.22e5b3398e7c
+category: Entrees
+description: This classic dish is often referred to as Murgh Makhani; here, the point
+  is to smother good grilled chicken in a rich sauce. The dish was created as a way
+  to keep cooked/leftover tandoori chicken from drying out.
+image: butter_chicken.jpg
 image_attribution: Deb Lindsey for The Washington Post
+original_title: Murgh Makhani
+size: 4-6 servings
+source: https://www.washingtonpost.com/lifestyle/food/the-secrets-to-making-two-of-indias-most-famous-dishes-from-the-family-that-invented-them/2018/01/29/0e47f76c-fd37-11e7-8f66-2df0b94bb98a_story.html?utm_term=.22e5b3398e7c
+time: 1 hour
+title: Butter Chicken
 ---
-
 ### Ingredients
 
 * For the chicken

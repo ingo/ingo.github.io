@@ -1,12 +1,12 @@
 ---
-title: Cherry Smash
 category: Beverages
-description: A refreshing cherry cocktail with a kick of vodka and kirsch, perfect for a summer evening.
-image: placeholder.jpg
+description: A refreshing cherry cocktail with a kick of vodka and kirsch, perfect
+  for a summer evening.
+image: cherry_smash.jpg
 size: 2 servings
 time: 10 minutes
+title: Cherry Smash
 ---
-
 This Cherry Smash cocktail is a delightful blend of cherries, lemon juice, vodka, and kirsch. It's the perfect drink to enjoy on a warm summer evening.
 
 ### Ingredients

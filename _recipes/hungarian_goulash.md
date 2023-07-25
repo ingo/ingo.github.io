@@ -1,11 +1,11 @@
 ---
-title: Hungarian Goulash
+author: Ingo Muschenetz
 category: Entrees
 description: A tasty way to make Hungarian Goulash.
+image: hungarian_goulash.jpg
 size: 4 servings
-author: Ingo Muschenetz
+title: Hungarian Goulash
 ---
-
 ### Ingredients
 
 * `1 kg` beef

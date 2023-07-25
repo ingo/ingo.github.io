@@ -1,15 +1,15 @@
 ---
-title: Whole Crispy Branzino
-original_title: Chef Gordon Ramsay’s Whole Crispy Branzino Recipe
-category: Entrees
-description: A crispy, flavorful branzino recipe with a Shaoxing marinade, fried to perfection.
-image: placeholder.jpg
-size: 2 servings
-time: 1 hour 30 minutes
 author: Chef Gordon Ramsay
+category: Entrees
+description: A crispy, flavorful branzino recipe with a Shaoxing marinade, fried to
+  perfection.
+image: whole_crispy_branzino.jpg
+original_title: "Chef Gordon Ramsay\u2019s Whole Crispy Branzino Recipe"
+size: 2 servings
 source: https://www.masterclass.com/
+time: 1 hour 30 minutes
+title: Whole Crispy Branzino
 ---
-
 This recipe is a creation of the world-renowned chef, Gordon Ramsay. The branzino is marinated in a flavorful Shaoxing marinade and then fried to a crispy perfection. It's a perfect dish for a special dinner or a weekend treat.
 
 ### Ingredients

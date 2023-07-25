@@ -1,10 +1,10 @@
 ---
-title: Green Beans
 category: Sides
 description: A very simple but tasty way to prepare green beans.
+image: green_beans.jpg
 size: 4 servings
+title: Green Beans
 ---
-
 ### Ingredients
 
 * `1 lb` green beans, ends removed

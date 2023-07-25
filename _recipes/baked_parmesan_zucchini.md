@@ -1,12 +1,12 @@
 ---
-title: Baked Parmesan Zucchini
-category: Sides 
-description: Crisp, tender zucchini sticks oven-roasted to absolute perfection. It's healthy, nutritious and completely addictive!
+category: Sides
+description: Crisp, tender zucchini sticks oven-roasted to absolute perfection. It's
+  healthy, nutritious and completely addictive!
 image: baked_parmesan_zucchini.jpg
 size: 4 servings
 time: 30 minutes
+title: Baked Parmesan Zucchini
 ---
-
 ### Ingredients
 
 * `4` zucchini, quartered lengthwise 

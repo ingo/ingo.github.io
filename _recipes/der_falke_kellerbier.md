@@ -1,14 +1,16 @@
 ---
-title: Der Falke Kellerbier
-category: Beverages
-description: Kellerbier merges the best of British cask ale with German malts and hops in a unique lager style. It has an atypical flavor profile that, depending on your finishing steps, can represent itself as a kind of German ESB or a Continental IPA.
-image: 6881b1b1c92402c3375be2b1784b8519ce2b2a04_pale-ale-image.webp
-size: 5 gallons (19 liters)
-time: 3 hours
 author: Josh Weikert
+category: Beverages
+description: Kellerbier merges the best of British cask ale with German malts and
+  hops in a unique lager style. It has an atypical flavor profile that, depending
+  on your finishing steps, can represent itself as a kind of German ESB or a Continental
+  IPA.
+image: der_falke_kellerbier.jpg
+size: 5 gallons (19 liters)
 source: https://beerandbrewing.com/author/josh-weikert
+time: 3 hours
+title: Der Falke Kellerbier
 ---
-
 Der Falke Kellerbier is a unique blend of British cask ale and German malts and hops. This lager style beer has an atypical flavor profile that can be tweaked to represent a German ESB or a Continental IPA.
 
 ### Ingredients

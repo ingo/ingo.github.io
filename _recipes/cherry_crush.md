@@ -1,12 +1,12 @@
 ---
-title: Cherry Crush
 category: Beverages
-description: A refreshing cherry-based cocktail with a hint of lemon and a splash of sparkling water.
-image: placeholder.jpg
+description: A refreshing cherry-based cocktail with a hint of lemon and a splash
+  of sparkling water.
+image: cherry_crush.jpg
 size: 2 servings
 time: 10 minutes
+title: Cherry Crush
 ---
-
 ### Ingredients
 
 * `8` frozen cherries

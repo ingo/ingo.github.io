@@ -1,28 +1,28 @@
 ---
-title: Carrot Tart With Ricotta and Feta
+author: The New York Times
 category: Entrees
-description: A simple tart featuring beautifully cooked carrots, ricotta and feta cheese. Perfect for a picnic or a light meal.
-image: merlin_152013198_15059831-acda-425c-a7a9-5f7c28dad474-articleLarge.jpg
+description: A simple tart featuring beautifully cooked carrots, ricotta and feta
+  cheese. Perfect for a picnic or a light meal.
+image: carrot_tart_with_ricotta_and_feta.jpg
 image_attribution: Romulo Yanes
 image_source: The New York Times
-nutrition: 
-  - 404 calories
-  - 27 grams fat
-  - 9 grams saturated fat
-  - 13 grams monounsaturated fat
-  - 2 grams polyunsaturated fat
-  - 30 grams carbohydrates
-  - 2 grams dietary fiber
-  - 3 grams sugars
-  - 9 grams protein
-  - 27 milligrams cholesterol
-  - 355 milligrams sodium
+nutrition:
+- 404 calories
+- 27 grams fat
+- 9 grams saturated fat
+- 13 grams monounsaturated fat
+- 2 grams polyunsaturated fat
+- 30 grams carbohydrates
+- 2 grams dietary fiber
+- 3 grams sugars
+- 9 grams protein
+- 27 milligrams cholesterol
+- 355 milligrams sodium
 size: 8 servings
-time: 1 hour
-author: The New York Times
 source: https://cooking.nytimes.com/recipes/1020174-carrot-tart-with-ricotta-and-feta
+time: 1 hour
+title: Carrot Tart With Ricotta and Feta
 ---
-
 This simple tart features beautifully cooked carrots, but can be easily adapted to include other vegetables such as onions, parsnips, beets, zucchini or pumpkin. The key is to cook the vegetables before putting them on the tart to prevent the puff pastry from becoming soggy. 
 
 ### Ingredients

@@ -1,15 +1,15 @@
 ---
-title: Crispy Green Rice Pilaf
-original_title: Crispy Green Rice Pilaf
-category: Entrees
-description: A vibrant, springy pilaf recipe with day-old rice, soft feta, crunchy pistachios and snap peas, and jammy golden raisins. A true study in textures.
-image: green-rice-pilaf-2.jpg
-size: 4-6 servings
-time: 1 hour
 author: Molly Baz
+category: Entrees
+description: A vibrant, springy pilaf recipe with day-old rice, soft feta, crunchy
+  pistachios and snap peas, and jammy golden raisins. A true study in textures.
+image: crispy_green_rice_pilaf.jpg
+original_title: Crispy Green Rice Pilaf
+size: 4-6 servings
 source: https://www.bonappetit.com/recipe/crispy-green-rice-pilaf
+time: 1 hour
+title: Crispy Green Rice Pilaf
 ---
-
 This vibrant, springy pilaf recipe requires day-old rice, but it’s worth planning ahead. The precooked rice gets super crisp before it’s tossed with soft feta, crunchy pistachios and snap peas, and jammy golden raisins. It’s a true study in textures.
 
 ### Ingredients

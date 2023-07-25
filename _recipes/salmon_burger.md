@@ -1,12 +1,14 @@
 ---
-title: Salmon Burger
 category: Entrees
-description: When made with fresh, wild salmon, these burgers are heavenly, but it works well with frozen salmon too. Err on the side of chopping the pieces smaller rather than larger, and make sure the salmon is very dry, as if it's wet, the burgers won't stick together well.
-image: img_0496.jpg
+description: When made with fresh, wild salmon, these burgers are heavenly, but it
+  works well with frozen salmon too. Err on the side of chopping the pieces smaller
+  rather than larger, and make sure the salmon is very dry, as if it's wet, the burgers
+  won't stick together well.
+image: salmon_burger.jpg
 size: 4 servings
 time: 2 hours 10 minutes
+title: Salmon Burger
 ---
-
 ### Ingredients
 
 * `20 oz` salmon fillet, cut into 1/4-in dice

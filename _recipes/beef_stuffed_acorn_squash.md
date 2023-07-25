@@ -1,20 +1,21 @@
 ---
-title: Beef Stuffed Acorn Squash
-original_title: Beef Stuffed Acorn Squash - The Clean Eating Couple
-category: Sides
-description: Beef Stuffed Acorn Squash is an easy, healthy dinner recipe the whole family will love. Packed with veggies & fall flavor, it’s delicious & simple to make.
-image: beef_stuffed_acorn_squash_the_clean_eating_couple.jpg
-size: 4 servings
-time: 1 hour
 author: The Clean Eating Couple
-source: https://thecleaneatingcouple.com/beef-stuffed-acorn-squash/
+category: Sides
+description: "Beef Stuffed Acorn Squash is an easy, healthy dinner recipe the whole\
+  \ family will love. Packed with veggies & fall flavor, it\u2019s delicious & simple\
+  \ to make."
+image: beef_stuffed_acorn_squash.jpg
 nutrition:
-  - 612 calories
-  - 40 g fat
-  - 35 g carbohydrates
-  - 33 g protein
+- 612 calories
+- 40 g fat
+- 35 g carbohydrates
+- 33 g protein
+original_title: Beef Stuffed Acorn Squash - The Clean Eating Couple
+size: 4 servings
+source: https://thecleaneatingcouple.com/beef-stuffed-acorn-squash/
+time: 1 hour
+title: Beef Stuffed Acorn Squash
 ---
-
 ### Ingredients
 
 * `2` acorn squash halved

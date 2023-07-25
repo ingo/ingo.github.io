@@ -1,15 +1,15 @@
 ---
-title: Braised Baby Bok Choy
-original_title: Braised Baby Bok Choy
-category: Entrees 
-description: Tender baby bok choy braised in chicken broth and butter, finished with a touch of sesame oil.
-image: df40e43c_9751_4666_a99d_29b56d3e04a9.png
-size: 2 servings
-time: 15 minutes
 author: Gourmet | October 2000
+category: Entrees
+description: Tender baby bok choy braised in chicken broth and butter, finished with
+  a touch of sesame oil.
+image: braised_baby_bok_choy.jpg
+original_title: Braised Baby Bok Choy
+size: 2 servings
 source: http://www.epicurious.com/recipes/food/views/Braised-Baby-Bok-Choy-103970
+time: 15 minutes
+title: Braised Baby Bok Choy
 ---
-
 ### Ingredients
 
 * `1 cup` chicken broth

@@ -1,17 +1,17 @@
 ---
-title: Hummus
-original_title: 
+author: David Rosengarten
 category: Sides
-description: A very fresh and fluffy hummus recipe with a surprising addition of a little seltzer water whipped in at the very end.
-image: img_0660.jpg
+description: A very fresh and fluffy hummus recipe with a surprising addition of a
+  little seltzer water whipped in at the very end.
+favorite: null
+image: hummus.jpg
+original_title: null
 size: 4 cups
 time: 3 hours
-author: David Rosengarten
-favorite: 
-veggie: ✓
-vegan: ✓
+title: Hummus
+vegan: "\u2713"
+veggie: "\u2713"
 ---
-
 ### Ingredients
 
 * `2 cups` dried chickpeas, soaked in water overnight

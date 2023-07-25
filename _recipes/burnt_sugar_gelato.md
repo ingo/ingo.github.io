@@ -1,10 +1,12 @@
 ---
-title: Burnt Sugar Gelato
 category: Desserts
-description: This is the first ice cream Ingo made than Jane called "perfectly made." She, however, could have used more burnt sugar flavor, so decide how long you wish to burn the sugar yourself.
+description: This is the first ice cream Ingo made than Jane called "perfectly made."
+  She, however, could have used more burnt sugar flavor, so decide how long you wish
+  to burn the sugar yourself.
+image: burnt_sugar_gelato.jpg
 size: 1 pint
+title: Burnt Sugar Gelato
 ---
-
 ### Ingredients
 
 * `2 cups plus 1 1/2 tbsp.` milk

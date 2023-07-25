@@ -1,11 +1,13 @@
 ---
-title: Chicken Under a Brick
 category: Entrees
-description: An Italian specialty, especially good when prepared on the grill. This requires some heavy object to weigh the chicken down. A cast-iron frying pan, or several bricks placed on top of an old jelly-roll pan, works well.
+description: An Italian specialty, especially good when prepared on the grill. This
+  requires some heavy object to weigh the chicken down. A cast-iron frying pan, or
+  several bricks placed on top of an old jelly-roll pan, works well.
+image: chicken_under_a_brick.jpg
 size: 4 servings
 time: Several hours for marinating + approx. 30 minutes grilling
+title: Chicken Under a Brick
 ---
-
 ### Ingredients
 
 * `1` small chicken, cut in half down the breastbone, and pounded fairly flat (approx 3 lbs.)

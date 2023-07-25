@@ -1,14 +1,13 @@
 ---
-title: Chicken Grand Mere Francine
+author: Daniel Bouloud
 category: Entrees
 description: A favorite recipe of Ingo's Dad, after Daniel Bouloud.
+favorite: "\u2713"
 image: chicken_grand_mere_francine.jpg
 size: 4 servings
 time: 1 hour
-author: Daniel Bouloud
-favorite: ✓
+title: Chicken Grand Mere Francine
 ---
-
 ### Ingredients
 
 * `2 tbsp` extra virgin olive oil

@@ -1,12 +1,16 @@
 ---
-title: Hefeknödel
 category: Sides
-description: Knödel are a form of boiled bread, wonderful as an accompaniment to a dish of chicken or beef with a creamy sauce. They are quite possibly one of the things Ingo likes to eat most in this world. You'll want to start these approximately 3 hours before serving, or about the same time you start your other main course dishes if making on of the chicken or beef in sauce recipes found elsewhere on Table M.
+description: "Kn\xF6del are a form of boiled bread, wonderful as an accompaniment\
+  \ to a dish of chicken or beef with a creamy sauce. They are quite possibly one\
+  \ of the things Ingo likes to eat most in this world. You'll want to start these\
+  \ approximately 3 hours before serving, or about the same time you start your other\
+  \ main course dishes if making on of the chicken or beef in sauce recipes found\
+  \ elsewhere on Table M."
 image: hefeknodel.jpg
 size: 8 servings
 time: 3 hours
+title: "Hefekn\xF6del"
 ---
-
 ### Ingredients
 
 * `3 cups` flour

@@ -1,14 +1,14 @@
 ---
-title: 5-Ingredient Zucchini Fritters
-category: Sides
-description: Delicious and easy to make zucchini fritters, perfect for a quick snack or appetizer.
-image: 5_ingredient_zucchini_frittersjust_a_taste.jpg
-size: 14 fritters
-time: 25 minutes
 author: Kelly Senyei
+category: Sides
+description: Delicious and easy to make zucchini fritters, perfect for a quick snack
+  or appetizer.
+image: 5_ingredient_zucchini_fritters.jpg
+size: 14 fritters
 source: https://www.justataste.com/wprm_print/recipe/30565
+time: 25 minutes
+title: 5-Ingredient Zucchini Fritters
 ---
-
 ### Ingredients
 
 * `4 cups` shredded zucchini

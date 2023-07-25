@@ -1,16 +1,16 @@
 ---
-title: Coconut Macaroons
-original_title: Coconut Macaroons
-category: Desserts
-description: Soft and chewy on the inside, crisp and golden on the outside — these are the perfect coconut macaroons.
-image: Coconut_Macaroons-760x897.jpg
-size: 26 macaroons
-time: 45 minutes
 author: Jennifer Segal
+category: Desserts
+description: "Soft and chewy on the inside, crisp and golden on the outside \u2014\
+  \ these are the perfect coconut macaroons."
+favorite: "\u2713"
+image: coconut_macaroons.jpg
+original_title: Coconut Macaroons
+size: 26 macaroons
 source: https://www.onceuponachef.com/recipes/coconut-macaroons.html
-favorite: ✓
+time: 45 minutes
+title: Coconut Macaroons
 ---
-
 As a coconut lover, I’ve tried dozens of recipes for coconut macaroons recipes over the years — be it for the holidays or for friends who eat gluten\-free. These are my favorite. Chewy and moist on the inside, crisp and golden on the outside, they’re delicious plain but even more irresistible dipped in dark chocolate. They also keep well for days, making them the perfect treat to bake ahead or give away during the holidays.
 
 ### Ingredients

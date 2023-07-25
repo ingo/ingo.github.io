@@ -1,12 +1,12 @@
 ---
-title: Cosmopolitan
+author: Emily Lubien
 category: Beverages
 description: A classic cocktail recipe contributed by Emily Lubien.
+favorite: "\u2713"
+image: cosmopolitan.jpg
 size: 4 servings
-author: Emily Lubien
-favorite: ✓
+title: Cosmopolitan
 ---
-
 ### Ingredients
 
 * `1 cup` vodka

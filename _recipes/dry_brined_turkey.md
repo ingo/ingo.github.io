@@ -1,16 +1,20 @@
 ---
-title: Dry-Brined Turkey
-original_title: Dry-Brined Turkey
-category: Entrees
-description: This fantastic turkey recipe borrows a technique perfected by Judy Rodgers, the chef from the Zuni Café in San Francisco, who had exceptional results salting chickens long before roasting them (also called dry-brining). No more fussy liquid brine that alters the texture of the meat — just crisp, golden skin and tender, moist meat. This turkey will be the talk of the table. Allow two days for the bird to season before roasting.
-image: 14TURKEY-CARVER-master768.jpg
-size: 12-14 servings
-time: 3½ hours, plus 2 days’ brining
 author: NYT Cooking
-source: https://cooking.nytimes.com/recipes/1012869-dry-brined-turkey
+category: Entrees
+description: "This fantastic turkey recipe borrows a technique perfected by Judy Rodgers,\
+  \ the chef from the Zuni Caf\xE9 in San Francisco, who had exceptional results salting\
+  \ chickens long before roasting them (also called dry-brining). No more fussy liquid\
+  \ brine that alters the texture of the meat \u2014 just crisp, golden skin and tender,\
+  \ moist meat. This turkey will be the talk of the table. Allow two days for the\
+  \ bird to season before roasting."
+image: dry_brined_turkey.jpg
 image_attribution: Andrew Scrivani for The New York Times
+original_title: Dry-Brined Turkey
+size: 12-14 servings
+source: https://cooking.nytimes.com/recipes/1012869-dry-brined-turkey
+time: "3\xBD hours, plus 2 days\u2019 brining"
+title: Dry-Brined Turkey
 ---
-
 ### Ingredients
 
 * `1` 12- to 16-pound turkey, preferably a heritage or pasture raised bird

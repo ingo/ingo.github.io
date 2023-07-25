@@ -1,15 +1,17 @@
 ---
-title: Cuban Mojo Marinated Pork
-original_title: Lechon Asado
-category: Entrees
-description: A traditional Cuban roasted pork recipe that is very simple, yet packed with tons of flavor. There is nothing to this pork except an amazing marinade, but it is honestly some of the best meat I’ve ever put in my mouth. Just look at that crust!
-image: 92cccf10-9482-4198-916e-f21a7e06fa87.png
-size: Serves 6
-time: Overnight marination + 2 hours cooking
 author: The Food Charlatan
+category: Entrees
+description: "A traditional Cuban roasted pork recipe that is very simple, yet packed\
+  \ with tons of flavor. There is nothing to this pork except an amazing marinade,\
+  \ but it is honestly some of the best meat I\u2019ve ever put in my mouth. Just\
+  \ look at that crust!"
+image: cuban_mojo_marinated_pork.jpg
+original_title: Lechon Asado
+size: Serves 6
 source: https://thefoodcharlatan.com/cuban-mojo-marinated-pork-recipe/
+time: Overnight marination + 2 hours cooking
+title: Cuban Mojo Marinated Pork
 ---
-
 This recipe was inspired by the movie Chef, where the protagonist drives across the country selling Cuban sandwiches that help him win at life. The secret to the sandwich? This pork. The crust alone is enough to make a man weep. In Cuba, they use sour oranges for the Mojo sauce, but a combination of orange and lime does the trick perfectly.
 
 ### Ingredients

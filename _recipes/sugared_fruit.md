@@ -1,12 +1,14 @@
 ---
-title: Sugared Fruit
 category: Sauces
-description: This is a very old and incredibly easy method of preserving fruit. If you love preserves with fresh fruit flavor, but are not ready to commit to canning at home--try this, there's no cooking involved. The resulting spread can keep for several months in the fridge.
-image: sugared_blackberries.jpg
+description: This is a very old and incredibly easy method of preserving fruit. If
+  you love preserves with fresh fruit flavor, but are not ready to commit to canning
+  at home--try this, there's no cooking involved. The resulting spread can keep for
+  several months in the fridge.
+image: sugared_fruit.jpg
 size: 3 cups
 time: 10 minutes
+title: Sugared Fruit
 ---
-
 ### Ingredients
 
 * `3 cups` fresh blackberries, sliced peaches, or other fruit

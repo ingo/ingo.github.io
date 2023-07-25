@@ -1,13 +1,15 @@
 ---
-title: Spicy Corn Dip
-category: Sides 
-description: A spicy corn dip that’s an absolute hit at parties. There will honestly be 10 different things on the table and people will just eat the dip. It's really good but it’s so simple.
+category: Sides
+description: "A spicy corn dip that\u2019s an absolute hit at parties. There will\
+  \ honestly be 10 different things on the table and people will just eat the dip.\
+  \ It's really good but it\u2019s so simple."
+favorite: "\u2713"
+image: spicy_corn_dip.jpg
 size: Serves a party
+spicy: "\u2713"
 time: 35 minutes
-spicy: ✓
-favorite: ✓
+title: Spicy Corn Dip
 ---
-
 ### Ingredients
 
 * `6 cups` of kernel corn

@@ -1,15 +1,14 @@
 ---
-title: Smoked Turkey
-original_title: Ingo's Dad's Smoked Turkey
+author: Ingo's Dad
 category: Entrees
 description: The smoked turkey of Ingo's Dad.
-image: img_2384.jpg
+favorite: "\u2713"
+image: smoked_turkey.jpg
+original_title: Ingo's Dad's Smoked Turkey
 size: 4-6 servings
 time: Varies (See notes)
-author: Ingo's Dad
-favorite: ✓
+title: Smoked Turkey
 ---
-
 ### Ingredients
 
 * `1` turkey (if fresh, see Brining A Turkey, otherwise basted). No bigger than 14lbs.

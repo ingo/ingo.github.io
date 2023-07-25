@@ -1,15 +1,16 @@
 ---
-title: Birria Tacos
-original_title: Birria Tacos Recipe - Claudette Zepeda | Food & Wine
-category: Entrees 
-description: A combination of two meats creates the best balance of tender texture (from the chuck roast) and succulence (from the short ribs). These birria tacos get slow-cooked flavor from the adobo sauce.
-image: image.jpg
-size: Multiple servings
-time: 4 hours 30 minutes
 author: Claudette Zepeda
+category: Entrees
+description: A combination of two meats creates the best balance of tender texture
+  (from the chuck roast) and succulence (from the short ribs). These birria tacos
+  get slow-cooked flavor from the adobo sauce.
+image: birria_tacos.jpg
+original_title: Birria Tacos Recipe - Claudette Zepeda | Food & Wine
+size: Multiple servings
 source: https://www.foodandwine.com/recipes/birria-tacos
+time: 4 hours 30 minutes
+title: Birria Tacos
 ---
-
 ### Ingredients
 
 * `1` (2-pound) boneless chuck roast (about 2 1/4 inches thick)

@@ -1,17 +1,17 @@
 ---
-title: Cauliflower, Cashew, Pea and Coconut Curry
-category: Entrees
-description: A rich and flavorful curry with cauliflower as the centerpiece, complemented by cashews, coconut, and a mix of spices. Perfect for a vegan supper.
-image: merlin_149034798_5368bea5-0f32-437c-a89d-27ccca8dc5a3-articleLarge.jpg
-size: 4 servings
-time: 45 minutes
 author: Meera Sodha
-source: https://www.nytimes.com/2019/01/15/dining/herbs-and-spices-recipes.html
-vegan: ✓
+category: Entrees
+description: A rich and flavorful curry with cauliflower as the centerpiece, complemented
+  by cashews, coconut, and a mix of spices. Perfect for a vegan supper.
+image: cauliflower_cashew_pea_and_coconut_curry.jpg
 image_attribution: David Malosh
 image_source: The New York Times
+size: 4 servings
+source: https://www.nytimes.com/2019/01/15/dining/herbs-and-spices-recipes.html
+time: 45 minutes
+title: Cauliflower, Cashew, Pea and Coconut Curry
+vegan: "\u2713"
 ---
-
 This curry, rooted in tradition and complexly flavored, is also approachable enough for a weeknight. It transforms cauliflower from a humble vegetable to a rich centerpiece with the addition of cashews, coconut, fresh ginger and a flurry of spices you’re likely to have in your pantry. Serve with rice for an exceptionally good vegan supper.
 
 ### Ingredients

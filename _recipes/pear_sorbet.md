@@ -1,10 +1,10 @@
 ---
-title: Pear Sorbet
 category: Desserts
 description: A wonderful easy pear sorbet.
+image: pear_sorbet.jpg
 size: 4 servings
+title: Pear Sorbet
 ---
-
 ### Ingredients
 
 * `5` ripe pears, cored and coarsely chopped

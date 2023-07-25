@@ -1,12 +1,14 @@
 ---
-title: Kompote
 category: Beverages
-description: Kompote is a pleasant lightly-sweetened fruit drink, best served cool as a summertime refreshment. In Russia, it's made with apples, pears, plums, and berries. Compared to juice, it's a bit thicker and reminiscent of the fruit that made it, but not as forceful a taste.
+description: Kompote is a pleasant lightly-sweetened fruit drink, best served cool
+  as a summertime refreshment. In Russia, it's made with apples, pears, plums, and
+  berries. Compared to juice, it's a bit thicker and reminiscent of the fruit that
+  made it, but not as forceful a taste.
 image: kompote.jpg
 size: 1 gallon
 time: 1 hour
+title: Kompote
 ---
-
 ### Ingredients
 
 * `1-2 cups` sugar

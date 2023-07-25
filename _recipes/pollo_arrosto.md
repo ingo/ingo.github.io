@@ -1,11 +1,17 @@
 ---
-title: Pollo Arrosto
 category: Entrees
-description: A wonderful stuffed chicken. The chicken roasted for a Pugliese Sunday lunch will be a plump, young farmyard bird, a pollo ruspante, or 'free-range' chicken. The stuffing speaks decisively of the Italian South and could be adapted for use with capons or even a small, fresh, free-range turkey. Slip a few slivers of garlic and some parsley leaves beneath the skin of the breast to make a handsome presentation. If the chicken you buy comes without giblets, buy a few chicken livers to add to the stuffing.
+description: A wonderful stuffed chicken. The chicken roasted for a Pugliese Sunday
+  lunch will be a plump, young farmyard bird, a pollo ruspante, or 'free-range' chicken.
+  The stuffing speaks decisively of the Italian South and could be adapted for use
+  with capons or even a small, fresh, free-range turkey. Slip a few slivers of garlic
+  and some parsley leaves beneath the skin of the breast to make a handsome presentation.
+  If the chicken you buy comes without giblets, buy a few chicken livers to add to
+  the stuffing.
+image: pollo_arrosto.jpg
 size: 2-4 servings
 time: 2 hours
+title: Pollo Arrosto
 ---
-
 ### Ingredients
 
 * `1` 4 1/2- to 5-pound free-range roasting chicken with giblets

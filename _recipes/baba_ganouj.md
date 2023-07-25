@@ -1,10 +1,11 @@
 ---
-title: Baba Ganouj
 category: Sides
-description: Baba Ghanouj can be purchased in the store, but the fresh version is much tastier.
+description: Baba Ghanouj can be purchased in the store, but the fresh version is
+  much tastier.
+image: baba_ganouj.jpg
 size: 2 cups
+title: Baba Ganouj
 ---
-
 ### Ingredients
 
 * `2 lbs.` eggplants

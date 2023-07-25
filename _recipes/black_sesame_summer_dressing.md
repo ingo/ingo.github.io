@@ -1,12 +1,13 @@
 ---
-title: Black Sesame Summer Dressing
 category: Sides
-description: This is a light, Asian influenced salad dressing. It works equally well spilled onto a simple bed of lettuce leaves, or a more complex salad. Salad lettuces are especially fresh and abundant in the summer --thus the name.
+description: "This is a light, Asian influenced salad dressing. It works equally well\
+  \ spilled onto a simple bed of lettuce leaves, or a more complex salad. Salad\_\
+  lettuces are especially fresh and abundant in the summer --thus the name."
 image: black_sesame_summer_dressing.jpg
 size: 1 cup
 time: 20 minutes
+title: Black Sesame Summer Dressing
 ---
-
 This dressing works well on a very simple salad, like the Boston lettuce shown here.
 
 ### Ingredients

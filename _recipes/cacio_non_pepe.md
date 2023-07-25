@@ -1,18 +1,18 @@
 ---
-title: Cacio non Pepe
-category: Entrees
-description: A delightful pasta dish with a rich, creamy cheese sauce. Perfect for a quick dinner or a cozy lunch.
-image: placeholder.jpg
-size: 4 servings
-time: 30 minutes
 author: Ingo Muschenetz
-favorite: 
-veggie: ✓
-vegan: 
-spicy: 
+category: Entrees
+description: A delightful pasta dish with a rich, creamy cheese sauce. Perfect for
+  a quick dinner or a cozy lunch.
 difficulty: medium
+favorite: null
+image: cacio_non_pepe.jpg
+size: 4 servings
+spicy: null
+time: 30 minutes
+title: Cacio non Pepe
+vegan: null
+veggie: "\u2713"
 ---
-
 This recipe is a twist on the classic Italian dish, Cacio e Pepe. Instead of using traditional ingredients, this recipe introduces a new flavor profile while maintaining the creamy, cheesy goodness of the original dish. 
 
 ### Ingredients

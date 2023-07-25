@@ -1,9 +1,9 @@
 ---
-title: Brining
 category: Techniques
 description: A guide to different brining techniques for various meats.
+image: brining.jpg
+title: Brining
 ---
-
 ### Notes
 
 This guide provides different ratios of salt, sugar, and water for brining.

@@ -1,15 +1,18 @@
 ---
-title: Braised Lamb Shoulder with Rose, Turnips, and Pistachios
-original_title: Braised Lamb Shoulder with Rose, Turnips, and Pistachios
-category: Entrees
-description: This recipe comes from Sam Smith of Tusk in Portland, Oregon. Smith notes “I like to eat it with a steak knife, keep some texture.” Serve this with lots of bread for soaking up the juices; a simple mixed green salad with champagne vinegar, black pepper, and edible flowers if available; and a super cold rose or white wine.
-image: EHNTE52OOEPIZPM3OPG4YDIITA.jpg
-size: 3 lb. lamb shoulder
-time: Overnight + 4 hours
 author: Kristy Mucci
+category: Entrees
+description: "This recipe comes from Sam Smith of Tusk in Portland, Oregon. Smith\
+  \ notes \u201CI like to eat it with a steak knife, keep some texture.\u201D Serve\
+  \ this with lots of bread for soaking up the juices; a simple mixed green salad\
+  \ with champagne vinegar, black pepper, and edible flowers if available; and a super\
+  \ cold rose or white wine."
+image: braised_lamb_shoulder_with_rose_turnips_and_pistachios.jpg
+original_title: Braised Lamb Shoulder with Rose, Turnips, and Pistachios
+size: 3 lb. lamb shoulder
 source: https://www.saveur.com/authors/kristy-mucci/
+time: Overnight + 4 hours
+title: Braised Lamb Shoulder with Rose, Turnips, and Pistachios
 ---
-
 ### Ingredients
 
 * `3 lb.` lamb shoulder, in one large piece

@@ -1,17 +1,18 @@
 ---
-title: Colombian Beef and Potato Empanadas
-original_title: Empanadas Colombianas de Carne y Papa
+author: "J. Kenji L\xF3pez-Alt"
 category: Entrees
-description: Colombian empanadas are typically quite small and have a crisp corn crust. There are a wide range of fillings you’ll find across Colombia, but this meat-and-potato mixture is the most common.
-image: merlin_174846159_d4b17b5a-6d2a-45fc-82da-fd3a681cf527-articleLarge.jpg
+description: "Colombian empanadas are typically quite small and have a crisp corn\
+  \ crust. There are a wide range of fillings you\u2019ll find across Colombia, but\
+  \ this meat-and-potato mixture is the most common."
+image: colombian_beef_and_potato_empanadas.jpg
 image_attribution: Johnny Miller
 image_source: The New York Times
+original_title: Empanadas Colombianas de Carne y Papa
 size: About 24 small empanadas (serves 6 to 8 as an appetizer)
-time: 1 hour, plus cooling
-author: J. Kenji López-Alt
 source: https://cooking.nytimes.com/ourcooks/j-kenji-lopez-alt/my-recipes
+time: 1 hour, plus cooling
+title: Colombian Beef and Potato Empanadas
 ---
-
 Colombian empanadas are typically quite small — a couple of bites each — and have a crisp corn crust. There are a wide range of fillings you’ll find across Colombia, but this meat-and-potato mixture is the most common. Small yellow potatoes called papas criollas are the potato of choice here, but they are nearly impossible to find in the United States, so I use Yukon Gold instead. My wife’s family typically keeps the seasonings simple — salt, pepper and a dash of paprika — though many recipes include cumin or Triguisar, a powdered seasoning mix that contains ground cumin, paprika, achiote, turmeric and garlic. I season my filling with a little chicken bouillon, but you could use plain salt instead. The filling uses half an onion and half a tomato, so save the other half for the fresh, cilantro-based ají, to serve with the empanadas.
 
 ### Ingredients

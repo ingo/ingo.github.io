@@ -1,12 +1,12 @@
 ---
-title: Border Run Cocktail
 category: Beverages
-description: A refreshing cocktail with a tequila base and a blend of grapefruit, grenadine, sugar, and cointreau.
-image: borderruncocktail.jpg
+description: A refreshing cocktail with a tequila base and a blend of grapefruit,
+  grenadine, sugar, and cointreau.
+image: border_run_cocktail.jpg
 size: 1 serving
 time: 5 minutes
+title: Border Run Cocktail
 ---
-
 ### Ingredients
 
 * `2 shots` tequila

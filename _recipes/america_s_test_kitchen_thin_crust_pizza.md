@@ -1,11 +1,10 @@
 ---
-title: America's Test Kitchen Thin-Crust Pizza
 category: Entrees
-image: americas_test_kitchen_thin_crust_pizza_recipe_food_com.jpg
+image: america_s_test_kitchen_thin_crust_pizza.jpg
 size: 16 servings
 time: 27 minutes
+title: America's Test Kitchen Thin-Crust Pizza
 ---
-
 ### Ingredients
 
 * `3 cups` flour

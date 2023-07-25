@@ -1,12 +1,14 @@
 ---
-title: Pear Cream Soda
 category: Beverages
-description: A cross between a regular cream soda and a pear soda. We drank four liters of it in less than a week. The directions here are somewhat terse. For more complete information on equipment used, try the book Homemade Root Beer, Soda & Pop by Stephen Cresswell.
-image: img_2282.jpg
+description: A cross between a regular cream soda and a pear soda. We drank four liters
+  of it in less than a week. The directions here are somewhat terse. For more complete
+  information on equipment used, try the book Homemade Root Beer, Soda & Pop by Stephen
+  Cresswell.
+image: pear_cream_soda.jpg
 size: 4 liters
 time: 1-2 weeks
+title: Pear Cream Soda
 ---
-
 ### Ingredients
 
 * `4 lbs.` ripe pears

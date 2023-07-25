@@ -1,15 +1,16 @@
 ---
-title: Eel Sauce
-original_title: Nitsume
+author: Ingo Muschenetz
 category: Sauces
-description: A crowd favorite that goes well on various types of rolls as well as a marinade for fish and chicken. This delicious version doesn't actually use any eel!
-image: placeholder.jpg
+description: A crowd favorite that goes well on various types of rolls as well as
+  a marinade for fish and chicken. This delicious version doesn't actually use any
+  eel!
+favorite: "\u2713"
+image: eel_sauce.jpg
+original_title: Nitsume
 size: 1 1/2 cups of sauce (375 ml)
 time: 30 minutes
-author: Ingo Muschenetz
-favorite: ✓
+title: Eel Sauce
 ---
-
 Eel Sauce, also known as _Nitsume_, is a crowd favorite and it goes well on various types of rolls as well as a marinade for fish and chicken. In the United States, this sauce is created differently depending on which sushi bar you go to. This recipe will show you how to create a delicious version without actually using any eel!
 
 ### Ingredients

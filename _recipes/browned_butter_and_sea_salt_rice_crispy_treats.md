@@ -1,14 +1,14 @@
 ---
-title: Browned Butter and Sea Salt Rice Crispy Treats
+author: Reddit User
 category: Desserts
-description: A delicious twist on the classic rice crispy treats. The browned butter and sea salt give it a rich, savory flavor that's irresistible.
-image: brownedbutter_ricecrispytreats.jpg
+description: A delicious twist on the classic rice crispy treats. The browned butter
+  and sea salt give it a rich, savory flavor that's irresistible.
+favorite: "\u2713"
+image: browned_butter_and_sea_salt_rice_crispy_treats.jpg
 size: 9 servings
 time: 30 minutes
-author: Reddit User
-favorite: ✓
+title: Browned Butter and Sea Salt Rice Crispy Treats
 ---
-
 ### Ingredients
 
 * `1 stick` of butter

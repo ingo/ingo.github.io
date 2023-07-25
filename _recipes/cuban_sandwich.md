@@ -1,11 +1,12 @@
 ---
-title: Cuban Sandwich
 category: Entrees
-description: A great Cuban sandwich with a generous filling of ham, roasted Cuban pork, Swiss cheese, and dill pickles. 
+description: A great Cuban sandwich with a generous filling of ham, roasted Cuban
+  pork, Swiss cheese, and dill pickles.
+image: cuban_sandwich.jpg
 size: 4 generous sandwiches
 time: 20 minutes
+title: Cuban Sandwich
 ---
-
 ### Ingredients
 
 * Cuban bread or (Substitute French bread if you must. Sourdough slices also work nicely, but NOT a baguette!)

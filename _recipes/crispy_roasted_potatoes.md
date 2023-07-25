@@ -1,23 +1,23 @@
 ---
-title: Crispy Roasted Potatoes
-original_title: Potato Roasties
+author: Betsy Vereckey
 category: Sides
-description: Crispy and salty potatoes with dream-like, fluffy insides. A perfect side dish or a meal on its own.
-image: CGYRWRUDZU6GBPDENNK74RWS7Q.jpg
+description: Crispy and salty potatoes with dream-like, fluffy insides. A perfect
+  side dish or a meal on its own.
+image: crispy_roasted_potatoes.jpg
 image_attribution: Stacy Zarin Goldberg
 image_source: The Washington Post
-size: 8-10 servings
-time: 1 hour 10 minutes
-author: Betsy Vereckey
-source: https://www.washingtonpost.com/recipes/potato-roasties/17200/
 nutrition:
-  - 300 calories
-  - 39 g carbohydrates
-  - 14 g fat
-  - 5 g protein
-  - 150 mg sodium
+- 300 calories
+- 39 g carbohydrates
+- 14 g fat
+- 5 g protein
+- 150 mg sodium
+original_title: Potato Roasties
+size: 8-10 servings
+source: https://www.washingtonpost.com/recipes/potato-roasties/17200/
+time: 1 hour 10 minutes
+title: Crispy Roasted Potatoes
 ---
-
 This recipe for crispy roasted potatoes, or "roasties" as they're known in England, came from a time of change and transition. Despite the ups and downs of life, the comforting ritual of making these roasties remained a constant. Now, they're a beloved dish shared at potlucks and Friendsgiving dinners, a testament to the enduring power of good food and the memories we make while preparing it.
 
 ### Ingredients

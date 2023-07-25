@@ -1,16 +1,16 @@
 ---
-title: Garlic Rosemary Fondant Potatoes
-original_title: Garlic Rosemary Fondant Potatoes
-category: Sides
-description: Velvety on the inside and crispy on the outside, these Garlic Rosemary Fondant Potatoes are a real game changer of a recipe!
-image: Garlic-Rosemary-Fondant-Potatoes-480x480-320x180.jpg
-size: 4 servings
-time: 40 minutes
 author: Tara Noland
+category: Sides
+description: Velvety on the inside and crispy on the outside, these Garlic Rosemary
+  Fondant Potatoes are a real game changer of a recipe!
+favorite: "\u2713"
+image: garlic_rosemary_fondant_potatoes.jpg
+original_title: Garlic Rosemary Fondant Potatoes
+size: 4 servings
 source: https://noshingwiththenolands.com/garlic-rosemary-fondant-potatoes/
-favorite: ✓
+time: 40 minutes
+title: Garlic Rosemary Fondant Potatoes
 ---
-
 Fondant potatoes originated in France and is a method of cooking potatoes. Traditionally a large potato would be cut into a cylinder, then ends are browned and then they are slowly roasted in butter and broth. We used the Baby Boomer varietal from The Little Potato Company for this recipe, they are a yellow-white flesh Creamer potato that already is smooth and silky in the center and just melts all over the palette.
 
 ### Ingredients

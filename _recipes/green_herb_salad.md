@@ -1,15 +1,15 @@
 ---
-title: Green Herb Salad
-category: Sides
-description: A refreshing and vibrant salad packed with a variety of herbs and seeds. Perfect for a light lunch or as a side dish.
-image: green-herb-salad.jpg
-size: 4 servings
-time: 30 minutes
 author: Ottolenghi
+category: Sides
+description: A refreshing and vibrant salad packed with a variety of herbs and seeds.
+  Perfect for a light lunch or as a side dish.
+image: green_herb_salad.jpg
+size: 4 servings
 source: https://ottolenghi.co.uk/media/contentmanager/content/cache/646x458//green-herb-salad.jpg
-veggie: ✓
+time: 30 minutes
+title: Green Herb Salad
+veggie: "\u2713"
 ---
-
 This salad is a delightful mix of fresh herbs and greens, tossed with a simple yet flavorful dressing. The combination of different herbs gives it a unique and refreshing taste, while the toasted seeds add a nice crunch. It's a recipe from the renowned chef, Ottolenghi.
 
 ### Ingredients

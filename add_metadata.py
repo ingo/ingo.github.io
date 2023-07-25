@@ -39,7 +39,7 @@ image_filename = pre_dict.get("image")
 
 # Check if image file exists in the same directory as the current file
 if(pre_dict.get("category")):
-    placeholder_name = "placeholder_" + pre_dict.get("category").lower() + ".png"
+    placeholder_name = "placeholder_" + pre_dict.get("category").lower() + ".jpg"
 else:
     placeholder_name = "placeholder.jpg"
 

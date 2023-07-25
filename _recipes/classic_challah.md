@@ -1,14 +1,15 @@
 ---
-title: Classic Challah
-category: Breads
-description: This deep-gold, light-textured bread is traditionally served on the Jewish Sabbath and other holidays. The dough for this loaf is wonderfully smooth and supple, making it an ideal candidate for braiding.
-image: 126038b4-262a-4925-8c40-d3803bdc0470.png
-size: 1 loaf
-time: 4 hours
 author: King Arthur Flour
+category: Breads
+description: This deep-gold, light-textured bread is traditionally served on the Jewish
+  Sabbath and other holidays. The dough for this loaf is wonderfully smooth and supple,
+  making it an ideal candidate for braiding.
+image: classic_challah.jpg
+size: 1 loaf
 source: https://www.kingarthurflour.com/recipes/classic-challah-recipe
+time: 4 hours
+title: Classic Challah
 ---
-
 This deep-gold, light-textured bread is traditionally served on the Jewish Sabbath and other holidays. The dough for this loaf is wonderfully smooth and supple, making it an ideal candidate for braiding. The simplest way to go is a three-strand braid; but feel free to try the slightly more complex four-strand braid, or even a six-strand braid, which makes a striking presentation.
 
 ### Ingredients

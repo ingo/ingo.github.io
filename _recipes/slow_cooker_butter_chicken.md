@@ -1,27 +1,31 @@
 ---
-title: Slow-Cooker Butter Chicken
-category: Entrees 
-description: Not every version of butter chicken uses butter. Coconut milk gives this slow-cooker chicken its creamy richness. This is a fast recipe for the cook. Just prep it earlier in the day, even during your morning routine, getting your onion and spices going on the stove while simultaneously making lunches for grumpy children, folding dish towels, feeding the dogs and wondering once again why no one else has done any of the above.
-image: 12crowdrex_articleLarge.jpg
-size: 4 servings
-time: 4.5-5 hours
 author: Meredith Heuer for The New York Times
-source: http://www.nytimes.com/2017/07/10/dining/cooking-for-a-crowd.html
+category: Entrees
+description: Not every version of butter chicken uses butter. Coconut milk gives this
+  slow-cooker chicken its creamy richness. This is a fast recipe for the cook. Just
+  prep it earlier in the day, even during your morning routine, getting your onion
+  and spices going on the stove while simultaneously making lunches for grumpy children,
+  folding dish towels, feeding the dogs and wondering once again why no one else has
+  done any of the above.
+image: slow_cooker_butter_chicken.jpg
 nutrition:
-  - 684 calories
-  - 37 g fat
-  - 15 g saturated fat
-  - 0 g trans fat
-  - 13 g monounsaturated fat
-  - 5 g polyunsaturated fat
-  - 16 g carbohydrates
-  - 2 g dietary fiber
-  - 7 g sugars
-  - 71 g protein
-  - 320 mg cholesterol
-  - 1070 mg sodium
+- 684 calories
+- 37 g fat
+- 15 g saturated fat
+- 0 g trans fat
+- 13 g monounsaturated fat
+- 5 g polyunsaturated fat
+- 16 g carbohydrates
+- 2 g dietary fiber
+- 7 g sugars
+- 71 g protein
+- 320 mg cholesterol
+- 1070 mg sodium
+size: 4 servings
+source: http://www.nytimes.com/2017/07/10/dining/cooking-for-a-crowd.html
+time: 4.5-5 hours
+title: Slow-Cooker Butter Chicken
 ---
-
 ### Ingredients
 
 * `3 tbsp` vegetable oil

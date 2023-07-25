@@ -1,13 +1,13 @@
 ---
-title: Garlic Butter Potatoes
+author: Delish US
 category: Sides
-description: Hasselback Garlic Butter Potatoes that you're seriously missing out on. They're crispy on the outside and tender on the inside.
-image: placeholder.jpg
+description: Hasselback Garlic Butter Potatoes that you're seriously missing out on.
+  They're crispy on the outside and tender on the inside.
+image: garlic_butter_potatoes.jpg
 size: 8 servings
 time: 1 hour 15 minutes
-author: Delish US
+title: Garlic Butter Potatoes
 ---
-
 Hasselback it up into these potatoes. If you've never made these, you're seriously missing out. They're crispy on the outside and tender on the inside.
 
 ### Ingredients

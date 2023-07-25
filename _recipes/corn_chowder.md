@@ -1,14 +1,14 @@
 ---
-title: Corn Chowder
-category: Soups
-description: A hearty and creamy soup with the sweetness of corn and the richness of heavy cream. Perfect for a cozy dinner.
-image: placeholder.jpg
-size: 6 servings
-time: 1 hour
 author: Tyler Florence
+category: Soups
+description: A hearty and creamy soup with the sweetness of corn and the richness
+  of heavy cream. Perfect for a cozy dinner.
+image: corn_chowder.jpg
+size: 6 servings
 source: https://www.foodnetwork.com/recipes/tyler-florence/corn-chowder-recipe-1915497#reviewsTop
+time: 1 hour
+title: Corn Chowder
 ---
-
 This Corn Chowder recipe comes from the kitchen of renowned chef Tyler Florence. It's a comforting and hearty soup, perfect for a cozy dinner. The sweetness of the corn and the richness of the heavy cream make it a crowd-pleaser.
 
 ### Ingredients

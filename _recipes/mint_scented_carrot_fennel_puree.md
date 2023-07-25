@@ -1,12 +1,13 @@
 ---
-title: Mint-Scented Carrot-Fennel Purée
 category: Sides
-description: A delightful carrot purée with a hint of mint and fennel. This isn't just carrot purée, but it's mostly carrots. Adjust the amount of butter and cream to suit, or substitute with milk if you're feeling health-conscious.
-image: img_5435.jpg
+description: "A delightful carrot pur\xE9e with a hint of mint and fennel. This isn't\
+  \ just carrot pur\xE9e, but it's mostly carrots. Adjust the amount of butter and\
+  \ cream to suit, or substitute with milk if you're feeling health-conscious."
+image: mint_scented_carrot_fennel_puree.jpg
 size: 4 servings
 time: 30 minutes
+title: "Mint-Scented Carrot-Fennel Pur\xE9e"
 ---
-
 ### Ingredients
 
 * `3/4 lb` carrots

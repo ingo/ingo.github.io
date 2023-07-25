@@ -1,16 +1,16 @@
 ---
-title: Asparagus and Herb Lasagna
-original_title: Asparagus and Herb Lasagna
-category: Entrees 
-description: A delightful lasagna recipe filled with the goodness of asparagus and a mix of fresh herbs.
-image: asparagus_and_herb_lasagna.jpg
-size: 6 servings
-time: 1 hour 30 minutes
 author: Martha Rose Shulman
+category: Entrees
+description: A delightful lasagna recipe filled with the goodness of asparagus and
+  a mix of fresh herbs.
+image: asparagus_and_herb_lasagna.jpg
+original_title: Asparagus and Herb Lasagna
+size: 6 servings
 source: http://www.martha-rose-shulman.com/
-veggie: ✓
+time: 1 hour 30 minutes
+title: Asparagus and Herb Lasagna
+veggie: "\u2713"
 ---
-
 ### Ingredients
 
 * `2` large garlic cloves, peeled

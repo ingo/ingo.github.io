@@ -1,16 +1,18 @@
 ---
-title: Cold Noodle Salad With Spicy Peanut Sauce
-category: Entrees
-description: Soba, Japanese buckwheat noodles, are ideal for salads because they taste particularly great when served cold. Crunchy vegetables are highlighted here, adding lots of crisp, fresh texture. The spicy peanut sauce is very adaptable and can be prepared ahead of time.
-image: merlin_189371982_fe2a424a-73a9-4e56-b4e7-b77f4dfe544c-articleLarge.jpg
-size: 4 servings
-time: 20 minutes
 author: Hetty McKinnon
-source: https://cooking.nytimes.com/recipes/1022329-cold-noodle-salad-with-spicy-peanut-sauceundefined
+category: Entrees
+description: Soba, Japanese buckwheat noodles, are ideal for salads because they taste
+  particularly great when served cold. Crunchy vegetables are highlighted here, adding
+  lots of crisp, fresh texture. The spicy peanut sauce is very adaptable and can be
+  prepared ahead of time.
+image: cold_noodle_salad_with_spicy_peanut_sauce.jpg
 image_attribution: Christopher Simpson for The New York Times
-spicy: ✓
+size: 4 servings
+source: https://cooking.nytimes.com/recipes/1022329-cold-noodle-salad-with-spicy-peanut-sauceundefined
+spicy: "\u2713"
+time: 20 minutes
+title: Cold Noodle Salad With Spicy Peanut Sauce
 ---
-
 ### Ingredients
 
 #### For the Salad:

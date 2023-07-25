@@ -1,12 +1,14 @@
 ---
-title: Chicken on a Throne
 category: Entrees
-description: This BBQ recipe starts with an awkward (for the chicken) cooking technique, but ends up with a smoky flavor that's difficult to beat. The meat is moist and juicy with a great mahogany hue. It's delicious by itself, but also particularly great in a chicken salad.
-image: singlepic4413.jpg
+description: This BBQ recipe starts with an awkward (for the chicken) cooking technique,
+  but ends up with a smoky flavor that's difficult to beat. The meat is moist and
+  juicy with a great mahogany hue. It's delicious by itself, but also particularly
+  great in a chicken salad.
+image: chicken_on_a_throne.jpg
 size: 4-8 servings
 time: 3 hours
+title: Chicken on a Throne
 ---
-
 ### Ingredients
 
 * `2` Chickens, 3 ½ to 4 lbs. each

@@ -1,14 +1,15 @@
 ---
-title: Fire-Roasted Duck & Pheasant with Red Currant Jelly
+author: "David McMillan & Fr\xE9d\xE9ric Morin"
 category: Entrees
-description: Fire-roasted mix of birds over flames and embers, using hooks and chains to suspend and rotate them. The spin, the way the fat drips down, all combines to make a wonderfully burnished bird.
-image: 36133752-46eb-40b1-a533-7e222734810f.png
+description: Fire-roasted mix of birds over flames and embers, using hooks and chains
+  to suspend and rotate them. The spin, the way the fat drips down, all combines to
+  make a wonderfully burnished bird.
+image: fire_roasted_duck_pheasant_with_red_currant_jelly.jpg
 size: 6 servings
-time: 1 hour, 25 minutes
-author: David McMillan & Frédéric Morin
 source: https://www.saveur.com/fire-roasted-duck-pheasant-with-red-currant-jelly-recipe
+time: 1 hour, 25 minutes
+title: Fire-Roasted Duck & Pheasant with Red Currant Jelly
 ---
-
 Fred Morin and Dave McMillan of Joe Beef in Montreal cook a mix of birds over flames and embers, using hooks and chains to suspend and rotate them (different-size birds will cook at different speeds). “The spin, the way the fat drips down, all combines to make a wonderfully burnished bird,” says McMillan. Ambitious home cooks can hang birds using twine or wire over a backyard fire, or simply roast birds on a rack set in a roasting pan in the (indoor) oven.
 
 ### Ingredients

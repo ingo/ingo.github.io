@@ -1,15 +1,17 @@
 ---
-title: Disney Parks Churro Bites
-category: Desserts
-description: Enjoy a delicious Disney churro at home! This recipe is inspired by the delicious snack that can be found at all of our parks across the globe. The recipe serves four people and is a perfect snack to enjoy while creating your very own magical moments right at home.
-image: wghevtr36y2133-624x417.jpg
-size: 4 servings
-time: 30 minutes
 author: Alex Dunlap
+category: Desserts
+description: Enjoy a delicious Disney churro at home! This recipe is inspired by the
+  delicious snack that can be found at all of our parks across the globe. The recipe
+  serves four people and is a perfect snack to enjoy while creating your very own
+  magical moments right at home.
+favorite: "\u2713"
+image: disney_parks_churro_bites.jpg
+size: 4 servings
 source: https://disneyparks.disney.go.com/blog/author/alex-dunlap/
-favorite: ✓
+time: 30 minutes
+title: Disney Parks Churro Bites
 ---
-
 This recipe is inspired by the delicious Disney Parks Churro Bites that can be found at all of our parks across the globe. It's a perfect snack to enjoy while creating your very own magical moments right at home.
 
 ### Ingredients

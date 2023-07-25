@@ -1,18 +1,19 @@
 ---
-title: All Purpose Stir Fry Sauce
-original_title: Real Chinese All-Purpose Stir Fry Sauce
-category: Entrees 
-description: My secret weapon for mid week meals - an All Purposes Chinese Stir Fry Sauce, a versatile base that makes a wonderfully glossy sauce for any stir fry, including stir fried noodles.
-image: allpurposestirfrysauce.jpg
-size: 1 1/2 cups (around 12 servings)
-time: 10 minutes
 author: Nagi | RecipeTin Eats
-source: https://www.recipetineats.com/real-chinese-purpose-stir-fry-sauce/
-spicy: ✓
+category: Entrees
+description: My secret weapon for mid week meals - an All Purposes Chinese Stir Fry
+  Sauce, a versatile base that makes a wonderfully glossy sauce for any stir fry,
+  including stir fried noodles.
+image: all_purpose_stir_fry_sauce.jpg
 nutrition:
-  - 34 calories
+- 34 calories
+original_title: Real Chinese All-Purpose Stir Fry Sauce
+size: 1 1/2 cups (around 12 servings)
+source: https://www.recipetineats.com/real-chinese-purpose-stir-fry-sauce/
+spicy: "\u2713"
+time: 10 minutes
+title: All Purpose Stir Fry Sauce
 ---
-
 ### Ingredients
 
 * `1/4 cup / 65 ml` light soy sauce

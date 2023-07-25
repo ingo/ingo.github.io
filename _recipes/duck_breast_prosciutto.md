@@ -1,15 +1,15 @@
 ---
-title: Duck Breast Prosciutto
-original_title: Duck Breast Prosciutto
-category: Entrees
-description: A simple and traditional method of preserving duck breast with salt and time, resulting in a delicious prosciutto.
-image: af489612-a607-4f24-8f82-a169d764cd74.jpg
-size: Varies
-time: 1 week
 author: Dan
+category: Entrees
+description: A simple and traditional method of preserving duck breast with salt and
+  time, resulting in a delicious prosciutto.
+image: duck_breast_prosciutto.jpg
+original_title: Duck Breast Prosciutto
+size: Varies
 source: http://foodielawyer.com/2011/01/duck-breast-prosciutto/
+time: 1 week
+title: Duck Breast Prosciutto
 ---
-
 This recipe is part of a year-long collective effort of a group of bloggers participating in "CharcutePalooza," using ancient methods of preserving meats. The first challenge was to create duck breast prosciutto, guided by Michael Ruhlman’s book on charcuterie.
 
 ### Ingredients

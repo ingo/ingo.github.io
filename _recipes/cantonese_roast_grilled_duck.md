@@ -1,14 +1,14 @@
 ---
-title: Cantonese Roast/Grilled Duck
-category: Entrees 
-description: A Chinese grandma's approach to a classic Cantonese dish. This recipe is approximate and by feel, so feel free to tweak it to your liking.
-image: cantoneseduck.jpg
+author: Chinese Grandma
+category: Entrees
+description: A Chinese grandma's approach to a classic Cantonese dish. This recipe
+  is approximate and by feel, so feel free to tweak it to your liking.
+favorite: "\u2713"
+image: cantonese_roast_grilled_duck.jpg
 size: 4-6 servings
 time: 1 hour
-author: Chinese Grandma
-favorite: ✓
+title: Cantonese Roast/Grilled Duck
 ---
-
 ### Ingredients
 
 * `1` whole duck about 5-1/2 lbs

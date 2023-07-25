@@ -1,14 +1,15 @@
 ---
-title: Baked Doughnuts Three Ways
-category: Breakfasts
-description: Old-fashioned cake doughnuts were deep-fried in hot fat; NEW-fashioned cake doughnuts are baked in a hot oven! Use a doughnut pan and this tasty recipe to create your choice of doughnuts.
-image: baked_doughnuts_three_waysking_arthur_flour.jpg
-size: 12 servings
-time: 25 mins
 author: King Arthur Flour
+category: Breakfasts
+description: Old-fashioned cake doughnuts were deep-fried in hot fat; NEW-fashioned
+  cake doughnuts are baked in a hot oven! Use a doughnut pan and this tasty recipe
+  to create your choice of doughnuts.
+image: baked_doughnuts_three_ways.jpg
+size: 12 servings
 source: https://www.kingarthurflour.com/recipebox
+time: 25 mins
+title: Baked Doughnuts Three Ways
 ---
-
 ### Ingredients
 
 * `4 tbsp` butter

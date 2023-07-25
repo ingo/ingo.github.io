@@ -1,12 +1,13 @@
 ---
-title: Braised Beef Short Ribs
 category: Entrees
-description: This recipe is one to keep on hand for a couple of reasons, it is so warm and comforting, especially on a cold winter day and this recipe can easily be adapted to feed 2 people or a crowd!
-image: Shortrib.jpg
+description: This recipe is one to keep on hand for a couple of reasons, it is so
+  warm and comforting, especially on a cold winter day and this recipe can easily
+  be adapted to feed 2 people or a crowd!
+image: braised_beef_short_ribs.jpg
 size: 4 servings
 time: 2-3 hours
+title: Braised Beef Short Ribs
 ---
-
 ### Ingredients
 
 * `4` bone-in beef short ribs (approx. 2.5-3 pounds, you can also use boneless if you wish)

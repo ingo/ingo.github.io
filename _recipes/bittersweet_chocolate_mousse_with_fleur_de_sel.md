@@ -1,17 +1,18 @@
 ---
-title: Bittersweet Chocolate Mousse With Fleur de Sel
-original_title: Bittersweet Chocolate Mousse With Fleur de Sel
-category: Desserts
-description: This is an intense, creamy one-ingredient chocolate mousse adapted from the molecular gastronomist Hervé This. The nearly instant recipe contains no cream or eggs, so a complex chocolate can shine.
-image: chocolate_mousse.jpg
-size: 4 servings
-time: 10 minutes
 author: Melissa Clark
-source: https://cooking.nytimes.com/ourcooks/melissa-clark/my-recipes?action=click&module=byline&region=recipe%20page
+category: Desserts
+description: "This is an intense, creamy one-ingredient chocolate mousse adapted from\
+  \ the molecular gastronomist Herv\xE9 This. The nearly instant recipe contains no\
+  \ cream or eggs, so a complex chocolate can shine."
+image: bittersweet_chocolate_mousse_with_fleur_de_sel.jpg
 image_attribution: David Malosh for The New York Times
-sweet: ✓
+original_title: Bittersweet Chocolate Mousse With Fleur de Sel
+size: 4 servings
+source: https://cooking.nytimes.com/ourcooks/melissa-clark/my-recipes?action=click&module=byline&region=recipe%20page
+sweet: "\u2713"
+time: 10 minutes
+title: Bittersweet Chocolate Mousse With Fleur de Sel
 ---
-
 ### Ingredients
 
 * `285 grams` bittersweet chocolate (about 10 ounces), roughly chopped, more as needed (see note)

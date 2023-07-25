@@ -1,11 +1,12 @@
 ---
-title: Carnitas
 category: Entrees
-description: A fantastic way to make carnitas. Recipe originally from La Taqueria in San Francisco.
+description: A fantastic way to make carnitas. Recipe originally from La Taqueria
+  in San Francisco.
+image: carnitas.jpg
 size: 3-4 lbs
 time: 4 hours 30 minutes
+title: Carnitas
 ---
-
 ### Ingredients
 
 * `1` boned and tied pork shoulder or butt (4-5 lbs)

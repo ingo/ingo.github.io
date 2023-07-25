@@ -1,12 +1,13 @@
 ---
-title: Boiled Beef with Dill Sauce
-category: Entrees
-description: A very typical southern German recipe, a favorite of Ingo growing up. Great with Hefeknoedel.
-size: 4 servings
 author: Ingo
-favorite: ✓
+category: Entrees
+description: A very typical southern German recipe, a favorite of Ingo growing up.
+  Great with Hefeknoedel.
+favorite: "\u2713"
+image: boiled_beef_with_dill_sauce.jpg
+size: 4 servings
+title: Boiled Beef with Dill Sauce
 ---
-
 ### Ingredients
 
 * `3 pounds` chuck, cut into 1 ½ inch cubes

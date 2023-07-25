@@ -1,15 +1,15 @@
 ---
-title: Burek & Sirnica
-original_title: Burek & Sirnica
-category: Sides
-description: Learn how to make burek and sirnica from scratch. It may not be the way your grandmother made it, but it's good enough for me!
-image: c1fdeb3b_c9ed_4aa4_99bf_8574ca90672c.jpg
-size: 2 pies
-time: 2 hours
 author: heneedsfood.com
+category: Sides
+description: Learn how to make burek and sirnica from scratch. It may not be the way
+  your grandmother made it, but it's good enough for me!
+image: burek_sirnica.jpg
+original_title: Burek & Sirnica
+size: 2 pies
 source: http://heneedsfood.com/recipe/burek-two-ways/
+time: 2 hours
+title: Burek & Sirnica
 ---
-
 ### Ingredients
 
 #### Dough

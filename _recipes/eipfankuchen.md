@@ -1,11 +1,11 @@
 ---
-title: "Eipfannkuchen"
-date: "2008-09-06"
 category: Breakfasts
-coverImage: "eipfannkuchen.jpg"
+coverImage: eipfannkuchen.jpg
+date: '2008-09-06'
+image: eipfankuchen.jpg
 servings: 2
+title: Eipfannkuchen
 ---
-
 
 As a kid, I loved these huge, bigger-than-my-head, eggy pancakes, which my Oma would cook for me after a cold morning tromping through the snow. My favorite topping is melted butter with a little honey, but they can be topped like normal crepes.
 

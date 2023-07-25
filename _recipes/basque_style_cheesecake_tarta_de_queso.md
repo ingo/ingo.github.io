@@ -1,16 +1,20 @@
 ---
-title: Basque-Style Cheesecake (Tarta de Queso)
-original_title: Tarta de Queso
-category: Desserts
-description: Beneath this cheesecake's blistered exterior you’ll find a meltingly smooth and creamy interior that just may change your cheesecake game forever. Developed by Santiago Rivera (chef and owner of La Viña in San Sebastian, Spain) this unique crustless cake, with its blackened top, appears in various forms in American restaurants and around the internet; our version here was adapted from several different sources.
-image: basque_style_cheesecake_(tarta_de_queso)king_arthur_baking.jpg
-size: one 9” cheesecake
-time: 55 mins
 author: King Arthur Baking
+category: Desserts
+description: "Beneath this cheesecake's blistered exterior you\u2019ll find a meltingly\
+  \ smooth and creamy interior that just may change your cheesecake game forever.\
+  \ Developed by Santiago Rivera (chef and owner of La Vi\xF1a in San Sebastian, Spain)\
+  \ this unique crustless cake, with its blackened top, appears in various forms in\
+  \ American restaurants and around the internet; our version here was adapted from\
+  \ several different sources."
+favorite: "\u2713"
+image: basque_style_cheesecake_tarta_de_queso.jpg
+original_title: Tarta de Queso
+size: "one 9\u201D cheesecake"
 source: https://www.kingarthurbaking.com/recipes/basque-style-cheesecake-tarta-de-queso-recipeundefined
-favorite: ✓
+time: 55 mins
+title: Basque-Style Cheesecake (Tarta de Queso)
 ---
-
 ### Ingredients
 
 * `three 8-ounce packages` cream cheese

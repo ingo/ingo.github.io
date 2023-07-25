@@ -1,12 +1,11 @@
 ---
-title: Margarita
+author: Emily Lubien
 category: Beverages
 description: Emily Lubien's favorite margarita recipe.
-image: img_0159.jpg
+image: margarita.jpg
 size: 4 servings
-author: Emily Lubien
+title: Margarita
 ---
-
 ### Ingredients
 
 * `1/2 cup` fresh lime juice

@@ -1,14 +1,15 @@
 ---
-title: Dill Pickle Soup
-category: Soups
-description: A unique, hearty soup that's always a hit at potlucks. The longer it simmers, the better it gets. Even if you're not a fan of dill pickles, you'll love this soup.
-image: dillpicklesoup.jpg
-size: 4-6 servings
-time: All day
 author: Anonymous
-spicy: ✓
+category: Soups
+description: A unique, hearty soup that's always a hit at potlucks. The longer it
+  simmers, the better it gets. Even if you're not a fan of dill pickles, you'll love
+  this soup.
+image: dill_pickle_soup.jpg
+size: 4-6 servings
+spicy: "\u2713"
+time: All day
+title: Dill Pickle Soup
 ---
-
 ### Ingredients
 
 * `3 cups` Chicken Broth

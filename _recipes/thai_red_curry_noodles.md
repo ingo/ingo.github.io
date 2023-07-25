@@ -1,14 +1,15 @@
 ---
-title: Thai Red Curry Noodles
-category: Entrees
-description: A perfect blend of curry, beans, and eggs, this Thai Red Curry Noodles recipe is a staple diet in many foreign countries. With a supply of good eggs and a variety of spices, this recipe is a tasty custard that is perfect for any meal.
-image: 21305405145_8f0e43f6ea_o.jpg
-size: 2-4 servings
-time: Not specified
 author: Ingo Muschenetz
-spicy: ✓
+category: Entrees
+description: A perfect blend of curry, beans, and eggs, this Thai Red Curry Noodles
+  recipe is a staple diet in many foreign countries. With a supply of good eggs and
+  a variety of spices, this recipe is a tasty custard that is perfect for any meal.
+image: thai_red_curry_noodles.jpg
+size: 2-4 servings
+spicy: "\u2713"
+time: Not specified
+title: Thai Red Curry Noodles
 ---
-
 ### Ingredients
 
 * `2 quarts` of Chicken Soup

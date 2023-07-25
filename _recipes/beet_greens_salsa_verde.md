@@ -1,13 +1,13 @@
 ---
-title: Beet Greens Salsa Verde
+author: Food Fidelity
 category: Sauces
 description: This magical salsa is pretty much good on anything from meats to vegetables.
+image: beet_greens_salsa_verde.jpg
 size: 1 cup
-time: 8 minutes
-author: Food Fidelity
 source: https://www.foodfidelity.com/wprm_print/3353
+time: 8 minutes
+title: Beet Greens Salsa Verde
 ---
-
 ### Ingredients
 
 * `1 cup` beet greens (not the stems!)

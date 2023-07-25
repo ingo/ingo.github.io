@@ -1,16 +1,17 @@
 ---
-title: Greek Gigantes
-original_title: Greek Gigantes
-category: Sides
-description: Greek Gigantes are, not surprisingly, GIANT beans! In this recipe, the gigantes are slow cooked in a rich tomato sauce until perfectly creamy and tender. Serve over toasted crusty bread for an easy vegetarian meal.
-image: greek-gigantes-beans-recipe.jpg
-size: servings
-time: 8 hours 10 minutes
 author: The Wanderlust Kitchen
+category: Sides
+description: Greek Gigantes are, not surprisingly, GIANT beans! In this recipe, the
+  gigantes are slow cooked in a rich tomato sauce until perfectly creamy and tender.
+  Serve over toasted crusty bread for an easy vegetarian meal.
+image: greek_gigantes.jpg
+original_title: Greek Gigantes
+size: servings
 source: https://thewanderlustkitchen.com/greek-gigantes/
-veggie: ✓
+time: 8 hours 10 minutes
+title: Greek Gigantes
+veggie: "\u2713"
 ---
-
 These giant beans were first discovered during a trip to Athens. They are huge in size, and huge in flavor. This recipe is intensely comforting and satisfying. It’s also incredibly versatile. You can serve it as a stew-like main course, as a side dish, or even as part of a spread of small plates or appetizers. 
 
 ### Ingredients

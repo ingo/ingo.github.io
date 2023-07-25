@@ -1,17 +1,18 @@
 ---
-title: Crispy Grains and Halloumi With Smashed Cucumbers
+author: Ali Slagle
 category: Entrees
-description: This vegetarian sheet-pan meal is inspired by crispy rice dishes like tahdig, fried rice and pegao, but, instead of white rice, this recipe calls for whole grains like brown rice, wheat berries or farro. 
-image: merlin_186367233_5f9b2ab4-a7e3-4c49-bb58-e7e5fef778d7-articleLarge.jpg
+description: This vegetarian sheet-pan meal is inspired by crispy rice dishes like
+  tahdig, fried rice and pegao, but, instead of white rice, this recipe calls for
+  whole grains like brown rice, wheat berries or farro.
+image: crispy_grains_and_halloumi_with_smashed_cucumbers.jpg
 image_attribution: Christopher Simpson
 image_source: The New York Times
 size: 4 servings
-time: 20 minutes
-author: Ali Slagle
 source: https://cooking.nytimes.com/recipes/1022163-crispy-grains-and-halloumi-with-smashed-cucumbersundefined
-veggie: ✓
+time: 20 minutes
+title: Crispy Grains and Halloumi With Smashed Cucumbers
+veggie: "\u2713"
 ---
-
 This vegetarian sheet-pan meal is inspired by crispy rice dishes like tahdig, fried rice and pegao, but, instead of white rice, this recipe calls for whole grains like brown rice, wheat berries or farro. For best results, spread the grains and chickpeas on a sheet pan and pat lightly with a paper towel to remove moisture before cooking — the drier they are, the more they’ll crisp up. Then top everything with smashed cucumbers that have been combined with citrus and fresh herbs.
 
 ### Ingredients

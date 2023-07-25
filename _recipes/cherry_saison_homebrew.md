@@ -1,15 +1,15 @@
 ---
-title: Cherry Saison Homebrew
-category: Beverages
-description: A light and refreshing beer with a punch of cherry, coriander, and rosemary layered over a smooth and creamy background provided by the saison yeast and malt.
-image: flora_brewing_cherry_saison_webthumb_large.jpg
-size: 7 gallons
-time: 4 hours
 author: Sarah Flora
+category: Beverages
+description: A light and refreshing beer with a punch of cherry, coriander, and rosemary
+  layered over a smooth and creamy background provided by the saison yeast and malt.
+favorite: "\u2713"
+image: cherry_saison_homebrew.jpg
+size: 7 gallons
 source: https://www.clawhammersupply.com/collections/all-products/products/digital-electric-120v-homebrew-beer-system
-favorite: ✓
+time: 4 hours
+title: Cherry Saison Homebrew
 ---
-
 This beer was brewed on the Clawhammer 120v Electric Brewing System. Both the recipe and a beer were sent to us. We loved the beer so much we decided to publish the recipe here for your enjoyment. This one is a keeper and we definitely recommend brewing it.
 
 ### Ingredients

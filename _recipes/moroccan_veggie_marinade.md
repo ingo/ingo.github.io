@@ -1,12 +1,12 @@
 ---
-title: Moroccan Veggie Marinade
 category: Entrees
-description: A zesty, spicy and herb-filled marinade perfect for grilled veggie kebabs. 
+description: A zesty, spicy and herb-filled marinade perfect for grilled veggie kebabs.
+image: moroccan_veggie_marinade.jpg
 size: 1 cup of marinade
+spicy: "\u2713"
 time: 1-4 hours for marinating
-spicy: ✓
+title: Moroccan Veggie Marinade
 ---
-
 ### Ingredients
 
 * `1/4 cup` olive oil

@@ -1,15 +1,16 @@
 ---
-title: Piña Colada Trifle
+author: Reddit User
 category: Desserts
-description: A delightful tropical dessert with layers of sponge cake, fresh pineapple, coconut cream, and a hint of rum. Perfect for those with dietary restrictions as it can be made gluten-free and egg-free.
-image: pinacoladatrifle.jpg
+description: A delightful tropical dessert with layers of sponge cake, fresh pineapple,
+  coconut cream, and a hint of rum. Perfect for those with dietary restrictions as
+  it can be made gluten-free and egg-free.
+favorite: "\u2713"
+image: pi_a_colada_trifle.jpg
 size: Varies
 time: Varies
-author: Reddit User
-favorite: ✓
-vegan: ✓
+title: "Pi\xF1a Colada Trifle"
+vegan: "\u2713"
 ---
-
 ### Ingredients
 
 * Agar agar powder

@@ -1,12 +1,12 @@
 ---
-title: Turkey Sandwich with Cranberry Relish
-category: Entrees
-description: Our favorite after-Thanksgiving sandwich that uses all of the leftover ingredients sitting around from the main Thanksgiving feast.
-image: img_2530.jpg
-size: 1 serving
 author: Ingo Muschenetz
+category: Entrees
+description: Our favorite after-Thanksgiving sandwich that uses all of the leftover
+  ingredients sitting around from the main Thanksgiving feast.
+image: turkey_sandwich_with_cranberry_relish.jpg
+size: 1 serving
+title: Turkey Sandwich with Cranberry Relish
 ---
-
 ### Ingredients
 
 * `1 serving` [Roast Turkey With Oranges And Onions](http://muschenetz.com/tablem/food/roast-turkey-with-oranges-and-onions/) or [Smoked Turkey](http://muschenetz.com/tablem/food/smoked-turkey/)

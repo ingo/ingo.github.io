@@ -1,14 +1,14 @@
 ---
-title: Creamy-ish of Mushroom Soup
-category: Soups
-description: A rich and creamy mushroom soup with a hint of garlic and thyme. Perfect for a cozy dinner.
-image: placeholder.jpg
-size: 4 servings
-time: 1 hour
 author: Chris Morocco
+category: Soups
+description: A rich and creamy mushroom soup with a hint of garlic and thyme. Perfect
+  for a cozy dinner.
+image: creamy_ish_of_mushroom_soup.jpg
+size: 4 servings
 source: https://www.bonappetit.com/recipe/creamy-ish-of-mushroom-soup
+time: 1 hour
+title: Creamy-ish of Mushroom Soup
 ---
-
 This Creamy-ish of Mushroom Soup recipe, created by Chris Morocco, is a delightful blend of mixed mushrooms, sweet onion, and shallots, cooked to perfection and blended with raw cashews and miso for a creamy texture. The soup is then topped with a garlicky oil for an extra layer of flavor.
 
 ### Ingredients

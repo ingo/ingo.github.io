@@ -1,23 +1,22 @@
 ---
-title: Cream Ale
-category: Beverages 
-description: A home-brewed cream ale with a twist of peaches and a hint of oak. 
-image: placeholder.jpg
-size: 5 gallons
-time: 1 month and 10 days
 author: Ingo Muschenetz
-favorite: N/A
-veggie: ✓
-vegan: ✓
-spicy: N/A
-sweet: ✓
-salty: N/A
-sour: N/A
 bitter: N/A
-umami: N/A
+category: Beverages
+description: A home-brewed cream ale with a twist of peaches and a hint of oak.
 difficulty: hard
+favorite: N/A
+image: cream_ale.jpg
+salty: N/A
+size: 5 gallons
+sour: N/A
+spicy: N/A
+sweet: "\u2713"
+time: 1 month and 10 days
+title: Cream Ale
+umami: N/A
+vegan: "\u2713"
+veggie: "\u2713"
 ---
-
 This Cream Ale recipe is a unique home-brewing experience that incorporates the sweetness of peaches and the depth of oak chips. It's a lengthy process, but the end result is worth the wait.
 
 ### Ingredients

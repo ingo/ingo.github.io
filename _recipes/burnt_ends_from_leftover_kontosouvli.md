@@ -1,14 +1,14 @@
 ---
-title: Burnt Ends From Leftover Kontosouvli
-category: Entrees 
-description: Chunks of leftover pork kontosouvli transformed into delicious burnt ends with a sticky BBQ sauce. Perfect with rice pilaf and gigantes beans.
-image: 20210608_134401_01.jpeg
-size: 4-6 servings
-time: 2 hours
 author: Kalofagas.ca
+category: Entrees
+description: Chunks of leftover pork kontosouvli transformed into delicious burnt
+  ends with a sticky BBQ sauce. Perfect with rice pilaf and gigantes beans.
+image: burnt_ends_from_leftover_kontosouvli.jpg
+size: 4-6 servings
 source: https://www.kalofagas.ca/2011/04/26/kontosouvli/
+time: 2 hours
+title: Burnt Ends From Leftover Kontosouvli
 ---
-
 ### Ingredients
 
 * `2 lbs` leftover pork kontosouvli

@@ -1,20 +1,20 @@
 ---
-title: Fesenjan (Persian Pomegranate Chicken)
-original_title: Fesenjan (Persian Pomegranate Chicken)
-category: Entrees
-description: A Persian chicken stew made with chicken breasts or thighs that are slowly cooked with ground toasted walnuts and pomegranate molasses.
-image: -opt-aboutcom-coeus-resources-content_migration-simply_recipes-uploads-2012-10-fesenjan-chicken-stew-vertical-a-1800-0a106a6f15a34b26b8bb600f4c614b9f.webp
-size: 6-8 servings
-time: 2 hours 10 minutes
 author: Elise Bauer
-source: https://www.simplyrecipes.com/recipes/fesenjan_persian_chicken_stew_with_walnut_and_pomegranate_sauce/undefined
+category: Entrees
+description: A Persian chicken stew made with chicken breasts or thighs that are slowly
+  cooked with ground toasted walnuts and pomegranate molasses.
+image: fesenjan_persian_pomegranate_chicken.jpg
 nutrition:
-  - 568 calories
-  - 37g fat
-  - 31g carbs
-  - 34g protein
+- 568 calories
+- 37g fat
+- 31g carbs
+- 34g protein
+original_title: Fesenjan (Persian Pomegranate Chicken)
+size: 6-8 servings
+source: https://www.simplyrecipes.com/recipes/fesenjan_persian_chicken_stew_with_walnut_and_pomegranate_sauce/undefined
+time: 2 hours 10 minutes
+title: Fesenjan (Persian Pomegranate Chicken)
 ---
-
 Fesenjan is a classic preparation in Persian cooking. Chicken pieces are first browned and then slowly cooked in a sauce with ground toasted walnuts and pomegranate molasses. The toasted walnuts are rich and warm and the pomegranate molasses sharp and berry toned. Cooked slowly with the chicken, the sauce is spectacular. 
 
 ### Ingredients

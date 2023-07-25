@@ -1,11 +1,11 @@
 ---
-title: "Whipped Orange Juice"
-date: "2008-09-06"
 category: Beverages
-coverImage: "img_0602.jpg"
+coverImage: img_0602.jpg
+date: '2008-09-06'
+image: blended_orange_juice.jpg
 servings: 4
+title: Whipped Orange Juice
 ---
-
 
 The world's simplest recipe, but a favorite one from Ingo's childhood. His mom would make this when friends came over or for special breakfasts.
 
