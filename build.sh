@@ -54,6 +54,7 @@ $CLEAN && exit
 
 status "Copying assets..."
 x cp -r _assets/ _site/assets/
+x cp _assets/about.html _site/about.html
 
 status "Copying static files..."
 for FILE in _recipes/*; do
