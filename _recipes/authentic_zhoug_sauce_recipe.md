@@ -9,7 +9,7 @@ size: 1 ¼ cup
 source: https://www.feastingathome.com/zhoug-recipe/
 spicy: ✓
 time: 10 minutes
-title: Authentic Zhoug Sauce Recipe
+title: Zhoug Sauce
 ---
 Zhoug, pronounced Zoog, is a spicy, green chili cilantro sauce that hails from Yemen. It has become wildly popular in Israel and Middle Eastern cuisine to give dishes a huge burst of flavor. This simplified version of Zhoug is made with milder chilies, jalapeños versus hotter bird’s eye or serrano chilies. This version can also be made in a food processor to save time. It literally takes 5 minutes!
 

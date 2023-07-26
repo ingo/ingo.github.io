@@ -9,7 +9,7 @@ original_title: Cemita Poblana de Milanesa
 size: 6 servings
 source: https://www.epicurious.com/recipes/food/views/breaded-chicken-sandwiches-with-sesame-rolls-cemita-poblana-de-milanesa
 time: 1 hour
-title: Breaded Chicken Sandwiches with Sesame Rolls (Cemita Poblana de Milanesa)
+title: Breaded Chicken Sandwiches with Sesame Rolls
 ---
 ### Ingredients
 

@@ -7,7 +7,7 @@ favorite: ✓
 image: waffles_from_the_joy_of_cooking.jpg
 size: 4 servings
 time: 30 minutes
-title: Waffles from The Joy of Cooking
+title: Waffles
 ---
 This recipe is a delightful twist on the classic waffle recipe from the renowned cookbook, "The Joy of Cooking". The addition of vanilla gives these waffles a sweet aroma and a hint of extra flavor that makes them truly irresistible.
 

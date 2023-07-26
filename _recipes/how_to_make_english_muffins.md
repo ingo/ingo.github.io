@@ -9,7 +9,7 @@ original_title: Homemade English Muffins
 size: 12 muffins
 source: https://www.thekitchn.com/how-to-make-english-muffins-cooking-lessons-from-the-kitchen-106360
 time: 1 hour
-title: How To Make English Muffins
+title: English Muffins
 vegan: ✓ (with modifications)
 ---
 There is really no better vehicle for melted butter than the craggy dips and toasted peaks of an English muffin. They’re surprisingly straightforward to make and since the dough is best when made ahead and refrigerated overnight, they’ve become one of my favorite treats to make over long, lazy weekends. 

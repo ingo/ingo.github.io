@@ -9,7 +9,7 @@ original_title: SF Sourdough (Giraudo's recipe)
 size: 2 loaves (875g each)
 source: http://www.thefreshloaf.com/node/59628/sf-sourdough-giraudos-recipe
 time: 1 day 10 hours
-title: SF Sourdough (Giraudo's recipe)
+title: Giraudo's SF Sourdough
 ---
 This is a classic San Francisco sourdough recipe, shared by Mike Giraudo and tested by a home baker. The recipe was followed to the letter, with the exception of kneading by hand instead of using a stand mixer. The result is a bread with a mild sour tang and a chewy crust.
 

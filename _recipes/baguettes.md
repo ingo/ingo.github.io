@@ -7,7 +7,7 @@ description: A detailed guide to making classic baguettes, using a pre-fermented
 image: baguettes.jpg
 size: 4 baguettes
 time: 3 days
-title: Baguettes Masterclass with Patrick Ryan
+title: Baguettes
 ---
 ### Ingredients
 

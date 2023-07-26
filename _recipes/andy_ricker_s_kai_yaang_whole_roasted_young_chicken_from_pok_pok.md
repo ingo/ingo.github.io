@@ -8,7 +8,7 @@ original_title: Kai Yaang
 size: 2 servings
 source: https://www.seriouseats.com/andy-ricker-whole-roasted-chicken-game-hen-recipe-from-pok-pok-cookbook
 time: 4 hours
-title: Andy Ricker's Kai Yaang (Whole Roasted Young Chicken), From 'Pok Pok'
+title: Andy Ricker's Kai Yaang (Whole Roasted Young Chicken)
 ---
 ### Ingredients
 

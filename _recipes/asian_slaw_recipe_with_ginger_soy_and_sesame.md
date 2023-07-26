@@ -13,7 +13,7 @@ nutrition:
 size: Serves 4 to 6
 source: https://www.thespruceeats.com/asian-slaw-recipe-1763147
 time: 10 mins
-title: Asian Slaw Recipe with Ginger Soy and Sesame
+title: Asian Slaw with Ginger Soy and Sesame
 ---
 ### Ingredients
 

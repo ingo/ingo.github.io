@@ -6,12 +6,12 @@ description: These Maryland crab cakes get the stamp of approval from locals and
   and Old Bay Seasoning but the most flavor is from the crab meat itself. For the
   best texture, use lump crab meat, little filler, and bake the cakes in a very hot
   oven.
-image: maryland_crab_cakes_recipe_little_filler_.jpg
+image: maryland_crab_cakes_recipe_little_filler.jpg
 original_title: Maryland Crab Cakes Recipe (Little Filler)
 size: 6 servings
 source: https://sallysbakingaddiction.com/maryland-crab-cakes/
 time: 1 hour
-title: Maryland Crab Cakes Recipe (Little Filler)
+title: Maryland Crab Cakes
 ---
 These Maryland crab cakes get the stamp of approval from locals and out-of-towners alike. This classic lump crab cake recipe combines the flavors of lemon, parsley, and Old Bay Seasoning but the most flavor is from the crab meat itself. For the best texture, use lump crab meat, little filler, and bake the cakes in a very hot oven.
 

@@ -9,7 +9,7 @@ original_title: Joojeh Kabab ba Holu
 size: 4 servings
 source: https://cooking.nytimes.com/search?q=Naz+Deravian&action=click&module=byline&region=recipe%20page
 time: 40 minutes, plus 2 to 24 hours’ marinating
-title: Joojeh Kabab ba Holu (Saffron Chicken Kababs With Peaches)
+title: Saffron Chicken Kababs With Peaches
 ---
 An Iranian barbecue would be incomplete without the dizzying scent of saffron chicken kababs on the grill. Saffron, the primary seasoning, is ground and then steeped in water to draw out its sweet scent, flavor and rich hue. This method is also the most economical use of the precious threads. Nothing goes to waste in this preparation; even the onion from the marinade is cooked to serve as an accompaniment. In this version, grilled peaches are plated alongside the traditional blistered tomatoes for a delightful tangy bite. An overnight marinade will guarantee the juiciest kababs, but don’t worry if you’re short on time; a couple of hours is sufficient. Serve with rice with tahdig and cucumber and herb yogurt, or with bread and herb salad for a light meal.
 

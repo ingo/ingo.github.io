@@ -8,7 +8,7 @@ image_attribution: Austin Bush
 size: 1 serving
 source: http://www.seriouseats.com/2013/11/andy-rickers-phat-thai-stir-fried-rice-noodles-shrimp-tofu-peanuts-recipe.html
 time: 1 hour
-title: Andy Ricker's Phat Thai (Stir-Fried Rice Noodles With Shrimp, Tofu, and Peanuts)
+title: Andy Ricker's Phat Thai
 ---
 ### Ingredients
 

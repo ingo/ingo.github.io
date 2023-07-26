@@ -13,7 +13,7 @@ original_title: Tarta de Queso
 size: "one 9\u201D cheesecake"
 source: https://www.kingarthurbaking.com/recipes/basque-style-cheesecake-tarta-de-queso-recipeundefined
 time: 55 mins
-title: Basque-Style Cheesecake (Tarta de Queso)
+title: Basque-Style Cheesecake
 ---
 ### Ingredients
 

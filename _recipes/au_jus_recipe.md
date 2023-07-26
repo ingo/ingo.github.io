@@ -25,7 +25,7 @@ original_title: Au Jus Recipe (With or Without Drippings)
 size: 8 servings
 source: https://40aprons.com/au-jus-recipe/
 time: 10 minutes
-title: Au Jus Recipe
+title: Au Jus
 ---
 ### Ingredients
 

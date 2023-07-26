@@ -9,7 +9,7 @@ original_title: "Best Sourdough Bread Recipe (with Video!) \u2013 A Couple Cooks
 size: 1 loaf
 source: https://www.acouplecooks.com/sourdough-bread-recipe/
 time: 3 days
-title: Sourdough Bread Recipe
+title: Sourdough Bread
 ---
 ### Ingredients
 

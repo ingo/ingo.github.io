@@ -10,7 +10,7 @@ size: 4-6 servings
 source: https://www.sharemycook.com/Recipe/Details/132
 spicy: ✓
 time: 8-10 hours
-title: The Best BBQ Pulled Pork Recipe
+title: The Best BBQ Pulled Pork
 ---
 This recipe is a favorite from Meathead Goldwyn, a renowned BBQ expert. His method for creating the perfect BBQ pulled pork involves a slow and steady cooking process that results in tender, flavorful meat that's perfect for sandwiches, tacos, or simply enjoyed on its own.
 

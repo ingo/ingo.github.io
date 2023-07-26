@@ -7,7 +7,7 @@ image: boursin_cheese_make_your_own_homemade.jpg
 size: 16 servings
 source: https://www.food.com/recipe/boursin-cheese-make-your-own-homemade-substitute-clone-65204
 time: 10 minutes preparation, overnight chilling
-title: Boursin Cheese - Make Your Own Homemade
+title: Boursin Cheese
 ---
 ### Ingredients
 

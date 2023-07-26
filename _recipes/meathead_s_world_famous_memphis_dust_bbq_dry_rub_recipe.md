@@ -15,7 +15,7 @@ original_title: Meathead’s World Famous Memphis Dust Rub Recipe
 size: About 2 1/2 cups
 source: https://amazingribs.com
 time: 15 minutes
-title: Meathead's World Famous Memphis Dust BBQ Dry Rub Recipe
+title: Meathead's World Famous Memphis Dust BBQ Dry Rub
 ---
 This flavorful BBQ dry rub recipe is the best and only backyard seasoning you’ll ever need. If you’ve ever enjoyed true Memphis barbecue at world famous joints like Paynes, Cozy Corner, Rendezvous, or the Bar-B-Q Shop then you know that the “go-to” dish is Memphis dry rub ribs. 
 

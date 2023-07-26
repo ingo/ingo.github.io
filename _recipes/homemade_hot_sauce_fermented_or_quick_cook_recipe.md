@@ -4,7 +4,7 @@ category: Sauces
 description: A spicy, layered hot sauce that you can completely customize. Make it
   mild or make it hot as can be! Perfect for gifting.
 favorite: ✓
-image: homemade_hot_sauce_fermented_or_quick_cook_recipe_.jpg
+image: homemade_hot_sauce_fermented_or_quick_cook_recipe.jpg
 nutrition:
 - 1 calorie per serving
 - 0g fat
@@ -15,7 +15,7 @@ size: About 2 quarts
 source: https://wholefully.com/homemade-hot-sauce/
 spicy: ✓
 time: 5 days 15 minutes
-title: Homemade Hot Sauce (Fermented or Quick Cook Recipe)
+title: Homemade Hot Sauce
 ---
 Homemade hot sauce is a fun kitchen experiment that you can completely customize—make it mild or make it hot as can be! Then bottle it up using our free labels to give away as a thoughtful, handmade food gift. 
 

@@ -9,7 +9,7 @@ image_source: The Washington Post
 size: Varies
 source: https://www.washingtonpost.com/recipes/martini/16039/
 time: Varies
-title: How to make a martini your guests will love — or at least love to argue about
+title: How to make a martini your guests will love
 ---
 The martini is a classic cocktail that has sparked many debates over the years. From the gin vs vodka argument to the shaken vs stirred controversy, everyone seems to have their own opinion on how to make the perfect martini. This guide will help you navigate these debates and make a martini that your guests will love — or at least love to argue about.
 
