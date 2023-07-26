@@ -1,6 +1,6 @@
 ---
 author: Shareba
-category: Entrees
+category: Sides
 description: An Iranian dish with perfectly steamed saffron rice and crispy fried
   potatoes. This is the ultimate comfort food!
 favorite: ✓
