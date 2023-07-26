@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup, NavigableString
 import html2text
 import os
 from PIL import Image
+import datetime
 
 # validate command line arguments
 if len(sys.argv) != 3:
@@ -33,6 +34,18 @@ pre_dict = yaml.load(pre, Loader=yaml.FullLoader)
 
 # Get the path of current file
 current_file_path = os.path.dirname(os.path.abspath(input_filename))
+
+# Get the last modification time
+modification_time = os.path.getmtime(input_filename)
+
+# Convert the modification time to a datetime object and adjust to UTC
+modification_time = datetime.datetime.utcfromtimestamp(modification_time)
+
+# Format the date
+formatted_date = modification_time.strftime('%Y-%m-%d')
+
+# Create a dictionary and add the formatted date to it
+pre_dict["updated"] = formatted_date
 
 # Check if image key exists and then if image file exists in the same directory as the current file
 image_filename = pre_dict.get("image")

@@ -117,29 +117,25 @@
                                     </div>
                                     <h1 class="entry-title u-page-title-color">$title$</h1>
                                     <div class="header-meta">
-
-                                        $if(author)$
-                                        <li>
-                                            $if(source)$
-                                            <span class="byline"> <span class="by">by</span> <span
-                                                    class="author vcard"><a class="url fn n"
-                                                        href="$source$">$author$</a></span></span>
-                                            $else$
-                                            <span class="byline"> <span class="by">by</span> <span
-                                                    class="author vcard">$author$</span></span>
-                                            $endif$
-                                        </li>
-                                        $elseif(source)$
-                                        <li>
-                                            <span class="byline"> <span class="by">by</span> <span
-                                                    class="author vcard"><a class="url fn n"
-                                                        href="$source$">$strings.source_label$</a></span></span>
-                                        </li>
-                                        $endif$
+                                        <span class="byline">
+                                            <span class="by">by</span>
+                                            <span class="author vcard">
+                                                $if(author)$
+                                                    $if(source)$
+                                                        <a class="url fn n" href="$source$">$author$</a>
+                                                    $else$
+                                                        $author$ 
+                                                    $endif$  
+                                                $elseif(source)$ 
+                                                    <a class="url fn n"
+                                                        href="$source$">$strings.source_label$</a>                                                
+                                                $endif$ 
+                                            </span>
+                                        </span>
+                                        <span class="posted-on">
+                                            <time class="entry-date published">$updated$</time>
+                                        </span>
                                     </div>
-
-
-                                </header>
                             </div>
                         </div>
                     </div>
@@ -160,9 +156,9 @@
                                     $endif$
                                     <div class="entry-content  u-content-width">
                                         <p>
-                                                $if(description)$
-                                                $description$
-                                                $endif$
+                                            $if(description)$
+                                            $description$
+                                            $endif$
                                         </p>
 
                                         <div class="hrecipe h-recipe jetpack-recipe" itemscope
@@ -253,15 +249,15 @@
                                                     <p class="nutrition">
                                                         <img src="assets/tabler-icons/tabler-icon-clipboard-list.svg">
                                                         ${for(nutrition)}
-                                                            $if(it.list)$
-                                                                $for(it.list)$
-                                                                $it$·${ sep }
-                                                                $endfor$
-                                                            </ul>
-                                                            $endif$                                                    
+                                                        $if(it.list)$
+                                                        $for(it.list)$
+                                                        $it$·${ sep }
+                                                        $endfor$
+                                                        </ul>
+                                                        $endif$
                                                         ${endfor}
                                                     </p>
-                                                    $endif$                                                    
+                                                    $endif$
                                                 </div>
                                                 <p></p>
                                             </div>
@@ -289,9 +285,9 @@
                                 <div class="entry-content  u-content-width">
 
                                     <p>
-                                            $if(description)$
-                                            $description$
-                                            $endif$
+                                        $if(description)$
+                                        $description$
+                                        $endif$
                                     </p>
 
                                     <div class="hrecipe h-recipe jetpack-recipe" itemscope
@@ -380,12 +376,12 @@
                                                 <p class="nutrition">
                                                     <img src="assets/tabler-icons/tabler-icon-clipboard-list.svg">
                                                     ${for(nutrition)}
-                                                        $if(it.list)$
-                                                            $for(it.list)$
-                                                            $it$·${ sep }
-                                                            $endfor$
-                                                        </ul>
-                                                        $endif$                                                    
+                                                    $if(it.list)$
+                                                    $for(it.list)$
+                                                    $it$·${ sep }
+                                                    $endfor$
+                                                    </ul>
+                                                    $endif$
                                                     ${endfor}
                                                 </p>
                                                 $endif$

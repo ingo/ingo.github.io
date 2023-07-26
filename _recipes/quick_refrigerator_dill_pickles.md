@@ -1,6 +1,6 @@
 ---
 author: A Couple Cooks
-category: Snack
+category: Sides
 description: These refrigerator dill pickles require just 10 minutes of hands on prep
   work and are great on sandwiches or eaten straight from the jar!
 image: quick_refrigerator_dill_pickles.jpg
