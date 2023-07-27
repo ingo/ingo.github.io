@@ -2,7 +2,7 @@
 title: Lone Star Cilantro Jalapeño Mayonnaise
 category: Sauces
 description: An unusual, creamy sauce for tacos or other Mexican food. It goes especially well with carnitas or fish tacos.
-image: 
+image: lone_star_cilantro_jalapeno_mayonnaise.jpg
 size: 2 cups
 time: 
 author: 
