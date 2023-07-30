@@ -1,46 +1,42 @@
 ---
-author: Unknown
-bitter: null
+author: J. Kenji López-Alt
 category: Entrees
-description: A flavorful and aromatic Indian dish, Tandoori Chicken is marinated in
-  a blend of spices and yogurt, then roasted to perfection.
-difficulty: medium
-favorite: null
+description: The smaller the bird, the faster it'll cook through, and the less time
+  it'll have to dry out. Better yet, just use a Cornish game hen.
 image: tandoori_chicken.jpg
-salty: null
-size: 4 servings
-sour: null
-spicy: ✓
-sweet: null
-time: 1 hour 10 minutes (plus overnight marination)
-title: Tandoori Chicken
-umami: null
-vegan: null
-veggie: null
+size: 4 to 6 servings
+source: https://www.seriouseats.com/user/profile/kenjilopezalt
+time: 5 hours
+title: Tandoori Grilled Game Hens
 ---
-Tandoori Chicken is a popular Indian dish known for its rich, vibrant flavors. The chicken is marinated in a mix of spices and yogurt, then roasted to achieve a smoky, charred effect. This recipe requires overnight marination for the flavors to fully penetrate the chicken, making it a perfect dish to prepare ahead of time.
-
 ### Ingredients
 
-* `4` chicken marylands
-* `2 tsp` tumeric powder
-* `3 tsp` chilli powder
-* `2` lemons
-* `1 cup` hung yoghurt
-* `6 cloves` grated garlic
-* `1 large nob` grated ginger
-* `2 tbsp` paprika (not smoked)
-* `1 tbsp` garam masala
-* `1 tsp` cumin powder
-* `1 tsp` coriander powder
-* `1 tsp` salt
-* `3 tbsp` vegetable oil
-* `2-3 drops` red food colouring (optional)
+* `4` Cornish game hens, about 1 1/2-pounds each
+* `2 tbsp` toasted ground cumin
+* `2 tbsp` toasted paprika
+* `1 tbsp` toasted ground coriander seed
+* `1 tsp` ground turmeric
+* `1/2 tsp` cayenne pepper
+* `1 tbsp` achiote or a few drops red food coloring (optional)
+* `8 cloves` garlic, grated on a microplane grater
+* `2 tbsp` fresh ginger, grated on a microplane grater
+* `2 cups` yogurt
+* `1/2 cup` lemon juice
+* `1/4 cup` kosher salt
+* Thinly sliced raw onion
+* `1/2 cup` roughly chopped cilantro leaves
+* `2` lemons or limes, cut into wedges
 
 ### Directions
 
-1. Slice deep cuts into chicken, then massage a little turmeric, chilli powder, and lemon juice all over and into incisions. Place aside.
-2. Heat oil in a shallow pan and carefully cook paprika, garam masala, coriander, 1 tsp of the chilli powder, and cumin powder until fragrant. Turn off heat and allow oil and spice mix to completely cool.
-3. Place chicken in a bowl with yoghurt, ginger/garlic, spice/oil mixture, juice of 1 lemon, salt, and red food colouring, and mix well massaging yoghurt marinade thoroughly into chicken. Marinate overnight.
-4. Preheat oven to 220 degree Celsius. Take chicken out of marinade shaking off excess (reserve marinade), and place on a rack and roast for 20 minutes.
-5. Take out of oven and turn pieces over, and baste chicken with reserved marinade, then roast for a further 20 minutes or until chicken cooked. Grill/broil under a high heat for a few minutes to get the charring effect before serving.
+1. Using sharp kitchen shears, remove the backs from the Cornish hens.
+2. Peel skin off of hens, then using a sharp knife, make deep incisions at 1-inch intervals all over the flesh.
+3. Lay hen with breasts facing up. Press down firmly on center of breasts until wishbone cracks and they lie flat. Arrange legs so that they are pointing up towards the top of the breast. Use two long metal or wooden skewers to secure legs and breasts in place. Place in a large rimmed baking dish.
+4. Combine cumin, paprika, coriander, turmeric, cayenne, achiote, garlic, ginger, yogurt, lemon juice, and salt in a large bowl and whisk to combine. Pour marinade all over cornish hens, using hands to coat every surface. cover loosely and refrigerate. Refrigerate and allow to marinate for at least 4 hours and up to 8, turning occasionally.
+5. Ignite a large chimney starter full of charcoal and allow to burn until all coals are ignited. Spread coals evenly under one side of grill and set grill grate in place. Cover and allow to preheat for 5 minutes. Brush grill grates clean.
+6. Wipe excess marinade off of hens then place meaty-side down directly over the coals. Cover partially and allow to cook until deeply charred on first side, 7 to 10 minutes. Flip and continue cooking until hens register 145°F in the thickest part of the breast and 165 to 170°F in the legs, about 5 minutes longer (for larger chickens, transfer to cooler side of grill, cover, and continue cooking until desired temperature is reached).
+7. Remove hens to a large cutting board, tent loosely with foil, and allow to rest for five minutes. Remove skewers and using a heavy knife or cleaver, chop each hen into 8 serving-sized pieces. Serve immediately with onions, cilantro, lime wedges, and fresh naan.
+
+### Notes
+
+Small chickens can be used in place of the cornish hens. After initial charring steps on the grill, transfer chicken to cooler side of grill and cook covered until center of breast registers 140 to 145°F on an instant read thermometer. Serve with grilled naan.

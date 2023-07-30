@@ -11,7 +11,7 @@ original_title: Blueberry Muffins
 size: 9 muffins
 source: https://smittenkitchen.com/2010/08/perfect-blueberry-muffins/
 time: Not specified
-title: Even More Perfect Blueberry Muffins
+title: Blueberry Muffins
 ---
 ### Ingredients
 

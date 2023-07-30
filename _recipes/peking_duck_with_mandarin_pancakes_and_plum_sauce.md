@@ -13,14 +13,18 @@ For best results, use a Pekin breed duck. Maltose syrup can be found in most Chi
 
 ### Ingredients
 
-* For the Duck:
+For the Duck:
+
   * `1` whole duck, about 4 pounds
   * `1/4 cup` maltose syrup or honey
   * `2 tsp` soy sauce
   * `2 tbsp` kosher salt
   * `2 tsp` baking powder
   * `1` 16-ounce tall boy of beer, emptied and refilled half way with water
-* To Serve:
+
+To Serve:
+
+  * [Peking duck pancakes](peking_duck_pancakes.html)
   * `6` scallions, white and light green parts only, finely sliced lengthwise
   * `1` small cucumber, seeded and cut into 4-inch long matchsticks
 

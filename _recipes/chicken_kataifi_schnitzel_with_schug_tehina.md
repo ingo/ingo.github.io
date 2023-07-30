@@ -15,7 +15,7 @@ This recipe was adapted from the menu of K'Far, a Brooklyn restaurant. The crisp
 
 ### Ingredients
 
-Tehina (makes 4 cups)
+Tehina (makes 4 cups):
 * `1` clove garlic 
 * `1` lemon, juiced 
 * `1 (16-ounce)` jar tehina (aka tahini)
@@ -23,14 +23,14 @@ Tehina (makes 4 cups)
 * `1 tsp` ground cumin 
 * `1-1½ cups` ice water 
 
-Schug (makes about 2 cups)
+Schug (makes about 2 cups):
 * `1/2 lb` stemmed serrano chiles 
 * `3 tbsp` kosher salt 
 * `3 tbsp` lemon juice 
 * `2 tbsp` canola oil 
 * `2 tsp` ground coriander 
 
-Schnitzel
+Schnitzel:
 * `2` chicken breasts 
 * `2 tsp` kosher salt 
 * `1/2 cup` all-purpose flour 
@@ -41,19 +41,19 @@ Schnitzel
 
 ### Directions
 
-**For the tehina:**
+For the tehina:
 1. Nick off a piece of the garlic (about a quarter of the clove) and drop it into a food processor.
 2. Squeeze the lemon juice into the food processor. Pour the tehina on top, making sure to scrape it all out of the container, and add the salt and cumin.
 3. Process until the mixture looks peanut buttery, about 1 minute.
 4. Stream in the ice water, a little at a time, with the motor running. Process just until the mixture is smooth and creamy and lightens to the color of dry sand.
 
-**For the schug:**
+For the schug:
 1. Combine the serrano chiles and kosher salt in a food processor and process until smooth.
 2. Transfer to a bowl and stir in lemon juice, canola oil and ground coriander.
 3. Taste and add more salt if needed. This keeps, covered and refrigerated, for up to 3 weeks.
 4. Mix together 1 cup of tehina sauce and 1 tablespoon of schug in a small bowl. Taste and add salt and a squeeze of lemon juice as needed. Refrigerate in a covered container for up to a week.
 
-**For the schnitzel:**
+For the schnitzel:
 1. Using a meat pounder, pound both chicken breasts until thin.
 2. Season chicken breasts liberally with salt on both sides, 1 teaspoon per breast.
 3. Add 1/2 cup of flour to a plate, whisk one egg in a bowl, and place kataifi strands on a plate.
@@ -65,6 +65,4 @@ Schnitzel
 
 ### Notes
 
-**Swap option:** Canola oil, peanut oil, safflower oil and vegetable oil can all work, but I would not use avocado oil.
-
-**Special equipment:** Food processor.
+- Swap option: Canola oil, peanut oil, safflower oil and vegetable oil can all work, but I would not use avocado oil.

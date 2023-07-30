@@ -9,7 +9,7 @@ original_title: Buttermilk Fried Chicken Sandwich
 size: 4 servings
 source: https://www.epicurious.com/recipes/food/views/ba-best-fried-chicken-sandwich
 time: 2 hours 30 minutes
-title: BA's Best Fried Chicken Sandwich
+title: Fried Chicken Sandwich
 ---
 ### Ingredients
 

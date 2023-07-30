@@ -18,7 +18,7 @@ This recipe teaches you how to make quick-pickled onions. It's a simple and deli
 * `½ cup` water
 * `¼ cup` distilled white vinegar
 * `¼ cup` apple cider vinegar or additional white vinegar
-* `1 ½ tablespoons` maple syrup or honey
+* `1 ½ tablespoons` maple syrup
 * `1 ½ teaspoons` fine sea salt
 * `¼ teaspoon` aleppo pepper flakes (optional, for heat)
 
@@ -28,9 +28,3 @@ This recipe teaches you how to make quick-pickled onions. It's a simple and deli
 2. In a small saucepan, combine the water, both vinegars, maple syrup, salt, and pepper flakes. Bring the mixture to a gentle simmer over medium heat, then carefully pour the mixture into the jar over the onions.
 3. Use a butter knife or spoon to press the onions down into the vinegar and pop any air bubbles in the jar. Let the pickled onions cool to room temperature (about 20 to 30 minutes), at which point they should be sufficiently pickled for serving.
 4. Cover and refrigerate leftover pickled onions for later. Quick-pickled onions are best consumed within three days, but they keep for 2 to 3 weeks in the refrigerator.
-
-### Notes
-
-**Make it vegan:** Be sure to use maple syrup instead of honey.
-
-**Can I can it?** This recipe is not designed for canning and has not been verified for safety, so please _don’t_ try to can these pickled onions.

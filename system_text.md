@@ -40,7 +40,7 @@ Introductory text that describes where the recipe came from. If not found, make 
 
 ### Notes
 
-Anything else interesting in preparing the recipe. Omit if there are no notes
+- Anything else interesting in preparing the recipe. Put them into a list. Omit if there are no notes
 
 
 

@@ -5,12 +5,12 @@ description: There is no better beach or picnic sandwich, It feeds a crowd, gets
   as it sits, and is a hearty meal built inside a loaf of bread. Unless you live in
   New Orleans and can get the real thing, opt for a ciabatta or other loaf with a
   sturdy but not too crusty exterior.
-image: the_ba_muffuletta.jpg
+image: muffuletta.jpg
 image_attribution: Gentl & Hyers
 size: 4 servings
 source: https://www.epicurious.com/recipes/food/views/the-ba-muffuletta
 time: 1-3 hours
-title: The BA Muffuletta
+title: Muffuletta
 ---
 ### Ingredients
 
@@ -40,14 +40,14 @@ For assembly:
 
 ### Directions
 
-#### Make the olive salad:
+Make the olive salad:
 
 1. Combine Calabrian chiles, shallot, garlic, both olives, piquillo peppers, oil, capers, vinegar, and oregano in a medium bowl; season with salt and pepper.
 
-#### To assemble:
+To assemble:
 
 2. Split bread in half along the equator line. Divide olive salad, including any liquid, between halves. Lay salami on bottom half of bread, followed by capocollo, provolone, mozzarella, mortadella, and prosciutto. Close sandwich and wrap tightly in plastic. Place between 2 baking sheets and weigh down with a heavy pot or two to flatten slightly. Let sit at room temperature, turning over halfway, 1–3 hours before cutting into wedges to serve.
 
 ### Notes
 
-Olive salad can be made 1 day ahead. Cover and chill.
+- Olive salad can be made 1 day ahead. Cover and chill.

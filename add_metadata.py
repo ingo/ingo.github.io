@@ -116,7 +116,7 @@ for header in soup.find_all('h3'):
 
         if next_node.name == 'ul' or next_node.name == 'ol':
             sublist_dict["list"] = [li.text for li in next_node.find_all('li')]
-        elif next_node.name == 'p':
+        elif next_node.name == 'p' or next_node.name == 'h4':
             sublist_dict["title"] = next_node.text
 
         section_items.append(sublist_dict)

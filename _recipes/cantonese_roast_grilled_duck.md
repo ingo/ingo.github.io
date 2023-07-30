@@ -34,8 +34,8 @@ title: Cantonese Roast/Grilled Duck
 7. Splash in some soy sauce and sherry.
 8. Close up the bottom opening with a skewer. Wipe off any miso or hoisin from the outside of the duck to prevent burnt clumps of crud.
 9. Rub the outside of the duck with some soy sauce to help it color evenly. Do a very light sprinkle of salt all over the duck. You can also do a very very light dusting of 5 spice powder on the outside of the duck.
-10. Grill 40-45 minutes over charcoal, indirect. Alternatively, you can roast in an oven at 400F. But grilled is better.
+10. Grill 40-45 minutes over charcoal, indirect, ideally using a rotisserie. Alternatively, you can roast in an oven at 400F. But grilled is better.
 
 ### Notes
 
-Duck is good to eat as is. A super popular twist has been to make it into roast duck tamales.
+- Duck is good to eat as is. A super popular twist has been to make it into roast duck tamales.

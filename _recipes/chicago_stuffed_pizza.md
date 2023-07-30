@@ -3,11 +3,11 @@ author: Pizza Culinary Academy
 category: Entrees
 description: "A tribute to Burt Katz and Pequod\u2019s with their signature caramelized\
   \ cheese crust. This classic Chicago stuffed pizza is a must-try for all pizza lovers."
-image: chicago_stuffed_pizza_from_scratch.jpg
+image: chicago_stuffed_pizza.jpg
 size: Varies
 source: https://www.youtube.com/watch?v=7tgYYEYz4O4
 time: Varies
-title: Chicago Stuffed Pizza from Scratch
+title: Chicago Stuffed Pizza
 ---
 This recipe is a tribute to the classic Chicago stuffed pizza and the legendary Burt Katz and Pequod’s. Their signature caramelized cheese crust is a delight for all pizza lovers. The dough recipe is provided below. To learn more about this style, visit the Pizza Culinary Academy's website or check out their instructional videos.
 

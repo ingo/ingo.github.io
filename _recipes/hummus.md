@@ -1,32 +1,37 @@
 ---
-author: David Rosengarten
+title: Yotam Ottolenghi & Sami Tamimi's Basic Hummus
 category: Sides
-description: A very fresh and fluffy hummus recipe with a surprising addition of a
-  little seltzer water whipped in at the very end.
-favorite: null
+description: A creamy and smooth hummus recipe that is perfect for dipping or as a spread.
 image: hummus.jpg
-original_title: null
-size: 4 cups
-time: 3 hours
-title: Hummus
-vegan: "\u2713"
-veggie: "\u2713"
+size: 12 servings
+time: 25 hours 30 minutes
+author: Yotam Ottolenghi & Sami Tamimi
+source: https://food52.com/recipes/recipeStart
+image_attribution: Julia Gartland
+image_source: Food52
 ---
+
+This hummus recipe is adapted from the cookbook "Jerusalem" by Yotam Ottolenghi and Sami Tamimi. It's a basic recipe that can be customized to your taste. The key to its smooth and creamy texture is the use of tahini and ice-cold water. 
+
 ### Ingredients
 
-* `2 cups` dried chickpeas, soaked in water overnight
-* `1` medium onion, peeled and quartered
-* `4` garlic cloves, peeled and halved, and `1 1/2 tsp.` garlic, mashed to a paste
-* `2` sprigs thyme
-* `8 tbsp.` olive oil
-* `8 cups` water
-* `2 tsp.` kosher salt
-* `1 tbsp. plus 1 tsp.` tahini (sesame paste)
-* `2-3 tbsp.` lemon juice
-* `1-3 tbsp.` club soda
+* `2 cups` dried chickpeas
+* `2 tsp` baking soda
+* `12 cups` water
+* `1/2 cup` tahini (light roast)
+* `2` lemons, juiced
+* `4` cloves garlic, crushed
+* `6 tbsp` ice cold water
+* `2 tsp` salt, to taste
+* `1 dash` good-quality olive oil, to serve (optional)
 
 ### Directions
 
-1. Drain the soaked chickpeas and place in a stockpot with the 8 cups water, the onion, the thyme, the 4 garlic cloves, and 2 tablespoons of olive oil. Heat to a boil on high, and then reduce to a simmer, uncovered, cooking the chickpeas until they are tender, approximately 1-3 hours. If necessary, add water to the pot to keep the water level just above the top of the chickpeas. Once the chickpeas are tender, add the salt, stir, and continue to simmer uncovered until the water is nearly evaporated. Sir frequently to avoid burning the chickpeas.
-2. Using a food mill or potato ricer, press the chickpeas into a paste, removing the skins and the thyme stems. Place the mixture into the bowl of a food processor fitted with the steel chopping blade. Add the tahini, 2 tablespoons lemon juice, the garlic paste, and 6 tablespoons of olive oil. Process until very smooth, approximately 5 minutes. Refrigerate the mixture with the bowl of the food processor until cool, 20-30 minutes.
-3. Taste the mixture and adjust lemon juice and salt. Continue processing, adding small amounts of seltzer until the mixture is light and fluffy. It should be very smooth, but not runny. Serve with pita chips and cherry tomatoes.
+1. The night before, put the chickpeas in a large bowl and cover them with cold water at least twice their volume. Leave to soak overnight.
+2. The next day, drain the chickpeas. Place a medium saucepan over high heat and add the drained chickpeas and baking soda. Cook for about three minutes, stirring constantly. Add the water and bring to a boil. Cook, skimming off any foam and any skins that float to the surface. The chickpeas will need to cook for 20 to 40 minutes, depending on the type and freshness, sometimes even longer. Once done, they should be very tender, breaking up easily when pressed between your thumb and finger, almost but not quite mushy. It's okay if they are a little more underdone than overdone, as otherwise the hummus gets leaden
+3. Drain the chickpeas. Place the chickpeas in a food processor and process until you get a stiff paste. If that's impossible, you can use a bit of the lemon juice or tahini paste to help get things moving. Then, with the machine sill running, add the (remaining) tahini paste, (remaining) lemon juice, garlic, and 2 teaspoons salt. Finally, slowly drizzle in the ice water and allow it to mix for about five minutes, until you get a very smooth and creamy paste. Taste and adjust seasonings.
+4. Transfer the hummus to a bowl, cover the surface with plastic wrap, and let it rest for at least 30 minutes. If not using straightaway, refrigerate until needed. Make sure to take it out of the fridge at least 30 minutes before serving. Optionally, to serve, top with a layer of good quality olive oil. This hummus will keep in the refrigerator for up to three days.
+
+### Notes
+
+This recipe is adapted from "Jerusalem" (Ten Speed Press, 2013) by Yotam Ottolenghi and Sami Tamimi.

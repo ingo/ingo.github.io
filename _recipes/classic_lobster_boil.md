@@ -5,7 +5,7 @@ description: A classic lobster boil recipe with a perfect blend of flavors and a
   spread out on butcher paper.
 difficulty: medium
 favorite: "\u2713"
-image: chef_thomas_keller_s_classic_lobster_boil_recipe.jpg
+image: classic_lobster_boiljpg
 size: Varies
 source: https://www.masterclass.com/
 spicy: "\u2713"

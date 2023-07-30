@@ -34,3 +34,4 @@ This fluffy dough is made from fresh-ground masa. The recipe is a traditional Me
 ### Notes
 
 This recipe makes about 20 medium tamales.
+

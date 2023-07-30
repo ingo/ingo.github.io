@@ -1,6 +1,7 @@
 import random
 import re
 import time
+import html2text
 import openai
 import os
 import argparse
@@ -117,11 +118,40 @@ def process_markdown_files(input_folder, output_folder, debug=False):
             if debug:
                 print(f"Error processing {filename}: {e}")
 
+def process_html_files(input_folder, output_folder):
+    # Create the output folder if it doesn't exist
+    os.makedirs(output_folder, exist_ok=True)
+
+    # Get a list of html files in the input folder
+    html_files = [file for file in os.listdir(input_folder) if file.endswith(".html")]
+    html_files = sorted(html_files)
+
+    h = html2text.HTML2Text()
+    h.ignore_links = False
+
+    for filename in html_files:
+        input_file_path = os.path.join(input_folder, filename)
+        output_file_path = os.path.join(output_folder, filename.replace('.html', '.md'))
+
+        with open(input_file_path, 'r', encoding='utf-8', errors='replace') as input_file:
+            html_content = input_file.read()
+        
+        # Convert HTML to Markdown
+        markdown_content = h.handle(html_content)
+
+        with open(output_file_path, 'w', encoding='utf-8') as output_file:
+            output_file.write(markdown_content)
+
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Transform Markdown files.")
-    parser.add_argument("input_folder", help="Path to the input folder containing Markdown files.")
-    parser.add_argument("output_folder", help="Path to the output folder to save transformed Markdown files.")
+    parser = argparse.ArgumentParser(description="Transform files.")
+    parser.add_argument("input_folder", help="Path to the input folder containing files.")
+    parser.add_argument("output_folder", help="Path to the output folder to save transformed files.")
     parser.add_argument("--debug", action="store_true", help="Enable debug mode.")
     args = parser.parse_args()
 
+    # First, convert HTML files to markdown
+    process_html_files(args.input_folder, args.input_folder)
+
+    # Then, process the markdown files
     process_markdown_files(args.input_folder, args.output_folder, args.debug)
+

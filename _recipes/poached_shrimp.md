@@ -20,9 +20,10 @@ This recipe for poached shrimp is a courtesy of Tyler Florence. It's an easy and
 * `1 handful` fresh flat-leaf parsley
 * `1/4 cup` seafood seasoning (recommended: Old Bay or Zatarains shrimp boil)
 * `2 pounds` jumbo shrimp, with shells, heads, and tails on
-* Bloody Mary Cocktail Sauce (see below)
 
 ### Directions
+
+Traditional stovetop method:
 
 1. Fill a large pot with about a 1/2 gallon of water, add the salt and squeeze in the lemon juice; toss the halves in there too for extra flavor. Add the herbs and seafood seasoning.
 2. Bring to a boil over medium-high heat and simmer for 5 minutes to infuse the water with the aromatics.
@@ -30,28 +31,9 @@ This recipe for poached shrimp is a courtesy of Tyler Florence. It's an easy and
 4. Using a slotted spoon, remove the shrimp from the poaching liquid and chill thoroughly before peeling.
 5. Serve with lemon wedges and Bloody Mary Cocktail Sauce as part of a raw shellfish bar.
 
-### Bloody Mary Cocktail Sauce Ingredients
 
-* `4` ripe tomatoes, coarsely chopped
-* `2` celery stalks, coarsely chopped
-* `1` medium onion, coarsely chopped
-* `1/2 cup` ketchup
-* `2 tbsp` grated fresh or prepared horseradish
-* `1` lemon, juiced
-* `2 tsp` hot sauce
-* `1 tbsp` Worcestershire sauce
-* `1 shot` pepper vodka
-* `1 tsp` celery seed
-* Sea salt and freshly ground black pepper
+Sous vide:
 
-### Bloody Mary Cocktail Sauce Directions
-
-1. Combine the tomatoes, celery, and onion in a blender and puree to break the vegetables down.
-2. Add the remaining ingredients and puree until smooth.
-3. Chill before serving with a raw bar.
-
-Yield: `4 cups` of Bloody Mary Cocktail Sauce
-
-### Notes
-
-Copyright 2013 Television Food Network G.P. All Rights Reserved
+1. Set your sous vide water bath to 130F (for ceviche) or 135F (for traditional seafood usage).
+2. In a large bowl, toss shrimp with 1/2 teaspoon kosher salt. Place shrimp in a heavy duty zipper-lock bag or a vacuum bag. If desired, add 1 to 2 tablespoons (15 to 30ml) olive oil or butter and aromatics. Remove all air from bag using the water displacement method or a vacuum sealer. Press shrimp into a single layer.
+3. Add bagged shrimp to preheated water bath and cook for at least 15 minutes and up to 1 hour (the texture should show very little variation within this time frame). Remove shrimp from bag to a paper towel-lined plates. Serve hot, or chill and serve cold.

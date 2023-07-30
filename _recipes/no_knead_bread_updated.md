@@ -3,7 +3,7 @@ author: J. Kenji López-Alt
 category: Breakfasts
 description: This recipe is based on Jim Lahey’s recipe from 2006, with a few modifications
   for the sake of precision and a touch of acid to improve dough strength.
-image: updated_no_knead_bread.jpg
+image: no_knead_bread_updated.jpg
 image_attribution: Ryan Liebe for The New York Times
 original_title: Updated No-Knead Bread
 size: 1 loaf

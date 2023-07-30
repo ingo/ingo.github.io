@@ -7,7 +7,7 @@ description: "Many people have a real affection for lamb shanks, thinking of the
   \ should be eaten with all the veggies and any buttery juices. They're really good\
   \ served with creamy mashed potato and steamed greens to contrast with the roasting\
   \ stickiness of the lamb."
-image: incredible_baked_lamb_shanks.jpg
+image: baked_lamb_shanks.jpg
 nutrition:
 - 626 kcal
 - 10.2 g carbs

@@ -4,12 +4,12 @@ category: Desserts
 description: Deliciously soft and sweet cinnamon rolls, perfect for a cozy breakfast
   or dessert.
 favorite: ✓
-image: perfectly_pillowy_cinnamon_rolls.jpg
-original_title: Perfectly Pillowy Cinnamon Rolls
+image: cinnamon_rolls.jpg
+original_title: Cinnamon Rolls
 size: 8 servings
 source: https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe
 time: 3 hours
-title: Perfectly Pillowy Cinnamon Rolls
+title: Cinnamon Rolls
 ---
 These cinnamon rolls are the perfect balance of soft and sweet. Made with a unique tangzhong technique, they are guaranteed to be the star of your breakfast or dessert table.
 
