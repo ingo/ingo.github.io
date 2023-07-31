@@ -27,9 +27,8 @@ vegan: "\u2713"
 
 ### Notes
 
-You can make a béchamel up to a day ahead of using it. Keep in the refrigerator. If you lay a sheet of plastic or wax paper directly on the top, there is less chance that a skin will form. If it does, whisk vigorously when you reheat the béchamel and the sauce should be as smooth as it was when you made it. Thin out if necessary with milk or stock.
-
-Variation: Substitute vegetable stock for the milk for a vegan version of this sauce.
+- You can make a béchamel up to a day ahead of using it. Keep in the refrigerator. If you lay a sheet of plastic or wax paper directly on the top, there is less chance that a skin will form. If it does, whisk vigorously when you reheat the béchamel and the sauce should be as smooth as it was when you made it. Thin out if necessary with milk or stock.
+- Variation: Substitute vegetable stock for the milk for a vegan version of this sauce.
 
 ### Nutrition
 

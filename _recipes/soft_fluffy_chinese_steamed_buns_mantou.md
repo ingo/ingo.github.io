@@ -1,6 +1,6 @@
 ---
 author: WhatToCookToday
-category: Entrees
+category: Breads
 description: Soft and fluffy Chinese steamed buns, also known as Mantou, are a staple
   in Chinese cuisine. These buns are perfect for any meal, and can be filled with
   a variety of delicious fillings or eaten plain.

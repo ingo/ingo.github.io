@@ -1,6 +1,6 @@
 ---
 author: Carla Hall
-category: Soups
+category: Sides
 description: A nutrient-dense liquid gold traditionally left behind after boiling
   greens and beans, turned into an ultra-concentrated broth.
 image: smoked_paprika_and_sun_dried_tomato_potlikker.jpg

@@ -1,6 +1,6 @@
 ---
 author: Pat's Pints
-category: Techniques
+category: Pantry
 description: An in-depth exploration of the chemistry of dry hopping, featuring insights
   from internationally recognized hop chemistry researcher, Tom Shellhammer.
 image: the_surprising_science_of_dry_hopping_lessons_from_tom_shellhammer.jpg

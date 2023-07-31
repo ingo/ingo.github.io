@@ -1,6 +1,6 @@
 ---
 author: Anonymous
-category: Soups
+category: Sides
 description: A unique, hearty soup that's always a hit at potlucks. The longer it
   simmers, the better it gets. Even if you're not a fan of dill pickles, you'll love
   this soup.

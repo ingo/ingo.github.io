@@ -1,5 +1,5 @@
 ---
-category: Sauces
+category: Pantry
 description: A flavorful brine for salmon, trout, sturgeon or other fish. Perfect
   for smoking and grilling.
 image: soy_sauce_and_sugar_fish_marinade.jpg

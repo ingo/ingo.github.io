@@ -1,5 +1,5 @@
 ---
-title: Yotam Ottolenghi & Sami Tamimi's Basic Hummus
+title: Hummus
 category: Sides
 description: A creamy and smooth hummus recipe that is perfect for dipping or as a spread.
 image: hummus.jpg

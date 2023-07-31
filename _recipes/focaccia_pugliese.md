@@ -1,5 +1,5 @@
 ---
-category: Entrees
+category: Breads
 description: Focaccia is a flatbread, popular throughout Italy. Puglia has a very
   special focaccia with an open, moist, tender crumb that you won't soon forget.
 image: focaccia_pugliese.jpg

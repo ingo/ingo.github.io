@@ -1,6 +1,6 @@
 ---
 author: J. Kenji López-Alt
-category: Breakfasts
+category: Breads
 description: This recipe is based on Jim Lahey’s recipe from 2006, with a few modifications
   for the sake of precision and a touch of acid to improve dough strength.
 image: no_knead_bread_updated.jpg

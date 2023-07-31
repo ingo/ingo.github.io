@@ -1,5 +1,5 @@
 ---
-category: Techniques
+category: Pantry
 description: A guide to different brining techniques for various meats.
 image: brining.jpg
 title: Brining

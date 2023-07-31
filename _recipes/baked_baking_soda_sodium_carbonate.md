@@ -1,6 +1,6 @@
 ---
 author: Sho Spaeth
-category: Techniques
+category: Pantry
 description: Sodium carbonate is a strong alkaline salt that is used in making ramen
   (noodles), among other foods. Heating baking soda makes it transform from sodium
   bicarbonate into sodium carbonate, which is a stronger alkaline salt.

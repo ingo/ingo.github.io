@@ -1,6 +1,6 @@
 ---
 author: Beth Hensperger
-category: Sides
+category: Breads
 description: A robust and flavorful bread that can be enjoyed with butter and caviar
   or used to make a hearty sandwich. This recipe makes 2 loaves.
 image: russian_black_bread.jpg

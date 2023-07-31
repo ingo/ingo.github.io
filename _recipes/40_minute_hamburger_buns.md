@@ -1,6 +1,6 @@
 ---
 author: Jessie McKenney
-category: Sides
+category: Breads
 description: Fluffy yet hearty buns, perfect for big appetites. Can also be served
   plain with a meal.
 image: 40_minute_hamburger_buns.jpg

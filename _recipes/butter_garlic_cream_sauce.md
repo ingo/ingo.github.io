@@ -11,10 +11,10 @@ A great sauce for everything.
 
 ### Ingredients
 
-* `1/3 Cup` Butter
-* `2 teaspoons` Minced Garlic
-* `1 Tbsp` Whole wheat white flour
-* `1 Cup` Whole milk
+* `1/3 cup` butter
+* `2 tsp` minced garlic
+* `1 tbsp` white flour
+* `1 cup` whole milk
 * pinch of dried oregano, basil and parsley
 * Salt and pepper to taste
 

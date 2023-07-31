@@ -1,6 +1,6 @@
 ---
 author: Serious Eats
-category: Sides
+category: Breads
 description: Homemade pita bread that's perfect for sandwiches or dipping into hummus.
 favorite: null
 image: pita_bread.jpg

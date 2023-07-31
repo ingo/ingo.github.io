@@ -1,6 +1,6 @@
 ---
 title: Hamburger Buns
-category: Sides
+category: Breads
 description: Baking your own hamburger buns is a luxury, but it's not very hard, and just requires a little advanced planning.
 image: 
 size: 8 normal size buns, 12-16 slider-sized buns

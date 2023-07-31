@@ -1,6 +1,6 @@
 ---
 author: King Arthur Baking
-category: Entrees
+category: Breads
 description: Customers have written begging us to provide them with a recipe for Cuban
   bread, so that they can replicate sandwiches they had in Miami. As always, we're
   happy to oblige!

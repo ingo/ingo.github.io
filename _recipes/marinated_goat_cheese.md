@@ -2,6 +2,7 @@
 category: Sides
 description: Fantastic, yet simple marinated goat cheese recipe.
 image: marinated_goat_cheese.jpg
+image_source: https://www.bonappetit.com/recipe/marinated-goat-cheese-with-herbs-and-spices
 size: 8 servings
 title: Marinated Goat Cheese
 ---

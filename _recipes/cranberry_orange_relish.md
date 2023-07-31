@@ -2,7 +2,7 @@
 title: Cranberry Orange Relish
 category: Sides
 description: The cranberry sauce of Ingo's Dad.
-image: 
+image: cranberry_orange_relish.jpg
 size: 2 cups
 time: 2 hours 15 minutes
 author: Ingo's Dad

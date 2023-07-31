@@ -1,6 +1,6 @@
 ---
 author: Chris Morocco
-category: Soups
+category: Sides
 description: A rich and creamy mushroom soup with a hint of garlic and thyme. Perfect
   for a cozy dinner.
 image: creamy_ish_of_mushroom_soup.jpg

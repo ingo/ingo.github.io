@@ -6,6 +6,8 @@ description: A crowd favorite that goes well on various types of rolls as well a
   eel!
 favorite: "\u2713"
 image: eel_sauce.jpg
+image_source: https://unsplash.com/photos/nuboDgCIMh4
+image_attribution: Xavier Chng
 original_title: Nitsume
 size: 1 1/2 cups of sauce (375 ml)
 time: 30 minutes

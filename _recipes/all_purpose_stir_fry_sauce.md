@@ -1,6 +1,6 @@
 ---
 author: Nagi | RecipeTin Eats
-category: Entrees
+category: Sauces
 description: My secret weapon for mid week meals - an All Purposes Chinese Stir Fry
   Sauce, a versatile base that makes a wonderfully glossy sauce for any stir fry,
   including stir fried noodles.

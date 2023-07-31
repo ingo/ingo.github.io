@@ -1,6 +1,6 @@
 ---
 author: Peter Minaki
-category: Sides
+category: Breads
 description: The most well-known food in Greek cuisine, pita bread is used to scoop
   up dips and wrap souvlaki and gyro. Nothing beats homemade pita bread, and this
   recipe is the best one out there.

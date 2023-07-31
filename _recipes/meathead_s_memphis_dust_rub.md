@@ -1,10 +1,12 @@
 ---
 author: Meathead Goldwyn
-category: Sauces
+category: Pantry
 description: A versatile rub that can be applied to raw food before cooking, adding
   flavor, texture, and color. It's perfect for pork, but also works well on smoked
   salmon, stuffed raw celery, on the rim of Bloody Mary's, and even popcorn.
 image: meathead_s_memphis_dust_rub.jpg
+image_attribution: Egor Gordeev
+image_source: https://unsplash.com/photos/BFJjr8ZzxVg
 original_title: Meathead's Memphis Dust Rub Recipe
 size: About 3 cups
 source: http://amazingribs.com/recipes/rubs_pastes_marinades_and_brines/meatheads_memphis_dust.html

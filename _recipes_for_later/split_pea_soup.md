@@ -1,6 +1,6 @@
 ---
 title: Split Pea Soup
-category: Soups
+category: Sides
 description: This one's delicious and healthy!
 image: 
 size: 2 cups

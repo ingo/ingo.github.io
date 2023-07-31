@@ -1,5 +1,5 @@
 ---
-category: Soups
+category: Sides
 description: A refreshing and tangy soup made with fresh green tomatoes and cucumber.
   Perfect for a light lunch or appetizer.
 image: green_tomato_gazpacho.jpg

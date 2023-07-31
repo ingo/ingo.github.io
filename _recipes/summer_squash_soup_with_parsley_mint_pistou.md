@@ -1,5 +1,5 @@
 ---
-category: Soups
+category: Sides
 description: A refreshing and hearty soup made with summer squash and a flavorful
   parsley mint pistou.
 image: summer_squash_soup_with_parsley_mint_pistou.jpg

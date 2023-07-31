@@ -1,6 +1,6 @@
 ---
 author: Lisa Lin
-category: Techniques
+category: Pantry
 description: A step-by-step guide to making homemade dumpling wrappers. All you need
   is flour and water. This dumpling wrappers recipe is great for making potstickers
   or boiled dumplings.

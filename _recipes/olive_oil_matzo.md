@@ -1,6 +1,6 @@
 ---
 author: NYT Cooking
-category: Sides
+category: Breads
 description: A wonderful Sardinian flatbread known as carta musica — sheet music,
   because it is nearly impossibly thin. The dough has such a high percentage of olive
   oil that rolling it super-thin is almost no work at all.

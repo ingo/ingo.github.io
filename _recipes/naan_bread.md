@@ -1,6 +1,6 @@
 ---
 author: Nagi
-category: Sides
+category: Breads
 description: Fluffy, bubbly and chewy naan bread, just like you get at Indian restaurants.
   Perfect for slopping up your favourite Indian curries – yet so good that you'll
   happily devour it plain, straight out of the skillet.

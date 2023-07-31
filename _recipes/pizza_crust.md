@@ -1,6 +1,6 @@
 ---
 author: King Arthur Flour
-category: Sides
+category: Breads
 description: A versatile, homemade pizza crust that can be customized to your liking.
   Perfect for any pizza night.
 image: pizza_crust.jpg

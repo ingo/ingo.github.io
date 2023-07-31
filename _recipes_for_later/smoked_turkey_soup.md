@@ -1,5 +1,5 @@
 ---
-category: Soups
+category: Sides
 description: A hearty soup made with smoked turkey, wild rice, and a medley of vegetables.
   Perfect for a cold day or when you're feeling under the weather.
 image: smoked_turkey_soup.jpg

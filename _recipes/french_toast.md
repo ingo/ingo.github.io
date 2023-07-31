@@ -2,7 +2,7 @@
 title: French Toast
 category: Breakfasts
 description: Delicious and easy to make French toast with honey and half-and-half. Perfect for a quick breakfast or brunch!
-image: frenchtoast.jpg
+image: french_toast.jpg
 size: 4 servings
 time: 34 min
 author: Food Network

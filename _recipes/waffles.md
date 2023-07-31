@@ -36,4 +36,4 @@ This recipe is a delightful twist on the classic waffle recipe from the renowned
 
 ### Notes
 
-The vanilla is an addition to the original recipe and can be omitted if preferred. The more oil or butter used, the crispier the waffles will be.
+- The vanilla is an addition to the original recipe and can be omitted if preferred. The more oil or butter used, the crispier the waffles will be.

@@ -1,5 +1,5 @@
 ---
-category: Techniques
+category: Breads
 description: A meticulously crafted pizza dough recipe that requires a 72-hour fermentation
   period for optimal flavor and texture. Perfect for pizza enthusiasts who love a
   homemade crust.

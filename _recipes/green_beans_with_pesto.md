@@ -3,6 +3,7 @@ category: Sides
 description: Fresh green beans tossed in homemade pesto sauce, garnished with torn
   basil leaves and pine nuts.
 image: green_beans_with_pesto.jpg
+image_source: https://themodernproper.com/pesto-green-beans
 size: 2 servings
 time: 30 minutes
 title: Green Beans with Pesto

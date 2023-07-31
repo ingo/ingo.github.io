@@ -1,6 +1,6 @@
 ---
 author: Andrew Scrivani for The New York Times
-category: Entrees
+category: Breads
 description: A crusty, full-flavored loaf of bread that may be the world's easiest
   yeast bread.
 image: simple_crusty_bread.jpg

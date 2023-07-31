@@ -1,6 +1,6 @@
 ---
 author: Mary Berry
-category: Soups
+category: Sides
 description: A comforting and healthy duck soup, inspired by Mary Berry's recipe from
   BBC2 Love to Cook 2021.
 favorite: null

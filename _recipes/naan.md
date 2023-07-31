@@ -1,6 +1,6 @@
 ---
 author: Anjum Anand (adapted)
-category: Sides
+category: Breads
 description: An amazingly simple, fast, and flavorful Naan recipe that is best cooked
   at a high temperature, ideally in a wood-fired pizza oven like the Ooni Pro Pizza
   Oven.

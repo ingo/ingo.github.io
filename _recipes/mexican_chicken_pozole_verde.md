@@ -1,6 +1,6 @@
 ---
 author: Anya von Bremzen
-category: Soups
+category: Sides
 description: A traditional hominy-based Mexican stew with tangy ingredients like tomatillos,
   cilantro and green chiles.
 image: mexican_chicken_pozole_verde.jpg

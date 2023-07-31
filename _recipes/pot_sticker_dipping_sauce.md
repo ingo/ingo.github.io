@@ -5,6 +5,8 @@ description: A delicious and flavorful dipping sauce perfect for pot stickers, e
   rolls, or wontons. A blend of soy sauce, rice vinegar, sesame oil, and a hint of
   sriracha for a kick.
 image: pot_sticker_dipping_sauce.jpg
+image_attribution: Jess Smith
+image_source: https://inquiringchef.com/dumpling-and-potsticker-dipping-sauce/
 size: Yield not specified
 source: Not specified
 time: 35 minutes

@@ -2,7 +2,7 @@
 title: Pita Chips
 category: Sides
 description: A much better version than the store-bought chips.
-image: 
+image: pita_chips.jpg
 size: 4 servings
 time: 15-20 minutes
 author: 

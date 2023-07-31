@@ -1,6 +1,6 @@
 ---
 author: Nagi
-category: Entrees
+category: Sides
 description: A lush Indian spinach curry, made with golden pan-fried pieces of homemade
   cheese (paneer). A dish that can honestly please just about everyone, from kids
   to card-carrying carnivores.

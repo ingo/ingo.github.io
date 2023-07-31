@@ -2,7 +2,7 @@
 title: Summer Peach Chutney
 category: Sauces
 description: Summertime brings with it a delicious wealth of fruits and vegetables. This chutney takes a sweet, fragrant peach and adds just enough heat to keep things interesting.
-image: 
+image: summer_peach_chutney.jpg
 size: 2 cups
 time: 
 author: 

@@ -1,6 +1,6 @@
 ---
 author: Epicurious
-category: Soups
+category: Pantry
 description: A basic and versatile white fish stock recipe that can be used in a variety
   of dishes.
 image: white_fish_stock.jpg

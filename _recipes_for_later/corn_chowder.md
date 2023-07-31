@@ -1,6 +1,6 @@
 ---
 author: Tyler Florence
-category: Soups
+category: Sides
 description: A hearty and creamy soup with the sweetness of corn and the richness
   of heavy cream. Perfect for a cozy dinner.
 image: corn_chowder.jpg

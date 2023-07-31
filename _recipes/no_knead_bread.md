@@ -1,6 +1,6 @@
 ---
 author: Jim Lahey, owner of Sullivan Street Bakery
-category: Breakfasts
+category: Breads
 description: A popular, easy-to-make bread that requires no kneading. It uses no special
   ingredients, equipment or techniques. And it takes very little effort — only time.
 difficulty: easy

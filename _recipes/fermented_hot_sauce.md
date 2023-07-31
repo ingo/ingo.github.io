@@ -53,18 +53,13 @@ After fermenting, add optional seasonings to taste. Keep in mind the “heat” 
 
 ### Notes
 
-Regular tap water may contain too much chlorine in it, inhibiting the fermentation process. Try to use filtered water if possible.
+- Regular tap water may contain too much chlorine in it, inhibiting the fermentation process. Try to use filtered water if possible.
+- I use fine ground sea salt or Pink Himalayan salt . If using coarse ground salt you may need to add a pinch more.
+- Use any chili pepper you like, or a blend of different peppers (in the same color palate) . To temper the heat, feel free to add a similar colored bell pepper. Substitute sweet red, yellow or green bell pepper. Keep in mind, you will be blending the sauce, so I prefer to stick with the same color scheme to make a vibrant colored sauce. For example, I prefer not to mix red and green peppers (which equal brown) but up to you. Also, keep in mind, the fermentation will mellow the heat a little.
+- If you need more water to cover or fill the jar, use 1 teaspoons salt per cup of warm water.
+- You could easily halve this recipe or use two, quart-sized jars.
 
-I use fine ground sea salt or Pink Himalayan salt . If using coarse ground salt you may need to add a pinch more.
-
-Use any chili pepper you like, or a blend of different peppers (in the same color palate) . To temper the heat, feel free to add a similar colored bell pepper. Substitute sweet red, yellow or green bell pepper. Keep in mind, you will be blending the sauce, so I prefer to stick with the same color scheme to make a vibrant colored sauce. For example, I prefer not to mix red and green peppers (which equal brown) but up to you. Also, keep in mind, the fermentation will mellow the heat a little.
-
-If you need more water to cover or fill the jar, use 1 teaspoons salt per cup of warm water.
-
-You could easily halve this recipe or use two, quart-sized jars.
-
-CLOUDY BRINE: A cloudy brine is a natural by-product of the fermentation process-a combination of lactic acid and yeast and is the reason why they call it Lacto-fermentation.
-
-Various strains of bacteria are present on the surface of all plants, especially ones growing close to the ground. Lactobacillus bacteria converts sugar into lactic acid, preserving the peppers.
-
-Lactic acid prevents the growth of harmful bacteria. Over time the cloudiness can settle out of the brine to the bottom of the jar. Some batches are naturally cloudier than others, but all are safe to consume and taste delicious. A cloudy brine is a sign that you have a safe and successful ferment.
+CLOUDY BRINE:
+- A cloudy brine is a natural by-product of the fermentation process-a combination of lactic acid and yeast and is the reason why they call it Lacto-fermentation.
+- Various strains of bacteria are present on the surface of all plants, especially ones growing close to the ground. Lactobacillus bacteria converts sugar into lactic acid, preserving the peppers.
+- Lactic acid prevents the growth of harmful bacteria. Over time the cloudiness can settle out of the brine to the bottom of the jar. Some batches are naturally cloudier than others, but all are safe to consume and taste delicious. A cloudy brine is a sign that you have a safe and successful ferment.

@@ -1,6 +1,6 @@
 ---
 author: Toya
-category: Sauces
+category: Pantry
 description: A flavorful seafood boil seasoning mix to make your seafood boil recipe
   the best.
 image: seafood_boil_seasoning.jpg

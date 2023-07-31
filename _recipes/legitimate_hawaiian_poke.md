@@ -3,7 +3,7 @@ author: Asian Test Kitchen
 category: Entrees
 description: Simple, savory, and no soy sauce necessary. Make this traditional Hawaiian
   poke with the freshest fish you can find, and let the luau begin!
-image: legitimate_hawaiian_poke_keto.jpg
+image: legitimate_hawaiian_poke.jpg
 nutrition:
 - 400 calories
 - 2 g carbohydrates

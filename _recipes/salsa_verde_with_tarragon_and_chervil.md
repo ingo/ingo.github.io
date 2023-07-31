@@ -14,10 +14,10 @@ Salsa verde means "green sauce" in both Italian and Spanish. In this version, fr
 
 ### Ingredients
 
-* `1` medium red onion, finely chopped
+* `1` medium red onion or equivallent shallots, finely chopped
 * `2 tbsp` red wine vinegar
 * Salt
-* `2 tbsp` salted capers
+* `2 tbsp` salted capers (optional)
 * `¾ cup` extra-virgin olive oil
 * `4 tbsp` freshly squeezed lemon juice
 * `1 tsp` finely grated lemon zest
@@ -36,4 +36,5 @@ Salsa verde means "green sauce" in both Italian and Spanish. In this version, fr
 
 ### Notes
 
-The salsa verde can be refrigerated covered overnight. Bring the salsa to room temperature before serving, or serve lightly chilled. It pairs well with [Mixed Grill with Rib Eyes, Sausages and Bacon Chops](https://www.foodandwine.com/recipes/mixed-grill-with-rib-eyes-sausages-and-bacon-chops).
+- The salsa verde can be refrigerated covered overnight. Bring the salsa to room temperature before serving, or serve lightly chilled.
+- You can substitute other herbs in place of ones you don't currently have.

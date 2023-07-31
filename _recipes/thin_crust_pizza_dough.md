@@ -1,6 +1,6 @@
 ---
 author: Marcella Hazan
-category: Sides
+category: Breads
 description: A very tasty and crisp crust pizza dough recipe from Marcella Hazan's
   Essentials of Classic Italian Cooking. It's very easy to make and only needs a few
   hours of advance preparation.

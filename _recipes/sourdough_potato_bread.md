@@ -1,6 +1,6 @@
 ---
 author: The Fresh Loaf
-category: Breakfasts
+category: Breads
 description: A fluffy and wonderful 100% sourdough bread with no commercial yeast.
   This bread has a creamy white moist interior and excellent taste and texture and
   is a high riser.

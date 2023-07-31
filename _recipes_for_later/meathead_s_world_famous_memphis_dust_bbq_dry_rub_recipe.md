@@ -1,6 +1,6 @@
 ---
 author: Meathead
-category: Sauces
+category: Pantry
 description: This flavorful BBQ dry rub recipe is the best and only backyard seasoning
   you’ll ever need. It is carefully formulated to flavor, color, and form the proper
   crust when cooked at low temps. Try it on chicken, fish, and vegetables too.

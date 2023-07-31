@@ -1,6 +1,6 @@
 ---
 author: What to Cook Today
-category: Soups
+category: Sides
 description: A hearty Tibetan soup made with Tsampa, a roasted barley flour, and strips
   of steak. Fragrant, nutty, and perfect for cold weather.
 image: tsampa_soup_tsam_thuk.jpg

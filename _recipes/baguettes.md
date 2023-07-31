@@ -1,6 +1,6 @@
 ---
 author: Patrick Ryan
-category: Sides
+category: Breads
 description: A detailed guide to making classic baguettes, using a pre-fermented dough
   for complex flavor. This recipe takes up to 3 days to make, but the results are
   worth it.

@@ -4,6 +4,8 @@ category: Sides
 description: This red pepper paste has a nice texture and flavor from the addition
   of walnuts. Serve it with pita chips, crackers, or as a spread on sandwiches.
 image: civisli_biber_red_pepper_spread.jpg
+image_attribution: Timothy L Brock
+image_source: https://unsplash.com/photos/WJ5mej6mWi4
 size: 2 cups
 time: 30 minutes
 title: Civisli Biber (Red Pepper Spread)

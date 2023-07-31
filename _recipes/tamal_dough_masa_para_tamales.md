@@ -1,6 +1,6 @@
 ---
 author: Yvette Marquez
-category: Techniques
+category: Pantry
 description: A recipe for tamal dough, a vital ingredient for making perfect tamales.
   The dough is made with fresh masa, lard, baking powder, salt, and broth, resulting
   in a fluffy, light, tender, and flavorful tamal.

@@ -1,6 +1,6 @@
 ---
 author: The Fresh Loaf
-category: Techniques
+category: Pantry
 description: A guide to understanding how much dough is needed for different sizes
   of loaf pans and brotform bannetons.
 image: one_pound_loaf_flour_weight_or_dough_weight.jpg

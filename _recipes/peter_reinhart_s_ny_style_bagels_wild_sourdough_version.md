@@ -1,6 +1,6 @@
 ---
 author: Peter Reinhart
-category: Breakfasts
+category: Breads
 description: A traditional New York style bagel recipe using wild sourdough for a
   unique and delicious flavor. Enjoy these bagels plain, poppy, sesame, salt or onion.
 favorite: "\u2713"

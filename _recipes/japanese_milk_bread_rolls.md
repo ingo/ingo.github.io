@@ -1,6 +1,6 @@
 ---
 author: King Arthur Baking
-category: Sides
+category: Breads
 description: Soft and fluffy Japanese Milk Bread Rolls with a delightful golden crust.
 favorite: ✓
 image: japanese_milk_bread_rolls.jpg

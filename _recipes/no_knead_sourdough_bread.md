@@ -1,6 +1,6 @@
 ---
 author: Feasting At Home
-category: Breakfasts
+category: Breads
 description: An easy Sourdough Bread recipe that rises overnight and bakes in the
   morning. A simple flexible recipe, made with sourdough starter, that can be adapted
   to your needs.

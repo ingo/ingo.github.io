@@ -1,6 +1,6 @@
 ---
 author: Dewiat
-category: Sides
+category: Breads
 description: Deliciously soft hamburger buns that are quick and easy to make. Perfect
   for a snack or with your favorite burger.
 favorite: ✓

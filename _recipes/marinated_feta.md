@@ -2,7 +2,7 @@
 title: Marinated Feta
 category: Sides
 description: Delicious marinated feta that can be prepared in just 5 minutes. Serve as an appetizer with homemade pita chips, or use it over your salads, chicken, or fish. Robust feta cheese is balanced beautifully with tangy lemon zest, earthy herbs, and subtly spicy jalapeño and dried chilies.
-image: placeholder.jpg
+image: marinated_feta.jpg
 size: 2-3 servings
 time: 5 minutes
 author: The Mediterranean Dish

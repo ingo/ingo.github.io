@@ -1,6 +1,6 @@
 ---
 author: Molly Baz
-category: Entrees
+category: Sides
 description: A vibrant, springy pilaf recipe with day-old rice, soft feta, crunchy
   pistachios and snap peas, and jammy golden raisins. A true study in textures.
 image: crispy_green_rice_pilaf.jpg

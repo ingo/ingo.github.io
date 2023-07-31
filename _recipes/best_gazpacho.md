@@ -1,6 +1,6 @@
 ---
 author: Julia Moskin
-category: Soups
+category: Sides
 description: "More of a drink than a soup, served in frosted glasses or chilled tumblers,\
   \ gazpacho is perfect when it is too hot to eat but you need cold, salt and lunch\
   \ all at the same time. Gazpacho is everywhere in Seville, Spain, where this recipe\
