@@ -1,23 +1,15 @@
 ---
 author: Claudia Rodin
-bitter: null
 category: Sides
 description: A refreshing Middle Eastern salad made with bulgur, tomatoes, cucumbers,
   and lots of fresh herbs, spiced up with a special spice mixture from the Jerusalem
   cookbook.
 difficulty: easy
-favorite: null
 image: tabbouleh.jpg
 original_title: تبولة
-salty: null
 size: 4 servings
-sour: null
-source: null
-spicy: null
-sweet: null
 time: 30 minutes
 title: Tabbouleh
-umami: null
 vegan: ✓
 veggie: ✓
 ---

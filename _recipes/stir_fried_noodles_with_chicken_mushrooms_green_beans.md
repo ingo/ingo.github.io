@@ -15,7 +15,6 @@ nutrition:
 - Cholesterol: 35mg
 - Fiber: 4g
 size: 2 servings
-source: null
 time: 1 hour
 title: Stir-Fried Noodles with Chicken, Mushrooms & Green Beans
 ---

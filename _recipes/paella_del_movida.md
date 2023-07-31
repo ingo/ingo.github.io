@@ -4,12 +4,10 @@ category: Entrees
 description: A traditional Spanish dish made with rabbit, mussels, prawns, and a variety
   of herbs and spices. This recipe is gluten-free and perfect for a main course.
 difficulty: hard
-favorite: null
 image: paella_del_movida.jpg
 original_title: Paella del Movida
 size: 6 servings
 source: https://app.ckbk.com/recipe/movi59395c02s004r011
-spicy: null
 time: 4 hours
 title: Paella del Movida
 vegan: null

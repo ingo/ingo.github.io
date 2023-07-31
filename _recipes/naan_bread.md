@@ -15,7 +15,6 @@ nutrition:
 original_title: Naan
 size: 6 naans, ~15-16cm / 6 – 7" diameter
 source: https://www.recipetineats.com/easy-soft-flatbread-yeast/
-spicy: null
 time: 2 hours
 title: Naan Bread
 vegan: null

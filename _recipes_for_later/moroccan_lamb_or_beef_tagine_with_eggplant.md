@@ -1,21 +1,14 @@
 ---
 author: Unknown
-bitter: null
 category: Entrees
 description: A flavorful Moroccan dish that combines tender lamb or beef with the
   rich taste of eggplant. The addition of spices like cinnamon, ginger, and saffron
   adds a unique touch to this dish.
 difficulty: medium
-favorite: null
 image: moroccan_lamb_or_beef_tagine_with_eggplant.jpg
-salty: null
 size: 4-6 servings
-sour: null
-spicy: null
-sweet: null
 time: 3-4 hours
 title: Moroccan Lamb or Beef Tagine with Eggplant
-umami: null
 vegan: null
 veggie: null
 ---

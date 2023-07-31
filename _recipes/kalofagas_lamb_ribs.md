@@ -1,19 +1,14 @@
 ---
 author: Peter Minaki
-bitter: null
 category: Entrees
 description: Delicious and tender lamb ribs, perfect as a meze for 4-6 people. This
   versatile dish can be prepared in the oven or on the grill, and is sure to be a
   hit at any gathering.
 difficulty: medium
-favorite: null
 image: kalofagas_lamb_ribs.jpg
 salty: ✓
 size: 4-6 servings
-sour: null
 source: https://www.kalofagas.ca/2021/09/09/kalofagas-lamb-ribs/
-spicy: null
-sweet: null
 time: 4 hours
 title: Kalofagas Lamb Ribs
 umami: ✓

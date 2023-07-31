@@ -2,7 +2,6 @@
 author: Serious Eats
 category: Breads
 description: Homemade pita bread that's perfect for sandwiches or dipping into hummus.
-favorite: null
 image: pita_bread.jpg
 size: 6 servings
 source: https://www.seriouseats.com/recipes/2015/08/perfect-pita-bread-recipe.html

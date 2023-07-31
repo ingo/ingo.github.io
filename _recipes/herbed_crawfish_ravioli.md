@@ -1,18 +1,13 @@
 ---
 author: Louisiana Cookin
-bitter: null
 category: Entrees
 description: Wonton wrappers make this Crawfish Ravioli recipe a cinch.
 difficulty: medium
-favorite: null
 image: herbed_crawfish_ravioli.jpg
 original_title: Herbed Crawfish Ravioli
 salty: ✓
 size: Varies
-sour: null
 source: https://www.louisianacookin.com/herbed-crawfish-ravioli/
-spicy: null
-sweet: null
 time: 1 hour
 title: Herbed Crawfish Ravioli
 umami: ✓

@@ -1,19 +1,12 @@
 ---
 author: Unknown
-bitter: null
 category: Entrees
 description: Delicious homemade pizza with a perfect crust and your favorite toppings.
 difficulty: medium
-favorite: null
 image: pizza_al_taglio.jpg
-salty: null
 size: 2 11x15” pizzas
-sour: null
-spicy: null
-sweet: null
 time: Varies depending on fermentation
 title: Pizza al taglio
-umami: null
 vegan: null
 veggie: null
 ---

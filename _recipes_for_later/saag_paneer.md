@@ -3,10 +3,8 @@ author: Unknown
 category: Entrees
 description: A traditional Indian dish made with paneer cheese and a flavorful blend
   of spices. Perfect for a hearty dinner.
-favorite: null
 image: saag_paneer.jpg
 size: 4 servings
-spicy: null
 time: 1 hour
 title: Saag Paneer
 veggie: ✓

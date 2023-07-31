@@ -3,13 +3,9 @@ author: Julia Child
 category: Beverages
 description: A creamy, icy horchata to wash down a plate of carnitas. This is our
   attempt to replicate the one from La Super-Rica Taqueria.
-favorite: null
 image: horchata.jpg
 original_title: null
 size: 4 servings
-source: null
-spicy: null
-time: null
 title: Horchata
 vegan: null
 ---

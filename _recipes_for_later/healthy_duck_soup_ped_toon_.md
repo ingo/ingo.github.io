@@ -3,12 +3,10 @@ author: Mary Berry
 category: Sides
 description: A comforting and healthy duck soup, inspired by Mary Berry's recipe from
   BBC2 Love to Cook 2021.
-favorite: null
 image: healthy_duck_soup_ped_toon_.jpg
 original_title: ヘルシーダックスープ
 size: 4 servings
 source: https://www.bbc.co.uk/programmes/b006mj54
-spicy: null
 time: 1.5 hours
 title: Healthy Duck Soup (Ped Toon)
 vegan: null

@@ -4,10 +4,8 @@ category: Entrees
 description: A hearty, briny San Francisco seafood stew full of crab, shrimp and clams,
   with origins from Italy's Ligurian coast.
 difficulty: hard
-favorite: null
 image: judith_s_dungeness_crab_cioppino.jpg
 size: 8-10 servings
-source: null
 spicy: ✓
 time: 1 hour 30 minutes
 title: Judith's Dungeness Crab Cioppino

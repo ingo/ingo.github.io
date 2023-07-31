@@ -5,13 +5,9 @@ description: Bella Veitzman learned this colorful, joyful recipe from her mom an
   aunt in Ukraine. It was served (vegetarian-style) at her wedding. Bella's special
   trick is to use buckwheat rather than rice for a fluffier stuffing with a wonderful
   taste.
-favorite: null
 image: stuffed_bell_peppers.jpg
 original_title: null
 size: 8 servings
-source: null
-spicy: null
-time: null
 title: Stuffed Bell Peppers
 vegan: null
 veggie: null

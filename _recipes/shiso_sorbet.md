@@ -1,22 +1,15 @@
 ---
 author: Los Angeles Times
-bitter: null
 category: Desserts
 description: A refreshing sorbet inspired by Tokyo's unique culinary culture. Perfect
   for a hot summer day or as a palate cleanser between courses.
-difficulty: null
-favorite: null
 image: shiso_sorbet.jpg
 original_title: Shiso Sorbet
-salty: null
 size: Varies
-sour: null
 source: https://www.latimes.com/
-spicy: null
 sweet: ✓
 time: Varies
 title: Shiso Sorbet
-umami: null
 vegan: ✓
 veggie: ✓
 ---

@@ -4,10 +4,8 @@ category: Entrees
 description: A delightful pasta dish with a rich, creamy cheese sauce. Perfect for
   a quick dinner or a cozy lunch.
 difficulty: medium
-favorite: null
 image: cacio_non_pepe.jpg
 size: 4 servings
-spicy: null
 time: 30 minutes
 title: Cacio non Pepe
 vegan: null

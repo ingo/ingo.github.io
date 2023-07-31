@@ -8,8 +8,6 @@ favorite: "\u2713"
 image: chocolate_cloud_cake.jpg
 original_title: null
 size: 8 servings
-source: null
-time: null
 title: Chocolate Cloud Cake
 ---
 ### Ingredients

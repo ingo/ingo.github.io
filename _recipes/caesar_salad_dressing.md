@@ -1,16 +1,12 @@
 ---
 author: Unknown
-bitter: null
 category: Sauces
 description: A rich and tangy dressing that is perfect for your Caesar salads.
 difficulty: easy
-favorite: null
 image: caesar_salad_dressing.jpg
 salty: ✓
 size: Makes 1-1/3 cups (enough for about 10 starter salads)
 sour: ✓
-spicy: null
-sweet: null
 time: 10 Minutes
 title: Caesar Salad Dressing
 umami: ✓

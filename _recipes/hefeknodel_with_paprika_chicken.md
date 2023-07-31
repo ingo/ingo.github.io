@@ -4,7 +4,6 @@ category: Entrees
 description: A delightful combination of Hefeknödel, a type of German bread dumpling,
   served with flavorful Paprika Chicken. A perfect comfort food for any day.
 difficulty: medium
-favorite: null
 image: hefeknodel_with_paprika_chicken.jpg
 size: 4 servings
 spicy: ✓

@@ -1,13 +1,12 @@
 ---
-author: null
+author: Ingo Muschenetz
 category: Entrees
 description: Very tasty hamburgers with a unique twist of peach chutney.
 image: lamb_sliders_with_peach_chutney.jpg
 size: 8 burgers (2 per person)
-source: null
-time: null
 title: Lamb Sliders with Peach Chutney
 ---
+
 ### Ingredients
 
 * `1 1/2 lbs` ground lamb

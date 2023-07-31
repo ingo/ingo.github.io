@@ -4,10 +4,8 @@ category: Entrees
 description: Fluffy dough made from fresh-ground masa, filled with sweet corn kernels
   and seasoned to perfection.
 difficulty: medium
-favorite: null
 image: tamales.jpg
 size: 20 medium tamales
-spicy: null
 time: 2 hours
 title: Tamales
 vegan: null

@@ -4,11 +4,8 @@ category: Entrees
 description: A rich spread of fresh and smoked salmon blended with butter, inspired
   by a dish at Thomas Keller's Bouchon bistro. Perfect for serving with toasted baguette
   slices.
-favorite: null
 image: salmon_rillettes.jpg
 size: 3-4 servings
-source: null
-spicy: null
 time: 2 hours
 title: Salmon Rillettes
 vegan: null

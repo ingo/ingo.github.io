@@ -3,10 +3,8 @@ author: Unknown
 category: Breakfasts
 description: Delicious and healthy whole-wheat waffles, perfect for a hearty breakfast.
   Serve with warm maple syrup and fresh fruit.
-favorite: null
 image: whole_wheat_waffles.jpg
 size: 4-5 servings
-spicy: null
 time: 30 minutes
 title: Whole-Wheat Waffles
 vegan: null

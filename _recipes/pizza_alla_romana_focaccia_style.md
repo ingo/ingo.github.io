@@ -5,12 +5,10 @@ description: A delicious and authentic Italian pizza recipe shared by a pizza en
   from Modena, Italy. This pizza is made in the Bonci style, with a soft and fluffy
   crumb, and a perfect balance of toppings.
 difficulty: medium
-favorite: null
 image: pizza_alla_romana_focaccia_style.jpg
 original_title: Teglia alla Romana
 size: 1 pizza
 source: https://www.pizzamaking.com/forum/index.php?topic=40750.0
-spicy: null
 time: 48 hours (including dough maturation)
 title: Pizza alla Romana - Focaccia Style
 vegan: null

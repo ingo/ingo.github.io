@@ -1,20 +1,14 @@
 ---
 author: Unknown
-bitter: null
 category: Entrees
 description: A flavorful and aromatic Indian dish, Tandoori Chicken is marinated in
   a blend of spices and yogurt, then roasted to perfection.
 difficulty: medium
-favorite: null
 image: tandoori_chicken.jpg
-salty: null
 size: 4 servings
-sour: null
 spicy: ✓
-sweet: null
 time: 1 hour 10 minutes (plus overnight marination)
 title: Tandoori Chicken
-umami: null
 vegan: null
 veggie: null
 ---

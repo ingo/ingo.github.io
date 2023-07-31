@@ -3,7 +3,6 @@ author: Epicurious
 category: Sides
 description: A slightly sweet and tangy dill pickle that is perfect for any occasion.
   This recipe is easy to make and requires no canning.
-favorite: null
 image: slightly_sweet_dill_refrigerator_pickles.jpg
 size: 2 quarts
 source: https://www.epicurious.com/recipes/food/views/slightly-sweet-dill-refrigerator-pickles-353891
