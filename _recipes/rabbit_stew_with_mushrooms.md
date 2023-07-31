@@ -49,4 +49,4 @@ Serve with a crusty loaf of bread, a green salad and either a hearty white wine,
 
 ### Notes
 
-Rabbit are often available at specialty markets, fresh or frozen, or can be ordered by your local butcher. If you can find fresh rabbit, have your butcher piece it out for you. Otherwise, see [How to Cut Up a Rabbit](http://honest-food.net/2010/05/19/how-to-cut-up-a-rabbit/).
+- Rabbit are often available at specialty markets, fresh or frozen, or can be ordered by your local butcher. If you can find fresh rabbit, have your butcher piece it out for you. Otherwise, see [How to Cut Up a Rabbit](http://honest-food.net/2010/05/19/how-to-cut-up-a-rabbit/).

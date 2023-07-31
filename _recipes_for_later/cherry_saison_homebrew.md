@@ -51,4 +51,4 @@ This beer was brewed on the Clawhammer 120v Electric Brewing System. Both the re
 
 ### Notes
 
-This beer is awesome. Overall, it's very light and refreshing. The cherry, coriander, and rosemary and coriander provide a good punch at the beginning but it's layered over a smooth and creamy background provided by the saison yeast and malt. It's very delicious. Please do yourself a favor and brew this beer!
+- This beer is awesome. Overall, it's very light and refreshing. The cherry, coriander, and rosemary and coriander provide a good punch at the beginning but it's layered over a smooth and creamy background provided by the saison yeast and malt. It's very delicious. Please do yourself a favor and brew this beer!

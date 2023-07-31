@@ -34,4 +34,4 @@ A classic Italian pizza recipe that you can easily make at home. Choose between 
 
 ### Notes
 
-The fermentation time can greatly affect the flavor of your pizza. For a more complex, sourdough-like flavor, use the smaller amount of yeast and let the dough rise for a longer period of time. For a quicker pizza with a milder flavor, use the larger amount of yeast and let the dough rise until it has just doubled in size.
+- The fermentation time can greatly affect the flavor of your pizza. For a more complex, sourdough-like flavor, use the smaller amount of yeast and let the dough rise for a longer period of time. For a quicker pizza with a milder flavor, use the larger amount of yeast and let the dough rise until it has just doubled in size.

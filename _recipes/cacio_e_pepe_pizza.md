@@ -43,4 +43,4 @@ This recipe has been adapted for a home kitchen by baker extraordinaire chef Joh
 
 ### Notes
 
-We are going light on salt here because Pecorino Romano topping is so salty.
+- We are going light on salt here because Pecorino Romano topping is so salty.

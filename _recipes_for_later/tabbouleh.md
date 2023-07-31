@@ -36,4 +36,4 @@ This Tabbouleh recipe is a fusion of Claudia Rodin's traditional recipe and the 
 
 ### Notes
 
-The Jerusalem spice mixture adds a unique flavor to this traditional Tabbouleh recipe. If you can't find it, you can make your own by mixing together equal parts ground cumin, coriander, turmeric, and paprika.
+- The Jerusalem spice mixture adds a unique flavor to this traditional Tabbouleh recipe. If you can't find it, you can make your own by mixing together equal parts ground cumin, coriander, turmeric, and paprika.

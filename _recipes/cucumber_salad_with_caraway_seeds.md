@@ -23,4 +23,4 @@ title: Cucumber Salad With Caraway Seeds
 
 ### Notes
 
-This salad pairs well with spicy foods. Adjust the amount of vinegar, sugar, pepper, and caraway seeds to your taste.
+- This salad pairs well with spicy foods. Adjust the amount of vinegar, sugar, pepper, and caraway seeds to your taste.

@@ -42,4 +42,4 @@ This recipe is a classic from the famous Chocolateria San Gines in Madrid, Spain
 
 ### Notes
 
-This recipe was provided by a chef, restaurant or culinary professional. It has not been tested for home use.
+- This recipe was provided by a chef, restaurant or culinary professional. It has not been tested for home use.

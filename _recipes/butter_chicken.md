@@ -45,4 +45,4 @@ title: Butter Chicken
 
 ### Notes
 
-The dish tastes even better after a day's refrigeration; you may need to add a little cream or water to thin the sauce, which will thicken once it's chilled. Kashmiri chile powder is bright-tasting and lends a beautiful color to this dish; you can find it at Indian markets and at Bazaar Spices in the District's Union Market.
+- The dish tastes even better after a day's refrigeration; you may need to add a little cream or water to thin the sauce, which will thicken once it's chilled. Kashmiri chile powder is bright-tasting and lends a beautiful color to this dish; you can find it at Indian markets and at Bazaar Spices in the District's Union Market.

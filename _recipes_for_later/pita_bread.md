@@ -36,4 +36,4 @@ This recipe for homemade pita bread comes from Serious Eats. It's a simple recip
 
 ### Notes
 
-When kneading the dough, it should be slightly tacky, not dry. This recipe may be doubled. Pitas can be baked ahead of time and frozen, with parchment layered between them, then wrapped in foil and plastic wrap. Defrost, then toast in skillet as per recipe.
+- When kneading the dough, it should be slightly tacky, not dry. This recipe may be doubled. Pitas can be baked ahead of time and frozen, with parchment layered between them, then wrapped in foil and plastic wrap. Defrost, then toast in skillet as per recipe.

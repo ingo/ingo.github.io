@@ -37,4 +37,4 @@ This Pain de Mie recipe comes from King Arthur Flour, a trusted source for bakin
 
 ### Notes
 
-For nutrition information, please visit [here](https://www.kingarthurflour.com/nutritional-info/12806).
+- For nutrition information, please visit [here](https://www.kingarthurflour.com/nutritional-info/12806).

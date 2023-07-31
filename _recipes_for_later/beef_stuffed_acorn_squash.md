@@ -45,7 +45,7 @@ title: Beef Stuffed Acorn Squash
 
 ### Notes
 
-Substitutions for this Stuffed Acorn Squash Recipe:
+- Substitutions for this Stuffed Acorn Squash Recipe:
 
 * Mushrooms: If you don’t like mushrooms you can omit them
 * Dried Fruit: If you don’t have figs dried cranberries or raisins would be delicious

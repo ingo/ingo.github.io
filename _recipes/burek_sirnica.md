@@ -59,4 +59,4 @@ title: Burek & Sirnica
 
 ### Notes
 
-This recipe makes enough dough for two burek or sirnica. The filling ingredients are enough to make just one, so if you want 2 sirnica or 2 burek, simply double the ingredients.
+- This recipe makes enough dough for two burek or sirnica. The filling ingredients are enough to make just one, so if you want 2 sirnica or 2 burek, simply double the ingredients.

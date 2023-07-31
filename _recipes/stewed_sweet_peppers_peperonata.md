@@ -31,4 +31,4 @@ This sweet, simple pepper stew is an ideal use for summer's bounty of sweet pepp
 
 ### Notes
 
-The peppers turn out very sweet and mellow, but be careful with the vinegar. Some people find that 2 tablespoons is enough, while others prefer the full 3 tablespoons. Adjust according to your taste.
+- The peppers turn out very sweet and mellow, but be careful with the vinegar. Some people find that 2 tablespoons is enough, while others prefer the full 3 tablespoons. Adjust according to your taste.

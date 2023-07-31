@@ -28,7 +28,7 @@ Lomi Lomi Salmon is a Hawaiian side dish made from salted salmon, tomatoes, onio
 
 ### Notes
 
-In Hawaiian, _lomi lomi_ means _to knead or massage._ _Lomi lomi salmon_ is salted salmon that is gently kneaded aka mixed together with other ingredients (tomatoes, onions, and green onions).
+- In Hawaiian, _lomi lomi_ means _to knead or massage._ _Lomi lomi salmon_ is salted salmon that is gently kneaded aka mixed together with other ingredients (tomatoes, onions, and green onions).
 
 Regarding the onions: if you can find sweet Maui onions, definitely use that (I know it's hard to find outside of Hawaii).
 

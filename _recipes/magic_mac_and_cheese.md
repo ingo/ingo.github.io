@@ -45,4 +45,4 @@ This Magic Mac and Cheese recipe is a result of a spring project to create the e
 
 ### Notes
 
-This recipe can be made ahead of time and refrigerated or frozen. It can also be customized with different cheeses, hot sauces, proteins, or other sauces. Adjust the baking time to achieve your desired texture, from ultra-creamy to more casserole-like.
+- This recipe can be made ahead of time and refrigerated or frozen. It can also be customized with different cheeses, hot sauces, proteins, or other sauces. Adjust the baking time to achieve your desired texture, from ultra-creamy to more casserole-like.

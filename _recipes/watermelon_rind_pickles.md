@@ -34,4 +34,4 @@ This recipe first appeared on altonbrown.com. Watermelon rind pickles are the fi
 
 ### Notes
 
-Specialized Hardware needed: Canning funnel
+- Specialized Hardware needed: Canning funnel

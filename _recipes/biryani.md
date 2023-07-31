@@ -78,4 +78,4 @@ title: Biryani
 
 ### Notes
 
-This recipe can be made with other proteins or vegetables. Adjust spiciness to taste. Use fresh spices, not ones that have been sitting around in your pantry for years. The whole spices are typically left in the rice. They soften when cooked so to me it's not a big deal, I've never found it off-putting. If you're really concerned, either pick them out just before layering in the pot or wrap the spices in a small muslin or cheesecloth.
+- This recipe can be made with other proteins or vegetables. Adjust spiciness to taste. Use fresh spices, not ones that have been sitting around in your pantry for years. The whole spices are typically left in the rice. They soften when cooked so to me it's not a big deal, I've never found it off-putting. If you're really concerned, either pick them out just before layering in the pot or wrap the spices in a small muslin or cheesecloth.

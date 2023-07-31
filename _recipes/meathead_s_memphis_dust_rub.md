@@ -34,4 +34,4 @@ This rub is a creation of Meathead Goldwyn, a culinary enthusiast who believes i
 
 ### Notes
 
-This rub is versatile and can be used on a variety of dishes. For a different flavor profile, you can experiment with different types of paprika or add some heat with chipotle powder, cayenne, or chili powder. The sugar in the rub helps form a crust, known as bark, on the surface of the meat. If you're watching your sugar intake, remember that only a small amount of the rub actually stays on the meat.
+- This rub is versatile and can be used on a variety of dishes. For a different flavor profile, you can experiment with different types of paprika or add some heat with chipotle powder, cayenne, or chili powder. The sugar in the rub helps form a crust, known as bark, on the surface of the meat. If you're watching your sugar intake, remember that only a small amount of the rub actually stays on the meat.

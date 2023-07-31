@@ -48,4 +48,4 @@ This recipe was inspired by the author's time interning in the kitchen at Le Ber
 
 ### Notes
 
-The garlic-olive oil puree is tamed by blanching it three times, cooking it in milk and emulsifying it with olive oil. This turns the lion into a little lamb, making it delicious and not overpowering.
+- The garlic-olive oil puree is tamed by blanching it three times, cooking it in milk and emulsifying it with olive oil. This turns the lion into a little lamb, making it delicious and not overpowering.

@@ -24,4 +24,4 @@ This is a technique guide, so no specific ingredients are listed.
 
 ### Notes
 
-Remember, these are rough estimates and the actual amount of dough needed can vary depending on the specific recipe and type of flour used. Always refer to your recipe for the most accurate measurements.
+- Remember, these are rough estimates and the actual amount of dough needed can vary depending on the specific recipe and type of flour used. Always refer to your recipe for the most accurate measurements.

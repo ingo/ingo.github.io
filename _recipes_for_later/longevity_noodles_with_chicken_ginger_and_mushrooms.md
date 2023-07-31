@@ -41,4 +41,4 @@ title: Longevity Noodles With Chicken, Ginger and Mushrooms
 
 ### Notes
 
-Noodles should be stir-fried alone and lightly oiled so that they don’t clump together in the wok, and all ingredients must be completely dry so they sear properly.
+- Noodles should be stir-fried alone and lightly oiled so that they don’t clump together in the wok, and all ingredients must be completely dry so they sear properly.

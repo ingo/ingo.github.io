@@ -43,7 +43,7 @@ For the mop sauce (optional):
 
 ### Notes
 
-Try these Best of Barbecue products:
+- Try these Best of Barbecue products:
 
 * [Smoking Wood Chips for Pork](http://barbecuebible.com/product/best-of-barbecue-smoking-wood-chips-for-pork/)
 * [Hickory Gas Grill Smoker Cup](http://barbecuebible.com/product/disposable-gas-grill-smoker-box-with-hickory-wood-chips/)

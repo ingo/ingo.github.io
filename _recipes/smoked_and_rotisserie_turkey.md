@@ -46,4 +46,4 @@ This recipe offers two methods of preparing your turkey - smoked and rotisserie.
 
 ### Notes
 
-The rotisserie turkey was considered more flavorful and moist. It was also slightly saltier. This could be due to either a miscalculation in the saltiness of the mushroom powder, or the rotisserie method doing a better job at distributing the seasoning.
+- The rotisserie turkey was considered more flavorful and moist. It was also slightly saltier. This could be due to either a miscalculation in the saltiness of the mushroom powder, or the rotisserie method doing a better job at distributing the seasoning.

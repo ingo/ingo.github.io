@@ -52,7 +52,7 @@ This slow-cooked lamb shoulder is a family favorite, perfect for a Sunday Night 
 
 ### Notes
 
-This method of slow roasting is not suitable for lamb leg. It must be made using lamb shoulder which is a tougher and fattier cut of meat. 
+- This method of slow roasting is not suitable for lamb leg. It must be made using lamb shoulder which is a tougher and fattier cut of meat. 
 
 ### Nutrition
 

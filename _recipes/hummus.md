@@ -34,4 +34,4 @@ This hummus recipe is adapted from the cookbook "Jerusalem" by Yotam Ottolenghi 
 
 ### Notes
 
-This recipe is adapted from "Jerusalem" (Ten Speed Press, 2013) by Yotam Ottolenghi and Sami Tamimi.
+- This recipe is adapted from "Jerusalem" (Ten Speed Press, 2013) by Yotam Ottolenghi and Sami Tamimi.

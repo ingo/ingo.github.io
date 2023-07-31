@@ -35,7 +35,7 @@ veggie: "\u2713"
 
 ### Notes
 
-You can make this up to a day or two before you bake it. Don’t drizzle on the last tablespoon of olive oil until you’re ready to bake. Wrap tightly in plastic and refrigerate. Remove the plastic, and replace with foil before baking.
+- You can make this up to a day or two before you bake it. Don’t drizzle on the last tablespoon of olive oil until you’re ready to bake. Wrap tightly in plastic and refrigerate. Remove the plastic, and replace with foil before baking.
 
 ### Nutrition
 

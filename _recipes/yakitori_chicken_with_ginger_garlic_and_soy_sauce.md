@@ -33,4 +33,4 @@ Yakitori is a popular street food in Japan, and this recipe brings that authenti
 
 ### Notes
 
-For ingredient substitutions, refer to this [Ingredient Substitution Guide](https://cooking.nytimes.com/guides/79-substitutions-for-cooking).
+- For ingredient substitutions, refer to this [Ingredient Substitution Guide](https://cooking.nytimes.com/guides/79-substitutions-for-cooking).

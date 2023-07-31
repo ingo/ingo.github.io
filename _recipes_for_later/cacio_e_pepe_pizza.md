@@ -36,4 +36,4 @@ At Sbanco restaurant in Rome, chef Stefano Callegari takes his time making this 
 
 ### Notes
 
-Suggested Pairing: Spice-inflected Montefalco Rosso.
+- Suggested Pairing: Spice-inflected Montefalco Rosso.

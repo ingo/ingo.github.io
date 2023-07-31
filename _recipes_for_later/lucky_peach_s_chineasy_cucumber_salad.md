@@ -31,4 +31,4 @@ Cucumbers are best in the summer, but hothouse specimens are in the supermarket 
 
 ### Notes
 
-This salad takes cues from Xi’an cooking (specifically the kind channeled at restaurants like Xi’an Famous Foods and Mission Chinese Food), pinning down the cooling flavor of cucumber under a savory-sour blast of black vinegar and a sting of chili heat. Do not skip the peanuts; like the rug in The Big Lebowski, they really tie the room together. And feel free to amp up the cilantro if you’re so inclined.
+- This salad takes cues from Xi’an cooking (specifically the kind channeled at restaurants like Xi’an Famous Foods and Mission Chinese Food), pinning down the cooling flavor of cucumber under a savory-sour blast of black vinegar and a sting of chili heat. Do not skip the peanuts; like the rug in The Big Lebowski, they really tie the room together. And feel free to amp up the cilantro if you’re so inclined.

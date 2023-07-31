@@ -41,6 +41,6 @@ This recipe for classic homemade ricotta ravioli gets its unique flavor from Par
 
 ### Notes
 
-Look for a high-quality ricotta that contains no gums or stabilizers, such as Calabro. If stabilizer-free ricotta is not available, you can make your own [using this technique](https://www.seriouseats.com/fresh-ricotta-ravioli-recipeundefined). 
+- Look for a high-quality ricotta that contains no gums or stabilizers, such as Calabro. If stabilizer-free ricotta is not available, you can make your own [using this technique](https://www.seriouseats.com/fresh-ricotta-ravioli-recipeundefined). 
 
 Special equipment: Pasta machine, ravioli maker (optional), ravioli stamp or wheel.

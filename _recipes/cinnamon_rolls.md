@@ -52,4 +52,4 @@ These cinnamon rolls are the perfect balance of soft and sweet. Made with a uniq
 
 ### Notes
 
-The tangzhong technique used in this recipe helps to create a soft, pillowy texture in the cinnamon rolls. It's a unique method that's worth trying for a delicious result.
+- The tangzhong technique used in this recipe helps to create a soft, pillowy texture in the cinnamon rolls. It's a unique method that's worth trying for a delicious result.

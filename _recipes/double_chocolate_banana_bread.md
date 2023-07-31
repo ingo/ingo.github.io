@@ -38,4 +38,4 @@ This Double Chocolate Banana Bread recipe is a delicious twist on the classic ba
 
 ### Notes
 
-The banana bread will keep for up to 4 days at room temperature if wrapped in foil.
+- The banana bread will keep for up to 4 days at room temperature if wrapped in foil.

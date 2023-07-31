@@ -36,4 +36,4 @@ veggie: "\u2713"
 
 ### Notes
 
-Slice the fennel extra thinly, discarding the woody stalks. Save the feathery fronds for garnish and use on top of the salad with the shaved Parmesan.
+- Slice the fennel extra thinly, discarding the woody stalks. Save the feathery fronds for garnish and use on top of the salad with the shaved Parmesan.

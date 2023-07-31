@@ -38,4 +38,4 @@ This recipe is a delightful twist on traditional duck soup, inspired by the culi
 
 ### Notes
 
-You can add noodles or rice to this soup for a more filling meal. Also, feel free to add any vegetables of your choice.
+- You can add noodles or rice to this soup for a more filling meal. Also, feel free to add any vegetables of your choice.

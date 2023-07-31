@@ -36,4 +36,4 @@ One evening during the recent fortnight of repetitive rain, Mr NQN was sitting i
 
 ### Notes
 
-This dish can last for several days and can also be put in sandwiches or frozen for later use.
+- This dish can last for several days and can also be put in sandwiches or frozen for later use.

@@ -38,4 +38,4 @@ Kansas City BBQ sauce is something I recommend trying at least once. Though, onc
 
 ### Notes
 
-This sauce is great to make and eat the same day, but if you’ve got the time to let it sit, it is even better after letting it rest for 24 hours. That extra day in the refrigerator gives all of the ingredients time to hang out and get comfortable with each other, resulting in a smoother and more delicious sauce. If you end up with any leftovers, it lasts great in the refrigerator. Make sure you keep it in an airtight container, and it should last you at least two weeks.
+- This sauce is great to make and eat the same day, but if you’ve got the time to let it sit, it is even better after letting it rest for 24 hours. That extra day in the refrigerator gives all of the ingredients time to hang out and get comfortable with each other, resulting in a smoother and more delicious sauce. If you end up with any leftovers, it lasts great in the refrigerator. Make sure you keep it in an airtight container, and it should last you at least two weeks.

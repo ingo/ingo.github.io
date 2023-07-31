@@ -48,4 +48,4 @@ This recipe is a favorite of Alison Roman, who shared it with the New York Times
 
 ### Notes
 
-This dish is versatile and can be adjusted to taste. Some cooks have suggested adding lemon juice or zest, capers, or different types of olives. Others have suggested using a cast iron pan instead of a baking sheet for a different cooking experience. As always, adjust the recipe to your personal preference and enjoy!
+- This dish is versatile and can be adjusted to taste. Some cooks have suggested adding lemon juice or zest, capers, or different types of olives. Others have suggested using a cast iron pan instead of a baking sheet for a different cooking experience. As always, adjust the recipe to your personal preference and enjoy!

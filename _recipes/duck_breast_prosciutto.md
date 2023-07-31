@@ -33,4 +33,4 @@ This recipe is part of a year-long collective effort of a group of bloggers part
 
 ### Notes
 
-This recipe is a part of a culinary adventure, exploring ancient methods of preserving meats. The duck prosciutto can be served as a mid-afternoon snack with some aged manchego cheese, green olives and crackers, or used in other recipes. The remaining prosciutto can be frozen for future use.
+- This recipe is a part of a culinary adventure, exploring ancient methods of preserving meats. The duck prosciutto can be served as a mid-afternoon snack with some aged manchego cheese, green olives and crackers, or used in other recipes. The remaining prosciutto can be frozen for future use.

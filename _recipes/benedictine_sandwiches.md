@@ -27,4 +27,4 @@ title: Benedictine Sandwiches
 
 ### Notes
 
-This recipe was originally published on Weelicious as "[Benedictine Weelicious](http://weelicious.com/2009/06/09/benedictine/)".
+- This recipe was originally published on Weelicious as "[Benedictine Weelicious](http://weelicious.com/2009/06/09/benedictine/)".

@@ -34,6 +34,6 @@ Hungarian Pinched Noodles, also known as Csipetke, are a simple yet delicious ad
 
 ### Notes
 
-Noodles can be boiled directly in soups or stews instead of water.
+- Noodles can be boiled directly in soups or stews instead of water.
 
 The dough can be made in a food processor or all by hand.

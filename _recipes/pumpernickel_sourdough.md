@@ -34,4 +34,4 @@ This recipe was shared by a user on the Breadtopia Forum who has been making thi
 
 ### Notes
 
-The starter hydration is not precise, but it is close to 100%.
+- The starter hydration is not precise, but it is close to 100%.

@@ -42,4 +42,4 @@ This Mushroom Risotto recipe is courtesy of Tyler Florence, a renowned chef know
 
 ### Notes
 
-Copyright 2013 Television Food Network G.P. All Rights Reserved
+- Copyright 2013 Television Food Network G.P. All Rights Reserved

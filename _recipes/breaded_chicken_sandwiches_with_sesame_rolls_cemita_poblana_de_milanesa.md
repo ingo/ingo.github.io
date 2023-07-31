@@ -42,4 +42,4 @@ title: Breaded Chicken Sandwiches with Sesame Rolls
 
 ### Notes
 
-From Nopalito: A Mexican Kitchen by Gonzalo Guzmán with Stacy Adimando, copyright © 2017. Reprinted with permission by Ten Speed Press.
+- From Nopalito: A Mexican Kitchen by Gonzalo Guzmán with Stacy Adimando, copyright © 2017. Reprinted with permission by Ten Speed Press.

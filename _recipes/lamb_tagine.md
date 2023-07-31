@@ -40,4 +40,4 @@ This Lamb Tagine is a traditional Moroccan stew that can be customized to your t
 
 ### Notes
 
-For dessert, try something fruity and refreshing, like a scoop of Sour Cherry Frozen Yogurt.
+- For dessert, try something fruity and refreshing, like a scoop of Sour Cherry Frozen Yogurt.

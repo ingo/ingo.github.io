@@ -28,4 +28,4 @@ This slow-braised lamb shanks recipe by Mark Bittman is a versatile dish that ca
 
 ### Notes
 
-For ingredient substitutions, refer to this [Ingredient Substitution Guide](https://cooking.nytimes.com/guides/79-substitutions-for-cooking).
+- For ingredient substitutions, refer to this [Ingredient Substitution Guide](https://cooking.nytimes.com/guides/79-substitutions-for-cooking).

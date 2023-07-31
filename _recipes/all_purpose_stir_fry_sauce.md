@@ -39,7 +39,7 @@ title: All Purpose Stir Fry Sauce
 
 ### Notes
 
-Base Flavourings: Garlic, minced or finely sliced; Ginger, minced or finely sliced; Fresh chillies, minced or finely sliced
+- Base Flavourings: Garlic, minced or finely sliced; Ginger, minced or finely sliced; Fresh chillies, minced or finely sliced
 
 Additional Flavouring Suggestions: Sriracha, Chilli Bean Paste or other Spicy addition; Sweet chilli sauce; Substitute the water with pineapple or orange juice; Rice vinegar - for a touch of tartness; Fresh cilantro / coriander leaves, or thai basil - for freshness; Garlic or ordinary chives, chopped; Pinch of Chinese five spice powder
 

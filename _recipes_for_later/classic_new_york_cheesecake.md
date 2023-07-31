@@ -50,4 +50,4 @@ Though the ingredients are simple, cheesecake can be a little intimidating to ma
 
 ### Notes
 
-The cheesecake can be made and stored in the springform pan in the fridge, tightly covered with plastic wrap, up to two days ahead of time. The cheesecake can be frozen for up to 3 months. To freeze, place the cake in the freezer briefly, unwrapped, to firm it up. Then double-wrap it tightly with aluminum foil or plastic freezer wrap, or place it in heavy-duty freezer bag. Thaw in the refrigerator the night before you plan to eat it.
+- The cheesecake can be made and stored in the springform pan in the fridge, tightly covered with plastic wrap, up to two days ahead of time. The cheesecake can be frozen for up to 3 months. To freeze, place the cake in the freezer briefly, unwrapped, to firm it up. Then double-wrap it tightly with aluminum foil or plastic freezer wrap, or place it in heavy-duty freezer bag. Thaw in the refrigerator the night before you plan to eat it.

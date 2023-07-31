@@ -50,4 +50,4 @@ This yummy recipe comes from Woody’s Lunch Box at Disney’s Hollywood Studios
 
 ### Notes
 
-If you’re looking to share a good cheese-pull photo of your National Grilled Cheese Day creation, be sure to share the fun with Disney fans all over the world using the hashtag #DisneyMagicMoments. Keep checking back to the Disney Parks Blog for even more #DisneyMagicMoments and more magical recipes. Happy snacking, Disney fans!
+- If you’re looking to share a good cheese-pull photo of your National Grilled Cheese Day creation, be sure to share the fun with Disney fans all over the world using the hashtag #DisneyMagicMoments. Keep checking back to the Disney Parks Blog for even more #DisneyMagicMoments and more magical recipes. Happy snacking, Disney fans!

@@ -42,7 +42,7 @@ This recipe demonstrates how to make a succulent pot roast with dark ale. We wil
 
 ### Notes
 
-\* Other suitable styles: brown ale, stout, bock, doppelbock, Munich dunkel, Marzen, Vienna lager (aka Mexican dark lager), Belgian abbey ale, Belgian dubbels, Flanders red-brown.
+- \* Other suitable styles: brown ale, stout, bock, doppelbock, Munich dunkel, Marzen, Vienna lager (aka Mexican dark lager), Belgian abbey ale, Belgian dubbels, Flanders red-brown.
 
 \*\*Typically you need to budget for **_an hour per pound of beef._** However, depending on the type of beef, size of your roast, and your oven's strength time will vary. If after 3 hours a 3 pound roast is not yet very tender, continue braising until fork tender. Check every 20 minutes.
 

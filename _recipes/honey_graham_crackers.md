@@ -42,4 +42,4 @@ Store-bought graham crackers are fine, but these homemade honey graham crackers 
 
 ### Notes
 
-To make cinnamon graham crackers, substitute 1/4 cup of sugar for the honey and add 1 teaspoon of ground cinnamon to the dry ingredients before combining. The crackers can be stored in an airtight container for up to a week.
+- To make cinnamon graham crackers, substitute 1/4 cup of sugar for the honey and add 1 teaspoon of ground cinnamon to the dry ingredients before combining. The crackers can be stored in an airtight container for up to a week.

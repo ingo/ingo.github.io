@@ -38,4 +38,4 @@ This flavorful BBQ dry rub recipe is the best and only backyard seasoning you’
 
 ### Notes
 
-If you are doing whole hog on a cinderblock pit over direct heat, you don't want to risk the sugar burning, so use the same recipe for Meathead's Memphis Dust but omit the sugars.
+- If you are doing whole hog on a cinderblock pit over direct heat, you don't want to risk the sugar burning, so use the same recipe for Meathead's Memphis Dust but omit the sugars.

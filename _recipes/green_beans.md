@@ -21,4 +21,4 @@ image_source: https://unsplash.com/photos/H5k8PoC1BBc
 
 ### Notes
 
-Alternate Version: Drop green beans into ice water. Drain. Saute a minced shallot in a little oil. Toss in green beans and saute until warmed through.
+- Alternate Version: Drop green beans into ice water. Drain. Saute a minced shallot in a little oil. Toss in green beans and saute until warmed through.

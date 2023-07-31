@@ -34,7 +34,7 @@ Since moving to Barcelona, our veggie bowl has mysteriously been stocked with fr
 
 ### Notes
 
-Dipping Sauce Ideas:
+- Dipping Sauce Ideas:
 
 * Lemony Melted Butter Sauce: I make mine with about 1 part melted butter, 1 part freshly-squeezed lemon juice, 1 part water, and salt and pepper to taste.
 * Blender Hollandaise Sauce: This version is super easy.

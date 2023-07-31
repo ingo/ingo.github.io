@@ -30,7 +30,7 @@ This Sous Vide Flan recipe is a unique take on the traditional flan dessert, usi
 
 ### Notes
 
-Cook's Note: You can replace the vanilla extract with 1 scraped vanilla bean.
+- Cook's Note: You can replace the vanilla extract with 1 scraped vanilla bean.
 
 ### Nutrition Facts
 

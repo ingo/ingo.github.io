@@ -51,7 +51,7 @@ This salad is made with finely shredded cabbage and carrot, tossed with a spiced
 
 ### Notes
 
-Best eaten on the day of making. If you are expecting leftovers or intend to reheat, it is best to cook the cabbage instead of just wilting it, as per the recipe. Just add all the cabbage and carrot into the skillet and cook it until wilted.
+- Best eaten on the day of making. If you are expecting leftovers or intend to reheat, it is best to cook the cabbage instead of just wilting it, as per the recipe. Just add all the cabbage and carrot into the skillet and cook it until wilted.
 
 ### Nutrition
 

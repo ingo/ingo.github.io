@@ -36,4 +36,4 @@ This Tibetan staple, Tsampa Soup, is perfect for the cold weather. The soup is m
 
 ### Notes
 
-A number of recipes in Lhasa cooking use soy sauce. These tend to be wealthy people's versions of traditional dishes. People in the country, or those with less money, would usually not include city refinements, such as soy sauce and a greater variety of vegetables. Add 1 to 2 Tbsp soy sauce; it gives an extra depth of flavor.
+- A number of recipes in Lhasa cooking use soy sauce. These tend to be wealthy people's versions of traditional dishes. People in the country, or those with less money, would usually not include city refinements, such as soy sauce and a greater variety of vegetables. Add 1 to 2 Tbsp soy sauce; it gives an extra depth of flavor.

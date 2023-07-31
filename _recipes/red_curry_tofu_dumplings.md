@@ -45,4 +45,4 @@ These red curry tofu dumplings are a perfect blend of flavors and textures, and 
 
 ### Notes
 
-Typically, I like cooking pan-fried dumplings in my cast iron pan because it blisters the dumpling wrapper the best, creating an extra crispy skin. However, if you use thinner wrappers, the dumplings won’t lift off from the pan too well, so you’ll get a lot of dumpling wrapper stuck onto the pan. For these dumplings, I used wrappers of medium thickness and used a non-stick pan to cook the dumplings.
+- Typically, I like cooking pan-fried dumplings in my cast iron pan because it blisters the dumpling wrapper the best, creating an extra crispy skin. However, if you use thinner wrappers, the dumplings won’t lift off from the pan too well, so you’ll get a lot of dumpling wrapper stuck onto the pan. For these dumplings, I used wrappers of medium thickness and used a non-stick pan to cook the dumplings.

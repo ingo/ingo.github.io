@@ -47,4 +47,4 @@ This simple tart features beautifully cooked carrots, but can be easily adapted 
 
 ### Notes
 
-This recipe is versatile and can be adapted to include other vegetables or different cheese pairings.
+- This recipe is versatile and can be adapted to include other vegetables or different cheese pairings.

@@ -27,4 +27,4 @@ This cocktail is a perfect blend of gin, sweet vermouth, Luxardo maraschino, Ang
 
 ### Notes
 
-Remember to prepare this cocktail in advance to allow the flavors to blend together. The garnish of an orange twist adds a refreshing citrus note to the drink.
+- Remember to prepare this cocktail in advance to allow the flavors to blend together. The garnish of an orange twist adds a refreshing citrus note to the drink.

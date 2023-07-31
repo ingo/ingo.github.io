@@ -66,4 +66,4 @@ Saag comes in so many ingenious variations. Leafy greens, such as spinach, amara
 
 ### Notes
 
-This dish can be made with a variety of proteins, including tofu or paneer for a vegetarian version. If using tofu, dust with the spice mix and sauté in another pan before adding to the dish in step 5. If using paneer, simply replace the shrimp with paneer. If you want to avoid cream or coconut cream you can blend a small amount of raw cashews into the sauce.
+- This dish can be made with a variety of proteins, including tofu or paneer for a vegetarian version. If using tofu, dust with the spice mix and sauté in another pan before adding to the dish in step 5. If using paneer, simply replace the shrimp with paneer. If you want to avoid cream or coconut cream you can blend a small amount of raw cashews into the sauce.

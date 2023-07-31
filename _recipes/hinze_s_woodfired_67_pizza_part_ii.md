@@ -31,4 +31,4 @@ This pizza recipe is a fantastic exploration of dough fermentation. The Caputo P
 
 ### Notes
 
-You can use a pizza dough calculator (like ooni or PizzApp) to calculate your pizza dough. If you want to make a stone oven bread, just combine two pizza balls and form them into a long loaf. It's a simple variation with a great taste!
+- You can use a pizza dough calculator (like ooni or PizzApp) to calculate your pizza dough. If you want to make a stone oven bread, just combine two pizza balls and form them into a long loaf. It's a simple variation with a great taste!

@@ -32,7 +32,7 @@ Brisket flat is the leaner portion from a whole brisket. It's a good piece of me
 
 ### Notes
 
-Nutrition:
+- Nutrition:
   - 220 calories
   - 29 g protein
   - 10 g fat

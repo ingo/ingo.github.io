@@ -52,4 +52,4 @@ title: Borek Dough
 
 ### Notes
 
-Serve with ajvar – recipe [here](http://heneedsfood.com/2013/06/ajvar "Ajvar").
+- Serve with ajvar – recipe [here](http://heneedsfood.com/2013/06/ajvar "Ajvar").

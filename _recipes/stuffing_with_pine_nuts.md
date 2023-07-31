@@ -34,7 +34,7 @@ spicy:
 
 ### Notes
 
-When making bread crumbs, for most authentic taste, use San Luis Sourdough (plain), torn into large chunks, and then processed to a coarse consistency in a food processor. San Luis Sourdough can be purchased at Trader Joe's (it is the "house" sourdough bread).
+- When making bread crumbs, for most authentic taste, use San Luis Sourdough (plain), torn into large chunks, and then processed to a coarse consistency in a food processor. San Luis Sourdough can be purchased at Trader Joe's (it is the "house" sourdough bread).
 
 ### Pumpkin Variation
 

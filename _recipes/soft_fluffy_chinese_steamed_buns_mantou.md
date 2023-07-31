@@ -48,7 +48,7 @@ These soft and fluffy Chinese steamed buns, also known as Mantou, are a staple i
 
 ### Notes
 
-1. Use potato starch (not potato flour) if you cannot find wheat starch. If you can't find potato starch, you can use cornstarch, though I highly recommend potato starch instead of cornstarch.
+- 1. Use potato starch (not potato flour) if you cannot find wheat starch. If you can't find potato starch, you can use cornstarch, though I highly recommend potato starch instead of cornstarch.
 2. You can use active dry yeast, but make sure to rehydrate the yeast in water or milk with 1 tsp of sugar. It will dissolve and be all foamy, about 10 minutes. If it's not, your yeast is no longer good. You can add the rest of the sugar into the dough later.
 3. You can also use fresh yeast, the amount would be 4 x the amount of instant yeast. So you'll need 16 grams of fresh yeast.
 4. I highly recommend testing the yeast for activity before starting to work on this recipe. You don't want to wait for hours only to find out your yeast is no longer good. Here's how: Add 1 teaspoon of sugar and 2 1/4 teaspoons of yeast (one envelope) to 1/4 cup of warm water. Wait for 10 minutes and if you see foams and bubbles and you smell that yeast aroma, your yeast is still good to go. If not, then you need to get fresh yeast.

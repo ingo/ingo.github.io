@@ -30,4 +30,4 @@ This white fish stock recipe is a basic and versatile recipe that can be used in
 
 ### Notes
 
-Stock can be made ahead and cooled completely, uncovered, then chilled, covered, 2 days or frozen 1 month.
+- Stock can be made ahead and cooled completely, uncovered, then chilled, covered, 2 days or frozen 1 month.

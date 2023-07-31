@@ -38,4 +38,4 @@ This recipe uses a standard steamed mussel technique combined with flavors from 
 
 ### Notes
 
-Examine mussels before using. If they're gritty or have lots of beards (it'll look like bits of hair coming out from between their shells), scrub them well under cold water and pull out the beards by grabbing them and pulling towards the hinge-end of the mussels. Farm-raised mussels are generally quite clean when they are sold. When examining, discard cracked mussels or open mussels that don't close when tapped with another mussel.
+- Examine mussels before using. If they're gritty or have lots of beards (it'll look like bits of hair coming out from between their shells), scrub them well under cold water and pull out the beards by grabbing them and pulling towards the hinge-end of the mussels. Farm-raised mussels are generally quite clean when they are sold. When examining, discard cracked mussels or open mussels that don't close when tapped with another mussel.

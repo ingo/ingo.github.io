@@ -29,4 +29,4 @@ This recipe is a bit of a meeting-in-the-middle between the Artisan Bread in 5 a
 
 ### Notes
 
-This recipe is a community pick on Food52!
+- This recipe is a community pick on Food52!

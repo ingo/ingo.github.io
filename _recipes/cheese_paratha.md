@@ -54,4 +54,4 @@ Cheese paratha is a delicious whole wheat unleavened flatbread stuffed with a ch
 
 ### Notes
 
-Do chop the onions finely as if not, then they come out of the parathas while rolling. For a vegan cheese paratha, use your preferred vegan cheese and roast the paratha with any neutral flavored oil. The recipe can be doubled. The approximate nutrition info is for 1 cheese paratha made with cheddar cheese and roasted with ghee.
+- Do chop the onions finely as if not, then they come out of the parathas while rolling. For a vegan cheese paratha, use your preferred vegan cheese and roast the paratha with any neutral flavored oil. The recipe can be doubled. The approximate nutrition info is for 1 cheese paratha made with cheddar cheese and roasted with ghee.

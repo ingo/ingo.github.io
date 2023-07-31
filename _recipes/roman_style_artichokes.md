@@ -42,4 +42,4 @@ Roman style artichokes is a traditional Roman dish, usually served with meats, e
 
 ### Notes
 
-A slow cooking is necessary to turn this hard-skinned flowers into a delicious, soft and fragrant side dish.
+- A slow cooking is necessary to turn this hard-skinned flowers into a delicious, soft and fragrant side dish.

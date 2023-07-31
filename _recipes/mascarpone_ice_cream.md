@@ -32,4 +32,4 @@ This Mascarpone Ice Cream recipe is a delightful treat that's sure to cool you d
 
 ### Notes
 
-Make sure to let the ice cream mixture cool completely before churning it in your ice cream maker. Enjoy your homemade Mascarpone Ice Cream!
+- Make sure to let the ice cream mixture cool completely before churning it in your ice cream maker. Enjoy your homemade Mascarpone Ice Cream!

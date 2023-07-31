@@ -41,7 +41,7 @@ This saffron-scented rice with crispy potatoes has been a staple in my life for 
 
 ### Notes
 
-Please note that the nutritional information for this recipe is only an estimate, and has been calculated using a plugin. I used a 10 inch (26cm) 4.25oz non-stick saute pan with a lid for this recipe. The one I have linked in this recipe will also work (11 inches, 4.6 oz). See blog post for detailed tips and explanations.
+- Please note that the nutritional information for this recipe is only an estimate, and has been calculated using a plugin. I used a 10 inch (26cm) 4.25oz non-stick saute pan with a lid for this recipe. The one I have linked in this recipe will also work (11 inches, 4.6 oz). See blog post for detailed tips and explanations.
 
 ### Nutrition
 

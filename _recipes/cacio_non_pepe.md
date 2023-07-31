@@ -41,4 +41,4 @@ Special hardware:
 
 ### Notes
 
-Few things in the culinary realm are worse than overcooked pasta, so if it's not ready the first time you taste it, keep checking every 30 seconds thereafter.
+- Few things in the culinary realm are worse than overcooked pasta, so if it's not ready the first time you taste it, keep checking every 30 seconds thereafter.

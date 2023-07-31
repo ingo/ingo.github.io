@@ -28,4 +28,4 @@ This recipe is a delightful combination of fresh green beans and homemade pesto 
 
 ### Notes
 
-You can adjust the amount of garlic and parmesan cheese in the pesto sauce according to your taste. Also, make sure to not overcook the green beans to retain their crunch and vibrant color.
+- You can adjust the amount of garlic and parmesan cheese in the pesto sauce according to your taste. Also, make sure to not overcook the green beans to retain their crunch and vibrant color.

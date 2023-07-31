@@ -54,4 +54,4 @@ This recipe is a traditional Spanish dish from the cookbook "MoVida: Spanish Cul
 
 ### Notes
 
-This recipe is gluten-free and perfect for a main course. The optional ingredients such as periwinkles, snails, and green beans can be adjusted according to your preference.
+- This recipe is gluten-free and perfect for a main course. The optional ingredients such as periwinkles, snails, and green beans can be adjusted according to your preference.

@@ -36,4 +36,4 @@ Heather Eddy's love for the late summer farmers market is evident in her feveris
 
 ### Notes
 
-Serve escalivada at room temperature alongside a grilled rib eye or swordfish steak. Have some for a snack-dinner with crusty bread, cheese, and olives. Or do as Heather does, spooning scoops straight from the fridge where flavors intensify overnight. It’s the epitome of relaxed vibes. So next time you lose it at the farmers market, no worries: Let escalivada help you keep calm and veggie on.
+- Serve escalivada at room temperature alongside a grilled rib eye or swordfish steak. Have some for a snack-dinner with crusty bread, cheese, and olives. Or do as Heather does, spooning scoops straight from the fridge where flavors intensify overnight. It’s the epitome of relaxed vibes. So next time you lose it at the farmers market, no worries: Let escalivada help you keep calm and veggie on.

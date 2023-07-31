@@ -34,7 +34,7 @@ This recipe for crispy coated onion rings comes from a former employee of a popu
 
 ### Notes
 
-The nutritional analysis for this recipe reflects an estimated 10% of the oil for frying as well as the full amount of the coating and breading. Therefore the values represented may not be accurate.
+- The nutritional analysis for this recipe reflects an estimated 10% of the oil for frying as well as the full amount of the coating and breading. Therefore the values represented may not be accurate.
 
 ### Nutrition
 

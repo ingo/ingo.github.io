@@ -30,6 +30,6 @@ title: Baked Baking Soda (Sodium Carbonate)
 
 ### Notes
 
-Do not let the baked baking soda come in contact with your skin, as it is a caustic substance. If you do make contact with the baked baking soda, flush the area thoroughly with water.
+- Do not let the baked baking soda come in contact with your skin, as it is a caustic substance. If you do make contact with the baked baking soda, flush the area thoroughly with water.
 
 Sealed in an airtight container, the baked baking soda will keep indefinitely.

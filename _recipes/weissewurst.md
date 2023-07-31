@@ -33,4 +33,4 @@ title: "Wei\xDFewurst"
 
 ### Notes
 
-Unsure if cooking is necessary before being reheated later, or if this is the cooking before eating.
+- Unsure if cooking is necessary before being reheated later, or if this is the cooking before eating.

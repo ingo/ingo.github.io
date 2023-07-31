@@ -42,4 +42,4 @@ This is a wonderful refreshing Indian salad that pairs really well with rich, sp
 
 ### Notes
 
-Raita is typically a thin, pourable consistency, whether used for dressing or as sauce. Recipe makes more dressing than you need for this salad because it's hard to make less in a food processor so serve leftovers with the main. Nutrition assumes 1/2 cup of the Mint Dressing is used for the salad.
+- Raita is typically a thin, pourable consistency, whether used for dressing or as sauce. Recipe makes more dressing than you need for this salad because it's hard to make less in a food processor so serve leftovers with the main. Nutrition assumes 1/2 cup of the Mint Dressing is used for the salad.

@@ -43,4 +43,4 @@ This recipe for Whole Dungeness Crab Roasted in Garlic Sauce, also known as Kill
 
 ### Notes
 
-This recipe was provided by a chef, restaurant or culinary professional and makes a large quantity. The Food Network Kitchens chefs have not tested this recipe in the proportions indicated and therefore cannot make any representation as to the results.
+- This recipe was provided by a chef, restaurant or culinary professional and makes a large quantity. The Food Network Kitchens chefs have not tested this recipe in the proportions indicated and therefore cannot make any representation as to the results.

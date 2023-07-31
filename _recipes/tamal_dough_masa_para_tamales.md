@@ -33,7 +33,7 @@ This Tamal Dough recipe is a traditional Mexican recipe passed down through gene
 
 ### Notes
 
-Place a penny at the bottom of the pot, when you hear the penny rattle that means the water level is low and it is time to add more water to the steamer.
+- Place a penny at the bottom of the pot, when you hear the penny rattle that means the water level is low and it is time to add more water to the steamer.
 
 ### Nutrition
 

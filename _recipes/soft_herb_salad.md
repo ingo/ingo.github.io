@@ -42,4 +42,4 @@ The beauty of this herb salad is not just how nice it looks, but also its versat
 
 ### Notes
 
-[Ingredient Substitution Guide](https://cooking.nytimes.com/guides/79-substitutions-for-cooking)
+- [Ingredient Substitution Guide](https://cooking.nytimes.com/guides/79-substitutions-for-cooking)

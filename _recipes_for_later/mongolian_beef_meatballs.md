@@ -40,4 +40,4 @@ title: Mongolian Beef Meatballs
 
 ### Notes
 
-Enjoy these spicy and flavorful meatballs at your next gathering!
+- Enjoy these spicy and flavorful meatballs at your next gathering!

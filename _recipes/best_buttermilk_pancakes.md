@@ -28,4 +28,4 @@ title: Best Buttermilk Pancakes
 
 ### Notes
 
-When cooking the pancakes in batches, hold them in a warm oven covered with a damp cloth. Also, remember to reheat and butter the griddle after each round of pancake cooking.
+- When cooking the pancakes in batches, hold them in a warm oven covered with a damp cloth. Also, remember to reheat and butter the griddle after each round of pancake cooking.

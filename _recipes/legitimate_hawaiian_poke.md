@@ -43,7 +43,7 @@ Poke, pronounced _poh-kay_, is a traditional Hawaiian dish that originated from 
 
 ### Notes
 
-1. Serve over rice, salad greens or corn chips. Avocado is also a must with raw fish.
+- 1. Serve over rice, salad greens or corn chips. Avocado is also a must with raw fish.
 2. You can purchase a premade seasoning packet of dried ogo seaweed and Hawaiian red sea salt.
 3. This can also be made with yellowtail, cooked octopus/clams/mussels, salmon, or any other sashimi grade fish meant for raw consumption.
 4. Don't waste any of the tuna. If the tuna has white sinew bits, scrape away the flesh with a spoon. It doesn't all have to be in perfect cubes.

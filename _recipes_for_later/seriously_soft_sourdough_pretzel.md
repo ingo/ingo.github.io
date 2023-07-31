@@ -22,6 +22,6 @@ This recipe comes from The Perfect Loaf, a blog dedicated to the art of baking b
 
 ### Notes
 
-The Haussler Alpha mixer is a professional-grade mixer that is perfect for mixing dough for pretzels. It ensures that the dough is mixed evenly and thoroughly, resulting in a soft and delicious pretzel. 
+- The Haussler Alpha mixer is a professional-grade mixer that is perfect for mixing dough for pretzels. It ensures that the dough is mixed evenly and thoroughly, resulting in a soft and delicious pretzel. 
 
 Please note that this recipe is incomplete and requires additional ingredients and steps to make the Seriously Soft Sourdough Pretzel. Visit the source link for the full recipe.

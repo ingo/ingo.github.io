@@ -70,4 +70,4 @@ Tako Poke does not mean to jab with a Mexican-style sandwich made of tortillas. 
 
 ### Notes
 
-For a more traditional poke: Omit coconut milk, and add 1 or 2 teaspoons sesame oil or to taste.
+- For a more traditional poke: Omit coconut milk, and add 1 or 2 teaspoons sesame oil or to taste.

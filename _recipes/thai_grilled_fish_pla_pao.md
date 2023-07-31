@@ -61,4 +61,4 @@ _Seafood Sauce_
 
 ### Notes
 
-You should eat your Thai grilled fish (pla pao ปลาเผา) by dipping bites into the seafood sauce. Or you can get a plate of rice, add bites of fish to the top of your rice and spoon on some seafood sauce. The fish with be grilled and moist and the seafood sauce always bursts with flavor!
+- You should eat your Thai grilled fish (pla pao ปลาเผา) by dipping bites into the seafood sauce. Or you can get a plate of rice, add bites of fish to the top of your rice and spoon on some seafood sauce. The fish with be grilled and moist and the seafood sauce always bursts with flavor!

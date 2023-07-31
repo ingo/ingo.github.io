@@ -48,7 +48,7 @@ According to Jane, from Hampton Elementary, “This recipe is one that my mom us
 
 ### Notes
 
-Nutrition:
+- Nutrition:
   - 240 calories
   - 18 g sugar
   - 12 g fat

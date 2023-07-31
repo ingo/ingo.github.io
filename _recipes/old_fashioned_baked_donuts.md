@@ -53,7 +53,7 @@ This Old-Fashioned Baked Donut recipe will remind you just how delicious breakfa
 
 ### Notes
 
-Donuts are best served warm and fresh but will keep airtight at room temp for up to 4 days.
+- Donuts are best served warm and fresh but will keep airtight at room temp for up to 4 days.
 
 Inspired by [American Heritage Cooking](http://americanheritagecooking.com/2016/02/old-fashioned-sour-cream-cake-donuts/)
 

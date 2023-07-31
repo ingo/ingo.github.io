@@ -37,4 +37,4 @@ This recipe is a lifesaver when you're throwing a party and suddenly remember th
 
 ### Notes
 
-You can substitute Swiss chard with collard, mustard, or beet greens, or even spinach. If you have leftovers, add the Swiss chard and onion mixture to some scrambled eggs the next morning for a killer breakfast taco.
+- You can substitute Swiss chard with collard, mustard, or beet greens, or even spinach. If you have leftovers, add the Swiss chard and onion mixture to some scrambled eggs the next morning for a killer breakfast taco.

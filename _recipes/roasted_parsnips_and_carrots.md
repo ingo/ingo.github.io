@@ -30,4 +30,4 @@ This recipe for Roasted Parsnips and Carrots is a classic side dish that brings 
 
 ### Notes
 
-Remember, the vegetables will shrink while cooking, so don't cut the pieces too small. The roasting time will also depend on the size of the vegetables.
+- Remember, the vegetables will shrink while cooking, so don't cut the pieces too small. The roasting time will also depend on the size of the vegetables.

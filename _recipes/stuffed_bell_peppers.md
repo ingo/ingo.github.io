@@ -34,4 +34,4 @@ veggie: null
 
 ### Notes
 
-The peppers can be stuffed with carrots only for a vegetarian-style dish. This can be served warm or cold.
+- The peppers can be stuffed with carrots only for a vegetarian-style dish. This can be served warm or cold.

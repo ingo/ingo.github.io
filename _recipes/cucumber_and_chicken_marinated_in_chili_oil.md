@@ -40,4 +40,4 @@ This Japanese dish is a delightful blend of cucumber and chicken marinated in ch
 
 ### Notes
 
-This recipe is slightly adapted from Hashimoto's Tohoku Recipes. You can keep the marinated cucumber and chicken in the refrigerator for up to 2-3 days. Serve it at cool or room temperature.
+- This recipe is slightly adapted from Hashimoto's Tohoku Recipes. You can keep the marinated cucumber and chicken in the refrigerator for up to 2-3 days. Serve it at cool or room temperature.

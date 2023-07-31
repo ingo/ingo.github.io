@@ -36,4 +36,4 @@ This recipe for Crispy Smoked Chicken Wings uses a unique method of coating the 
 
 ### Notes
 
-Make sure to refrigerate the wings overnight to ensure the skin gets crispy when smoked. The chipotle sauce can be made ahead of time and refrigerated until ready to use.
+- Make sure to refrigerate the wings overnight to ensure the skin gets crispy when smoked. The chipotle sauce can be made ahead of time and refrigerated until ready to use.

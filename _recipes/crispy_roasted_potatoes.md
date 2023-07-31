@@ -37,4 +37,4 @@ This recipe for crispy roasted potatoes, or "roasties" as they're known in Engla
 
 ### Notes
 
-The recipe can be adjusted to taste. Sometimes, chopped garlic is added toward the end, or the potatoes are dusted with fresh rosemary. If the potatoes aren't crispy enough, they can be tossed back in the oven and the heat cranked up. If they come out dry, more olive oil can be added to the pan. For anything else, just sprinkle them with more Maldon salt.
+- The recipe can be adjusted to taste. Sometimes, chopped garlic is added toward the end, or the potatoes are dusted with fresh rosemary. If the potatoes aren't crispy enough, they can be tossed back in the oven and the heat cranked up. If they come out dry, more olive oil can be added to the pan. For anything else, just sprinkle them with more Maldon salt.

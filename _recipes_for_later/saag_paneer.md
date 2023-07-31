@@ -35,4 +35,4 @@ This recipe for Saag Paneer is a classic Indian dish that is full of flavor. The
 
 ### Notes
 
-Instead of paneer, you can use meat (just cook covered until the meat is cooked through), mushrooms, potatoes, chickpeas, tofu, etc.
+- Instead of paneer, you can use meat (just cook covered until the meat is cooked through), mushrooms, potatoes, chickpeas, tofu, etc.

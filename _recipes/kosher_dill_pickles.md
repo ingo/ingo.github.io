@@ -35,4 +35,4 @@ This recipe is a traditional kosher dill pickle recipe, passed down from a 90-ye
 
 ### Notes
 
-In my experience, I have new pickles after 3 days, half sours after about a week and a half, and full sours after three weeks. The pickling spice mixture can vary, so feel free to experiment with different blends to find your perfect pickle.
+- In my experience, I have new pickles after 3 days, half sours after about a week and a half, and full sours after three weeks. The pickling spice mixture can vary, so feel free to experiment with different blends to find your perfect pickle.

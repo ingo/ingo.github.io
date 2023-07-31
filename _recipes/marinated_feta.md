@@ -32,7 +32,7 @@ This marinated feta recipe is a delightful blend of flavors that will enhance an
 
 ### Notes
 
-Nutrition:
+- Nutrition:
   - 102.6 calories
   - 2.2 g carbohydrates
   - 5.5 g protein

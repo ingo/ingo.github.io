@@ -31,4 +31,4 @@ Rose petals are indeed edible but one must ensure the petals haven’t been spra
 
 ### Notes
 
-Alcohol in ice cream is added to give you a softer texture when it is taken out of the freezer. You can omit if you like.
+- Alcohol in ice cream is added to give you a softer texture when it is taken out of the freezer. You can omit if you like.

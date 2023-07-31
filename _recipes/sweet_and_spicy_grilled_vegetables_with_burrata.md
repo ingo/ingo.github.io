@@ -55,4 +55,4 @@ This recipe is extremely adaptable. You mix and match the vegetables, increasing
 
 ### Notes
 
-To make this using a broiler, spread the vegetables on a rimmed sheet pan, drizzle with oil and broil until browned on top, then flip and broil until browned on the other side. The timing will depend on the vegetable, so stick with one kind per baking pan. You’ll need to do this in batches. You can also use a grill pan.
+- To make this using a broiler, spread the vegetables on a rimmed sheet pan, drizzle with oil and broil until browned on top, then flip and broil until browned on the other side. The timing will depend on the vegetable, so stick with one kind per baking pan. You’ll need to do this in batches. You can also use a grill pan.

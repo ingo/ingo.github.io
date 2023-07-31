@@ -28,4 +28,4 @@ This brine recipe is perfect for enhancing the flavor of your favorite fish befo
 
 ### Notes
 
-Brined 2.5 lb steelhead filet for 4 hours, let dry overnight in fridge. Brushed with a combo of oil and peaty whisky for ~3 hours at smoke setting on trager until temp probe reached 130 degrees.
+- Brined 2.5 lb steelhead filet for 4 hours, let dry overnight in fridge. Brushed with a combo of oil and peaty whisky for ~3 hours at smoke setting on trager until temp probe reached 130 degrees.

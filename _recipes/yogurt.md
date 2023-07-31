@@ -23,4 +23,4 @@ title: Yogurt
 
 ### Notes
 
-Remember to always start with clean, sterilized equipment to prevent any unwanted bacteria from affecting your yogurt. The amount of milk you need will depend on how many containers of yogurt you want to make.
+- Remember to always start with clean, sterilized equipment to prevent any unwanted bacteria from affecting your yogurt. The amount of milk you need will depend on how many containers of yogurt you want to make.

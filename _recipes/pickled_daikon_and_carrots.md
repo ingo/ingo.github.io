@@ -33,4 +33,4 @@ The pungent aroma of some pickled daikon & carrots can sometimes clear a room fa
 
 ### Notes
 
-The longer the pickled carrots and daikon are allowed to pickle, the more sour they become. So plan accordingly and pickle the carrots and daikon ahead of time for your menu planning.
+- The longer the pickled carrots and daikon are allowed to pickle, the more sour they become. So plan accordingly and pickle the carrots and daikon ahead of time for your menu planning.

@@ -43,6 +43,6 @@ This is one of my favorite winter dinners. Each nationality has its own version 
 
 ### Notes
 
-Ask your butcher for small lamb shanks, which are from the front legs, rather than the large rear ones. Make-Ahead Plan: Assemble the dish and bake, then refrigerate overnight; reheat on the stove before serving.
+- Ask your butcher for small lamb shanks, which are from the front legs, rather than the large rear ones. Make-Ahead Plan: Assemble the dish and bake, then refrigerate overnight; reheat on the stove before serving.
 
 Image by Johnny Miller, Courtesy of Food Network Magazine.

@@ -32,4 +32,4 @@ title: "Cu\xF1apez"
 
 ### Notes
 
-The dough consistency is key in this recipe. It should be firm enough to roll into a log but still a bit wet and sticky. If it's too dry, add more tapioca flour. Enjoy while still warm for the best taste.
+- The dough consistency is key in this recipe. It should be firm enough to roll into a log but still a bit wet and sticky. If it's too dry, add more tapioca flour. Enjoy while still warm for the best taste.

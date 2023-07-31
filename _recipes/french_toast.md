@@ -29,4 +29,4 @@ This French Toast recipe is a classic breakfast staple that's simple to make, re
 
 ### Notes
 
-This recipe is easy to follow and perfect for those who are new to cooking. The French toast can be served with a variety of toppings, such as maple syrup, whipped cream, or fresh fruits. Enjoy this delicious and hearty breakfast!
+- This recipe is easy to follow and perfect for those who are new to cooking. The French toast can be served with a variety of toppings, such as maple syrup, whipped cream, or fresh fruits. Enjoy this delicious and hearty breakfast!

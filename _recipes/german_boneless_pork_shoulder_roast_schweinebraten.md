@@ -41,7 +41,7 @@ title: German Boneless Pork Shoulder Roast (Schweinebraten)
 
 ### Notes
 
-For bigger cuts of pork shoulder or cuts that have the bone in allow extra time. Go with about 20 additional minutes for each extra pound over 4 lbs. Add the additional time to the secondary roasting time in the oven, after you take out the roast to add the vegetables and the beer (plus any extra water or broth).
+- For bigger cuts of pork shoulder or cuts that have the bone in allow extra time. Go with about 20 additional minutes for each extra pound over 4 lbs. Add the additional time to the secondary roasting time in the oven, after you take out the roast to add the vegetables and the beer (plus any extra water or broth).
 
 Keep in mind that roasting times are not subject to a precise science and things like the calibration of your oven matter.
 

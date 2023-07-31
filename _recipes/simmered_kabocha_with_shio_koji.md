@@ -28,6 +28,6 @@ This recipe is a simple yet flavorful side dish that showcases the unique taste 
 
 ### Notes
 
-All images and content on this site are copyright protected. Please do not use my images without my permission. If you’d like to share this recipe on your site, please re-write the recipe in your own words and link to this post as the original source. Thank you.
+- All images and content on this site are copyright protected. Please do not use my images without my permission. If you’d like to share this recipe on your site, please re-write the recipe in your own words and link to this post as the original source. Thank you.
 
 This post is sponsored by Hikari Miso. To read more about my partnership with Hikari Miso, [click here](http://www.hikarimiso.com/news/detail/?id=29 "Hikari Miso Press Release").

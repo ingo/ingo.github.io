@@ -30,4 +30,4 @@ Tvorog resembles ricotta in texture, it can be used in a similar fashion. You ca
 
 ### Notes
 
-Tvorog resembles ricotta in texture, it can be used in a similar fashion. You can whip it into a smooth paste with a food processor, or use it as a stuffing for blintzes, pastas or pastries. It keeps a week in the refrigerator, but it tastes most special right after it has been made.
+- Tvorog resembles ricotta in texture, it can be used in a similar fashion. You can whip it into a smooth paste with a food processor, or use it as a stuffing for blintzes, pastas or pastries. It keeps a week in the refrigerator, but it tastes most special right after it has been made.

@@ -54,4 +54,4 @@ For the bouquet garni:
 
 ### Notes
 
-Always start potatoes, onions, and other root vegetables in cold water so that they cook more evenly. Be careful not to add too many ingredients at once: You want to keep the water simmering. Prior to serving, ladle cooking liquid into serving bowls for dipping, and lay the bowls out alongside ramekins of clarified butter, nutcrackers, mallets, and plenty of napkins. As you strain the ingredients, remember to be careful: You’re dealing with a big pot and lots of boiling water.
+- Always start potatoes, onions, and other root vegetables in cold water so that they cook more evenly. Be careful not to add too many ingredients at once: You want to keep the water simmering. Prior to serving, ladle cooking liquid into serving bowls for dipping, and lay the bowls out alongside ramekins of clarified butter, nutcrackers, mallets, and plenty of napkins. As you strain the ingredients, remember to be careful: You’re dealing with a big pot and lots of boiling water.

@@ -34,6 +34,6 @@ Zhoug, pronounced Zoog, is a spicy, green chili cilantro sauce that hails from Y
 
 ### Notes
 
-Feel free to use whole cardamon seeds, whole cumin seeds and peppercorns– toasting and grinding. Caraway seeds are a nice touch too. Jalapeños are not traditional, yet produce a very consistent and milder heat. You can swap them out for hotter chilies. Feel free to swap out the cilantro for flat-leaf parsley, or even fresh mint. You can also do a blend of all three! The cardamom is the star here, so make sure you use enough so you can taste it.
+- Feel free to use whole cardamon seeds, whole cumin seeds and peppercorns– toasting and grinding. Caraway seeds are a nice touch too. Jalapeños are not traditional, yet produce a very consistent and milder heat. You can swap them out for hotter chilies. Feel free to swap out the cilantro for flat-leaf parsley, or even fresh mint. You can also do a blend of all three! The cardamom is the star here, so make sure you use enough so you can taste it.
 
 To Make Zhoug Yogurt, mix 1-2 tablespoons with a cup of yogurt. Taste, adjust salt.

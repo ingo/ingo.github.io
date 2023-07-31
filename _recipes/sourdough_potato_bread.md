@@ -40,4 +40,4 @@ This recipe is a favorite among sourdough bread lovers. The secret to its fluffi
 
 ### Notes
 
-Rising times are long and are not included in the prep time. Patience is key in this recipe.
+- Rising times are long and are not included in the prep time. Patience is key in this recipe.

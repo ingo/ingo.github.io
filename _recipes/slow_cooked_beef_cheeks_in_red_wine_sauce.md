@@ -68,6 +68,6 @@ This Italian-inspired dish is a true comfort food, perfect for a cozy dinner at 
 
 ### Notes
 
-1. The beef cheeks I got were unusually large, around 350g/12oz each. Great man size portions. Usually beef cheeks are around 250g/8oz each and I get 6.
+- 1. The beef cheeks I got were unusually large, around 350g/12oz each. Great man size portions. Usually beef cheeks are around 250g/8oz each and I get 6.
 2. If you can't find beef cheeks, substitute with any other cut of beef suitable for slow cooking. Boneless beef short ribs is ideal! Cut them into 250g/8oz pieces.
 3. Leftover beef cheeks and sauce can be kept in the freezer for 3 months.

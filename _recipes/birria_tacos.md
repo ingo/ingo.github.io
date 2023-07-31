@@ -35,4 +35,4 @@ title: Birria Tacos
 
 ### Notes
 
-Adobo can be made up to 3 days ahead. Meat can be braised up to 2 days in advance and reheated in broth before shredding meat and reducing broth. Suggested pairing: Lively sparkling rosé.
+- Adobo can be made up to 3 days ahead. Meat can be braised up to 2 days in advance and reheated in broth before shredding meat and reducing broth. Suggested pairing: Lively sparkling rosé.

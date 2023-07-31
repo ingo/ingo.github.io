@@ -35,4 +35,4 @@ This Lemon Meringue Ice Cream recipe is a delightful twist on the classic lemon 
 
 ### Notes
 
-Make sure to chill the bowl and beaters before beating the cream for the best results.
+- Make sure to chill the bowl and beaters before beating the cream for the best results.

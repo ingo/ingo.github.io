@@ -29,4 +29,4 @@ This recipe is a luxurious dish that is amazingly quick to prepare. You simply g
 
 ### Notes
 
-Serve Scallop Mousselines with Parsley Sauce or Tomato Vinaigrette, or with your favorite tomato sauce.
+- Serve Scallop Mousselines with Parsley Sauce or Tomato Vinaigrette, or with your favorite tomato sauce.

@@ -34,4 +34,4 @@ This Kinda Big Dill Pizza is a unique recipe from Quad City Pizza. It's a winnin
 
 ### Notes
 
-You can adjust the amount of pickles and Canadian bacon to your liking. Also, feel free to add more cheese if you prefer a cheesier pizza. Enjoy this unique pizza recipe from Quad City Pizza!
+- You can adjust the amount of pickles and Canadian bacon to your liking. Also, feel free to add more cheese if you prefer a cheesier pizza. Enjoy this unique pizza recipe from Quad City Pizza!

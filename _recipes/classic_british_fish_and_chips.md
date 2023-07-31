@@ -58,4 +58,4 @@ For the Chips:
 
 ### Notes
 
-When making this classic version, be sure to use the freshest cod, pollock, or haddock that you can find for the best results. Frozen fish is also fine, but make sure it is thoroughly defrosted and dried with paper towels first. Prepare the batter and only dip the fish at the last moment before plunging into hot oil to fry. This way you will always have a light and crisp snap to the batter. Use a floury potato for the chips. The best varieties are King Edward, Maris Piper, Sante, russet and Yukon Gold.
+- When making this classic version, be sure to use the freshest cod, pollock, or haddock that you can find for the best results. Frozen fish is also fine, but make sure it is thoroughly defrosted and dried with paper towels first. Prepare the batter and only dip the fish at the last moment before plunging into hot oil to fry. This way you will always have a light and crisp snap to the batter. Use a floury potato for the chips. The best varieties are King Edward, Maris Piper, Sante, russet and Yukon Gold.

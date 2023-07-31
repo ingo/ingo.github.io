@@ -28,4 +28,4 @@ This delicious and easy-to-make pilaf is a great side dish for any meal. Origina
 
 ### Notes
 
-This recipe has received rave reviews from users who have tried it. Some have suggested adding cooked green beans, cumin seeds, and coriander for extra flavor. Others have noted that it pairs well with lamb kofta and a tomato, broccoli & spinach salad with yoghurt dressing.
+- This recipe has received rave reviews from users who have tried it. Some have suggested adding cooked green beans, cumin seeds, and coriander for extra flavor. Others have noted that it pairs well with lamb kofta and a tomato, broccoli & spinach salad with yoghurt dressing.

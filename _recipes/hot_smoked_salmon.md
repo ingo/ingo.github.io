@@ -35,4 +35,4 @@ This recipe for hot smoked salmon is a delightful way to enjoy this rich, oily f
 
 ### Notes
 
-Experiment with the brining and cooking times to achieve the perfect balance of flavor and texture. Some have found success with brining the day before to form a better pellicle, and adjusting the cooking temperature to 180 over 225. A light glaze with Vietnamese caramel (Nước Màu) could also add a unique twist to the flavor.
+- Experiment with the brining and cooking times to achieve the perfect balance of flavor and texture. Some have found success with brining the day before to form a better pellicle, and adjusting the cooking temperature to 180 over 225. A light glaze with Vietnamese caramel (Nước Màu) could also add a unique twist to the flavor.

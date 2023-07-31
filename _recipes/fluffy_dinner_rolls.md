@@ -38,4 +38,4 @@ This recipe is a classic dinner roll recipe that applies a bread-making method c
 
 ### Notes
 
-This recipe requires letting the dough rest for at least 2 hours before baking. The rolls can be made a day ahead. To refresh them before serving, wrap them in aluminum foil and heat them in a 350-degree oven for 15 minutes.
+- This recipe requires letting the dough rest for at least 2 hours before baking. The rolls can be made a day ahead. To refresh them before serving, wrap them in aluminum foil and heat them in a 350-degree oven for 15 minutes.

@@ -32,4 +32,4 @@ The secret to baked wings that taste just like real-deal, deep-fried Buffalo win
 
 ### Notes
 
-Air-drying the wings overnight helps them crisp up faster when you bake them, which corresponds to juicier meat in the end. Baking powder adds surface area to the chicken wings, intensifying their crunch.
+- Air-drying the wings overnight helps them crisp up faster when you bake them, which corresponds to juicier meat in the end. Baking powder adds surface area to the chicken wings, intensifying their crunch.

@@ -68,4 +68,4 @@ title: Baguettes
 
 ### Notes
 
-The dough can be held in a fridge for up to 36 hours. If you do not wish to bake all the dough at once, simply take what you need, shape it and bake it, leaving the remainder of the dough in the fridge which you can return to at any time within that 36-hour time period. This will allow you to bake fresh baguettes day after day. The dough from the fridge, once shaped, will be ready to bake in less than 2 hours.
+- The dough can be held in a fridge for up to 36 hours. If you do not wish to bake all the dough at once, simply take what you need, shape it and bake it, leaving the remainder of the dough in the fridge which you can return to at any time within that 36-hour time period. This will allow you to bake fresh baguettes day after day. The dough from the fridge, once shaped, will be ready to bake in less than 2 hours.

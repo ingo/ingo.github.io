@@ -30,4 +30,4 @@ The martini is a classic cocktail that has sparked many debates over the years. 
 
 ### Notes
 
-Remember, ingredients vary. If you delve more deeply into martinis, tasting for nuances of flavor, you’ll start to understand why people still argue about them. One gin is not the same as the next. Ditto the vermouth, ditto the bitters, and each combines with the other ingredients a little bit differently. You can use the same classic spec and still end up with different drinks.
+- Remember, ingredients vary. If you delve more deeply into martinis, tasting for nuances of flavor, you’ll start to understand why people still argue about them. One gin is not the same as the next. Ditto the vermouth, ditto the bitters, and each combines with the other ingredients a little bit differently. You can use the same classic spec and still end up with different drinks.

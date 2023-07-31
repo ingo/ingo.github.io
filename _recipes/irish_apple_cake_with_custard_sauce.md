@@ -55,6 +55,6 @@ For the custard sauce:
 
 ### Notes
 
-The cake is very dense and heavy, almost bread-like. Take extra care to make sure the middle is cooked all the way through, the top can be very firm when you pull it out of the oven, giving it the impression that it’s all the way cooked. Stick a toothpick or knife into the middle to make sure that no batter clings to it.
+- The cake is very dense and heavy, almost bread-like. Take extra care to make sure the middle is cooked all the way through, the top can be very firm when you pull it out of the oven, giving it the impression that it’s all the way cooked. Stick a toothpick or knife into the middle to make sure that no batter clings to it.
 
 The less the batter is mixed the more tender the cake will be. Toss in the apples only until they are distributed and avoid excess mixing to get the best end result.

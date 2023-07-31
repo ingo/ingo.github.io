@@ -46,4 +46,4 @@ Cauliflower hummus is a unique take on the traditional hummus recipe. Instead of
 
 ### Notes
 
-If your cauliflower hummus is a bit thick, just add more water (a teaspoon at a time) until it's your desired level of creaminess.
+- If your cauliflower hummus is a bit thick, just add more water (a teaspoon at a time) until it's your desired level of creaminess.

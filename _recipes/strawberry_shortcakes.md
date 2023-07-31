@@ -39,4 +39,4 @@ Adapted from Claudia Fleming and Russ Parsons, this recipe for Strawberry Shortc
 
 ### Notes
 
-Remember to chill the shortcakes for at least 20 minutes before baking. This helps them to keep their shape during baking.
+- Remember to chill the shortcakes for at least 20 minutes before baking. This helps them to keep their shape during baking.

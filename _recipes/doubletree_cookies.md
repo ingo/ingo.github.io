@@ -38,4 +38,4 @@ These cookies are a signature recipe from DoubleTree, known for their rich flavo
 
 ### Notes
 
-You can freeze the unbaked cookies, and there’s no need to thaw. Preheat oven to 300°F and place frozen cookies on parchment paper-lined baking sheet about 2 inches apart. Bake until edges are golden brown and center is still soft.
+- You can freeze the unbaked cookies, and there’s no need to thaw. Preheat oven to 300°F and place frozen cookies on parchment paper-lined baking sheet about 2 inches apart. Bake until edges are golden brown and center is still soft.

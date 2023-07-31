@@ -56,4 +56,4 @@ title: Fried Chicken Sandwich with Slaw and Spicy Mayo
 
 ### Notes
 
-Special Equipment: A deep-fry thermometer
+- Special Equipment: A deep-fry thermometer

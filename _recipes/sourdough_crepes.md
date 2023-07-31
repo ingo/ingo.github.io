@@ -35,4 +35,4 @@ These sourdough crepes are a great way to use up discarded sourdough starter. Th
 
 ### Notes
 
-Crepes can be made 4 days ahead. Wrap tightly and chill, or freeze up to 2 weeks. If frozen, thaw in fridge before reheating. Reheat one at a time in crepe pan or skillet over medium until warmed through.
+- Crepes can be made 4 days ahead. Wrap tightly and chill, or freeze up to 2 weeks. If frozen, thaw in fridge before reheating. Reheat one at a time in crepe pan or skillet over medium until warmed through.

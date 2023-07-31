@@ -35,4 +35,4 @@ This Mediterranean Rice Salad is a recipe from Dan Goldberg. It's a perfect side
 
 ### Notes
 
-Lyn Michaud, Brighton, CO, September 2006. Nutritional analysis is per serving.
+- Lyn Michaud, Brighton, CO, September 2006. Nutritional analysis is per serving.

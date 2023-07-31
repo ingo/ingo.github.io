@@ -33,4 +33,4 @@ favorite:
 
 ### Notes
 
-If you'd like a little more heat, replace the smaller red pepper with a jalapeño pepper.
+- If you'd like a little more heat, replace the smaller red pepper with a jalapeño pepper.

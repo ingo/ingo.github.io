@@ -33,7 +33,7 @@ title: Bonci Pizza - Roman-Style
 
 ### Notes
 
-The pizza is topped with Pelati tomatoes (peeled, canned, uncooked Italian tomatoes), sea salt, and extra-virgin olive oil. Spread the tomatoes around and then drizzle with extra-virgin olive oil. Then into the oven.
+- The pizza is topped with Pelati tomatoes (peeled, canned, uncooked Italian tomatoes), sea salt, and extra-virgin olive oil. Spread the tomatoes around and then drizzle with extra-virgin olive oil. Then into the oven.
 
 This is attempt #3. The bottom is nice and crispy and the dough nice and light and airy (got some nice air pockets in the dough)…still needs work, but slowly getting there.
 

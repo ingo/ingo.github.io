@@ -27,6 +27,6 @@ These biscuits have been a staple at gatherings in the Carolinas for years. The 
 
 ### Notes
 
-To make self-rising flour, sift together 1 cup all-purpose flour (or 1/2 cup cake flour with 1/2 cup all-purpose flour), 1/2 to 1 teaspoon salt, and 1 1/2 teaspoons baking powder.
+- To make self-rising flour, sift together 1 cup all-purpose flour (or 1/2 cup cake flour with 1/2 cup all-purpose flour), 1/2 to 1 teaspoon salt, and 1 1/2 teaspoons baking powder.
 
 Variation: Press a small spoon into the center of each dough round and insert a 1/4 teaspoon of Hot Pepper Jelly before or after baking.

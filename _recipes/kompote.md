@@ -28,4 +28,4 @@ title: Kompote
 
 ### Notes
 
-To make with dried fruits, use approximately the same amount of dried fruit as fresh.
+- To make with dried fruits, use approximately the same amount of dried fruit as fresh.

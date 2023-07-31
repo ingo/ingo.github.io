@@ -54,4 +54,4 @@ This recipe brings together the traditional roast turkey with a unique apple and
 
 ### Notes
 
-If grilling, calculate the time and temperature accordingly. The turkey should be removed when the breast temperature reaches 151° to avoid it becoming tough.
+- If grilling, calculate the time and temperature accordingly. The turkey should be removed when the breast temperature reaches 151° to avoid it becoming tough.

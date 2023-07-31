@@ -55,4 +55,4 @@ title: Whole Roasted Cauliflower with Whipped Goat Cheese
 
 ### Notes
 
-Whipped goat cheese can be made 1 day ahead. Cover; chill.
+- Whipped goat cheese can be made 1 day ahead. Cover; chill.

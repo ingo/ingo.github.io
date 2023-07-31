@@ -33,4 +33,4 @@ title: Chicken Grand Mere Francine
 
 ### Notes
 
-Serve with crusty baguette to sop up the sauce and spread with the soft, sweet, caramely garlic that is easily squeezed out of the skin.
+- Serve with crusty baguette to sop up the sauce and spread with the soft, sweet, caramely garlic that is easily squeezed out of the skin.

@@ -34,4 +34,4 @@ Der Falke Kellerbier is a unique blend of British cask ale and German malts and 
 
 ### Notes
 
-Drink this beer as soon as it’s carbonated! Kellerbier is, by tradition, a “young” beer and should be consumed early, rough edges and all. Some versions exhibit signs of incomplete fermentation (acetaldehyde, for example) but here we’re relying on the Vienna malt to provide a nice raw graininess. Don’t worry if it isn’t clear yet: hazy versions of this beer abound, and you needn’t take any particular steps to clear it up!
+- Drink this beer as soon as it’s carbonated! Kellerbier is, by tradition, a “young” beer and should be consumed early, rough edges and all. Some versions exhibit signs of incomplete fermentation (acetaldehyde, for example) but here we’re relying on the Vienna malt to provide a nice raw graininess. Don’t worry if it isn’t clear yet: hazy versions of this beer abound, and you needn’t take any particular steps to clear it up!

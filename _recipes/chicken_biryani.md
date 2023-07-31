@@ -103,4 +103,4 @@ title: Chicken Biryani
 
 ### Notes
 
-The recipe can be made with other proteins or vegetables. The spiciness is mainly from cayenne, a bit from garam masala. So adjust to taste. Use fresh spices, not ones that have been sitting around in your pantry for years! The whole spices are typically left in the rice. They soften when cooked so to me it's not a big deal, I've never found it off-putting. If you're really concerned, either pick them out just before layering in the pot or wrap the spices in a small muslin or cheesecloth.
+- The recipe can be made with other proteins or vegetables. The spiciness is mainly from cayenne, a bit from garam masala. So adjust to taste. Use fresh spices, not ones that have been sitting around in your pantry for years! The whole spices are typically left in the rice. They soften when cooked so to me it's not a big deal, I've never found it off-putting. If you're really concerned, either pick them out just before layering in the pot or wrap the spices in a small muslin or cheesecloth.

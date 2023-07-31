@@ -37,4 +37,4 @@ This recipe is basically a giant deconstructed Croque Monsieur (aka ham, cheese,
 
 ### Notes
 
-Did you make this recipe? Give us your thoughts by leaving a comment below and show us how it turned out by sharing it on Instagram with the #swsociety hashtag!
+- Did you make this recipe? Give us your thoughts by leaving a comment below and show us how it turned out by sharing it on Instagram with the #swsociety hashtag!

@@ -44,4 +44,4 @@ This recipe now sits firmly in the category of my Favorite Chicken Recipes. It's
 
 ### Notes
 
-Pair with steamed basmati rice or cauliflower rice.
+- Pair with steamed basmati rice or cauliflower rice.

@@ -47,4 +47,4 @@ title: Sourdough Bread (Simple)
 
 ### Notes
 
-Detailed instructions for each step can be found at the source link.
+- Detailed instructions for each step can be found at the source link.

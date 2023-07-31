@@ -45,4 +45,4 @@ Fesenjan is a classic preparation in Persian cooking. Chicken pieces are first b
 
 ### Notes
 
-You can make your own pomegranate molasses by simmering 1 cup of pomegranate juice until it reduces to 5 tablespoons of syrup.
+- You can make your own pomegranate molasses by simmering 1 cup of pomegranate juice until it reduces to 5 tablespoons of syrup.

@@ -38,7 +38,7 @@ A spice mill or [mortar and pestle](https://www.amazon.com/gp/product/B01HXWT40E
 
 ### Notes
 
-[Sumac](https://www.amazon.com/Spicy-World-Sumac-7oz-Ground/dp/B000JSQ282/ref=sr_1_4_s_it?s=grocery&ie=UTF8&qid=1533749403&sr=1-4) can be found at Middle Eastern markets, specialty foods stores, and online.
+- [Sumac](https://www.amazon.com/Spicy-World-Sumac-7oz-Ground/dp/B000JSQ282/ref=sr_1_4_s_it?s=grocery&ie=UTF8&qid=1533749403&sr=1-4) can be found at Middle Eastern markets, specialty foods stores, and online.
 
 ### Directions
 

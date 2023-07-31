@@ -52,4 +52,4 @@ Sangak is the Farsi word for the little rocks or pebbles which ultimately make t
 
 ### Notes
 
-I purchased my pebbles from a Home and Garden store, washed them thoroughly, and tested them in the oven to make sure that they were suitable for this purpose. To test them, I laid out the pebbles on a baking sheet, put another baking sheet on top and baked them at 520°F for 30 minutes to ensure that they can withstand the heat and not crack or shatter.
+- I purchased my pebbles from a Home and Garden store, washed them thoroughly, and tested them in the oven to make sure that they were suitable for this purpose. To test them, I laid out the pebbles on a baking sheet, put another baking sheet on top and baked them at 520°F for 30 minutes to ensure that they can withstand the heat and not crack or shatter.

@@ -35,4 +35,4 @@ Smoky, sweet, spicy, and tangy, esquites are the off-the-cob version of elotesâ€
 
 ### Notes
 
-A combination of garlic, mayonnaise, cheese, lime, and chili in the sauce ensures the salad comes out incredibly flavorful. Cutting the kernels off the cob first, then cooking them over high heat, allows you to get a nice char on the corn without having to use the grill.
+- A combination of garlic, mayonnaise, cheese, lime, and chili in the sauce ensures the salad comes out incredibly flavorful. Cutting the kernels off the cob first, then cooking them over high heat, allows you to get a nice char on the corn without having to use the grill.

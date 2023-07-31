@@ -32,4 +32,4 @@ title: Pan-Roasted Chicken Cipollini
 
 ### Notes
 
-If changing mushrooms, you may wish to alter the fresh herbs to suit. Rosemary can overpower chanterelles, so thyme might be more appropriate.
+- If changing mushrooms, you may wish to alter the fresh herbs to suit. Rosemary can overpower chanterelles, so thyme might be more appropriate.

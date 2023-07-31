@@ -44,4 +44,4 @@ This recipe is a creative take on the classic blinis, featuring sea bass as the 
 
 ### Notes
 
-Remember to remove as much of the salt mixture from the fish as possible before rinsing to ensure the perfect balance of flavors.
+- Remember to remove as much of the salt mixture from the fish as possible before rinsing to ensure the perfect balance of flavors.

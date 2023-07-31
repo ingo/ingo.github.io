@@ -35,4 +35,4 @@ This recipe is an extract from the book "Ivan Ramen" by Ivan Orkin, a renowned c
 
 ### Notes
 
-The cooking time for the pork belly may vary depending on the source of your meat. Mass-produced pork belly usually takes longer to cook than small farm-produced pork belly. Also, remember to chill the belly thoroughly before slicing to maintain its texture.
+- The cooking time for the pork belly may vary depending on the source of your meat. Mass-produced pork belly usually takes longer to cook than small farm-produced pork belly. Also, remember to chill the belly thoroughly before slicing to maintain its texture.

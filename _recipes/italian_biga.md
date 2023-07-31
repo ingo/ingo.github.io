@@ -29,4 +29,4 @@ Italian Biga, known as _biga_ in Italy, or _bighino_ when in small amounts, is a
 
 ### Notes
 
-The first biga must come from somewhere, so you may make it following the instructions above. It freezes very well and needs only about 3 hours at room temperature until it is bubbly and active again, or it can be refrigerated for up to 5 days.
+- The first biga must come from somewhere, so you may make it following the instructions above. It freezes very well and needs only about 3 hours at room temperature until it is bubbly and active again, or it can be refrigerated for up to 5 days.

@@ -47,6 +47,6 @@ In his home later in his life, the family cook was able to perfect the recipe, (
 
 ### Notes
 
-For a spicier chili, add `1/8 tsp` each coriander, turmeric, chili seeds, fennel, cloves, cinnamon, and ground ginger. You can also add dried hot pepper to taste.
+- For a spicier chili, add `1/8 tsp` each coriander, turmeric, chili seeds, fennel, cloves, cinnamon, and ground ginger. You can also add dried hot pepper to taste.
 
 All recipes are the property of Walt Disney and Walt Disney Parks and Resorts U.S., Inc., and may not be reproduced without express permission.

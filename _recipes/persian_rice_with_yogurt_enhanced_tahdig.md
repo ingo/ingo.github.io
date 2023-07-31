@@ -43,4 +43,4 @@ This recipe is a take on the traditional Persian rice dish with Tahdig, the cris
 
 ### Notes
 
-If for any reason your rice doesn’t slip out in one piece, do what every Persian grandmother since the beginning of time has done: scoop out the rice, chip out the tahdig in pieces with a spoon or metal spatula, and pretend you meant to do it this way. No one will be the wiser.
+- If for any reason your rice doesn’t slip out in one piece, do what every Persian grandmother since the beginning of time has done: scoop out the rice, chip out the tahdig in pieces with a spoon or metal spatula, and pretend you meant to do it this way. No one will be the wiser.

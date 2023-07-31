@@ -28,4 +28,4 @@ This recipe is inspired by a Sardinian flatbread known as carta musica. The doug
 
 ### Notes
 
-Remember to keep a very close eye on the breads while baking, they can burn very quickly.
+- Remember to keep a very close eye on the breads while baking, they can burn very quickly.

@@ -36,4 +36,4 @@ This recipe is a classic from the Ultimate Cookery Course by Gordon Ramsay. The 
 
 ### Notes
 
-Try something different at one of Gordon Ramsay restaurants, gift vouchers are available to treat those close to you - choose from our Gifts & Experiences [here](https://www.gordonramsayrestaurants.com/gifts-and-experiences/).
+- Try something different at one of Gordon Ramsay restaurants, gift vouchers are available to treat those close to you - choose from our Gifts & Experiences [here](https://www.gordonramsayrestaurants.com/gifts-and-experiences/).

@@ -38,6 +38,6 @@ Each year, we have every intention of spending the time to preserve some summer 
 
 ### Notes
 
-Doubled recipe (2.5x)
+- Doubled recipe (2.5x)
 
 Added 1tsp aleppo pepper, put black pepper down to 1tsp

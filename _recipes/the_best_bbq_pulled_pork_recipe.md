@@ -34,4 +34,4 @@ This recipe is a favorite from Meathead Goldwyn, a renowned BBQ expert. His meth
 
 ### Notes
 
-This recipe requires a slow and steady cooking process. Make sure to monitor the temperature of the meat and adjust the heat as needed. The end result is well worth the wait!
+- This recipe requires a slow and steady cooking process. Make sure to monitor the temperature of the meat and adjust the heat as needed. The end result is well worth the wait!

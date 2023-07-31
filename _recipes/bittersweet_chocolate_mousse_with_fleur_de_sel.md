@@ -26,4 +26,4 @@ title: Bittersweet Chocolate Mousse With Fleur de Sel
 
 ### Notes
 
-For a lighter mousse, use 265 grams of bittersweet chocolate or just add more water.
+- For a lighter mousse, use 265 grams of bittersweet chocolate or just add more water.

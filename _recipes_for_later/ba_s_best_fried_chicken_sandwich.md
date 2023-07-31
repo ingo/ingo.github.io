@@ -61,4 +61,4 @@ To Assemble:
 
 ### Notes
 
-Watch [Perfect Buttermilk Biscuits, Baked & Explained](https://www.epicurious.com/video/watch/perfect-buttermilk-biscuits-baked-and-explained) for more tips on making this recipe.
+- Watch [Perfect Buttermilk Biscuits, Baked & Explained](https://www.epicurious.com/video/watch/perfect-buttermilk-biscuits-baked-and-explained) for more tips on making this recipe.

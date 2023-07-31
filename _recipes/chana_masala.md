@@ -50,4 +50,4 @@ This recipe is a wonderful blend of Indian spices, creating a beautifully balanc
 
 ### Notes
 
-This dish keeps really well and you can freeze it and easily reheat it. It's perfect with naan or roti.
+- This dish keeps really well and you can freeze it and easily reheat it. It's perfect with naan or roti.

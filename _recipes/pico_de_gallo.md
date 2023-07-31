@@ -30,4 +30,4 @@ This recipe for Pico de Gallo, a classic Mexican condiment, comes from J. Kenji 
 
 ### Notes
 
-Use the ripest tomatoes you can find. In the off season, this generally means smaller plum, Roma, or cherry tomatoes. Pico de gallo keeps for up to three days in the refrigerator in an tightly sealed container.
+- Use the ripest tomatoes you can find. In the off season, this generally means smaller plum, Roma, or cherry tomatoes. Pico de gallo keeps for up to three days in the refrigerator in an tightly sealed container.

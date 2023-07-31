@@ -35,7 +35,7 @@ Skeeter Pee is a refreshing, naturally fermented lemon beverage that's perfect f
 
 ### Notes
 
-1. This beverage will often take on slight flavor characteristics of the wine that donates the yeast slurry, keep this in mind when deciding which flavors will blend well with lemon.
+- 1. This beverage will often take on slight flavor characteristics of the wine that donates the yeast slurry, keep this in mind when deciding which flavors will blend well with lemon.
 2. You want to use a healthy yeast slurry to start your batch. If the slurry is coming from wine that is being pushed to high alcohol levels, it’s possible the slurry is suffering from the effects of alcohol poisoning. Therefore, it’s best if the slurry is used while it is still part of an active ferment.
 3. You may have noticed that you start with 5 ? gallons of must and this is a recipe for 5 gallons. This is because you’ll be leaving a bit more sediment behind at your first racking. Remember that you’re adding the slurry from a previous batch and it will be left behind along with the sediment created by the Skeeter Pee.
 4. If you aren’t in a hurry, Skeeter Pee will often fall clear without the Sparkolloid (as long as you’ve done a good job of degassing). My batches often clear in 30 to 45 days without fining.

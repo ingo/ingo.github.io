@@ -41,4 +41,4 @@ Lyuba, a sucker for Thai food and seafood, created this wonderful dish. This sim
 
 ### Notes
 
-Remember to first work through all the crab, little by little, to make sure that there are no shell particles left.
+- Remember to first work through all the crab, little by little, to make sure that there are no shell particles left.

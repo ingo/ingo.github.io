@@ -35,4 +35,4 @@ title: Rice Cake Soup With Bok Choy and Edamame
 
 ### Notes
 
-Substituting one to two cups of cooked rice to the soup in place of the rice cakes works well if you don't have access to an Asian grocery store.
+- Substituting one to two cups of cooked rice to the soup in place of the rice cakes works well if you don't have access to an Asian grocery store.

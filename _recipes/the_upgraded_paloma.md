@@ -41,4 +41,4 @@ This summer refresher from Zac Overman at Seattle's Sitka & Spruce is the perfec
 
 ### Notes
 
-Since you need the grapefruit peel on day 1 and the juice on day 2, you can peel 1 grapefruit on the first day, then store the peeled grapefruit in the refrigerator overnight until you are ready to juice it the next day.
+- Since you need the grapefruit peel on day 1 and the juice on day 2, you can peel 1 grapefruit on the first day, then store the peeled grapefruit in the refrigerator overnight until you are ready to juice it the next day.

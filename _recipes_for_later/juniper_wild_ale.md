@@ -42,7 +42,7 @@ This beer began as pure experiment. It has become an obsession. The entire reaso
 
 ### Notes
 
-Estimated Alcohol by Volume (ABV): 5.4%
+- Estimated Alcohol by Volume (ABV): 5.4%
 IBUs: 25, but the pine needles and juniper berries will add additional hoplike bitterness and aromas
 Original Gravity and Final Gravity: 1.055, going down to 1.016
 

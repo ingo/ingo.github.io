@@ -28,4 +28,4 @@ This recipe for fluffy couscous is a game changer. Instead of the usual method o
 
 ### Notes
 
-For a delicious and simple couscous salad recipe, make the couscous as described above. Let it cool, then toss it with canned chickpeas, finely chopped green onions, fresh mint, olive oil, and sea salt. Other nice additions are raisins, pine nuts, feta cheese, olives, and flat leaf parsley.
+- For a delicious and simple couscous salad recipe, make the couscous as described above. Let it cool, then toss it with canned chickpeas, finely chopped green onions, fresh mint, olive oil, and sea salt. Other nice additions are raisins, pine nuts, feta cheese, olives, and flat leaf parsley.

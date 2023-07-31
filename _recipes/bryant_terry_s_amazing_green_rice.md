@@ -28,4 +28,4 @@ vegan: "\u2713"
 
 ### Notes
 
-This recipe is very versatile and can be used in a variety of dishes such as fried rice, onigiri, green burritos with guacamole, green rice soup, green rice cakes, and whole grain green rice. Toppings can include toasted nuts, crispy shallots, toasted nori, citrus zest, sesame seeds, and crumbled kale chips.
+- This recipe is very versatile and can be used in a variety of dishes such as fried rice, onigiri, green burritos with guacamole, green rice soup, green rice cakes, and whole grain green rice. Toppings can include toasted nuts, crispy shallots, toasted nori, citrus zest, sesame seeds, and crumbled kale chips.

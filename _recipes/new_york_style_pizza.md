@@ -33,4 +33,4 @@ This recipe comes from the culinary genius of J. Kenji López-Alt, who shares hi
 
 ### Notes
 
-Using a food processor ensures that your dough is properly developed without over-oxidizing, which can affect flavor. To scale up, make dough in separate batches in food processor. Do not try to process more than one batch at a time.
+- Using a food processor ensures that your dough is properly developed without over-oxidizing, which can affect flavor. To scale up, make dough in separate batches in food processor. Do not try to process more than one batch at a time.

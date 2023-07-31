@@ -38,6 +38,6 @@ Making homemade dumpling wrappers is simple. This recipe yields about 35 to 40 d
 
 ### Notes
 
-1. You can microwave the water on high for 45 seconds and check to see if it has reached the appropriate temperature. If the water is not hot enough, continue microwaving at 10-second intervals.
+- 1. You can microwave the water on high for 45 seconds and check to see if it has reached the appropriate temperature. If the water is not hot enough, continue microwaving at 10-second intervals.
 2. Stand mixer directions: Add the flour and water to the bowl and mix on low speed with the dough hook attachment. Once all the water has been incorporated into the flour, increase the speed to medium-low. Continue mixing for about 2 minutes, until a dough forms and all the loose flour has been gathered into the dough. Turn off the stand mixer and transfer the dough onto a surface. Knead it by hand a few times, then shape into a ball. Place the dough ball back into the mixing bowl and cover it with a damp towel or a silicone lid.
 3. If you don’t have time to roll out all the dough into wrappers, you can refrigerate the dough overnight. However, it is very difficult to roll out the dough when it is still cold. Let the dough sit on the counter and reach room temperature before rolling it out.

@@ -61,4 +61,4 @@ For the Ramen:
 
 ### Notes
 
-To save time, you can substitute 6 quarts of store-bought chicken stock for the base stock.
+- To save time, you can substitute 6 quarts of store-bought chicken stock for the base stock.

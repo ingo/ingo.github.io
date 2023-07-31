@@ -72,4 +72,4 @@ Lucknowi-Style Lamb Biryani is a traditional Indian dish that has been passed do
 
 ### Notes
 
-The quality of the meat is important, so do buy good quality lamb or mutton. I used lamb steaks for my biryani.
+- The quality of the meat is important, so do buy good quality lamb or mutton. I used lamb steaks for my biryani.

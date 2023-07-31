@@ -47,7 +47,7 @@ title: Beet Salad
 
 ### Notes
 
-Nutrition Bonus: Folate (32% daily value)
+- Nutrition Bonus: Folate (32% daily value)
 
 Carbohydrate Servings: 1
 

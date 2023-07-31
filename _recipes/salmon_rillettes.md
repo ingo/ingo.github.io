@@ -44,4 +44,4 @@ While training at the Los Angeles Culinary Institute, Anna Zepaltas learned that
 
 ### Notes
 
-The rillettes can be refrigerated for up to 3 days. Pack into a crock and press a sheet of plastic wrap onto the surface.
+- The rillettes can be refrigerated for up to 3 days. Pack into a crock and press a sheet of plastic wrap onto the surface.

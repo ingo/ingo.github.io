@@ -34,4 +34,4 @@ During the recent pandemic, everyone started baking bread, particularly sourdoug
 
 ### Notes
 
-Remember to serve them super warm with all the melted butter. This recipe works as an appetizer, snack or dinner.
+- Remember to serve them super warm with all the melted butter. This recipe works as an appetizer, snack or dinner.

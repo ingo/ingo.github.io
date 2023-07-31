@@ -59,4 +59,4 @@ For the Homemade Sushi Seasoning:
 
 ### Notes
 
-If you are using a rice cooker, just measure the rice and water in U.S. cups as stated in the recipe and turn it on and you will be fine. If you are using a fancy rice cooker with all the bells and whistles, you may NOT have to do the 20 minute soak to get the rice white before cooking and you may not have to wait 20 minutes to "steam" the rice after the unit cuts off as the steaming may already be compensated for during cooking time.
+- If you are using a rice cooker, just measure the rice and water in U.S. cups as stated in the recipe and turn it on and you will be fine. If you are using a fancy rice cooker with all the bells and whistles, you may NOT have to do the 20 minute soak to get the rice white before cooking and you may not have to wait 20 minutes to "steam" the rice after the unit cuts off as the steaming may already be compensated for during cooking time.

@@ -48,4 +48,4 @@ This recipe not only gives you a delicious chicken salad but also teaches you th
 
 ### Notes
 
-Save the chicken stock for later use.
+- Save the chicken stock for later use.

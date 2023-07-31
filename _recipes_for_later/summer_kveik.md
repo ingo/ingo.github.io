@@ -42,4 +42,4 @@ This recipe was inspired by the author's trip to Norway for the 2016 Homebrewers
 
 ### Notes
 
-For a more authentic result, move all of the juniper to the HLT and do a longer infusion. Opt for a Bohemian Dark (or Munich) for the entire base in place of the Golden Promise. Go darker on the Carared maybe CaraMunich II, and add a touch of Carafa as originally planned. This will not necessarily make a better beer, but it will be more in line with the original target.
+- For a more authentic result, move all of the juniper to the HLT and do a longer infusion. Opt for a Bohemian Dark (or Munich) for the entire base in place of the Golden Promise. Go darker on the Carared maybe CaraMunich II, and add a touch of Carafa as originally planned. This will not necessarily make a better beer, but it will be more in line with the original target.

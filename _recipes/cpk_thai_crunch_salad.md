@@ -66,4 +66,4 @@ This recipe is a homemade version of the popular Thai Crunch Salad from Californ
 
 ### Notes
 
-This salad is a great meal prep option as the vegetables stay crisp for several days. Just remember to add the peanuts, avocados, dressing, and wontons just before serving.
+- This salad is a great meal prep option as the vegetables stay crisp for several days. Just remember to add the peanuts, avocados, dressing, and wontons just before serving.

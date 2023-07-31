@@ -32,4 +32,4 @@ This chicken pâté recipe is a favorite of Sam Sifton, a food editor at The New
 
 ### Notes
 
-This recipe can be stored in the refrigerator for up to five days. It pairs well with bacon-onion jam and toast.
+- This recipe can be stored in the refrigerator for up to five days. It pairs well with bacon-onion jam and toast.

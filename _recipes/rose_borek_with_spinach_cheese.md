@@ -38,4 +38,4 @@ Börek is a popular pastry in Turkey, commonly enjoyed with a glass of tea at ba
 
 ### Notes
 
-Börek can come in many shapes and be filled with a variety of different fillings. The most common fillings are beyaz peynir (white cheese), kıyma (ground beef), and ıspanak (spinach).
+- Börek can come in many shapes and be filled with a variety of different fillings. The most common fillings are beyaz peynir (white cheese), kıyma (ground beef), and ıspanak (spinach).

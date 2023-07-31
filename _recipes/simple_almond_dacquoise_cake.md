@@ -35,4 +35,4 @@ Lacking any wheat flour, this recipe is completely gluten-free.
 
 ### Notes
 
-For new recipes, techniques, and tutorials like this, subscribe to our mailing list and never miss a post.
+- For new recipes, techniques, and tutorials like this, subscribe to our mailing list and never miss a post.

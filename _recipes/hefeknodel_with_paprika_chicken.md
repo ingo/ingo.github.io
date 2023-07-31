@@ -39,4 +39,4 @@ For the Paprika Chicken:
 
 ### Notes
 
-The Hefeknödel can be boiled, steamed, or baked, depending on your preference. The Paprika Chicken can be grilled, baked, or pan-fried. Adjust the cooking methods to suit your taste and convenience.
+- The Hefeknödel can be boiled, steamed, or baked, depending on your preference. The Paprika Chicken can be grilled, baked, or pan-fried. Adjust the cooking methods to suit your taste and convenience.

@@ -24,4 +24,4 @@ source:
 
 ### Notes
 
-Active time: 10 min Start to finish: 2 1/4 hr.
+- Active time: 10 min Start to finish: 2 1/4 hr.

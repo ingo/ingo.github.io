@@ -48,4 +48,4 @@ Biryani is a South Asian one-pot dish in which lamb, mutton, beef, chicken, seaf
 
 ### Notes
 
-This recipe can also be made with chicken, beef, or vegetables. Adjust the cooking time as needed. The biryani can be served with plain yogurt or a raita.
+- This recipe can also be made with chicken, beef, or vegetables. Adjust the cooking time as needed. The biryani can be served with plain yogurt or a raita.

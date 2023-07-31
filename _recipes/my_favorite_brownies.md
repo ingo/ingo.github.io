@@ -32,4 +32,4 @@ title: My Favorite Brownies
 
 ### Notes
 
-If you only have semi- or bittersweet chocolate (60 to 72 percent), I created a version of these brownies with that last year, the darker half of this duo. But, the chocolate intensity is definitely dialed down. However, the sugar level is also adjusted to accommodate for the sweeter chocolate.
+- If you only have semi- or bittersweet chocolate (60 to 72 percent), I created a version of these brownies with that last year, the darker half of this duo. But, the chocolate intensity is definitely dialed down. However, the sugar level is also adjusted to accommodate for the sweeter chocolate.

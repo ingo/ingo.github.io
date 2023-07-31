@@ -48,4 +48,4 @@ title: Russian Black Bread
 
 ### Notes
 
-This bread can also be made by hand, simply mixing the ingredients in a large bowl with a wooden spoon and kneading the dough on a counter until springy and smooth.
+- This bread can also be made by hand, simply mixing the ingredients in a large bowl with a wooden spoon and kneading the dough on a counter until springy and smooth.

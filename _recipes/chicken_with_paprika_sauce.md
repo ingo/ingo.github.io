@@ -26,7 +26,7 @@ title: Chicken with Paprika Sauce
 
 ### Notes
 
-Alternate spice mixture
+- Alternate spice mixture
 
 * `to taste` salt
 * `to taste` paprika

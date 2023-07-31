@@ -30,4 +30,4 @@ This delightful dessert recipe comes from the renowned chef, Alton Brown. The pe
 
 ### Notes
 
-Be sure not to overcook the pears, as they can become too soft and lose their shape. The syrup should be reduced until it's thick enough to coat the back of a spoon, but be careful not to let it turn brown.
+- Be sure not to overcook the pears, as they can become too soft and lose their shape. The syrup should be reduced until it's thick enough to coat the back of a spoon, but be careful not to let it turn brown.

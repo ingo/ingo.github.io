@@ -54,4 +54,4 @@ Chef Ramón Martínez has been working alongside José Andrés for 15 years, bri
 
 ### Notes
 
-Brava sauce and aioli can be kept in refrigerator, tightly covered, for two days.
+- Brava sauce and aioli can be kept in refrigerator, tightly covered, for two days.

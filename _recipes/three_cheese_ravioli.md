@@ -46,4 +46,4 @@ title: Three-Cheese Ravioli
 
 ### Notes
 
-A small cookie scoop, such as the OXO Cookie Scoop, is perfect for portioning filling onto the rolled-out pasta dough.
+- A small cookie scoop, such as the OXO Cookie Scoop, is perfect for portioning filling onto the rolled-out pasta dough.

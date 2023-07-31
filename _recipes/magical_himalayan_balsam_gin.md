@@ -28,4 +28,4 @@ This Himalayan Balsam Gin recipe is a delightful surprise. The Himalayan Balsam 
 
 ### Notes
 
-The resulting Himalayan Balsam Gin is a pale amber colour much like a traditional pink gin made from Angostura bitters. The flowers impart a light floral taste to the spirit which combines well with the lime. The real surprise comes when you add tonic to the gin - it turns a stunning, vibrant pink.
+- The resulting Himalayan Balsam Gin is a pale amber colour much like a traditional pink gin made from Angostura bitters. The flowers impart a light floral taste to the spirit which combines well with the lime. The real surprise comes when you add tonic to the gin - it turns a stunning, vibrant pink.

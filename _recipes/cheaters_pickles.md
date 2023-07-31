@@ -31,7 +31,7 @@ This recipe was developed by accident when Dora Charles was working on her book,
 
 ### Notes
 
-Kirby or pickling cucumbers (which actually taste better) can be substituted, but they have more seeds than English cucumbers. If the cucumbers are seedy, cut them in half lengthwise and scoop out the seeds with a spoon. Slice into half-moons.
+- Kirby or pickling cucumbers (which actually taste better) can be substituted, but they have more seeds than English cucumbers. If the cucumbers are seedy, cut them in half lengthwise and scoop out the seeds with a spoon. Slice into half-moons.
 
 ### Nutrition
 

@@ -41,4 +41,4 @@ Enjoy!
 
 ### Notes
 
-For salads, it's worth investing in a good quality olive oil. It will enhance the flavor of your salad dressings and make a noticeable difference.
+- For salads, it's worth investing in a good quality olive oil. It will enhance the flavor of your salad dressings and make a noticeable difference.

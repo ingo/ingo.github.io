@@ -33,7 +33,7 @@ umami: "\u2713"
 
 ### Notes
 
-This sauce is terrific for a slow braise using bone in, three pounds of beef short ribs cut 3" wide in a Dutch oven.
+- This sauce is terrific for a slow braise using bone in, three pounds of beef short ribs cut 3" wide in a Dutch oven.
 
 #### Cooking Instructions:
 

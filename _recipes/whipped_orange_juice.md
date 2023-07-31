@@ -21,4 +21,4 @@ title: Whipped Orange Juice
 
 ### Notes
 
-This recipe is perfect for special breakfasts or when friends come over. The frothy head makes the orange juice concentrate taste just a bit closer to fresh.
+- This recipe is perfect for special breakfasts or when friends come over. The frothy head makes the orange juice concentrate taste just a bit closer to fresh.

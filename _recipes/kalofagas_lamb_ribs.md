@@ -43,4 +43,4 @@ Ontario is known for its high-quality lamb, a favorite among Greeks for Sunday d
 
 ### Notes
 
-For a BBQ version, place the ribs on your grill, using indirect heat method for 2-3 hours (drip pan underneath to catch fat) and finish on direct heat.
+- For a BBQ version, place the ribs on your grill, using indirect heat method for 2-3 hours (drip pan underneath to catch fat) and finish on direct heat.

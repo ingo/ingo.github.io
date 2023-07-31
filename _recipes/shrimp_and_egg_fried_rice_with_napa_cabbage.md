@@ -40,4 +40,4 @@ A quick and easy dish that's perfect for a weeknight dinner. This fried rice is 
 
 ### Notes
 
-This recipe is courtesy of Tyler Florence and was originally published on the Food Network.
+- This recipe is courtesy of Tyler Florence and was originally published on the Food Network.

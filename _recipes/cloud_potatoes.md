@@ -34,4 +34,4 @@ Cloud Potatoes are a heavenly side dish that will have your guests floating on c
 
 ### Notes
 
-Remember to save some of the cooking liquid from the potatoes. It adds a depth of flavor to the final dish. Also, don't skimp on the whipping process. This is what gives the potatoes their cloud-like texture. Enjoy!
+- Remember to save some of the cooking liquid from the potatoes. It adds a depth of flavor to the final dish. Also, don't skimp on the whipping process. This is what gives the potatoes their cloud-like texture. Enjoy!

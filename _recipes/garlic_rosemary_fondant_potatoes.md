@@ -33,4 +33,4 @@ Fondant potatoes originated in France and is a method of cooking potatoes. Tradi
 
 ### Notes
 
-This recipe could be easily doubled with using either a larger cast iron pan, mine is a 10 1/2" and it fits 1 1/2 lbs of potatoes perfectly or use a roasting pan. You want the potatoes just to have enough room to give them a roll initially in the garlic sauce. The presentation is pretty though with them neatly tucked together. The tops brown on their own in the oven and the bottoms you brown up on the stove on medium high heat at the end.
+- This recipe could be easily doubled with using either a larger cast iron pan, mine is a 10 1/2" and it fits 1 1/2 lbs of potatoes perfectly or use a roasting pan. You want the potatoes just to have enough room to give them a roll initially in the garlic sauce. The presentation is pretty though with them neatly tucked together. The tops brown on their own in the oven and the bottoms you brown up on the stove on medium high heat at the end.

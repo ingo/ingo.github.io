@@ -35,4 +35,4 @@ This recipe for whole-wheat waffles is a breakfast favorite. The use of whole-wh
 
 ### Notes
 
-Ensure to keep the waffles warm as you cook the rest. This will ensure they all stay crispy and delicious.
+- Ensure to keep the waffles warm as you cook the rest. This will ensure they all stay crispy and delicious.

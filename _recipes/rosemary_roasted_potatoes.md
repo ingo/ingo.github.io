@@ -27,4 +27,4 @@ This recipe for Rosemary Roasted Potatoes is a simple yet flavorful side dish th
 
 ### Notes
 
-Ensure to slice the potatoes carefully to maintain their shape while allowing the flavors to permeate.
+- Ensure to slice the potatoes carefully to maintain their shape while allowing the flavors to permeate.

@@ -52,7 +52,7 @@ Inspired by Xian Famous Foods’ spicy cumin lamb noodles, these juicy dumplings
 
 ### Notes
 
-Get 15% off your Fly by Jing order with my code INDULGENTEATS. I highly recommend using their sauces and spice mixes to save yourself time and so you don’t sacrifice on flavor, but if you are not in their delivery range you can try the following substitutions:
+- Get 15% off your Fly by Jing order with my code INDULGENTEATS. I highly recommend using their sauces and spice mixes to save yourself time and so you don’t sacrifice on flavor, but if you are not in their delivery range you can try the following substitutions:
 
 * Instead of mala spice mix, try mixing ground numbing Sichuan peppercorns, ground spicy Sichuan chili powder, and mushroom powder
 * Instead of the Sichuan chili crisp oil, try using another chili crisp oil like Lao Gan Ma

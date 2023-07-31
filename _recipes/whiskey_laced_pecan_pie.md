@@ -44,4 +44,4 @@ For the pie
 
 ### Notes
 
-Toast the pecan halves in a small, dry skillet over medium-low heat for a few minutes, until fragrant and lightly browned. Cool completely before using.
+- Toast the pecan halves in a small, dry skillet over medium-low heat for a few minutes, until fragrant and lightly browned. Cool completely before using.

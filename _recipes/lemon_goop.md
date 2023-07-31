@@ -40,4 +40,4 @@ FOR THE VINAIGRETTE:
 
 ### Notes
 
-The goop, syrup and vinaigrette will keep for several weeks in the refrigerator.
+- The goop, syrup and vinaigrette will keep for several weeks in the refrigerator.

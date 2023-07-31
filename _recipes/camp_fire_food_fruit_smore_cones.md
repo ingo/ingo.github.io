@@ -34,4 +34,4 @@ This recipe is a delightful twist on the traditional campfire s'mores. Instead o
 
 ### Notes
 
-You can eat the cones as you would ice cream, or use a spoon. This is a very gooey treat! Other variations to try include using caramel bits and apple slices, or adding toffee, or another favorite candy bar chopped into bits.
+- You can eat the cones as you would ice cream, or use a spoon. This is a very gooey treat! Other variations to try include using caramel bits and apple slices, or adding toffee, or another favorite candy bar chopped into bits.

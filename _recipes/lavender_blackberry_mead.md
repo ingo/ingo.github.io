@@ -33,7 +33,7 @@ Bill Savage, a former brewer at Wild Blossom Meadery, and now at Goose Island Be
 
 ### Notes
 
-O.G. – 23.5 Brix (`1.0988 SG`). @11.5 – 12% abv.
+- O.G. – 23.5 Brix (`1.0988 SG`). @11.5 – 12% abv.
 
 `2.5 gal` water
 

@@ -39,7 +39,7 @@ Stromboli, an Italian-American dish that originated in the city of Philadelphia,
 
 ### Notes
 
-The stromboli can be prepared, covered with plastic wrap, and refrigerated for up to 12 hours before baking. Add the egg wash and cut slits right before baking, and allow a few extra minutes in the oven. To freeze the stromboli before baking, fill and roll the stromboli as directed but do not add the egg wash or cut slits. Wrap tightly in plastic wrap and aluminum foil and freeze for up to 3 months. Thaw overnight in the refrigerator. Add the egg wash and cut slits right before baking, and allow a few extra minutes in the oven.
+- The stromboli can be prepared, covered with plastic wrap, and refrigerated for up to 12 hours before baking. Add the egg wash and cut slits right before baking, and allow a few extra minutes in the oven. To freeze the stromboli before baking, fill and roll the stromboli as directed but do not add the egg wash or cut slits. Wrap tightly in plastic wrap and aluminum foil and freeze for up to 3 months. Thaw overnight in the refrigerator. Add the egg wash and cut slits right before baking, and allow a few extra minutes in the oven.
 
 ### Nutrition
 

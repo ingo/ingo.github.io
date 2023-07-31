@@ -51,6 +51,6 @@ This Cream Ale recipe is a unique home-brewing experience that incorporates the 
 
 ### Notes
 
-The specific gravity (SG) measurements are crucial for achieving the right alcohol content and sweetness level. The cooling process in the fridge can help reach the desired SG. 
+- The specific gravity (SG) measurements are crucial for achieving the right alcohol content and sweetness level. The cooling process in the fridge can help reach the desired SG. 
 
 The linked PDF contains additional details about the brewing process.

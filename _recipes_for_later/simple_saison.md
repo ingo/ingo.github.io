@@ -51,4 +51,4 @@ This recipe is a labor of love from the home brewing community. It's a Simple Sa
 
 ### Notes
 
-This recipe requires a lot of patience and precision. Make sure to follow the steps exactly and check the SG at each step. Happy brewing!
+- This recipe requires a lot of patience and precision. Make sure to follow the steps exactly and check the SG at each step. Happy brewing!

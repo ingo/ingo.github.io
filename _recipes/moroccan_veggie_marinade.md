@@ -29,4 +29,4 @@ title: Moroccan Veggie Marinade
 
 ### Notes
 
-This marinade is perfect for summer BBQ and grilling season. The longer the vegetables marinate, the more flavorful they will be.
+- This marinade is perfect for summer BBQ and grilling season. The longer the vegetables marinate, the more flavorful they will be.

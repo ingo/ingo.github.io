@@ -37,4 +37,4 @@ Piccata is a classic preparation for chicken, but can be heavy on your diet as i
 
 ### Notes
 
-Piccata is a classic preparation for chicken, but can be heavy on your diet as it's a butter and wine-based sauce. This lighter version saves you calories by adding the zip of white wine with a tiny bit of vinegar to finish (as opposed to a cup or more simmered down), and getting the most of 1 tablespoon of butter by swirling it into the sauce at the end.
+- Piccata is a classic preparation for chicken, but can be heavy on your diet as it's a butter and wine-based sauce. This lighter version saves you calories by adding the zip of white wine with a tiny bit of vinegar to finish (as opposed to a cup or more simmered down), and getting the most of 1 tablespoon of butter by swirling it into the sauce at the end.

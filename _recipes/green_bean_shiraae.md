@@ -29,4 +29,4 @@ Green Bean Shiraae is a traditional Japanese dish that combines lightly-cooked v
 
 ### Notes
 
-Recipe by Namiko Chen of Just One Cookbook. All images and content on this site are copyright protected. Please do not use my images without my permission. If you’d like to share this recipe on your site, please re-write the recipe and link to this post as the original source. Thank you.
+- Recipe by Namiko Chen of Just One Cookbook. All images and content on this site are copyright protected. Please do not use my images without my permission. If you’d like to share this recipe on your site, please re-write the recipe and link to this post as the original source. Thank you.

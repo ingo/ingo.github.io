@@ -35,4 +35,4 @@ Potlikker (or “pot liquor”) is the brothy, nutrient-dense liquid gold tradit
 
 ### Notes
 
-Potlikker can be made 5 days ahead. Let cool. Transfer to an airtight container and chill, or freeze up to 3 months.
+- Potlikker can be made 5 days ahead. Let cool. Transfer to an airtight container and chill, or freeze up to 3 months.

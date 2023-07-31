@@ -51,4 +51,4 @@ title: Slow Cooker Chili
 
 ### Notes
 
-You can also cook the chili in a Dutch oven on your stovetop in about 1 hour. In step 2, add 1 cup water instead of 1/2 cup and let the mixture come to a simmer over medium-high. (Because the cooking liquid reduces further on the stovetop, this method starts with more water.) Reduce the heat to low, cover, and cook until the meat is tender, stirring occasionally, about 35 minutes.
+- You can also cook the chili in a Dutch oven on your stovetop in about 1 hour. In step 2, add 1 cup water instead of 1/2 cup and let the mixture come to a simmer over medium-high. (Because the cooking liquid reduces further on the stovetop, this method starts with more water.) Reduce the heat to low, cover, and cook until the meat is tender, stirring occasionally, about 35 minutes.

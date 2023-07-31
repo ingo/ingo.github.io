@@ -38,4 +38,4 @@ title: Bourbon Freddy Krueger (Whiskey Barrel Series)
 
 ### Notes
 
-The official debut of this beer will be at the National Homebrewers Conference Club Night on Friday June 22, 2012.
+- The official debut of this beer will be at the National Homebrewers Conference Club Night on Friday June 22, 2012.

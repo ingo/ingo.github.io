@@ -34,4 +34,4 @@ This Turmeric Rice recipe was inspired by the delicious food from a local Medite
 
 ### Notes
 
-Turmeric is a rhizome (a tuber, similar to a root) like ginger – in fact, turmeric and ginger are in the same family! The powder made from the root is bright yellow, and sometimes used to dye foods. It will stain, so be careful when working with it! Turmeric is not spicy, and is often used in curry.
+- Turmeric is a rhizome (a tuber, similar to a root) like ginger – in fact, turmeric and ginger are in the same family! The powder made from the root is bright yellow, and sometimes used to dye foods. It will stain, so be careful when working with it! Turmeric is not spicy, and is often used in curry.

@@ -48,4 +48,4 @@ For the sauce:
 
 ### Notes
 
-Hamish Anderson’s beer choice: Meantime London Pale Ale, Greenwich, London £1.85 (330ml), meantime.com. Meantime’s pale ale is not as aggressively hoppy as some and as such is a great food all-rounder. There is a gentle malty background to the beer which is a good contrast to chilli, before grassy, floral hops take over and deliver thirst-quenching refreshment.
+- Hamish Anderson’s beer choice: Meantime London Pale Ale, Greenwich, London £1.85 (330ml), meantime.com. Meantime’s pale ale is not as aggressively hoppy as some and as such is a great food all-rounder. There is a gentle malty background to the beer which is a good contrast to chilli, before grassy, floral hops take over and deliver thirst-quenching refreshment.

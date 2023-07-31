@@ -48,4 +48,4 @@ For Christmas Eve dinner, Judith Tirado, Michael Mina's late mother-in-law, alwa
 
 ### Notes
 
-The Dungeness crab cioppino can be prepared through Step 1 and refrigerated for up to 3 days. Have the fishmonger steam the crabs for you. For this cioppino, choose a dry Barbera from Italy's Piedmont. Its medium-bodied fresh fruitiness will taste great both in the recipe and served with it.
+- The Dungeness crab cioppino can be prepared through Step 1 and refrigerated for up to 3 days. Have the fishmonger steam the crabs for you. For this cioppino, choose a dry Barbera from Italy's Piedmont. Its medium-bodied fresh fruitiness will taste great both in the recipe and served with it.

@@ -51,4 +51,4 @@ title: Braised Brisket with Bourbon-Peach Glaze
 
 ### Notes
 
-Brisket can be made 2 days ahead. Return brisket to pot, cover, and chill. Bring to a simmer and rewarm brisket before proceeding.
+- Brisket can be made 2 days ahead. Return brisket to pot, cover, and chill. Bring to a simmer and rewarm brisket before proceeding.

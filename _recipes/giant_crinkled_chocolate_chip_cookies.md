@@ -51,6 +51,6 @@ This recipe by baker and blogger Sarah Kieffer brings a new twist to the classic
 
 ### Notes
 
-The cookies can be made smaller, but this may affect the crinkliness and texture. Adjust cooking time accordingly for smaller cookies. The dough can be refrigerated for several hours or overnight before baking.
+- The cookies can be made smaller, but this may affect the crinkliness and texture. Adjust cooking time accordingly for smaller cookies. The dough can be refrigerated for several hours or overnight before baking.
 
 Recipe adapted from "The Vanilla Bean Baking Book" by Sarah Kieffer (Avery, 2016).

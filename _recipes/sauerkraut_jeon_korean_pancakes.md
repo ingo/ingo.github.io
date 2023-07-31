@@ -47,6 +47,6 @@ Jeon are savory Korean vegetable, meat or seafood pancakes bound with the most b
 
 ### Notes
 
-This recipe is very versatile. Here are two variations:
+- This recipe is very versatile. Here are two variations:
 - Kimchi, Cabbage and Mushroom Pancakes: Stir-fry or sauté 4 ounces sliced shiitake or cremini mushrooms in 1 tablespoon vegetable oil over medium-high heat until lightly browned, about 5 minutes. Season with salt and pepper. Follow recipe for sauerkraut pancakes, substituting thinly sliced cabbage kimchi and kimchi juice for the sauerkraut and sauerkraut juice, and 2 tablespoons of gochugaru (Korean chile flakes) in place of the pickled peppers. Follow recipe as directed, adding the sautéed mushrooms to the mix in Step 2.
 - Garlicky Zucchini and Carrot Pancakes: Cut a small zucchini and a small peeled carrot into fine matchsticks by hand or on a mandoline. Toss with 1 teaspoon kosher salt and set aside in a fine-mesh strainer set over a bowl for 15 minutes. Squeeze firmly by hand to express excess liquid. Use the pressed zucchini and carrot in place of sauerkraut and replace sauerkraut juice with 1/4 cup of the zucchini-carrot liquid. Replace the pickled cherry peppers with 4 minced garlic cloves. Follow recipe as directed.

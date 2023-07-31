@@ -52,7 +52,7 @@ This is one of my best **emergency quick dinner ideas** and 2\-in\-1 veg plus ca
 
 ### Notes
 
-This recipe will serve 4 as a main or 6 to 8 as a side. To scale recipe, click Servings and slide.
+- This recipe will serve 4 as a main or 6 to 8 as a side. To scale recipe, click Servings and slide.
 
 ### Nutrition
   - 634 calories

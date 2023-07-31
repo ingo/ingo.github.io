@@ -42,4 +42,4 @@ This recipe for Spicy Tuna Handrolls is a modified version of a restaurant-style
 
 ### Notes
 
-The spicy mayo is a key part of this recipe. Feel free to adjust the amount of chili powder and sesame oil to suit your taste. The nori should be crisp when served. If you can't find Kewpie mayo, you can substitute regular mayo.
+- The spicy mayo is a key part of this recipe. Feel free to adjust the amount of chili powder and sesame oil to suit your taste. The nori should be crisp when served. If you can't find Kewpie mayo, you can substitute regular mayo.

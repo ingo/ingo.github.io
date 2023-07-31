@@ -36,4 +36,4 @@ This recipe for Smoked Turkey Soup is a family favorite, passed down through gen
 
 ### Notes
 
-This soup is very versatile. Feel free to add other vegetables or spices to suit your taste. The soup will keep in the refrigerator for up to a week, or you can freeze it for up to three months.
+- This soup is very versatile. Feel free to add other vegetables or spices to suit your taste. The soup will keep in the refrigerator for up to a week, or you can freeze it for up to three months.

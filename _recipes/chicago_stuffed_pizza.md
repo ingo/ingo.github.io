@@ -26,4 +26,4 @@ This recipe is a tribute to the classic Chicago stuffed pizza and the legendary 
 
 ### Notes
 
-The Pizza Culinary Academy is located at 1970 University Drive, Lisle, IL 60532. You can reach them at 630.395.9958 or info@pizzaculinaryacademy.com. Check out their Facebook and Instagram pages for more delicious recipes and pizza-making tips.
+- The Pizza Culinary Academy is located at 1970 University Drive, Lisle, IL 60532. You can reach them at 630.395.9958 or info@pizzaculinaryacademy.com. Check out their Facebook and Instagram pages for more delicious recipes and pizza-making tips.

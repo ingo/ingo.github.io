@@ -39,4 +39,4 @@ This recipe is adapted from the traditional Catalan Paella, a dish that is typic
 
 ### Notes
 
-Remember, you need to concentrate on the cooking and not be distracted. Having a level cooking surface is important because if the paellera is on an angle, the liquid will go to one end and the rice at the other end will not cook. Some people have been known to get out the spirit level — not a silly idea if you have one!
+- Remember, you need to concentrate on the cooking and not be distracted. Having a level cooking surface is important because if the paellera is on an angle, the liquid will go to one end and the rice at the other end will not cook. Some people have been known to get out the spirit level — not a silly idea if you have one!

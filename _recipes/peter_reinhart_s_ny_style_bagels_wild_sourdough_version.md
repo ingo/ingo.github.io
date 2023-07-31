@@ -52,7 +52,7 @@ Peter Reinhart's NY Style Bagels are a testament to the art of bagel making. Usi
 
 ### Notes
 
-Good Bagels are One of the Tastiest Baked Treats you could ask for. Repeat: good bagels. And while most people don’t often have access to really well-made bagels, when we have them, we tend to remember both the bagels and where we got them. Like most baked goods, bagels have a few needs in their production, and they require a little special equipment, but there is nothing out of the ordinary, and nothing that is cost prohibitive.
+- Good Bagels are One of the Tastiest Baked Treats you could ask for. Repeat: good bagels. And while most people don’t often have access to really well-made bagels, when we have them, we tend to remember both the bagels and where we got them. Like most baked goods, bagels have a few needs in their production, and they require a little special equipment, but there is nothing out of the ordinary, and nothing that is cost prohibitive.
 
 Most all the bagels sold today are extruded, that is, the dough is forced through tubes and mechanically cut to size. This process pumps out the bagels at high speed—thousands per hour—but is very strenuous for the dough. For a chewy bagel, one that takes a while to get through, hand forming and boiling, rather than extruding and steaming, give the best results.
 

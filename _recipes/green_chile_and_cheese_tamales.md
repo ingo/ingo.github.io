@@ -31,4 +31,4 @@ title: Green Chile and Cheese Tamales
 
 ### Notes
 
-Use Carnitas inside. Omit the chile. Cheese is optional.
+- Use Carnitas inside. Omit the chile. Cheese is optional.

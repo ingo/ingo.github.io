@@ -27,4 +27,4 @@ title: 5-Ingredient Zucchini Fritters
 
 ### Notes
 
-Don't forget to give it a star rating if you enjoyed this recipe! Share your creation with the world by mentioning @justataste or tagging #justatasterecipes.
+- Don't forget to give it a star rating if you enjoyed this recipe! Share your creation with the world by mentioning @justataste or tagging #justatasterecipes.

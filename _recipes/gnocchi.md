@@ -27,4 +27,4 @@ This classic Italian dish is a labor of love, but the result is worth it. The gn
 
 ### Notes
 
-You can serve these gnocchi with any sauce you like. They're particularly good with a simple tomato sauce or a creamy gorgonzola sauce.
+- You can serve these gnocchi with any sauce you like. They're particularly good with a simple tomato sauce or a creamy gorgonzola sauce.

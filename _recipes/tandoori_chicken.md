@@ -39,4 +39,4 @@ title: Tandoori Grilled Game Hens
 
 ### Notes
 
-Small chickens can be used in place of the cornish hens. After initial charring steps on the grill, transfer chicken to cooler side of grill and cook covered until center of breast registers 140 to 145°F on an instant read thermometer. Serve with grilled naan.
+- Small chickens can be used in place of the cornish hens. After initial charring steps on the grill, transfer chicken to cooler side of grill and cook covered until center of breast registers 140 to 145°F on an instant read thermometer. Serve with grilled naan.

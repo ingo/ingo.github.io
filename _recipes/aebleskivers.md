@@ -31,4 +31,4 @@ title: Aebleskivers
 
 ### Notes
 
-This recipe is a traditional Danish dessert, often enjoyed during the Christmas season.
+- This recipe is a traditional Danish dessert, often enjoyed during the Christmas season.

@@ -66,4 +66,4 @@ This is a recipe for naan bread that's fluffy, bubbly and chewy, just as it shou
 
 ### Notes
 
-Refer to the original recipe for detailed notes on each ingredient and step.
+- Refer to the original recipe for detailed notes on each ingredient and step.

@@ -29,4 +29,4 @@ Tutti Frutti, a magical elixir, is a tradition in our family, always served with
 
 ### Notes
 
-Tutti Frutti is a highly alcoholic condiment that is traditionally served over Ice cream, pudding, Brulees or cakes. My favorite use for it is to strain off the fruit and use the delicious liquid for the base for a hot Tutti Frutti Toddy, my drink of choice on a cold winter night. Bottle the Tutti Frutti in December and you can give it as holiday gifts.
+- Tutti Frutti is a highly alcoholic condiment that is traditionally served over Ice cream, pudding, Brulees or cakes. My favorite use for it is to strain off the fruit and use the delicious liquid for the base for a hot Tutti Frutti Toddy, my drink of choice on a cold winter night. Bottle the Tutti Frutti in December and you can give it as holiday gifts.

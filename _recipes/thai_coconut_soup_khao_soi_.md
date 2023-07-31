@@ -38,6 +38,6 @@ title: Thai Coconut Soup (Khao Soi)
 
 ### Notes
 
-To bump up the flavorful coconut broth even more, add a 4 inch piece of lemongrass (smashed) a few slices of galangal or a couple kefir lime leaves (all optional)
+- To bump up the flavorful coconut broth even more, add a 4 inch piece of lemongrass (smashed) a few slices of galangal or a couple kefir lime leaves (all optional)
 
 Feel free to make the soup the day before and keep in the fridge, keeping the noodles separate (they will swell in the soup) and simply reheat.

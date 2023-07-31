@@ -32,4 +32,4 @@ Gravlax is a traditional Nordic dish made from raw salmon that's been cured with
 
 ### Notes
 
-The ratio of salt to sugar for the cure is 2:1 per 1.5 lbs of fish. For example, for 680 g of fish, use 35 g of salt and 17.5 g of sugar.
+- The ratio of salt to sugar for the cure is 2:1 per 1.5 lbs of fish. For example, for 680 g of fish, use 35 g of salt and 17.5 g of sugar.

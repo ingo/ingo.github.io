@@ -32,4 +32,4 @@ Special Equipment: Belgian or standard waffle maker
 
 ### Notes
 
-This recipe is from [_Will It Waffle?: 53 Irresistible and Unexpected Recipes to Make in a Waffle Iron_](https://www.amazon.com/Will-Waffle-Irresistible-Unexpected-Recipes/dp/0761176462?ots=1&slotNum=2&imprToken=52be52c7-79b0-1417-3ca&tag=epicurious09-20&linkCode=w50), © 2014 by Daniel Shumski. Reprinted by permission of Workman Publishing Company.
+- This recipe is from [_Will It Waffle?: 53 Irresistible and Unexpected Recipes to Make in a Waffle Iron_](https://www.amazon.com/Will-Waffle-Irresistible-Unexpected-Recipes/dp/0761176462?ots=1&slotNum=2&imprToken=52be52c7-79b0-1417-3ca&tag=epicurious09-20&linkCode=w50), © 2014 by Daniel Shumski. Reprinted by permission of Workman Publishing Company.

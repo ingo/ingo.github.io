@@ -37,4 +37,4 @@ This vegetarian sheet-pan meal is inspired by crispy rice dishes like tahdig, fr
 
 ### Notes
 
-You can crisp the grains, halloumi and chickpeas in a large skillet over medium high in a little oil instead of the broiler; simply work in batches. If you choose to use feta instead of halloumi, know that depending on the type, it may melt instead of crisp.
+- You can crisp the grains, halloumi and chickpeas in a large skillet over medium high in a little oil instead of the broiler; simply work in batches. If you choose to use feta instead of halloumi, know that depending on the type, it may melt instead of crisp.

@@ -28,4 +28,4 @@ This cocktail was created by Ben Long at the John Dory Oyster Bar in Manhattan a
 
 ### Notes
 
-Make sure to shake with the grapefruit peel. The pith of the peel here is actually acting as the bittering agent. Shaking the hell out of it releases oils and is essential for creating a balanced drink.
+- Make sure to shake with the grapefruit peel. The pith of the peel here is actually acting as the bittering agent. Shaking the hell out of it releases oils and is essential for creating a balanced drink.

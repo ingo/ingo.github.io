@@ -55,4 +55,4 @@ This chocolate babka recipe has been refined over time, resulting in a rich, but
 
 ### Notes
 
-Babkas keep for a few days at room temperature. Longer, I’d freeze them. They freeze and defrost really well.
+- Babkas keep for a few days at room temperature. Longer, I’d freeze them. They freeze and defrost really well.

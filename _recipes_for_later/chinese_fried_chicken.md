@@ -32,4 +32,4 @@ title: Chinese Fried Chicken
 
 ### Notes
 
-This fried chicken is a must-have for any of our parties. Everybody expects to have it on the menu.
+- This fried chicken is a must-have for any of our parties. Everybody expects to have it on the menu.

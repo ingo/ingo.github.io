@@ -39,4 +39,4 @@ title: Burnt Ends From Leftover Kontosouvli
 
 ### Notes
 
-The amount of leftovers you have will vary so scale the recipe up (or down) according to your needs.
+- The amount of leftovers you have will vary so scale the recipe up (or down) according to your needs.

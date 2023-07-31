@@ -29,4 +29,4 @@ title: Turkey Sandwich with Cranberry Relish
 
 ### Notes
 
-Add a little horseradish, a little dab of gravy, or tomatoes.
+- Add a little horseradish, a little dab of gravy, or tomatoes.

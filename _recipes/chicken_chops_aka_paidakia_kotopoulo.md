@@ -35,4 +35,4 @@ In Greece, butchers will break down a whole chicken into pieces (leg, thigh, bre
 
 ### Notes
 
-I add lemon juice to the marinade when I take the chicken out of the fridge to return to room temperature. That way, I am adding citrus flavour without leaving lemon juice in a marinade too long and risk toughening the meat.
+- I add lemon juice to the marinade when I take the chicken out of the fridge to return to room temperature. That way, I am adding citrus flavour without leaving lemon juice in a marinade too long and risk toughening the meat.

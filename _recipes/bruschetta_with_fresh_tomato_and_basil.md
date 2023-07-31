@@ -28,4 +28,4 @@ This recipe is courtesy of David Rosengarten from the Food Network. It's a simpl
 
 ### Notes
 
-Remember to subscribe to the Food Network Shopping newsletter for more easy recipes, healthy eating ideas and chef recipe videos.
+- Remember to subscribe to the Food Network Shopping newsletter for more easy recipes, healthy eating ideas and chef recipe videos.

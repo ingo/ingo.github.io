@@ -39,4 +39,4 @@ The pita bread is a staple in Greek cuisine, used to scoop up dips and wrap souv
 
 ### Notes
 
-The amount of pita bread units depends on how big you roll them out to. I like big pita breads. I used a large cast iron skillet in this instance. You should be good for at least 8, depending on the size you like them to be.
+- The amount of pita bread units depends on how big you roll them out to. I like big pita breads. I used a large cast iron skillet in this instance. You should be good for at least 8, depending on the size you like them to be.

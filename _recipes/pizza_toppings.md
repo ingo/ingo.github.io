@@ -39,4 +39,4 @@ Garlic Cream Sauce:
 
 ### Notes
 
-Feel free to mix and match toppings to suit your taste. Enjoy experimenting with different flavor combinations.
+- Feel free to mix and match toppings to suit your taste. Enjoy experimenting with different flavor combinations.

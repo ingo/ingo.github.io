@@ -36,4 +36,4 @@ This garlicky, herby chicken is full-flavored and very tender, thanks to its piq
 
 ### Notes
 
-If you’re broiling instead of grilling, you can line your sheet pan with foil for easier clean up. Don’t use parchment paper, it may burn.
+- If you’re broiling instead of grilling, you can line your sheet pan with foil for easier clean up. Don’t use parchment paper, it may burn.

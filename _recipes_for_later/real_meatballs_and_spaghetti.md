@@ -54,4 +54,4 @@ This recipe comes from the Barefoot Contessa Family Style cookbook, and is a cla
 
 ### Notes
 
-Remember not to crowd the meatballs while cooking them. This will ensure they brown evenly.
+- Remember not to crowd the meatballs while cooking them. This will ensure they brown evenly.

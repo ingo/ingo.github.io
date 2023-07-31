@@ -43,4 +43,4 @@ This recipe for No-Knead Sourdough Bread is perfect for those who love the tangy
 
 ### Notes
 
-This recipe is quite flexible and can be adapted to your needs. Feel free to experiment with different types of flour, seeds, and other additions to make it your own.
+- This recipe is quite flexible and can be adapted to your needs. Feel free to experiment with different types of flour, seeds, and other additions to make it your own.

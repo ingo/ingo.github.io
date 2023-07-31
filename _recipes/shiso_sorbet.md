@@ -33,4 +33,4 @@ This Shiso Sorbet recipe is a unique dessert that brings the flavors of Tokyo to
 
 ### Notes
 
-The shiso leaves give this sorbet a unique flavor that's both refreshing and intriguing. If you can't find shiso leaves, you can substitute with mint leaves for a different but equally delicious sorbet.
+- The shiso leaves give this sorbet a unique flavor that's both refreshing and intriguing. If you can't find shiso leaves, you can substitute with mint leaves for a different but equally delicious sorbet.

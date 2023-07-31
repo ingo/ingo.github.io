@@ -6,7 +6,7 @@ title: Brining
 ---
 ### Notes
 
-This guide provides different ratios of salt, sugar, and water for brining.
+- This guide provides different ratios of salt, sugar, and water for brining.
 
 * `3:3:100` (3% brine): `30 g` salt per L water for a 3% solution
 * `5:0:100` (5% brine): `50 g` salt per L water for a 5% solution
@@ -21,4 +21,4 @@ This guide provides different ratios of salt, sugar, and water for brining.
 
 ### Notes
 
-Brining time is approximately `1 hour` per pound of meat. Adjust accordingly for larger or smaller cuts.
+- Brining time is approximately `1 hour` per pound of meat. Adjust accordingly for larger or smaller cuts.

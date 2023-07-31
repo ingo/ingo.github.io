@@ -28,4 +28,4 @@ title: Watermelon or Cantaloupe Agua Fresca
 
 ### Notes
 
-Remember to begin with sweet, juicy melon, or your agua fresca won’t have much flavor.
+- Remember to begin with sweet, juicy melon, or your agua fresca won’t have much flavor.

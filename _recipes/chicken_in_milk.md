@@ -34,4 +34,4 @@ Jamie Oliver, the British chef and cooking star, once called this recipe, which 
 
 ### Notes
 
-This dish is a favorite of Jamie Oliver, and has been featured in The New York Times. It's a bit unusual, but the flavors come together beautifully. The milk breaks down into a fascinating sauce, and the garlic becomes soft and sweet. The lemon brightens everything, and there's even a bit of crispness to the skin. It's a meal you might cook once a month for a good long while and reminisce about for years.
+- This dish is a favorite of Jamie Oliver, and has been featured in The New York Times. It's a bit unusual, but the flavors come together beautifully. The milk breaks down into a fascinating sauce, and the garlic becomes soft and sweet. The lemon brightens everything, and there's even a bit of crispness to the skin. It's a meal you might cook once a month for a good long while and reminisce about for years.

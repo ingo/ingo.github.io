@@ -31,4 +31,4 @@ title: Sous Vide Poached Shrimp
 
 ### Notes
 
-You can also cook shell-on shrimp. They will be more flavorful, but you'll either have to shell before serving, or have diners shell them on their own (or just eat the shells, they're delicious). For shell-on shrimp, add 5 minutes to the minimum cooking time.
+- You can also cook shell-on shrimp. They will be more flavorful, but you'll either have to shell before serving, or have diners shell them on their own (or just eat the shells, they're delicious). For shell-on shrimp, add 5 minutes to the minimum cooking time.

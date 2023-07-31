@@ -47,4 +47,4 @@ This Stewed Chicken Taco recipe is a perfect blend of flavors and textures. The 
 
 ### Notes
 
-This recipe is perfect for a family dinner or a casual get-together with friends. The stewed chicken is flavorful and tender, and the fresh cilantro and onion add a refreshing touch. You can also add your favorite toppings like cheese, sour cream, or guacamole for an extra burst of flavor.
+- This recipe is perfect for a family dinner or a casual get-together with friends. The stewed chicken is flavorful and tender, and the fresh cilantro and onion add a refreshing touch. You can also add your favorite toppings like cheese, sour cream, or guacamole for an extra burst of flavor.

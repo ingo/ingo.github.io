@@ -41,4 +41,4 @@ This is an easy version of coquilles St.-Jacques, the classic French preparation
 
 ### Notes
 
-This dish can be made the day before serving and heated through in an oven while guests gather.
+- This dish can be made the day before serving and heated through in an oven while guests gather.

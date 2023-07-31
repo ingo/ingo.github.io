@@ -40,4 +40,4 @@ title: Memphis Rendezvous Ribs
 
 ### Notes
 
-The cooking time for the ribs will vary depending on your preferred method (grilling, baking, etc.).
+- The cooking time for the ribs will vary depending on your preferred method (grilling, baking, etc.).
