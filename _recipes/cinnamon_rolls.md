@@ -2,7 +2,10 @@
 author: King Arthur Baking
 category: Desserts
 description: Deliciously soft and sweet cinnamon rolls, perfect for a cozy breakfast
-  or dessert.
+  or dessert. These tender cinnamon rolls are a delight to wake up to on a weekend
+  morning or enjoy as a sweet treat any time. Rolled dough is swirled with cinnamon
+  sugar that melts into the dough as they bake. The irresistible combo of fluffy dough,
+  cinnamon, and rich glaze makes these a go-to favorite recipe.
 favorite: "\u2713"
 image: cinnamon_rolls.jpg
 original_title: Cinnamon Rolls

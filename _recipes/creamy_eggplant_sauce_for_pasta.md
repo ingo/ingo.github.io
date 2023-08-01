@@ -4,7 +4,11 @@ category: Sauces
 description: A creamy pasta sauce made from roasted eggplant, offering a unique twist
   to traditional pasta sauces. This recipe is concise and requires a little planning,
   as the oven is involved. It's a great way to experience a creamy sauce quality without
-  all the cream.
+  all the cream. This eggplant-based pasta sauce provides a dairy-free twist on a
+  creamy sauce. Cubed eggplant is roasted until very soft and caramelized. The eggplant
+  is then blended into a smooth, lush sauce that clings to pasta with no cream needed.
+  The recipe does involve roasting the eggplant, so a little planning is required.
+  But the end result is a unique and creamy sauce well worth the effort.
 image: creamy_eggplant_sauce_for_pasta.jpg
 size: 4 servings
 source: https://millcityfarmersmarket.org/recipes/creamy-eggplant-sauce-for-pasta/

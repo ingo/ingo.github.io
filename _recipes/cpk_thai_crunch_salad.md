@@ -4,7 +4,11 @@ category: Entrees
 description: A delicious and healthier version of the Thai Crunch Salad from California
   Pizza Kitchen. This recipe combines a variety of fresh vegetables, grilled chicken,
   and a homemade lime cilantro Thai peanut dressing, all topped with crispy baked
-  wontons.
+  wontons. This lighter salad rendition replicates the Thai Crunch Salad made famous
+  by California Pizza Kitchen restaurants. It piles mixed crunchy vegetables, grilled
+  chicken and wonton strips atop mixed greens. The Thai peanut dressing gets its trademark
+  flavor from lime, cilantro and red curry paste. Make it at home for a restaurant-quality
+  meal with a healthier spin.
 image: cpk_thai_crunch_salad.jpg
 original_title: California Pizza Kitchen Thai Crunch Salad
 size: 12-14 servings

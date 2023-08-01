@@ -3,7 +3,12 @@ author: Alexandra
 category: Entrees
 description: A delicious and easy-to-make Chinese-style steamed whole fish. The fish
   is cooked on a bed of aromatics with a splash of sake, then dressed with a simple
-  soy sauce mixture and garnished with cilantro, scallions, and ginger.
+  soy sauce mixture and garnished with cilantro, scallions, and ginger. This easy
+  Chinese recipe teaches how to steam a whole fish to perfection. The fish is placed
+  atop a bed of ginger, scallions and sake and then steamed. It emerges moist and
+  silky with big flavor imparted from the aromatics. A soy sauce dressing provides
+  saltiness while fresh herbs and scallions garnish the fish. You'll be impressed
+  you made this restaurant-quality dish at home.
 favorite: "\u2713"
 image: chinese_style_steamed_whole_fish_with_ginger_and_scallions.jpg
 original_title: Chinese-Style Steamed Whole Fish with Ginger and Scallions

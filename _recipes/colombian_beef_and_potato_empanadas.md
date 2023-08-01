@@ -3,7 +3,12 @@ author: "J. Kenji L\xF3pez-Alt"
 category: Entrees
 description: "Colombian empanadas are typically quite small and have a crisp corn\
   \ crust. There are a wide range of fillings you\u2019ll find across Colombia, but\
-  \ this meat-and-potato mixture is the most common."
+  \ this meat-and-potato mixture is the most common. These miniature Colombian empanadas\
+  \ have an iconic crispy corn crust. While many fillings are found across Colombia,\
+  \ the most classic version contains sauteed beef, potatoes, onions and olives. The\
+  \ little empanadas make the perfect snack, with the shattering corn crust giving\
+  \ way to the savory, hearty filling within. Be sure to make extra as they disappear\
+  \ quickly!"
 image: colombian_beef_and_potato_empanadas.jpg
 image_attribution: Johnny Miller
 image_source: The New York Times

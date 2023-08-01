@@ -1,6 +1,10 @@
 ---
 category: Entrees
-description: A chicken with paprika sauce, often served with Hefeknoedel.
+description: A chicken with paprika sauce, often served with Hefeknoedel. This classic
+  dish features chicken breasts simmered in an aromatic paprika sauce. The richly
+  flavored sauce takes on lovely ruddy hue from the paprika. It is often served with
+  traditional German dumplings called hefeknoedel to soak up the sauce. The combination
+  of tender chicken with paprika gravy makes a comforting, hearty meal.
 image: chicken_with_paprika_sauce.jpg
 size: 4-6 servings
 time: 1 hour

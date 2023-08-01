@@ -2,7 +2,10 @@
 author: Anonymous
 category: Sides
 description: These potatoes are like eating clouds. They are always a hit and people
-  often ask for the recipe.
+  often ask for the recipe. The name says it all - these mashed potatoes are as light
+  and fluffy as clouds. They make a unique twist on standard mashed potatoes, becoming
+  so ethereally smooth that they live up to their name. People always request the
+  recipe after trying these dreamy spuds, which are sure to be a hit at any dinner.
 favorite: "\u2713"
 image: cloud_potatoes.jpg
 size: 2 large pots

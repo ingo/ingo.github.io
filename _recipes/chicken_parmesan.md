@@ -3,7 +3,12 @@ author: Andrew Scrivani
 category: Entrees
 description: "A classic Italian-American Parmesan \u2014 a casserole of fried, breaded\
   \ meat or eggplant covered with tomato sauce and molten cheese. Baked until brown-edged\
-  \ and bubbling, it\u2019s classic comfort food \u2014 hearty, gooey and satisfying."
+  \ and bubbling, it\u2019s classic comfort food \u2014 hearty, gooey and satisfying.\
+  \ This chicken Parmesan is a classic Italian-American comfort food dish. Chicken\
+  \ cutlets are breaded and fried until crispy, then baked with tomato sauce and mozzarella\
+  \ cheese. The dish emerges from the oven bubbling and browned with the cheese melted\
+  \ over the chicken cutlets. With its crispy chicken, savory tomato sauce and gooey\
+  \ cheese, chicken parm is the ultimate hearty and satisfying meal."
 image: chicken_parmesan.jpg
 original_title: Chicken Parmesan
 size: 6 servings

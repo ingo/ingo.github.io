@@ -3,7 +3,11 @@ author: Food Network Kitchens
 category: Entrees
 description: A classic preparation for chicken, this lighter version saves you calories
   by adding the zip of white wine with a tiny bit of vinegar to finish, and getting
-  the most of 1 tablespoon of butter by swirling it into the sauce at the end.
+  the most of 1 tablespoon of butter by swirling it into the sauce at the end. This
+  chicken piccata recipe is a healthier version of the classic. A small amount of
+  butter is used, swirled in at the end for richness. White wine and a touch of vinegar
+  provide bright flavor. The chicken cutlets cook up tender and juicy, napped in the
+  lemony pan sauce. It captures the bright essence of piccata with fewer calories.
 image: chicken_piccata.jpg
 size: 4 servings
 source: http://www.foodnetwork.com/recipes/ree-drummond/chicken-piccata-with-buttery-lemon-noodles.html

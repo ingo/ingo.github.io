@@ -2,7 +2,11 @@
 author: Rian Handler
 category: Entrees
 description: A creamy and delicious crab bisque that's perfect for a special occasion
-  or a cozy dinner at home.
+  or a cozy dinner at home. This luxurious crab bisque comes together easily for a
+  special occasion meal or casual dinner alike. A seafood stock simmers with aromatics,
+  sherry and cream before being blended silky smooth. Lumps of crab meat are stirred
+  in at the end for an elegant presentation. Topped with a final swirl of cream, this
+  bisque satisfies cravings in elegant fashion.
 image: crab_bisque.jpg
 size: 4-6 servings
 source: https://www.delish.com/author/15784/rian-handler/

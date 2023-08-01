@@ -2,7 +2,10 @@
 author: Kalofagas.ca
 category: Entrees
 description: Classic Greek chicken chops seasoned with salt, pepper, garlic, onion,
-  oregano and lemon juice. Perfect as an appetizer for 4-6 people.
+  oregano and lemon juice. Perfect as an appetizer for 4-6 people. The simple seasoning
+  of salt, pepper, garlic, onion, oregano and lemon juice gives these Greek chicken
+  chops big flavor. Grill them up and serve as a starter for a group of 4-6. The classic
+  Mediterranean flavors pair nicely with tzatziki or hummus.
 image: chicken_chops_aka_paidakia_kotopoulo.jpg
 size: 4-6 servings
 source: https://www.kalofagas.ca/

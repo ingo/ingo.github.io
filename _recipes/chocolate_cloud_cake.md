@@ -3,7 +3,10 @@ author: Richard Sax
 category: Desserts
 description: A great, flourless chocolate cake that's not too heavy. Don't skip on
   the whipped cream topping--that definitely adds a necessary piece to the overall
-  mixture.
+  mixture. This flourless chocolate cake recipe yields an ultra rich chocolate dessert
+  that's surprisingly not too heavy. The real key is topping it with freshly whipped
+  cream, which lightens up the intense chocolate. The whipped cream provides the perfect
+  finishing touch and keeps the cake from becoming too heavy.
 favorite: "\u2713"
 image: chocolate_cloud_cake.jpg
 original_title: null

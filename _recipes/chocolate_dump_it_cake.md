@@ -3,7 +3,12 @@ author: Judith Hesser
 category: Desserts
 description: "A dense but moist chocolate birthday cake, mixed all in a pot over medium\
   \ heat, then dumped into a cake pan to bake. The icing is a swirl of melted Nestl\xE9\
-  's semisweet-chocolate chips and sour cream."
+  's semisweet-chocolate chips and sour cream. True to its name, this chocolate birthday\
+  \ cake is made by dumping all the ingredients right into a pot over medium heat.\
+  \ The dense, fudgy cake batter then gets poured into a pan and baked. Topped with\
+  \ an easy icing of melted chocolate chips swirled with sour cream, this dump-and-bake\
+  \ cake always impresses. It delivers rich chocolate flavor in a treat that's perfect\
+  \ for birthdays."
 favorite: "\u2713"
 image: chocolate_dump_it_cake.jpg
 image_attribution: Danny Ghitis for The New York Times

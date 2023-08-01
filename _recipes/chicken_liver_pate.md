@@ -3,7 +3,12 @@ author: Sam Sifton
 category: Entrees
 description: "A delicious chicken p\xE2t\xE9 that can serve as an appetizer at a dinner\
   \ party, or simply as a light supper or a sandwich spread. It takes less than a\
-  \ half-hour to prepare, and it will firm up in the refrigerator in a few hours."
+  \ half-hour to prepare, and it will firm up in the refrigerator in a few hours.\
+  \ This smooth chicken liver p\xE2t\xE9 comes together in under 30 minutes and makes\
+  \ an elegant starter or sandwich spread. The livers are saut\xE9ed with shallots,\
+  \ brandy, thyme and cream for incredible richness of flavor. Chill the p\xE2t\xE9\
+  \ for a few hours until firm. Serve it with crackers or crusty bread for an easy\
+  \ yet impressive appetizer."
 image: chicken_liver_pate.jpg
 image_attribution: Christopher Testani
 image_source: The New York Times

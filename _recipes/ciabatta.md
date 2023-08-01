@@ -2,7 +2,11 @@
 author: Carol Field
 category: Entrees
 description: Traditional Italian bread made the authentic way with a biga, or starter.
-  It's incredible on its own or in a sandwich.
+  It's incredible on its own or in a sandwich. This ciabatta recipe crafts the loaf
+  the traditional Italian way using a biga starter. The biga helps create an authentic
+  flavor and texture. The resulting bread has a crisp crust with an airy crumb inside.
+  Sliced ciabatta is perfect on its own or for making sandwiches. Any way you serve
+  it, this recipe delivers authentic Italian flavor and chew.
 image: ciabatta.jpg
 original_title: Ciabatta
 size: 4 loaves

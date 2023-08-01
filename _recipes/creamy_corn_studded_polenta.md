@@ -2,7 +2,10 @@
 author: Amy Finley
 category: Entrees
 description: A creamy, corn-infused polenta that is soft, thick, and perfect for a
-  comforting meal.
+  comforting meal. This corn-studded polenta is the ultimate creamy comfort food.
+  Fresh corn and scallions are mixed right into the polenta as it cooks, infusing
+  it with sweet corn flavor. The result is soft, thick and ultra creamy polenta punctuated
+  with corn kernels. It's a new twist on classic polenta sure to become a favorite.
 image: creamy_corn_studded_polenta.jpg
 size: 4 servings
 source: http://www.epicurious.com/recipes/food/views/Creamy-Corn-Studded-Polenta-242149

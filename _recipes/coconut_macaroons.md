@@ -2,7 +2,11 @@
 author: Jennifer Segal
 category: Desserts
 description: "Soft and chewy on the inside, crisp and golden on the outside \u2014\
-  \ these are the perfect coconut macaroons."
+  \ these are the perfect coconut macaroons. This coconut macaroon recipe nails the\
+  \ balance of a crispy outside and chewy interior. Shredded coconut combines with\
+  \ sweetened condensed milk for the signature taste and texture. The macaroons emerge\
+  \ from the oven with a lovely golden exterior that cracks to reveal the soft coconut\
+  \ center. They're everything you want from a coconut macaroon."
 favorite: "\u2713"
 image: coconut_macaroons.jpg
 original_title: Coconut Macaroons

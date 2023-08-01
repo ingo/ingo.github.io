@@ -2,7 +2,11 @@
 author: Ingo Muschenetz
 category: Sides
 description: This red pepper paste has a nice texture and flavor from the addition
-  of walnuts. Serve it with pita chips, crackers, or as a spread on sandwiches.
+  of walnuts. Serve it with pita chips, crackers, or as a spread on sandwiches. This
+  red pepper spread gets a nice flavor and texture boost from the addition of walnuts.
+  The red peppers are cooked until tender then blended into a coarse paste along with
+  the walnuts and spices. Serve it as a dip with pita chips or crackers, or spread
+  it on sandwiches for a flavorful condiment.
 image: civisli_biber_red_pepper_spread.jpg
 image_attribution: Timothy L Brock
 image_source: https://unsplash.com/photos/WJ5mej6mWi4

@@ -2,7 +2,12 @@
 author: Double Rainbow
 category: Desserts
 description: An incredibly rich concoction, almost like eating frozen fudge. Once
-  you try this recipe, you won't have to go searching any further.
+  you try this recipe, you won't have to go searching any further. This chocolate
+  sorbet recipe yields an ultra rich and intense frozen dessert with a fudge-like
+  flavor and texture. Made with just a few ingredients like heavy cream and chocolate,
+  each spoonful is akin to eating frozen fudge. The intense chocolate flavor will
+  stop any dessert craving in its tracks. Once you try it, you won't need another
+  chocolate sorbet recipe.
 image: chocolate_sorbet.jpg
 size: 1 quart
 source: http://www.amazon.com/Perfect-Scoop-Sorbets-Granitas-Accompaniments/dp/1580088082/ref=sr_1_1?ie=UTF8&s=books&qid=1230264322&sr=1-1
