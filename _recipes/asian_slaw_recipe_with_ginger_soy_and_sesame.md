@@ -1,9 +1,7 @@
 ---
 category: Entrees
 description: Asian slaw is somewhat of a general term that doesn't fall neatly under
-  one specific type of Asian cuisine. It's most often eaten as a side dish and usually
-  but not always exclusively associated with Korean or Japanese dishes. This recipe
-  uses soy sauce, sesame oil, and ginger for maximum flavor.
+  one specific type of Asian cuisine.
 image: asian_slaw_recipe_with_ginger_soy_and_sesame.jpg
 nutrition:
 - 65 calories
@@ -15,6 +13,10 @@ source: https://www.thespruceeats.com/asian-slaw-recipe-1763147
 time: 10 mins
 title: Asian Slaw with Ginger Soy and Sesame
 ---
+
+ It's most often eaten as a side dish and usually
+  but not always exclusively associated with Korean or Japanese dishes. This recipe uses soy sauce, sesame oil, and ginger for maximum flavor.
+
 ### Ingredients
 
 * `4 cups` purple cabbage (shredded)

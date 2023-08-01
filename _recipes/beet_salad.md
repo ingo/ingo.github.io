@@ -2,14 +2,7 @@
 author: EatingWell Test Kitchen
 category: Sides
 description: This simple yet delicious beet salad rescues beets from bland canned
-  versions. Beets are roasted until caramelized, intensifying their natural sweet,
-  earthy flavor. Served over fresh greens with a tangy shallot vinaigrette and toasted
-  walnuts. Roasting really maximizes the sweetness of beets. Toasted walnuts add crunch
-  while tangy vinaigrette balances the earthiness. This salad may convert beet skeptics
-  into lovers. Roast the beets whole for best flavor. Their skin easily slides off
-  after cooking. Shallot vinaigrette provides a tangy complement. Toasted walnuts
-  give each bite a satisfying crunch. This salad really lets the flavors of beets
-  shine.
+  versions. 
 image: beet_salad.jpg
 nutrition:
 - 119 calories
@@ -31,6 +24,12 @@ size: 8 servings
 time: 1.5 hours
 title: Beet Salad
 ---
+
+Beets are roasted until caramelized, intensifying their natural sweet,
+  earthy flavor. Served over fresh greens with a tangy shallot vinaigrette and toasted
+  walnuts. This salad really lets the flavors of beets
+  shine.
+
 ### Ingredients
 
 * `2 pounds` golden beets (5-6 medium)

@@ -2,14 +2,15 @@
 author: Traditional Danish Recipe
 category: Breakfasts
 description: A traditional Danish breakfast or dessert consisting of spherical pancake
-  puffs, made in a special pan to create their distinctive shape. The puffs are filled
-  with jam, fruit, or other sweet fillings, then dusted with powdered sugar. Light
-  yet satisfying, they're perfect with maple syrup.
+  puffs, made in a special pan to create their distinctive shape. 
 image: aebleskivers.jpg
 size: 4 servings
 time: 30 minutes
 title: Aebleskivers
 ---
+
+The puffs are filled with jam, fruit, or other sweet fillings, then dusted with powdered sugar. Light, yet satisfying, they're perfect with maple syrup.
+
 ### Ingredients
 
 * `2` eggs

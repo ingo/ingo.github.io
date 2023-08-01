@@ -2,15 +2,15 @@
 author: Kelly Senyei
 category: Sides
 description: These delicious and easy to make zucchini fritters are perfect for a
-  quick snack or appetizer anytime. They come together with just 5 simple ingredients
-  - zucchini, flour, egg, parmesan, and parsley. Simply grate the zucchini, combine
-  with the other ingredients, then pan fry into golden brown fritter perfection.
+  quick snack or appetizer anytime.
 image: 5_ingredient_zucchini_fritters.jpg
 size: 14 fritters
 source: https://www.justataste.com/wprm_print/recipe/30565
 time: 25 minutes
 title: 5-Ingredient Zucchini Fritters
 ---
+ They come together with just 5 simple ingredients - zucchini, flour, egg, parmesan, and parsley. Simply grate the zucchini, combine with the other ingredients, then pan fry into golden brown fritter perfection.
+
 ### Ingredients
 
 * `4 cups` shredded zucchini

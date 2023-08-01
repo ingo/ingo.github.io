@@ -2,15 +2,7 @@
 author: The Wanderlust Kitchen
 category: Sides
 description: This traditional tzatziki recipe learned in Athens makes the definitive
-  version of the creamy cucumber yogurt dip. The key is draining the yogurt to achieve
-  an ultra-smooth, spreadable texture accented by fresh garlic, olive oil, vinegar
-  and mint. Letting the yogurt drain overnight results in an especially lush dip without
-  any unwanted watery whey. The garlic, olive oil and mint take it to another level
-  versus store-bought. Serve with warm pita and vegetables. Draining the yogurt produces
-  a thick, creamy texture without diluting it. Fresh garlic and herbs make it shine.
-  Hanging the yogurt overnight makes the dip incredibly creamy. The fresh herbs and
-  seasonings give it authentic flavor. This tzatziki is in a whole different league
-  than store-bought.
+  version of the creamy cucumber yogurt dip. 
 image: authentic_greek_tzatziki.jpg
 nutrition:
 - 75 calories
@@ -28,6 +20,13 @@ size: 8 servings
 time: 8 hours 10 minutes
 title: Authentic Greek Tzatziki
 ---
+
+The key is draining the yogurt to achieve
+  an ultra-smooth, spreadable texture accented by fresh garlic, olive oil, vinegar
+  and mint. The garlic, olive oil and mint take it to another level
+  versus store-bought. Serve with warm pita and vegetables. This tzatziki is in a whole different league
+  than store-bought.
+
 ### Ingredients
 
 * `1/2` of a large cucumber, unpeeled

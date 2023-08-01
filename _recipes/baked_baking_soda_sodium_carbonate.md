@@ -2,10 +2,7 @@
 author: Sho Spaeth
 category: Pantry
 description: Sodium carbonate is a strong alkaline salt that is used in making ramen
-  (noodles), among many other foods. Heating baking soda makes it transform from sodium
-  bicarbonate into sodium carbonate, which is a stronger alkaline salt capable of
-  providing a meaty flavor and springy texture to ramen noodles through an alkalization
-  process.
+  (noodles), among many other foods.
 image: baked_baking_soda_sodium_carbonate.jpg
 image_attribution: Vicky Wasik
 nutrition:
@@ -19,6 +16,12 @@ source: https://www.seriouseats.com/baked-baking-sodaundefined
 time: 2 hours
 title: Baked Baking Soda (Sodium Carbonate)
 ---
+
+Heating baking soda makes it transform from sodium
+  bicarbonate into sodium carbonate, which is a stronger alkaline salt capable of
+  providing a meaty flavor and springy texture to ramen noodles through an alkalization
+  process.
+  
 ### Ingredients
 
 * `920g` (about 32oz) baking soda

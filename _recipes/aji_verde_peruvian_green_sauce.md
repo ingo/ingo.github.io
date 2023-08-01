@@ -3,8 +3,7 @@ author: Adrianna Adarme
 category: Sauces
 description: Aji verde is a Peruvian green hot sauce typically served with roasted
   chicken. It's made from fresh cilantro, aji amarillo peppers, huacatay (black mint),
-  and queso fresco blended into a creamy, spicy green sauce. It pairs wonderfully
-  with grilled meats, roasted veggies, empanadas, or bread.
+  and queso fresco blended into a creamy, spicy green sauce.
 image: aji_verde_peruvian_green_sauce.jpg
 original_title: Aji Verde
 size: 2 cups
@@ -13,6 +12,9 @@ spicy: "\u2713"
 time: 15 minutes
 title: Aji Verde (Peruvian Green Sauce)
 ---
+
+It pairs wonderfully with grilled meats, roasted veggies, empanadas, or bread.
+
 ### Ingredients
 
 * `1` whole lime juiced
@@ -34,16 +36,9 @@ title: Aji Verde (Peruvian Green Sauce)
 
 ### Notes
 
-**Tips:**
 1. If you have a super high powered blender such as a Vitamix or Ninja, etc, it can process a lot of the stems. If you don't, I suggest to remove all of the cilantro leaves.
 2. I would suggest to add the liquids to the bottom of the blender and then add the cilantro on top. It helps combine all of the ingredients.
 3. To make this Whole 30, eliminate the cheese and replace it with a bit more Whole 30 compliant mayonnaise.
-
-**Equipment:**
-[Vitamix Blender](https://amzn.to/2QFlzpO) | [Squeeze Bottles](https://amzn.to/2QKmWUp) | [Silicon Spatulas](https://amzn.to/39GTW8A)
-
-**Ingredients:**
-[Huacatay](https://amzn.to/2STz5cs) | [Aji Amarillo](https://amzn.to/2SZK8R4) | [Aji Panca](https://amzn.to/37HFXhf)
 
 ### Nutrition
 

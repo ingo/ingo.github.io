@@ -1,15 +1,9 @@
 ---
 author: Julia Moskin
 category: Sides
-description: "More of a drink than a soup, served in frosted glasses or chilled tumblers,\
+description: More of a drink than a soup, served in frosted glasses or chilled tumblers,\
   \ gazpacho is perfect when it is too hot to eat but you need cold, salt and lunch\
-  \ all at the same time. Gazpacho is everywhere in Seville, Spain, where this recipe\
-  \ comes from, but it's not the watered-down salsa or grainy vegetable pur\xE9e often\
-  \ served in the United States. This version has no bread and is a creamy orange-pink\
-  \ rather than a lipstick red. That is because a large quantity of olive oil is required\
-  \ for making delicious gazpacho, rather than take-it-or-leave it gazpacho. The emulsion\
-  \ of red tomato juice, palest green cucumber juice and golden olive oil produces\
-  \ the right color and a smooth, almost fluffy texture."
+  \ all at the same time.
 image: best_gazpacho.jpg
 image_attribution: Christopher Simpson for The New York Times
 original_title: Gazpacho, Seville Style
@@ -18,6 +12,15 @@ source: https://www.nytimes.com/2015/07/29/dining/gazpacho-recipe-video.html
 time: 20 minutes plus chilling time
 title: Best Gazpacho
 ---
+
+Gazpacho is everywhere in Seville, Spain, where this recipe
+comes from, but it's not the watered-down salsa or grainy vegetable pur\xE9e often
+served in the United States. This version has no bread and is a creamy orange-pink
+rather than a lipstick red. That is because a large quantity of olive oil is required
+for making delicious gazpacho, rather than take-it-or-leave it gazpacho. The emulsion
+of red tomato juice, palest green cucumber juice and golden olive oil produces
+the right color and a smooth, almost fluffy texture.
+
 ### Ingredients
 
 * `2 pounds` ripe red tomatoes, cored and roughly cut into chunks

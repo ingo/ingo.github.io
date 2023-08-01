@@ -3,13 +3,7 @@ author: Andy Ricker
 category: Entrees
 description: This Thai street food classic features chewy rice noodles stir-fried
   with shrimp, tofu, sprouts and chopped peanuts in a sweet, sour and spicy tamarind
-  sauce flavored with dried shrimp and fish sauce. A delicious noodle dish packed
-  with protein. The combination of flavors and textures is what makes it so craveable.
-  Sweet, sour, spicy, crunchy - it's all there in one bowl with this recipe. The tamarind
-  sauce binds everything together and provides tartness. Chopped peanuts give crunch
-  while shrimp offer briny flavor. The rice noodles soak up the complex sweet, sour
-  and spicy tamarind sauce. Dried shrimp amplify the flavor. Chopped peanuts add textural
-  contrast. It's a party in your mouth!
+  sauce flavored with dried shrimp and fish sauce.
 image: andy_ricker_s_phat_thai_stir_fried_rice_noodles_with_shrimp_tofu_and_peanuts.jpg
 image_attribution: Austin Bush
 size: 1 serving
@@ -17,6 +11,15 @@ source: http://www.seriouseats.com/2013/11/andy-rickers-phat-thai-stir-fried-ric
 time: 1 hour
 title: Andy Ricker's Phat Thai
 ---
+
+ A delicious noodle dish packed
+  with protein. The combination of flavors and textures is what makes it so craveable.
+  Sweet, sour, spicy, crunchy - it's all there in one bowl with this recipe. The tamarind
+  sauce binds everything together and provides tartness. Chopped peanuts give crunch
+  while shrimp offer briny flavor. The rice noodles soak up the complex sweet, sour
+  and spicy tamarind sauce. Dried shrimp amplify the flavor. Chopped peanuts add textural
+  contrast. It's a party in your mouth!
+  
 ### Ingredients
 
 * `1 tbsp` medium-size dried shrimp, rinsed and patted dry

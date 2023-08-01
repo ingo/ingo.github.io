@@ -4,7 +4,11 @@ image: america_s_test_kitchen_thin_crust_pizza.jpg
 size: 16 servings
 time: 27 minutes
 title: America's Test Kitchen Thin-Crust Pizza
+description: Indulge in the classic taste of the Big Apple with this New York Thin Crust Pizza recipe.
 ---
+
+This iconic delight features a paper-thin, foldable crust topped with tangy tomato sauce, oozy mozzarella cheese, and your choice of traditional toppings, delivering an authentic slice of New York City right to your home.
+
 ### Ingredients
 
 * `3 cups` flour

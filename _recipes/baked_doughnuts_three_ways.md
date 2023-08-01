@@ -2,19 +2,20 @@
 author: King Arthur Flour
 category: Breakfasts
 description: These cake doughnuts get their flavor from spices and are baked rather
-  than fried for a healthier twist. Make plain, pumpkin spice, or Meyer lemon doughnuts
-  by mixing up a simple batter, pouring into a doughnut pan, and baking until golden
-  brown. Baked doughnuts are a smart way to enjoy the treat without all the fat and
-  mess of frying. Let the kids decorate their baked doughnuts with sprinkles or glaze
-  for an easy weekend activity. Baking the doughnuts imparts great flavor without
-  the grease of frying. The kids will have fun customizing their baked doughnuts with
-  different decorations. Make a few varieties to please all palates.
+  than fried for a healthier twist. 
 image: baked_doughnuts_three_ways.jpg
 size: 12 servings
 source: https://www.kingarthurflour.com/recipebox
 time: 25 mins
 title: Baked Doughnuts Three Ways
 ---
+
+Make plain, pumpkin spice, or Meyer lemon doughnuts
+  by mixing up a simple batter, pouring into a doughnut pan, and baking until golden
+  brown. Baked doughnuts are a smart way to enjoy the treat without all the fat and
+  mess of frying. Let the kids decorate their baked doughnuts with sprinkles or glaze
+  for an easy weekend activity.
+
 ### Ingredients
 
 * `4 tbsp` butter

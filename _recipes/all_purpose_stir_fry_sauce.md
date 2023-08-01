@@ -2,9 +2,7 @@
 author: Nagi | RecipeTin Eats
 category: Sauces
 description: This versatile all-purpose Chinese style stir fry sauce is my secret
-  weapon for quick weeknight meals. It's a flavorful glossy sauce made with soy sauce,
-  oyster sauce, sesame oil, and other aromatic ingredients. Use it to pull together
-  any combination of meat or veggies into a tasty stir fry.
+  weapon for quick weeknight meals.
 image: all_purpose_stir_fry_sauce.jpg
 nutrition:
 - 34 calories
@@ -15,6 +13,10 @@ spicy: "\u2713"
 time: 10 minutes
 title: All Purpose Stir Fry Sauce
 ---
+
+ It's a flavorful glossy sauce made with soy sauce,
+  oyster sauce, sesame oil, and other aromatic ingredients. Use it to pull together any combination of meat or veggies into a tasty stir fry.
+
 ### Ingredients
 
 * `1/4 cup / 65 ml` light soy sauce

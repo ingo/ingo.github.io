@@ -2,11 +2,7 @@
 author: 40 Aprons
 category: Sauces
 description: This au jus recipe produces a rich, deeply flavored juice that's perfect
-  for serving alongside prime rib or for making French dip sandwiches. It can be made
-  with or without meat drippings, so vegetarians can also partake in its intensely
-  savory glory. With just a few simple ingredients like herbs, garlic, wine and broth,
-  it comes together quickly but tastes like it simmered all day. So much flavor in
-  such an easy recipe!
+  for serving alongside prime rib or for making French dip sandwiches.
 image: au_jus_recipe.jpg
 nutrition:
 - 69 calories
@@ -30,6 +26,9 @@ source: https://40aprons.com/au-jus-recipe/
 time: 10 minutes
 title: Au Jus
 ---
+
+It can be made with or without meat drippings, so vegetarians can also partake in its intensely savory glory. With just a few simple ingredients like herbs, garlic, wine and broth, it comes together quickly but tastes like it simmered all day. So much flavor in such an easy recipe!
+
 ### Ingredients
 
 * `4 tbsp` butter or beef drippings

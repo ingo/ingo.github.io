@@ -1,12 +1,8 @@
 ---
 author: King Arthur Baking
 category: Desserts
-description: "Beneath this cheesecake's blistered exterior you\u2019ll find a meltingly\
-  \ smooth and creamy interior that just may change your cheesecake game forever.\
-  \ Developed by Santiago Rivera (chef and owner of La Vi\xF1a in San Sebastian, Spain)\
-  \ this unique crustless cake, with its blackened top, appears in various forms in\
-  \ American restaurants and around the internet; our version here was adapted from\
-  \ several different sources."
+description: Beneath this cheesecake's blistered exterior you\u2019ll find a meltingly\
+  \ smooth and creamy interior that just may change your cheesecake game forever.
 favorite: "\u2713"
 image: basque_style_cheesecake_tarta_de_queso.jpg
 original_title: Tarta de Queso
@@ -15,6 +11,9 @@ source: https://www.kingarthurbaking.com/recipes/basque-style-cheesecake-tarta-d
 time: 55 mins
 title: Basque-Style Cheesecake
 ---
+
+Developed by Santiago Rivera (chef and owner of La Vi\xF1a in San Sebastian, Spain) this unique crustless cake, with its blackened top, appears in various forms in American restaurants and around the internet; our version here was adapted from several different sources.
+
 ### Ingredients
 
 * `three 8-ounce packages` cream cheese

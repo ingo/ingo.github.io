@@ -2,12 +2,6 @@
 category: Entrees
 description: This bright appeteaser features tender shrimp marinated in a spicy and
   refreshing sauce of lime juice, serrano chiles, cilantro, onions, and cucumber.
-  The zesty lime cured shrimp are served chilled, usually with saltine crackers or
-  tostadas to scoop them up. The lime juice "cooks" the shrimp while infusing them
-  with citrus flavor. The serrano and cilantro provide freshness. It's a light and
-  tasty starter for a Mexican meal. The acid in the lime juice firms up the shrimp
-  without actually cooking them, resulting in a pleasant texture. The serrano chile
-  and cilantro balance out the citrus. Enjoy this as a refreshing chilled appetizer.
 image: aguachile_de_camaron.jpg
 nutrition:
 - 231 kcal
@@ -32,7 +26,9 @@ time: 40 minutes
 title: "Aguachile de Camar\xF3n"
 ---
 
-This Aguachile de Camarón recipe is a traditional Mexican dish that delivers a flavorful and zesty appetizer. The shrimp is marinated in a refreshing lime and chile sauce, making it a perfect dish to serve with tortilla chips or tostadas.
+
+  The zesty lime cured shrimp are served chilled, usually with saltine crackers or
+  tostadas to scoop them up. This Aguachile de Camarón recipe is a traditional Mexican dish that delivers a flavorful and zesty appetizer. The shrimp is marinated in a refreshing lime and chile sauce, making it a perfect dish to serve with tortilla chips or tostadas.
 
 ### Ingredients
 

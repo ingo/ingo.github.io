@@ -2,15 +2,18 @@
 author: Food Fidelity
 category: Sauces
 description: This bright salsa verde is made from the nutrient-rich greens of beets
-  rather than the typical parsley or cilantro. Pepitas, olive oil, garlic, lemon and
-  capers round out the flavor. It's delicious spooned over grilled meats, fish, sandwiches,
-  pizza, vegetables and more.
+  rather than the typical parsley or cilantro. 
 image: beet_greens_salsa_verde.jpg
 size: 1 cup
 source: https://www.foodfidelity.com/wprm_print/3353
 time: 8 minutes
 title: Beet Greens Salsa Verde
 ---
+
+Pepitas, olive oil, garlic, lemon and
+  capers round out the flavor. It's delicious spooned over grilled meats, fish, sandwiches,
+  pizza, vegetables and more.
+  
 ### Ingredients
 
 * `1 cup` beet greens (not the stems!)

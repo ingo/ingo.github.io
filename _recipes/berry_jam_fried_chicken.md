@@ -3,25 +3,28 @@ author: Nicole Taylor
 category: Entrees
 description: Though the name sounds like a wild sweet-tooth's parade, this fried chicken
   recipe actually makes perfect sense when paired with a spicy scallion cornmeal waffle.
-  The chicken is first marinated in a mixed berry jam, which caramelizes into a sticky,
-  sweet glaze when fried. Almost any summer fruit jam can be substituted in the marinade.
-  Peanut oil or another high smoke point oil is best for frying, if available.
+  
 image: berry_jam_fried_chicken.jpg
 size: 4-6 servings
 source: https://cooking.nytimes.com/search?q=Nicole+Taylor&action=click&module=byline&region=recipe%20page
 time: "35 minutes, plus at least 30 minutes\u2019 marinating"
 title: Berry-Jam Fried Chicken
 ---
+
+The chicken is first marinated in a mixed berry jam, which caramelizes into a sticky,
+  sweet glaze when fried. Almost any summer fruit jam can be substituted in the marinade.
+  Peanut oil or another high smoke point oil is best for frying, if available.
+
 ### Ingredients
 
-#### For the marinated chicken:
+For the marinated chicken:
 
 * `1` large egg
 * `⅓ cup` balsamic vinegar
 * `⅓ cup` strawberry jam (or other summer-fruit jam)
 * `2 pounds` large, thick chicken breast cutlets (about 6 pieces)
 
-#### For the dredge:
+For the dredge:
 
 * `1 cup` all-purpose flour
 * `½ cup` cornstarch
@@ -32,7 +35,7 @@ title: Berry-Jam Fried Chicken
 * `1 tsp` garlic powder
 * `1 tsp` black pepper
 
-#### For frying and serving:
+For frying and serving:
 
 * Peanut oil (or other oil with a high smoke point), as needed (about 3 cups)
 * `1 tsp` kosher salt

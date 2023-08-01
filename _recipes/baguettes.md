@@ -2,22 +2,23 @@
 author: Patrick Ryan
 category: Breads
 description: This detailed recipe guides you through all the steps to achieve perfect,
-  crusty French baguettes at home. It uses a pre-fermented dough for complex flavor.
-  Requires a 2-3 day process but the from-scratch baguettes are so worth it. Don't
-  be intimidated by the multistep process - each step is simple, and it's hands-off
-  most of the time. Starting with a preferment builds incredible flavor. Proper shaping
-  and scoring produce the signature look. Best of all, your house will smell like
-  a Parisian bakery. Taking a few days leads to the most complex flavor since the
-  yeasts have time to grow. Scoring the loaf helps it expand properly in the hot oven.
-  Your home will smell like heaven when baking these from scratch.
+  crusty French baguettes at home. 
 image: baguettes.jpg
 size: 4 baguettes
 time: 3 days
 title: Baguettes
 ---
+
+It uses a pre-fermented dough for complex flavor.
+  Requires a 2-3 day process but the from-scratch baguettes are so worth it. Don't
+  be intimidated by the multistep process - each step is simple, and it's hands-off
+  most of the time. Starting with a preferment builds incredible flavor. Proper shaping
+  and scoring produce the signature look. Best of all, your house will smell like
+  a Parisian bakery.
+
 ### Ingredients
 
-#### Pre-fermented Dough
+Pre-fermented Dough:
 
 * `125g` Strong White Flour
 * `3.5g` Salt
@@ -25,7 +26,7 @@ title: Baguettes
 * `1/4 tsp` instant yeast
 * `200g` starter
 
-#### Main Dough
+Main Dough:
 
 * `205g` Strong White Flour
 * `5g` Salt
@@ -35,7 +36,7 @@ title: Baguettes
 
 ### Directions
 
-#### Day 1
+Day 1:
 
 1. Combine the flour and salt together in a clean bowl.
 2. Crumble the fresh yeast into the water and stir together to help the yeast dissolve.
@@ -44,7 +45,7 @@ title: Baguettes
 5. Turn the dough out onto a clean work surface and knead for 3 to 4 minutes.
 6. Place the dough into an oiled bowl. Cover with cling film and place into the fridge for 12-24 hours.
 
-#### Day 2
+Day 2:
 
 1. The next morning, remove the pre-fermented dough from the fridge.
 2. In a large clean bowl combine the strong white flour and salt.
@@ -55,7 +56,7 @@ title: Baguettes
 7. Turn the dough out onto a clean work surface and knead the dough until the window pane affect has been achieved. This may take 8 – 10 minutes.
 8. Once the window pane affect has been achieved place the dough into a large clean bowl that has been oiled. Cover with cling film and place the dough into the fridge for 18-24 hours.
 
-#### Day 3
+Day 3:
 
 1. Remove the dough from the fridge and turn out onto a clean work surface then knock back.
 2. Divide the dough into even portions approximately 250g each.

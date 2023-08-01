@@ -2,14 +2,7 @@
 author: Andy Ricker
 category: Entrees
 description: This whole roasted young chicken is inspired by the incredible flavors
-  of Thai street food. It's marinated overnight in garlic, black pepper, and coriander
-  then grilled over charcoal for an unbelievable depth of flavor with crispy skin
-  and succulent meat. The charcoal cooking provides a smoky aroma and flavor that
-  ovens can't replicate. Served with a spicy dipping sauce, it's a must-try recipe
-  for Thai cuisine fans or anyone who loves a great roasted chicken. Letting the chicken
-  marinate overnight allows the seasonings to thoroughly penetrate the meat. The charcoal
-  imparts a smoky essence while crisping the skin. The chicken absorbs the aromatic
-  marinade while grilling over charcoal infuses it with smokiness.
+  of Thai street food.
 image: andy_ricker_s_kai_yaang_whole_roasted_young_chicken_from_pok_pok.jpg
 original_title: Kai Yaang
 size: 2 servings
@@ -17,6 +10,14 @@ source: https://www.seriouseats.com/andy-ricker-whole-roasted-chicken-game-hen-r
 time: 4 hours
 title: Andy Ricker's Kai Yaang (Whole Roasted Young Chicken)
 ---
+
+ It's marinated overnight in garlic, black pepper, and coriander
+  then grilled over charcoal for an unbelievable depth of flavor with crispy skin
+  and succulent meat. The charcoal cooking provides a smoky aroma and flavor that
+  ovens can't replicate. Served with a spicy dipping sauce, it's a must-try recipe
+  for Thai cuisine fans or anyone who loves a great roasted chicken. Letting the chicken
+  marinate overnight allows the seasonings to thoroughly penetrate the meat.
+
 ### Ingredients
 
 * `2` Cornish game hens or poussins (1 1/4 to 1 1/2 pounds each)

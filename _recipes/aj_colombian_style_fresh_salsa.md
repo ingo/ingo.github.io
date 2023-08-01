@@ -1,11 +1,7 @@
 ---
 author: "J. Kenji L\xF3pez-Alt"
 category: Sauces
-description: "Colombian food is typically not spicy on its own. Instead, a hot sauce\
-  \ called aj\xED \u2014 also the Colombian word for chiles \u2014 is served tableside.\
-  \ There are as many types of aj\xED as there are regions in Colombia, but this version,\
-  \ heavy on cilantro and onions, is a good all-purpose sauce that goes especially\
-  \ well with fried foods."
+description: Colombian food is typically not spicy on its own. Instead, a hot sauce called aj\xED \u2014 also the Colombian word for chiles \u2014 is served tableside.
 image: aj_colombian_style_fresh_salsa.jpg
 image_attribution: Johnny Miller for The New York Times.
 original_title: "Aj\xED"
@@ -14,6 +10,9 @@ source: https://cooking.nytimes.com/ourcooks/j-kenji-lopez-alt/my-recipes
 time: 15 minutes
 title: "Aj\xED (Colombian-Style Fresh Salsa)"
 ---
+
+There are as many types of aj\xED as there are regions in Colombia, but this version, heavy on cilantro and onions, is a good all-purpose sauce that goes especially well with fried foods.
+
 ### Ingredients
 
 * `1 packed cup` cilantro, leaves and tender stems

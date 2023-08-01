@@ -1,18 +1,16 @@
 ---
 category: Entrees
-description: This easy beet soup has a deep ruby color and sweet, earthy flavor. Fresh
-  dill and Greek yogurt swirled into sour cream offer a cool, tangy contrast when
-  spooned over the top. The yogurt and sour cream mixture forms a lush dill "cream"
-  that complements the natural sweetness of the beets. This is a great way to highlight
-  beets if you don't love them raw. Just roast, simmer then blend. Roasting the beets
-  deepens their flavor while retaining moisture compared to boiling. Blending half
-  the soup gives it body. The dill cream contrast beautifully with the earthy beets.
-  This soup lets the sweet flavor of beets shine.
+description: This easy beet soup has a deep ruby color and sweet, earthy flavor.
 image: beet_soup_with_dill_cream.jpg
 size: 4 servings
 time: 4 hours 35 minutes
 title: Beet Soup With Dill Cream
 ---
+
+Fresh
+  dill and Greek yogurt swirled into sour cream offer a cool, tangy contrast when
+  spooned over the top.
+
 ### Ingredients
 
 * `4 cups` (or more) canned low-salt chicken broth

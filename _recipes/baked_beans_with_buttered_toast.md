@@ -2,19 +2,19 @@
 author: Ingo
 category: Breakfasts
 description: These saucy baked beans served on thick buttered toast make a humble
-  yet utterly comforting meal. While associated with an English breakfast, this dish
-  became a favorite of mine while living in London. The beans lend themselves wonderfully
-  to being piled on toast. The beans are flavored with onions, garlic, mustard and
-  brown sugar as they bake low and slow until tender. Serving them atop a slice of
-  toasted bread adds texture and soaks up the sauce. The buttered toast balances the
-  sweetness. Letting the beans bake slowly develops deep flavor while the bread provides
-  a hearty base for them. The buttered toast soaks up the sauce and provides a nice
-  contrast. Beans on toast is simple perfection.
+  yet utterly comforting meal. 
 favorite: "\u2713"
 image: baked_beans_with_buttered_toast.jpg
 size: 1 serving
 title: Baked Beans with Buttered Toast
 ---
+
+While associated with an English breakfast, this dish
+  became a favorite of Ingo's while living in London. The beans lend themselves wonderfully
+  to being piled on toast. The beans are flavored with onions, garlic, mustard and
+  brown sugar as they bake low and slow until tender. Serving them atop a slice of
+  toasted bread adds texture and soaks up the sauce.
+
 ### Ingredients
 
 * `1 cup` baked beans
