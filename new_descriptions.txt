@@ -1,92 +1,116 @@
-File: chicken_chops_aka_paidakia_kotopoulo.md
-Description: Classic Greek chicken chops seasoned with salt, pepper, garlic, onion, oregano and lemon juice. Perfect as an appetizer for 4-6 people. The simple seasoning of salt, pepper, garlic, onion, oregano and lemon juice gives these Greek chicken chops big flavor. Grill them up and serve as a starter for a group of 4-6. The classic Mediterranean flavors pair nicely with tzatziki or hummus.
+File: almonds_spiced_with_paprika_and_cayenne.md
+Description: Deliciously spiced almonds with a kick. Paprika and cayenne pepper lend both flavor and color to these addictive spiced nuts, while a quick dunk in egg whites and crunchy panko breadcrumbs keeps them ultra-crisp. They make a fantastic party snack or bar nibble.
 
-File: chicken_grand_mere_francine.md
-Description: A favorite recipe of Ingo's Dad, after Daniel Bouloud. This chicken dish was a favorite of Ingo's father, adapted from a recipe by renowned chef Daniel Boulud. It features chicken breasts topped with prosciutto and cheese, baked in a paper bag for extra moisture. The recipe captures the essence of French cuisine - elegantly simple yet bursting with flavor. Serve it for a taste of France by way of Ingo's Dad.
+File: amish_sourdough_with_poppy_seeds.md
+Description: With the tangy flavor of a naturally leavened starter and the crunch of poppy seeds, this bread encapsulates the hallmarks of Amish baking. The longer fermentation develops complex flavors and creates an open crumb and sturdy crust perfect for sandwiches. It's wonderful toasted, spread with butter or jam or transformed into French toast.
 
-File: chicken_kataifi_schnitzel_with_schug_tehina.md
-Description: Crispy chicken schnitzel with a crunchy kataifi crust and a spicy schug tehina sauce. A recipe adapted from the menu of K'Far, a Brooklyn restaurant. These chicken schnitzels are coated in shredded kataifi dough for an extra crispy crust, then served with a zesty schug tehina sauce. Schug is a spicy Yemenite green chili sauce that pairs nicely with the crispy chicken. The original recipe comes from K'Far, a restaurant in Brooklyn known for its flavorful Levantine food.
+File: apple_butter.md
+Description: With apples, cider, spices, and time, you can make your own sweet and thick apple butter for toast or stacking on pancakes. The hours of slow cooking are unattended, and the tedium is minimal. Be sure to use nonreactive cookware, such as stainless steel or enameled cast iron.
 
-File: chicken_liver_pate.md
-Description: A delicious chicken pâté that can serve as an appetizer at a dinner party, or simply as a light supper or a sandwich spread. It takes less than a half-hour to prepare, and it will firm up in the refrigerator in a few hours. This smooth chicken liver pâté comes together in under 30 minutes and makes an elegant starter or sandwich spread. The livers are sautéed with shallots, brandy, thyme and cream for incredible richness of flavor. Chill the pâté for a few hours until firm. Serve it with crackers or crusty bread for an easy yet impressive appetizer.
+File: apple_cider_margarita.md
+Description: A crisp and refreshing margarita cocktail flavored with fresh apple cider. The earthy sweetness of the cider pairs perfectly with tequila and lime juice. Perfect to enjoy as the weather starts to cool. For a spicier version, rim the glass with chamoy instead of salt and add a dash of chili syrup.
 
-File: chicken_on_a_throne.md
-Description: This BBQ recipe starts with an awkward (for the chicken) cooking technique, but ends up with a smoky flavor that's difficult to beat. The meat is moist and juicy with a great mahogany hue. It's delicious by itself, but also particularly great in a chicken salad. While the vertical roasting method may seem unusual, it allows the chicken to soak up incredible smoky barbecue flavor. The bird ends up with juicy, mahogany-hued meat that is perfect on its own or used in chicken salad. The unique cooking technique yields hard-to-beat smoky flavor and texture.
+File: apple_pie.md
+Description: An easy-to-make pie with fresh apples, brown sugar, and plenty of spice baked inside a flaky crust. Top with a crumble or lattice crust for extra allure.  Spring for a homemade dough if you have the time, or use a convenient refrigerated pie crust if not. This pie is great for potlucks, dinners or holiday gatherings.
 
-File: chicken_parmesan.md
-Description: A classic Italian-American Parmesan — a casserole of fried, breaded meat or eggplant covered with tomato sauce and molten cheese. Baked until brown-edged and bubbling, it’s classic comfort food — hearty, gooey and satisfying. This chicken Parmesan is a classic Italian-American comfort food dish. Chicken cutlets are breaded and fried until crispy, then baked with tomato sauce and mozzarella cheese. The dish emerges from the oven bubbling and browned with the cheese melted over the chicken cutlets. With its crispy chicken, savory tomato sauce and gooey cheese, chicken parm is the ultimate hearty and satisfying meal.
+File: arepas.md
+Description: These super simple and delicious Venezuelan cornmeal cakes are a staple at our dinner table. The arepas recipe is incredibly versatile, working equally well as a base for breakfast, lunch or dinner. Fill them with eggs and cheese in the morning, beans and avocado at midday or shredded beef and plantains for dinner. If you don't feel like stuffing them, they're also delicious served plain or simply spread with butter.
 
-File: chicken_piccata.md
-Description: A classic preparation for chicken, this lighter version saves you calories by adding the zip of white wine with a tiny bit of vinegar to finish, and getting the most of 1 tablespoon of butter by swirling it into the sauce at the end. This chicken piccata recipe is a healthier version of the classic. A small amount of butter is used, swirled in at the end for richness. White wine and a touch of vinegar provide bright flavor. The chicken cutlets cook up tender and juicy, napped in the lemony pan sauce. It captures the bright essence of piccata with fewer calories.
+File: babaganoush.md
+Description: Smoky eggplant dip combines tahini, lemon juice, garlic and olive oil for a Middle Eastern classic. Great as a snack with pita bread, cut veggies or baked pita chips. For an extra smokey touch, grill or char the eggplant before roasting it. This flexible recipe can be easily tweaked and embellished to suit your taste with roasted red peppers, walnuts, feta and more.
 
-File: chicken_salad_a_la_danny_kaye.md
-Description: A retro chicken salad recipe using a unique technique of poaching a whole chicken slowly to keep it extra moist and flavorful. The shredded    scooked chicken is then tossed in a Dijon mustard dressing along with mayo, tarragon, and grapes for texture. This retro chicken salad recipe uses a unique whole chicken poaching technique to keep the meat extra moist. The chicken is slowly simmered in broth with aromatics. Once cooked, the chicken is shredded and then combined with a Dijon mustard dressing, mayo, tarragon, and grapes for crunch. The result is a moist, flavorful chicken salad inspired by actor Danny Kaye.
+File: bahn_mi.md
+Description: These delicious Vietnamese sandwiches are an explosion of flavors between the crunchy, airy baguette and the liver pâté, cucumber, jalapeño, cilantro, and pickled carrots and daikon radish. They are best assembled just before serving to prevent the crunchy bread from getting soggy. The pickled carrot and daikon radish will keep for a least a week in the refrigerator.
 
-File: chicken_under_a_brick.md
-Description: An Italian specialty, especially good when prepared on the grill. This requires some heavy object to weigh the chicken down. A cast-iron frying pan, or several bricks placed on top of an old jelly-roll pan, works well. This Italian chicken dish involves weighing the chicken down as it cooks, ideally on the grill. The heavy object, whether a cast-iron pan, bricks, or other weight, presses the chicken so it cooks up incredibly moist and infused with flavor. The savory juices can't escape from the pressed chicken. It's a must-try dish for grilling enthusiasts seeking the ultimate juicy and flavorful chicken.
+File: baklava.md
+Description: Impress your guests with this classic sweet pastry from the Middle East and Mediterranean, made with layers of flaky, buttery phyllo dough layered with nuts and spices, then soaked in a rosewater-scented syrup. Though it does take some time to assemble, it's worth the effort for special occasions. Try your hand at homemade phyllo for an extra decadent treat. This recipe also works well with storebought phyllo to save time.
 
-File: chicken_with_paprika_sauce.md
-Description: A chicken with paprika sauce, often served with Hefeknoedel. This classic dish features chicken breasts simmered in an aromatic paprika sauce. The richly flavored sauce takes on lovely ruddy hue from the paprika. It is often served with traditional German dumplings called hefeknoedel to soak up the sauce. The combination of tender chicken with paprika gravy makes a comforting, hearty meal.
+File: banana_pudding.md
+Description: The all-American classic dessert made new again with layers of pudding and fresh bananas tucked between light-as-air homemade sponge cake. Whether you grew up eating this at Sunday suppers or have never had the pleasure, rest assured: no boxed pudding required. Bonus: this banana pudding can be prepared a day in advance, leaving just the meringue to top right before serving for perfect presentation.
 
-File: chinese_style_steamed_whole_fish_with_ginger_and_scallions.md
-Description: A delicious and easy-to-make Chinese-style steamed whole fish. The fish is cooked on a bed of aromatics with a splash of sake, then dressed with a simple soy sauce mixture and garnished with cilantro, scallions, and ginger. This easy Chinese recipe teaches how to steam a whole fish to perfection. The fish is placed atop a bed of ginger, scallions and sake and then steamed. It emerges moist and silky with big flavor imparted from the aromatics. A soy sauce dressing provides saltiness while fresh herbs and scallions garnish the fish. You'll be impressed you made this restaurant-quality dish at home.
+File: beef_bulgogi.md
+Description: This recipe produces beef bulgogi that is sweet, savory, and a little spicy! Tender, thin slices of steak are coated in a flavor-packed marinade before grilling. The beef cooks up quickly, so watch carefully while grilling. Serve wrapped in lettuce with rice and kimchi as desired. Leftover meat keeps well refrigerated for serving over rice, in lettuce wraps, or with noodles later in the week.
 
-File: chocolate_cloud_cake.md
-Description: A great, flourless chocolate cake that's not too heavy. Don't skip on the whipped cream topping--that definitely adds a necessary piece to the overall mixture. This flourless chocolate cake recipe yields an ultra rich chocolate dessert that's surprisingly not too heavy. The real key is topping it with freshly whipped cream, which lightens up the intense chocolate. The whipped cream provides the perfect finishing touch and keeps the cake from becoming too heavy.
+File: beef_carpaccio_with_arugula_and_parmesan.md
+Description: Carpaccio is raw beef sliced tissue-paper thin and served with a sauce. Here, barely-seared beef gets topped with peppery arugula and shaved Parmesan for the perfect balance of flavors and textures. Slicing the meat by hand takes patience, but you can use a very sharp mandoline on its thinnest setting instead.
 
-File: chocolate_dump_it_cake.md
-Description: A dense but moist chocolate birthday cake, mixed all in a pot over medium heat, then dumped into a cake pan to bake. The icing is a swirl of melted Nestlé's semisweet-chocolate chips and sour cream. True to its name, this chocolate birthday cake is made by dumping all the ingredients right into a pot over medium heat. The dense, fudgy cake batter then gets poured into a pan and baked. Topped with an easy icing of melted chocolate chips swirled with sour cream, this dump-and-bake cake always impresses. It delivers rich chocolate flavor in a treat that's perfect for birthdays.
+File: beef_stew_with_carrots_and_potatoes.md
+Description: Rich, meaty beef stew made ultra-comforting with potatoes, carrots, herbs and red wine. As with most stews, this tastes even better the day after cooking, once the flavors have had a chance to further develop. To thicken the stewing liquid, stir in a tablespoon or two of flour at the end of cooking. Serve with crusty bread for soaking up the sauce. Any leftovers will keep well for a week in the fridge.
 
-File: chocolate_sorbet.md
-Description: An incredibly rich concoction, almost like eating frozen fudge. Once you try this recipe, you won't have to go searching any further. This chocolate sorbet recipe yields an ultra rich and intense frozen dessert with a fudge-like flavor and texture. Made with just a few ingredients like heavy cream and chocolate, each spoonful is akin to eating frozen fudge. The intense chocolate flavor will stop any dessert craving in its tracks. Once you try it, you won't need another chocolate sorbet recipe.
+File: beer_can_chicken.md
+Description: A whole chicken roasted upright atop an open beer can produces incredibly moist, flavorful meat infused with the beer's aroma.  The can elevates the bird on the grill for even cooking all around. You can use any basic lager or pilsner. The beer steams and bastes the chicken from the inside as the outer skin crisps. Leftovers taste fantastic shredded for tacos or sandwiches.
 
-File: churros_and_hot_chocolate.md
-Description: A classic Spanish dessert of crispy, sugar-coated churros served with a rich, dark hot chocolate for dipping. Perfect for a sweet treat or a decadent breakfast. This recipe captures the classic Spanish pairing of crispy churros with thick hot chocolate. The churros are fried until golden brown and coated in cinnamon sugar. They are served with mugs of rich, dark hot chocolate for dipping to balance the crunchy sweetness. It's an indulgent dessert or breakfast that evokes the essence of Spain.
+File: beignets.md
+Description: Essentially just fried dough tossed in powdered sugar, these classic New Orleans doughnuts are absurdly easy to whip up. They're best served warm, right after frying. The baking powder yields a light, hollow interior reminiscent of an good yeast doughnut. For more pronounced yeasty flavor, proof the dough before frying. Coffee, cafe au lait or hot chocolate make fine accompaniments.
 
-File: ciabatta.md
-Description: Traditional Italian bread made the authentic way with a biga, or starter. It's incredible on its own or in a sandwich. This ciabatta recipe crafts the loaf the traditional Italian way using a biga starter. The biga helps create an authentic flavor and texture. The resulting bread has a crisp crust with an airy crumb inside. Sliced ciabatta is perfect on its own or for making sandwiches. Any way you serve it, this recipe delivers authentic Italian flavor and chew.
+File: biscuits.md
+Description: Flaky, tender, and buttery homemade biscuits are well within reach for any home baker. This straightforward southern recipe rolls together easily with just self-rising flour, cold butter, and a bit of dairy. After a few quick turns of the biscuit cutter, they're ready for the oven. For perfect golden tops and bottoms, bake on a baking sheet. Enjoy warm from the oven, perhaps split and topped with jam, jelly, gravy or honey butter.
 
-File: cinnamon_rolls.md
-Description: Deliciously soft and sweet cinnamon rolls, perfect for a cozy breakfast or dessert. These tender cinnamon rolls are a delight to wake up to on a weekend morning or enjoy as a sweet treat any time. Rolled dough is swirled with cinnamon sugar that melts into the dough as they bake. The irresistible combo of fluffy dough, cinnamon, and rich glaze makes these a go-to favorite recipe.
+File: bloody_mary.md
+Description: This from-scratch Bloody Mary mix is seasoned heavily with black pepper, horseradish, hot sauce and Worcestershire for a nice peppery bite and robust flavor. Use a good quality tomato juice for best results. Vodka is added separately so you can control the booziness. For an extra garnish, consider olives, celery stalks, strips of bacon, pickles, or cheese cubes on skewers.
 
-File: civisli_biber_red_pepper_spread.md
-Description: This red pepper paste has a nice texture and flavor from the addition of walnuts. Serve it with pita chips, crackers, or as a spread on sandwiches. This red pepper spread gets a nice flavor and texture boost from the addition of walnuts. The red peppers are cooked until tender then blended into a coarse paste along with the walnuts and spices. Serve it as a dip with pita chips or crackers, or spread it on sandwiches for a flavorful condiment.
+File: bread_and_butter_pickles.md
+Description: These sweet, puckery fridge pickles are ready in a half-hour. They kept crisp for a few weeks stored in the syrup. The variation with fresh dill is also excellent. For a crisper texture, you can soak the sliced cucumbers in an ice bath before packing them into the jars. Feel free to customize the amount of sugar and vinegar to suit your own tastes.
 
-File: classic_british_fish_and_chips.md
-Description: Classic fish and chips are a British institution and a national dish that everyone can't help but love. You can buy them from one of the thousands of fish and chip shops all over the country, including the world-famous Harry Ramsden's—or you can make them at home. Fish and chips hold an iconic status in British culture as a beloved national dish. The combination of crispy battered fish with hot chips cooked to perfection is hard for anyone to resist. While you can enjoy outstanding fish and chips from one of thousands of shops across the UK, this recipe teaches you how to recreate the magic at home. Frying the fish and chips from scratch results in a flavorful version of this classic.
+File: bread_pudding.md
+Description: Old bread is transformed into a rich, eggy custard dotted with raisins, nuts or chopped dried fruit in this classic comfort food dessert. Whole eggs and milk or cream give bread pudding its characteristic soft richness. Vanilla and nutmeg add aroma and depth of flavor. Served warm with a scoop of ice cream or drizzle of cream, bread pudding makes an excellent holiday dessert or weekend brunch treat.
 
-File: cloud_potatoes.md
-Description: These potatoes are like eating clouds. They are always a hit and people often ask for the recipe. The name says it all - these mashed potatoes are as light and fluffy as clouds. They make a unique twist on standard mashed potatoes, becoming so ethereally smooth that they live up to their name. People always request the recipe after trying these dreamy spuds, which are sure to be a hit at any dinner.
+File: brioche_hamburger_buns.md
+Description: These brioche burger buns are tender, rich and sturdy enough to contain a juicy burger with all the fixings. The egg-enriched dough takes a little more time than your average dinner roll, but the complexity of flavor and texture is well-worth it. Melt a pat of butter on each just-toasted bun for extra indulgence. Homemade brioche also makes fantastic crab cake buns, chicken sandwiches and breakfast sandwiches.
 
-File: coconut_macaroons.md
-Description: Soft and chewy on the inside, crisp and golden on the outside — these are the perfect coconut macaroons. This coconut macaroon recipe nails the balance of a crispy outside and chewy interior. Shredded coconut combines with sweetened condensed milk for the signature taste and texture. The macaroons emerge from the oven with a lovely golden exterior that cracks to reveal the soft coconut center. They're everything you want from a coconut macaroon.
+File: brioche_tart_dough.md
+Description: This rich dough handles similarly to classic tart pastry, but has the added flavor and tenderness of egg-enriched brioche. It bakes up wonderfully flaky and can be used for both sweet and savory tarts. Blind baking isn't always necessary, but helps create an extra crisp crust for wetter fillings or open-faced galettes.
 
-File: cold_noodle_salad_with_spicy_peanut_sauce.md
-Description: Soba, Japanese buckwheat noodles, are ideal for salads because they taste particularly great when served cold. Crunchy vegetables are highlighted here, adding lots of crisp, fresh texture. The spicy peanut sauce is very adaptable and can be prepared ahead of time. Cold soba noodles are paired with crunchy vegetables and a creamy spicy peanut sauce in this salad. Soba noodles have the perfect firm-yet-pliant texture for absorbing the peanut sauce. Vegetables like cucumber, red bell pepper and carrot add great crunch. The versatile peanut sauce can be made ahead and adjusted to your spice preferences. It's a noodle salad with something for everyone.
+File: broccoli_cheddar_soup.md
+Description: Rich, velvety and comforting broccoli cheddar soup made from scratch is guaranteed to become a new family favorite. To streamline your prep time, you can chop the broccoli in a food processor. For extra richness, stir in a splash of heavy cream or half-and-half just before serving. Garnish with an extra dash of cayenne or cracked black pepper and snipped chives.
 
-File: colombian_beef_and_potato_empanadas.md
-Description: Colombian empanadas are typically quite small and have a crisp corn crust. There are a wide range of fillings you’ll find across Colombia, but this meat-and-potato mixture is the most common. These miniature Colombian empanadas have an iconic crispy corn crust. While many fillings are found across Colombia, the most classic version contains sauteed beef, potatoes, onions and olives. The little empanadas make the perfect snack, with the shattering corn crust giving way to the savory, hearty filling within. Be sure to make extra as they disappear quickly!
+File: brownies.md
+Description: Rich, fudgy chocolate brownies with walnuts and a crackly top crust are an easy dessert, perfect for chocolate-lovers. Be sure not to overbake them – they should be fudgy in the middle with crinkly, crusty tops. Underbaking by just a few minutes makes for a more gooey, molten texture if that's your thing. If peanuts are more your style, feel free to substitute those in. Brownies reheat nicely in the microwave for an after dinner treat.
 
-File: concha_cookies.md
-Description: A twist on the traditional Mexican concha bread, these cookies keep all the delicious orange blossom and vanilla flavors. The crust is a vanilla craquelin, the same recipe used for the bread and the best part of this pastry. These Mexican concha cookies capture all the flavors of the iconic concha bread in neat handheld cookies. A vanilla craquelin that mimics the bread's crackly crust tops the orange-scented cookies. Each bite delivers those beloved concha flavors of vanilla, orange blossom and caramelized sugar. The craquelin crust adds the perfect textural finish.
+File: brussels_sprouts_with_bacon_and_balsamic.md
+Description: This skillet riff on a classic Thanksgiving side dresses up Brussels sprouts with crispy bacon, tangy balsamic vinegar, and fresh herbs. Cutting the sprouts in half allows them to soak up plenty of flavor as they roast in the rendered bacon fat, yet retain their shape without becoming mushy. For the bacon, look for artisanal applewood-smoked products, or use prosciutto in a pinch.
 
-File: cpk_thai_crunch_salad.md
-Description: A delicious and healthier version of the Thai Crunch Salad from California Pizza Kitchen. This recipe combines a variety of fresh vegetables, grilled chicken, and a homemade lime cilantro Thai peanut dressing, all topped with crispy baked wontons. This lighter salad rendition replicates the Thai Crunch Salad made famous by California Pizza Kitchen restaurants. It piles mixed crunchy vegetables, grilled chicken and wonton strips atop mixed greens. The Thai peanut dressing gets its trademark flavor from lime, cilantro and red curry paste. Make it at home for a restaurant-quality meal with a healthier spin.
+File: buffalo_chicken_wings.md
+Description: These easier-than-you-think bar food classics forego deep frying in favor of baking to reduce fat and mess. While the wings roast, simmer the sauce and prep any veggie sides. Then when the wings emerge crisp and juicy, toss them with whichever level of heat you desire–mild, medium or raging inferno via habanero pepper sauce. Offer plenty of cool, crunchy celery and creamy blue cheese dressing to balance the spice.
 
-File: crab_bisque.md
-Description: A creamy and delicious crab bisque that's perfect for a special occasion or a cozy dinner at home. This luxurious crab bisque comes together easily for a special occasion meal or casual dinner alike. A seafood stock simmers with aromatics, sherry and cream before being blended silky smooth. Lumps of crab meat are stirred in at the end for an elegant presentation. Topped with a final swirl of cream, this bisque satisfies cravings in elegant fashion.
+File: bundt_pan_chocolate_chip_pound_cake.md
+Description: A buttery, vanilla chip studded pound cake baked in a Bundt pan for a pretty presentation. The rich crumb gets even better after wrapping tightly and storing at room temperature overnight before serving. For maximum visual impact, fill the fluted sides with berries, chocolate shavings, powdered sugar or crushed candy. Fancy enough for a dessert table, but humble enough for snacking.
 
-File: crab_fried_rice.md
-Description: Delicious, easy weeknight dinner that can be ready in under 30 minutes. Fried rice made with lump crab meat and many delicious Thai flavors! This quick fried rice transforms into a special weeknight dinner with the addition of fresh lump crab meat and Thai flavors. The crab elevates the dish while chili-garlic sauce, fish sauce and basil infuse it with Thai essence. Quick enough for a weeknight but special enough for company, this crab fried rice is a go-to recipe.
+File: buttermilk_pancakes.md
+Description: Fluffy, tender buttermilk pancakes are a weekend treat we never get tired of. The combination of flour, buttermilk, baking powder and soda creates the light and airy texture pancake perfection depends upon. Though this basic batter works well on its own, you can add a teaspoon of sugar or vanilla, a handful of fresh blueberries, or chocolate chips to personalize your stack.
 
-File: cranberry_margarita.md
-Description: Fantastic margarita recipe. This margarita recipe strikes the perfect balance of sweet and tart thanks to the addition of cranberry juice. The cranberry provides a subtle fruity twist on a classic cocktail that keeps you coming back for more. Tequila, orange liqueur and lime mingle with the cranberry juice for a drink as beautifully balanced as it is tempting.
+File: caesar_salad.md
+Description: For this ubiquitous classic salad, romaine lettuce leaves are dressed in an emulsion of olive oil, coddled eggs, minced garlic, lemon juice and Worcestershire sauce. Then comes a shower of freshly shredded Parmesan on top. Though anchovies appear in the original, many folks now opt to either omit them or include them on the side. Croutons are nice but totally optional.
 
-File: cranberry_orange_relish.md
-Description: The cranberry sauce of Ingo's Dad. This holiday cranberry relish was the signature sauce Ingo's father served each Thanksgiving. The cranberries and orange are simply sweetened with sugar to create a chunky-style sauce that perfectly complements the turkey and stuffing. It's a classic recipe you'll want to add to your own holiday traditions.
+File: caipirinha.md
+Description: Brazil's national cocktail, the caipirinha, mixes muddled lime wedges with sugar and cachaça, the country's local sugarcane distillate. Use a quality, aged cachaça if possible for best results. Muddling the lime, peel and all, with superfine sugar extracts maximum flavor and natural oils from the fruit. Packed with vitamin C, this refreshing libation offers a tropical vacation in a glass. Caipiroskas swap the cachaça for vodka.
 
-File: creamy_corn_studded_polenta.md
-Description: A creamy, corn-infused polenta that is soft, thick, and perfect for a comforting meal. This corn-studded polenta is the ultimate creamy comfort food. Fresh corn and scallions are mixed right into the polenta as it cooks, infusing it with sweet corn flavor. The result is soft, thick and ultra creamy polenta punctuated with corn kernels. It's a new twist on classic polenta sure to become a favorite.
+File: candied_yams_with_whipped_marshmallows.md
+Description: This Southern classic gets an update with homemade toasted marshmallows dolloped over gently spiced, caramelized yams. The sweet potato casserole bubbles away slowly in the oven, developing maximum flavor in the process. As they cool, the marshmallows set up into the perfect puffy, roasty topping. For an extra flourish, run the finished yams under the broiler for a minute or two until golden.
 
-File: creamy_eggplant_sauce_for_pasta.md
-Description: A creamy pasta sauce made from roasted eggplant, offering a unique twist to traditional pasta sauces. This recipe is concise and requires a little planning, as the oven is involved. It's a great way to experience a creamy sauce quality without all the cream. This eggplant-based pasta sauce provides a dairy-free twist on a creamy sauce. Cubed eggplant is roasted until very soft and caramelized. The eggplant is then blended into a smooth, lush sauce that clings to pasta with no cream needed. The recipe does involve roasting the eggplant, so a little planning is required. But the end result is a unique and creamy sauce well worth the effort.
+File: carne_asada_tacos.md
+Description: Tender grilled steak stars in these easy, crowd-pleasing tacos served with a simple guacamole, roasted tomato salsa and sliced radish garnish. Look for uniform 1⁄2- to 3⁄4-inch thick cuts of top round, tri-tip or flank steak to ensure even cooking. Marinating overnight helps the meat absorb lots of Mexican flavor from garlic, lime juice, chili powder and cumin. Slice thin against the grain before tucking into warm corn tortillas.
+
+File: carolina_dry_rubbed_smoked_pork_shoulder.md
+Description: For the ultimate pulled pork experience, apply a spicy, tangy dry rub to a Boston butt or picnic shoulder and smoke over indirect heat for 8-10 hours until the meat shreds effortlessly. The rub forms a flavorful crust; the slow, gentle heat tenderizes and infuses the meat with smoke. Before pulling and saucing the pork, let it rest wrapped for 30 minutes. Enjoy on soft buns with slaw and dill pickles on the side.
+
+File: cheese_and_dill_crackers.md
+Description: These tasty crackers have a crisp, flaky texture from being folded with cheese and fresh dill. Using prepared dough makes the recipe super simple. Just thaw, fold in the additions, cut into shapes and bake until nicely browned. Serve on their own or partnered with smoked salmon, fig jam, herbed cheese spreads or crudité.
+
+File: cheesecake.md
+Description: Creamy, smooth and decadent homemade cheesecake tastes so much better than what you'll find in stores and takes just a little more time and effort. Building the dessert in a springform pan allows it to firm up in the fridge overnight without a crunchy crust at the bottom. Top with fruit compote and fresh berries or swirl on chocolate ganache.
+
+File: cheese_board.md
+Description: A well-curated cheese plate doesn't have to be complicated, but a few key components will take it to the next level. Pairings, like fruit, nuts, chutney and toasted bread are essential. Include a range of textures from soft to hard, as well as flavors from mild to funky. Once your board is complete, serve at room temperature with a cold glass of wine or beer and enjoy!
+
+File: cheeseburger_soup.md
+Description: Ground beef and vegetables in a seasoned cream sauce make this soup reminiscent of a cheeseburger without the bun. Its thick texture makes it even more satisfying. Topped with crispy crumbled bacon and cheese, you'll crave this one all winter long. You can also stir in diced pickles or tomatoes for extra burger flair. If reheating leftovers, you may need to add milk or broth to thin out the soup to the original consistency.
+
+File: cherry_almond_scones.md
+Description: These tender scones studded with juicy dried cherries and crunchy sliced almonds make for a supremely satisfying brunch treat or an elegant afternoon snack. Though lovely on their own, they pair particularly well with clotted cream and jam. Chilling the butter and dry ingredients helps ensure light, fluffy texture. For added flaky layers, you can fold in a tablespoon or two of cold, unsalted butter after cutting in the larger amount.
+
+File: chicken_adobo.md
+Description: This Filipino adobo chicken is simmered in a marinade of vinegar, soy sauce, garlic, bay leaves and black pepper until the meat is fall-off-the-bone tender. Unlike adobos that call for frying, this version keeps it simple by cooking entirely on the stovetop or in a slow cooker. The braising liquid reduces down into a silky sauce, balancing sweet and sour with a touch of spice at the end. Serve with plenty of steamed rice.
+
+File: chicken_biryani.md
+Description: Fragrant, long grain basmati rice is layered with tender chunks of chicken, golden raisins, caramelized onions, and whole spices for an elegant one-pot meal. Though all biryanis build on a similar principle, specifics vary widely across India according to regional and family traditions. This version includes spinach and fresh mint for a bright pop of color and flavor. Best served family-style right from the pot.
