@@ -3,7 +3,7 @@ author: Ingo's Dad
 category: Entrees
 description: The smoked turkey of Ingo's Dad.
 favorite: "\u2713"
-image: smoked_turkey.jpg
+image: water_smoked_turkey.jpg
 original_title: Ingo's Dad's Smoked Turkey
 size: 4-6 servings
 time: Varies (See notes)

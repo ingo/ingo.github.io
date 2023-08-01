@@ -18,16 +18,16 @@ This recipe offers two methods of preparing your turkey - smoked and rotisserie.
 * `13.78 lbs` turkey
 * `2.78 tbsp` salt (Morton’s kosher) or ~5 lbs per tablespoon
 
-**Apple Dry Brine**
+Apple Dry Brine:
 * `1 tbsp` garlic powder
 * `1 package` freeze dried apples (4 oz from Trader Joe’s? blitzed to powder)
 * `1 tbsp` Herbes de Provence
 
-**Mushroom Brine**
+Mushroom Brine:
 * Salt - equivalent sodium from mushroom powder (so was about 2.5 tbsp)
 * `1 tbsp` Umami powder
 
-**Basting Mixture**
+Basting Mixture:
 * Turkey stock
 * Apple cider
 * Garlic

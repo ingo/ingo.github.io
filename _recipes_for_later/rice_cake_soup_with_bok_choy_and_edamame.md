@@ -1,6 +1,6 @@
 ---
 author: Sue Li
-category: Sides
+category: Entrees
 description: This fresh soup is a riff on something that a Chinese or Korean mom might
   make, with rice cakes added to bulk it up. They are precooked, but will rehydrate
   and soak up more liquid in this soup. If you find that they have soaked up too much,

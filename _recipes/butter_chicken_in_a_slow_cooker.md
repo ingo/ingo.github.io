@@ -7,7 +7,7 @@ description: Not every version of butter chicken uses butter. Coconut milk gives
   and spices going on the stove while simultaneously making lunches for grumpy children,
   folding dish towels, feeding the dogs and wondering once again why no one else has
   done any of the above.
-image: slow_cooker_butter_chicken.jpg
+image: butter_chicken_in_a_slow_cooker.jpg
 nutrition:
 - 684 calories
 - 37 g fat

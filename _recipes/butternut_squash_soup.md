@@ -1,5 +1,5 @@
 ---
-category: Sides
+category: Entrees
 description: "This is a colorful and healthful soup made with butternut squash. It\
   \ doesn't have any added cream, but it certainly tastes creamy. You can substitute\
   \ other hard squashes in place of the butternut\u2014we've had good success with\

@@ -1,6 +1,6 @@
 ---
 author: The Perfect Loaf
-category: Entrees
+category: Breads
 description: A hearty rye sourdough bread topped with a variety of ingredients to
   create the perfect open-faced sandwich.
 image: rye_sourdough_and_smorrebrod.jpg

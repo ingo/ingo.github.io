@@ -3,7 +3,7 @@ author: Elizabeth Minchilli
 category: Entrees
 description: A delicious Roman-style pizza with a crispy bottom and light, airy dough.
   Topped with Pelati tomatoes, sea salt, and extra-virgin olive oil.
-image: bonci_pizza_roman_style.jpg
+image: pizza_roman_style.jpg
 size: 1 large 11 by 15 pizza (or divide the dough and make 2 smaller pizzas)
 source: http://www.elizabethminchilliinrome.com/2013/11/gabriele-bonci-new-pizza-classes.html
 time: 1 day and 1 hour

@@ -1,5 +1,5 @@
 ---
-category: Sides
+category: Entrees
 description: A great beet soup.
 image: beet_soup_with_dill_cream.jpg
 size: 4 servings
