@@ -2,7 +2,11 @@
 author: Stefano Callegari, adapted by John Regefalk
 category: Entrees
 description: A super savory pizza inspired by the popular pasta dish cacio e pepe,
-  crafted by Rome's premier pizza innovator, Stefano Callegari.
+  crafted by Rome's premier pizza innovator, Stefano Callegari. This clever pizza
+  remixes the classic cacio e pepe pasta dish into pizza form. It uses minimal toppings
+  of just cheese and black pepper to allow the perfectly charred and crispy sourdough
+  crust to shine. The recipe comes from famous Roman pizza chef Stefano Callegari,
+  known for his inventive pizza creations.
 image: cacio_e_pepe_pizza.jpg
 image_attribution: Con Poulos
 image_source: https://www.conpoulos.com/

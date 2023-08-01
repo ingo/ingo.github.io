@@ -2,7 +2,11 @@
 author: Ingo Muschenetz
 category: Entrees
 description: A delightful pasta dish with a rich, creamy cheese sauce. Perfect for
-  a quick dinner or a cozy lunch.
+  a quick dinner or a cozy lunch. This decadent cacio e pepe inspired pasta uses a
+  creamy cheese sauce in lieu of just Pecorino Romano and pepper. The cheese sauce
+  clings nicely to the hot pasta, making it a great option for a quick yet satisfying
+  meal. It's easy to throw together and makes a perfect weeknight dinner or comforting
+  lunch.
 difficulty: medium
 image: cacio_non_pepe.jpg
 size: 4 servings

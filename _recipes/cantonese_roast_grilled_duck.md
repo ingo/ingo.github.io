@@ -2,7 +2,11 @@
 author: Chinese Grandma
 category: Entrees
 description: A Chinese grandma's approach to a classic Cantonese dish. This recipe
-  is approximate and by feel, so feel free to tweak it to your liking.
+  is approximate and by feel, so feel free to tweak it to your liking. This Cantonese
+  style roast duck recipe provides instructions based on the handed-down cooking wisdom
+  of a Chinese grandma. Her time-honored techniques for preparing the duck and roasting
+  it result in deliciously crispy skin and moist, flavorful meat. Since it's an approximate
+  recipe, don't be afraid to tweak amounts and cooking times based on your preferences.
 favorite: "\u2713"
 image: cantonese_roast_grilled_duck.jpg
 size: 4-6 servings

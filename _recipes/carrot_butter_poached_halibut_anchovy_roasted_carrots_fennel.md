@@ -2,7 +2,10 @@
 author: Ingo Muschenetz
 category: Entrees
 description: A delightful dish of halibut poached in carrot butter, served with anchovy-roasted
-  carrots and a fresh fennel salad.
+  carrots and a fresh fennel salad. This creative recipe combines poached halibut
+  flavored with aromatic carrot butter and complements it with two vegetable sides.
+  Carrots are roasted with savory anchovy, while thinly shaved fennel makes a light,
+  licorice-scented salad. The end result is a restaurant-worthy seafood dish.
 image: carrot_butter_poached_halibut_anchovy_roasted_carrots_fennel.jpg
 size: 4 servings
 time: 1 hour

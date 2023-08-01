@@ -3,7 +3,10 @@ author: jemangelaville.com
 category: Sides
 description: This addictive broccoli salad from Whole Foods has the perfect balance
   of crispy broccoli florets, smoky bacon, red onion, dried cranberries, sunflower
-  seeds and a sweet and tangy dressing. Easy to recreate at home.
+  seeds and a sweet and tangy dressing. The combination of the crunchy broccoli, savory
+  bacon, sweet dried cranberries, and flavorful dressing makes this salad hard to
+  stop eating. This salad is easy to recreate at home and makes for an ideal summer
+  side dish or potluck contribution.
 favorite: "\u2713"
 image: broccoli_crunch_salad_a_la_whole_foods.jpg
 original_title: "Broccoli Crunch Salad (\xE0 la Whole Foods)"

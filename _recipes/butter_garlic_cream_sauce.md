@@ -3,7 +3,10 @@ category: Sauces
 description: This easy pan sauce comes together in minutes by simmering garlic and
   herbs in butter, then pouring in cream and letting it reduce down slightly for a
   lush coating consistency. It's the ultimate topper for pasta, seafood, chicken or
-  steak.
+  steak. The combination of melted butter and cream creates an incredibly rich and
+  flavorful sauce with very minimal effort. Simply cook some garlic in butter, splash
+  in cream and reduce until thickened. This simple yet luxurious sauce pairs perfectly
+  with pasta, seafood, poultry or steak.
 image: butter_garlic_cream_sauce.jpg
 size: 4 servings
 time: 15 minutes

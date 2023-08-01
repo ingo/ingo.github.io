@@ -2,7 +2,11 @@
 author: Meera Sodha
 category: Entrees
 description: A rich and flavorful curry with cauliflower as the centerpiece, complemented
-  by cashews, coconut, and a mix of spices. Perfect for a vegan supper.
+  by cashews, coconut, and a mix of spices. Perfect for a vegan supper. This hearty
+  vegan cauliflower curry highlights cauliflower florets in a creamy, spiced coconut
+  milk-based sauce. Toasted cashews add protein and crunch, while peas offer pops
+  of color and sweetness. The medley of spices gives it a complex warmth. Serve over
+  rice for a nourishing plant-based dinner.
 image: cauliflower_cashew_pea_and_coconut_curry.jpg
 image_attribution: David Malosh
 image_source: The New York Times

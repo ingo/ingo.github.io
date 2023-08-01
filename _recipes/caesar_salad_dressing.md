@@ -1,7 +1,10 @@
 ---
 author: Unknown
 category: Sauces
-description: A rich and tangy dressing that is perfect for your Caesar salads.
+description: A rich and tangy dressing that is perfect for your Caesar salads. The
+  combination of garlic, anchovies, lemon juice, Worcestershire and Parmesan makes
+  a creamy emulsion with bright, savory umami flavor. Drizzle this Caesar dressing
+  over chopped romaine lettuce for an easy yet impressive salad.
 difficulty: easy
 image: caesar_salad_dressing.jpg
 salty: "\u2713"

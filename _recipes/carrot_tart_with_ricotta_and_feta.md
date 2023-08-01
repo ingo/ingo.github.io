@@ -2,7 +2,11 @@
 author: The New York Times
 category: Entrees
 description: A simple tart featuring beautifully cooked carrots, ricotta and feta
-  cheese. Perfect for a picnic or a light meal.
+  cheese. Perfect for a picnic or a light meal. This carrot tart recipe relies on
+  just a few main ingredients - carrots, ricotta, feta, and phyllo dough - to create
+  a flavorful appetizer or light meal. The carrots are cooked down until caramelized
+  before being combined with the cheeses and baked into the flaky phyllo crust. It's
+  impressive yet easy enough for a picnic or casual gathering.
 image: carrot_tart_with_ricotta_and_feta.jpg
 image_attribution: Romulo Yanes
 image_source: The New York Times

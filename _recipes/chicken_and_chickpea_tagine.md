@@ -3,7 +3,9 @@ author: The New York Times
 category: Entrees
 description: A slowly braised Moroccan stew, exotic in flavor and appearance. This
   version may not compare to those that begin with toasting and grinding spices and
-  peeling grapes, but it is easily executed and still divine.
+  peeling grapes, but it is easily executed and still divine. This simplified Moroccan
+  tagine still delivers on the exotic flavors of a traditional tagine without requiring
+  hard-to-find ingredients or complex techniques. Chicken and chickpeas
 image: chicken_and_chickpea_tagine.jpg
 size: 4 servings
 source: https://www.nytimes.com/

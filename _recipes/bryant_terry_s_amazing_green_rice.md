@@ -4,6 +4,10 @@ category: Sides
 description: This visually stunning rice is deeply hued from sauteed kale, spinach
   and green peppers. Cooked in stock and onion infused oil, every spoonful yields
   bright vegetal flavor with fluffy, separate grains. It's simple, healthy and delicious.
+  The variety of sauteed greens gives this rice an incredibly vibrant green color.
+  The rice itself is light and fluffy, infused with the flavors of the greens, making
+  each bite packed with flavor. This easy one-pot dish highlights nutritious greens
+  in a new and tasty way.
 image: bryant_terry_s_amazing_green_rice.jpg
 size: Varies
 source: https://www.bryant-terry.com/

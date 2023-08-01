@@ -4,7 +4,11 @@ category: Sides
 description: A surprising flavour combination that's knock-your-socks-off-good. Finely
   shredded cabbage and carrot are tossed with a spiced coconut Indian "sambal" of
   sorts. Based on the traditional Indian Thoran dry curry, this Indian Salad ridiculously
-  delicious!
+  delicious! This unique Indian-inspired salad combines finely shredded raw cabbage
+  and carrots tossed in a spicy coconut dressing. The dressing features flavors found
+  in a traditional Thoran dry curry recipe. The end result is a salad with an unexpected
+  yet delicious flavor combination that's sure to impress. It works well as either
+  a side salad or vegetarian main dish.
 image: cabbage_and_carrot_thoran_style_salad_indian_salad.jpg
 original_title: Cabbage & Carrot Thoran-style Indian Salad
 size: 5 servings

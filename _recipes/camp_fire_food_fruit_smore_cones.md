@@ -3,7 +3,10 @@ author: Ingo Muschenetz
 category: Desserts
 description: A fun and delicious campfire treat, perfect for kids and adults alike.
   Enjoy the gooey goodness of marshmallows and chocolate chips mixed with fresh fruit,
-  all stuffed into a waffle cone and heated over the fire.
+  all stuffed into a waffle cone and heated over the fire. This recipe cleverly transforms
+  the classic s'more into a unique handheld version. The marshmallows and chocolate
+  chips are combined with fresh summer fruit like cherries or raspberries, then stuffed
+  into a waffle cone and lightly toasted over the campfire for a fun and easy dessert.
 difficulty: easy
 favorite: "\u2713"
 image: camp_fire_food_fruit_smore_cones.jpg

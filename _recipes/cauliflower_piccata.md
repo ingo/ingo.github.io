@@ -3,7 +3,11 @@ author: Kate Sears
 category: Entrees
 description: "A zesty dish of roasted cauliflower doused in a buttery, briny combination\
   \ of lemon, butter and capers. Chickpeas make this a fuller vegetarian meal, but\
-  \ leave them out if you\u2019d rather."
+  \ leave them out if you\u2019d rather. This cauliflower piccata starts with roasted\
+  \ cauliflower florets cooked until nicely caramelized. Then they are topped with\
+  \ a bright lemony sauce of butter, lemon juice and crunchy capers. Chickpeas can\
+  \ be added to turn it into a hearty vegetarian main. Or serve the cauliflower solo\
+  \ as a flavorful side dish."
 image: cauliflower_piccata.jpg
 size: 2-3 servings
 source: https://cooking.nytimes.com/recipes/1022614-cauliflower-piccataundefined

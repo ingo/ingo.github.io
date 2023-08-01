@@ -2,7 +2,11 @@
 author: Ina Garten
 category: Sides
 description: Roasted whole carrots brightened up with lemon, orange and vinegar. A
-  recipe shared by Ina Garten from her book "Modern Comfort Food".
+  recipe shared by Ina Garten from her book "Modern Comfort Food". This elegant side
+  dish features whole carrots that are charred in the oven, then tossed with a zesty
+  vinaigrette of orange juice, lemon juice and vinegar while still hot. As the carrots
+  cool, they absorb the bright flavors of the dressing. The recipe comes from Ina
+  Garten's book "Modern Comfort Food".
 image: charred_carrots_with_orange_and_balsamic.jpg
 image_attribution: Christopher Simpson
 image_source: The New York Times

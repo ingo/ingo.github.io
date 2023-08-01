@@ -3,7 +3,10 @@ author: David Rosengarten
 category: Entrees
 description: This classic bruschetta topping features fresh diced tomatoes marinated
   in olive oil, balsamic vinegar, and basil. Served piled atop warm, garlicky toast
-  for an easy appetizer or light meal.
+  for an easy appetizer or light meal. The fresh tomatoes, flavored with olive oil,
+  vinegar and basil make a simple yet delicious topping. When served on the crisp
+  garlic toasts, it creates the perfect balance of flavors and textures. A great easy
+  recipe using summer's fresh tomatoes.
 difficulty: easy
 image: bruschetta_with_fresh_tomato_and_basil.jpg
 size: 12 servings

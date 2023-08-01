@@ -3,7 +3,11 @@ author: Heather Eddy
 category: Entrees
 description: "A simple solution for summer eggplants, peppers, and onions. This silken\
   \ m\xE9lange of vegetables is a non-recipe recipe that you can adjust based on whatever\
-  \ you need to use up."
+  \ you need to use up. This flexible Catalan dish provides a great way to use up\
+  \ bountiful summer vegetables like eggplant, peppers and onions. They are simply\
+  \ charred whole over a flame until softened and blistered. Then the vegetables are\
+  \ peeled and combined into a silky vegetable puree known as escalivada in Catalan.\
+  \ Adapt the vegetables based on what you have available."
 image: catalan_escalivada.jpg
 image_attribution: Emma Fishman
 image_source: https://www.bonappetit.com/contributor/heather-eddy

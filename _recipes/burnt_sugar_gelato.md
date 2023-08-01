@@ -3,7 +3,11 @@ category: Desserts
 description: This deep, dark brown gelato gets its intense flavor solely from caramelized
   sugar. The process of slowly cooking sugar to a blackened melt imbues the custard
   base with bittersweet burnt sugar flavor. It's the first ice cream Jane declared
-  perfectly made.
+  perfectly made. This burnt sugar gelato achieves its rich flavor simply from cooked
+  sugar that is melted and caramelized to a dark blackened state. That burnt sugar
+  is then used to flavor the custard base, resulting in an intense bittersweet burnt
+  flavor in the finished gelato. It's truly unique and the first ice cream Jane said
+  was perfectly executed.
 image: burnt_sugar_gelato.jpg
 size: 1 pint
 title: Burnt Sugar Gelato

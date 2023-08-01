@@ -3,7 +3,10 @@ author: David Rosengarten
 category: Sides
 description: Crisp garlic toast brushed with olive oil and finished with a sprinkle
   of salt makes the perfect base for any bruschetta topping. Bring these easy garlic
-  toasts out warm from the oven to serve.
+  toasts out warm from the oven to serve. The crisp, garlicky toast is a perfect canvas
+  for showcasing bruschetta toppings. Serve these toasts warm right after baking and
+  they will be crispy outside and slightly soft inside. Feel free to get creative
+  with different bruschetta toppings.
 image: bruschetta.jpg
 size: 12 servings
 source: https://www.heraldtribune.com/story/news/2003/07/23/simple-bruschetta/28757787007/

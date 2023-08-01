@@ -2,8 +2,11 @@
 author: Reddit User
 category: Desserts
 description: This gourmet twist on a classic kids' treat uses browned butter and fleur
-  de sel to make incredibly flavorful, grown-up rice crispy bars. The browned butter
-  adds a delicious nutty depth that pairs perfectly with the fleur de sel.
+  de sel to make incredibly flavorful, grown-up rice crispy bars. Browning the butter
+  adds a delicious nutty depth that pairs perfectly with the fleur de sel to really
+  elevate this simple treat. Using browned butter and fleur de sel transforms an ordinary
+  snack into a sophisticated dessert that will impress guests, yet is still easy enough
+  for kids to help make.
 favorite: "\u2713"
 image: browned_butter_and_sea_salt_rice_crispy_treats.jpg
 size: 9 servings
