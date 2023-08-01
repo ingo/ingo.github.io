@@ -1,8 +1,7 @@
 ---
 author: Mark Bittman
 category: Sides
-description: This simple preparation results in sweet caramelized brussels sprouts
-  that will make a believer out of anyone. Perfect as a Thanksgiving side dish.
+description: Roasted brussels sprouts caramelized in olive oil with plenty of garlic until deeply browned and crispy on the edges. This simple preparation turns brussels sprouts into something irresistible, with their natural sweetness intensified. They may win over even the most ardent brussels sprouts skeptic.
 image: roasted_brussels_sprouts_with_garlic.jpg
 image_attribution: Andrew Scrivani
 image_source: The New York Times

@@ -2,7 +2,7 @@
 title: Detroit-Style Pizza
 original_title: Detroit-Style Pizza
 category: Entrees
-description: A Detroit-style pizza known for its thick crust with crackly-crisp sides and bottom, it also layers classic pizza toppings in reverse order—first optional pepperoni, then cheese, then sauce.
+description: This pizza is baked in a rectangular steel pan which gives it a distinct thick, crispy crust with caramelized, fried edges. The brick cheese and sauce are layered on top of the crust rather than mixed in, allowing them to meld together as the pizza bakes. The cheese melts into delicious globs and slices are eaten with gusto.
 image: detroit_style_pizza.jpg
 size: 12 servings
 time: 4 hours 40 minutes

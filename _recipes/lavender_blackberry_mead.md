@@ -1,9 +1,7 @@
 ---
 author: Bill Savage
 category: Beverages
-description: A delightful Lavender-Blackberry mead recipe shared by Bill Savage, a
-  former brewer at Wild Blossom Meadery. The recipe uses raspberry honey, lavender
-  flower tips, and blackberries to create a unique, aromatic mead.
+description: A delightful mead recipe combining floral lavender and juicy blackberries, contributed by Bill Savage, a former head brewer at Wild Blossom Meadery in Chicago. The mead uses wildflower honey as a base along with lavender flowers and tips and blackberries during fermentation to create a unique, aromatic and slightly tart finished mead.
 image: lavender_blackberry_mead.jpg
 original_title: Bill Savage’s Lavender-Blackberry Mead Recipe
 size: 5 gallons

@@ -1,9 +1,7 @@
 ---
 author: King Arthur Flour
 category: Breads
-description: This deep-gold, light-textured bread is traditionally served on the Jewish
-  Sabbath and other holidays. The dough for this loaf is wonderfully smooth and supple,
-  making it an ideal candidate for braiding.
+description: Challah is a traditional Jewish egg-enriched bread often served on Shabbat and holidays. This recipe produces a loaf with a deep gold color and light, fluffy texture, ideal for braiding. The dough is wonderfully smooth and supple, a pleasure to work with.
 image: challah.jpg
 size: 1 loaf
 source: https://www.kingarthurflour.com/recipes/classic-challah-recipe

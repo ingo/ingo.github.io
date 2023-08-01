@@ -1,9 +1,7 @@
 ---
 author: Kayley
 category: Desserts
-description: A traditional Irish dessert, this apple cake is tender, soft, and jam-packed
-  with apples. Served with a creamy custard sauce, it's a decadent treat perfect for
-  any occasion.
+description: This homey cake is packed with tender apples and plump raisins, flavored with warm spices like cinnamon and clove. Topped with a crunchy streusel, it's moist and toothsome but not too sweet. Served with silky vanilla bean custard sauce, it embodies the comforting spirit of traditional Irish baking.
 image: irish_apple_cake_with_custard_sauce.jpg
 original_title: Irish Apple Cake with Custard Sauce
 size: 12 servings

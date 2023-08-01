@@ -1,8 +1,7 @@
 ---
 author: Unknown
 category: Entrees
-description: A flavorful smoked salmon recipe that brings out the natural richness
-  of the fish with a hint of smoky goodness.
+description: This recipe produces beautifully flaky, succulent hot smoked salmon with a lovely hint of wood smoke flavor. Salmon fillets are cured in a brown sugar brine, then smoked over smoldering wood chips just until cooked through, without drying them out. The fish stays moist, with its natural oils and richness intensified by the smoke.
 image: hot_smoked_salmon.jpg
 size: Varies with fillet size
 time: 4-5 hours

@@ -1,9 +1,7 @@
 ---
 author: Chris Cockren
 category: Entrees
-description: A delicious vegetarian alternative that is perfect for a party menu.
-  This taco is good enough for all the omnivores in your life as well. It'll make
-  them feel like they're being all good and healthy.
+description: A delicious vegetarian taco filling made with Swiss chard and onions sauteed with spices. This flavorful plant-based option is perfect for a party menu, as it's hearty and satisfying enough for omnivores too. It'll make them feel like they're being all good and healthy while still enjoying tasty tacos.
 image: swiss_chard_and_onion_tacos.jpg
 original_title: Swiss Chard and Onion Tacos
 size: Varies

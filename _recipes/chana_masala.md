@@ -1,9 +1,7 @@
 ---
 author: Atul Kochhar
 category: Entrees
-description: A beautifully balanced Indian dish with a wonderful blend of spices.
-  The color due to the tea, paprika and turmeric is beautiful as well. The fresh coriander
-  on top at the end is a nice touch.
+description: Chana masala is a Northern Indian dish with chickpeas braised in a beautifully balanced, aromatic sauce of tomatoes, onions, garlic, ginger and myriad warming spices like coriander, cumin, cinnamon, turmeric and cayenne. The resulting dish has a wonderful blend of flavors and fragrance. The golden color imparted by spices like turmeric and paprika is beautiful as well. It is typically served garnished with chopped fresh coriander.
 favorite: "\u2713"
 image: chana_masala.jpg
 original_title: Chana Masala

@@ -9,7 +9,8 @@ def find_description_and_copy(directory):
     if not os.path.exists(to_process_dir):
         os.makedirs(to_process_dir)
 
-    for filename in os.listdir(directory):
+    files = sorted(os.listdir(directory))  # Sort files alphabetically
+    for filename in files:
         if filename.endswith('.md'):
             file_path = os.path.join(directory, filename)
             with open(file_path, 'r') as file:
@@ -23,7 +24,7 @@ def find_description_and_copy(directory):
                 yaml_data = yaml.safe_load(yaml_match.group(1))
                 description = yaml_data.get('description')
 
-                if description and len(description) >= 270:
+                if description and len(description) <= 270:
                     print(f"File: {filename}")
                     print(f"Description: {description}\n")
                     new_file_path = os.path.join(to_process_dir, filename)

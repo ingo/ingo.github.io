@@ -1,9 +1,7 @@
 ---
 author: heneedsfood.com
 category: Sides
-description: A delicious filled pastry that has been adopted by many nations surrounding
-  present day Turkey. This recipe includes two varieties of burek, one cheese and
-  one meat & potato.
+description: A traditional filled pastry dough that can be used to make both sweet and savory borek pastries, popular in Turkey and surrounding regions. This recipe includes two types - one with feta and mint for a savory cheese borek, and one with spiced meat and potatoes for a heartier borek. The dough is thin yet sturdy enough to contain varied fillings.
 image: borek_dough.jpg
 original_title: Burek
 size: 2 servings

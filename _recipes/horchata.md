@@ -1,8 +1,7 @@
 ---
 author: Julia Child
 category: Beverages
-description: A creamy, icy horchata to wash down a plate of carnitas. This is our
-  attempt to replicate the one from La Super-Rica Taqueria.
+description: Horchata is a creamy, refreshing beverage originating in Latin America, made from soaked rice and spices like cinnamon and vanilla. This version is dairy-free, using ice to achieve a frothy, milkshake-like texture. It's lightly sweetened and perfect to accompany Mexican food on a hot day. This is our attempt to replicate the one from La Super-Rica Taqueria.
 image: horchata.jpg
 original_title: null
 size: 4 servings

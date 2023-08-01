@@ -1,10 +1,7 @@
 ---
 author: Taichi Kitamura
 category: Entrees
-description: Add shioyaki—Japanese for "salt-grilled"—to your repertoire. This technique,
-  also the name of the dish, creates salmon with an umami-flavored crust and a crispy
-  skin. We've added an addictive, shake-on seasoning you can get at Asian grocery
-  stores or online.
+description: Add shioyaki—Japanese for "salt-grilled"—to your repertoire. This quick cooking technique produces salmon with an umami-flavored salty crust and crispy skin. We've added an addictive, shake-on seasoning you can get at Asian grocery stores or online to amplify the flavors.
 image: salmon_shioyaki.jpg
 image_attribution: Leigh Beisch
 image_source: Dan Becker

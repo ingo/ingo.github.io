@@ -1,8 +1,7 @@
 ---
 author: Andy Ricker
 category: Entrees
-description: A flavorful Thai dish with shrimp, tofu, and peanuts stir-fried with
-  rice noodles.
+description: Fresh green beans lightly steamed then tossed with a rich, homemade basil pesto sauce, garnished with torn basil leaves and toasted pine nuts. A simple yet flavorful side dish.
 image: andy_ricker_s_phat_thai_stir_fried_rice_noodles_with_shrimp_tofu_and_peanuts.jpg
 image_attribution: Austin Bush
 size: 1 serving

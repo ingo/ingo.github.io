@@ -1,9 +1,7 @@
 ---
 author: Kat Boytsova
 category: Breakfasts
-description: Tender and a little bit tangy, these crepes make an ideal blank canvas
-  for sweet or savory toppings. Be patient when you start to cook them, since just
-  like pancakes, the first crepe is never the best.
+description: Tender and delicately tangy crepes made with a sourdough starter. The sourdough adds complexity and lifts the classic crepe to new heights. Be patient when you start to cook them, since just like pancakes, the first crepe is never the best as you get the hang of it. They make an ideal canvas for either sweet or savory fillings.
 image: sourdough_crepes.jpg
 original_title: Sourdough Crepes
 size: 12 crepes

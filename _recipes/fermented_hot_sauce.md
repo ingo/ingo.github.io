@@ -1,8 +1,7 @@
 ---
 author: Sylvia Fountaine
 category: Sauces
-description: A simple delicious recipe for Fermented Hot Sauce using fresh summer
-  chilies, with no special equipment and only 20 minutes of hands on time!
+description: Tender and delicately tangy crepes made with a sourdough starter. The sourdough adds complexity and lifts the classic crepe to new heights. Be patient when you start to cook them, since just like pancakes, the first crepe is never the best as you get the hang of it. They make an ideal canvas for either sweet or savory fillings.
 favorite: ✓
 image: fermented_hot_sauce.jpg
 original_title: Fermented Hot Sauce

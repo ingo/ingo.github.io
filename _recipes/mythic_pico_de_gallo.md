@@ -1,8 +1,7 @@
 ---
 author: Anonymous
-category: Entrees
-description: A refreshing and spicy pico de gallo with a secret ingredient - MSG.
-  Perfect for dipping or topping your favorite Mexican dishes.
+category: Sides
+description: A vibrant Mexican salsa fresca with a secret ingredient - MSG. In addition to the usual tomatoes, onion, chilies and lime, a dash of MSG boosts the savory umami flavor. The salsa has the perfect balance of freshness, spice and savoriness. Great for dipping chips or spooning over tacos.
 image: mythic_pico_de_gallo.jpg
 size: 4-6 servings
 spicy: "\u2713"

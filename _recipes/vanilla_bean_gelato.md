@@ -1,8 +1,7 @@
 ---
 author: Ice Cream Science
 category: Desserts
-description: A rich and creamy gelato with a strong vanilla flavor, made from scratch
-  with fresh vanilla beans.
+description: A luxuriously rich and creamy vanilla gelato made from scratch using real vanilla beans, milk, cream, sugar and egg yolks. The intensity of the vanilla comes from infusing heated cream with whole vanilla beans and seeds scraped from the pod. Gelato has a smoother texture than ice cream due to less air whipped in during churning.
 difficulty: medium
 favorite: ✓
 image: vanilla_bean_gelato.jpg

@@ -1,7 +1,7 @@
 ---
 author: Ingo Muschenetz
 category: Entrees
-description: A very nice salmon salad to eat with rice.
+description: A simple yet delicious salmon salad featuring raw salmon, tobiko, sesame oil and mayonnaise. Delightful spooned over sushi rice.
 image: salmon_salad.jpg
 size: Serves 4
 time: 15 mins

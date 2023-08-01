@@ -1,9 +1,7 @@
 ---
 author: The Wanderlust Kitchen
 category: Sides
-description: Greek Gigantes are, not surprisingly, GIANT beans! In this recipe, the
-  gigantes are slow cooked in a rich tomato sauce until perfectly creamy and tender.
-  Serve over toasted crusty bread for an easy vegetarian meal.
+description: Greek Gigantes, meaning “giant beans”, live up to their name. These large white beans are slow simmered in a rich tomato and herb sauce until perfectly tender and creamy. They make a satisfying vegetarian main dish when served over crusty toasted bread. The beans become melt-in-your-mouth soft and soak up the flavors of the aromatic sauce.
 image: greek_gigantes.jpg
 original_title: Greek Gigantes
 size: servings

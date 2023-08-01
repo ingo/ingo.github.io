@@ -1,7 +1,7 @@
 ---
 author: Emily Lubien
 category: Beverages
-description: A classic cocktail recipe contributed by Emily Lubien.
+description: A classic cosmo cocktail recipe contributed by Emily Lubien. Made with vodka, triple sec, cranberry juice and lime juice, it's tangy, sweet-tart and refreshing. Garnish with a lime wheel. Shake over ice and strain into a chilled martini glass for a touch of sophistication.
 favorite: "\u2713"
 image: cosmopolitan.jpg
 size: 4 servings

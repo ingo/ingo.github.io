@@ -1,8 +1,7 @@
 ---
 author: Tasty
 category: Desserts
-description: Delicious and creamy egg tarts with a flaky pastry crust, a popular treat
-  from Hong Kong.
+description: Also known as miso-marinated black cod, this seafood dish features tender, buttery cod marinated for days in a sweet and salty miso paste. The fish is then slowly baked until caramelized and irresistibly tender. With its delicate texture that seems to melt in your mouth, it's an impressive recipe you can make at home.
 image: hong_kong_style_egg_tarts.jpg
 size: 16 servings
 time: 1 hour 30 minutes

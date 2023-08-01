@@ -1,7 +1,7 @@
 ---
 author: Catherine McCord
 category: Entrees
-description: A delightful sandwich filled with cucumber, onion, and cream cheese.
+description: A delightful old-fashioned tea sandwich filled with cool, creamy cucumber slices, thinly sliced red onion, and herbed cream cheese or mayonnaise. The simple combination makes for a refreshing nibble.
 image: benedictine_sandwiches.jpg
 size: Varies
 source: https://www.epicurious.com/contributors/catherine-mccord

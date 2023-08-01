@@ -8,3 +8,4 @@ _recipes/_to_process
 UpdatedMarkdownFiles/
 .gitignore
 _recipes/_to_process.zip
+.DS_Store

@@ -1,8 +1,7 @@
 ---
 author: Ingo Muschenetz
 category: Sides
-description: This dish we've made multiple times. Sometimes it has turned out wonderful,
-  other times, just good. We are still working on tuning the spice amounts.
+description: This fragrant rice pilaf flavored with pistachios and raisins is a dish we've made multiple times, though sometimes it has turned out wonderful while other times just good. We are still working on perfecting the balance of spices and dialing in the measurements.
 image: rice_pilaf_with_pistachios_and_raisins.jpg
 title: Rice Pilaf With Pistachios And Raisins
 ---

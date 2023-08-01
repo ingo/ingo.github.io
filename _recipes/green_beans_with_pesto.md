@@ -1,7 +1,6 @@
 ---
 category: Sides
-description: Fresh green beans tossed in homemade pesto sauce, garnished with torn
-  basil leaves and pine nuts.
+description: Fresh green beans lightly steamed then tossed with a rich, homemade basil pesto sauce, garnished with torn basil leaves and toasted pine nuts. A simple yet flavorful side dish.
 image: green_beans_with_pesto.jpg
 image_source: https://themodernproper.com/pesto-green-beans
 size: 2 servings

@@ -1,10 +1,7 @@
 ---
 author: The Spruce Eats
 category: Beverages
-description: Deep purple in color and made from dried corn, non-alcoholic chicha morada
-  (“purple beverage”) is Peru's iconic refreshing drink. The flavor is slightly rustic,
-  mildly sweet, and surprisingly invigorating due to the spices used in its preparation.
-image: peruvian_chicha_morada.jpg
+description: Chicha morada is a non-alcoholic beverage from Peru made with purple corn, spices like cinnamon and cloves, and apple. Its deep purple color comes from the corn. Lightly sweet and refreshing, with a touch of spice. Often served over ice with raw pineapple chunks. A tangy, invigorating drink.
 image_attribution: The Spruce / Julia Hartbeck
 size: 8 servings
 source: https://www.thespruceeats.com/chicha-morada-4156888

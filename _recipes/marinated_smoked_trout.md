@@ -1,8 +1,6 @@
 ---
 category: Entrees
-description: A delightful combination of smoked trout, pickled cherry tomatoes, and
-  thinly sliced carrots, all brought together with a tangy mix of roasted garlic olive
-  oil and white balsamic vinegar.
+description: A simple smoked trout appetizer featuring flaky hot smoked trout paired with quick-pickled cherry tomatoes and matchstick carrots. It's all brought together by a tangy vinaigrette of garlic olive oil and white balsamic vinegar that allows the flavors to shine.
 image: marinated_smoked_trout.jpg
 size: 2 servings
 time: 30 minutes
