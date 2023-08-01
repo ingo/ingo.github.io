@@ -8,7 +8,7 @@ description: Ras el Hanout, a North African Spice mix, is a pungent, earthy spic
 image: ras_el_hanout.jpg
 size: 10 servings
 source: https://www.anediblemosaic.com
-spicy: ✓
+spicy: "\u2713"
 time: 15 minutes
 title: Ras el Hanout
 ---

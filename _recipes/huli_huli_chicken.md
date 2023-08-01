@@ -7,7 +7,7 @@ image: huli_huli_chicken.jpg
 image_attribution: Andrew Purcell for The New York Times
 size: 4-6 servings
 source: https://cooking.nytimes.com/guides/7-how-to-grill
-time: 45 minutes, plus 8 hours’ marinating
+time: "45 minutes, plus 8 hours\u2019 marinating"
 title: Huli Huli Chicken
 ---
 In 1955, Ernest Morgado, a Honolulu businessman, served a group of farmers grilled chicken that had been marinated in his mother’s teriyaki-style sauce. It was such a hit that he decided to market it with the name “huli huli.” Huli means “turn” in Hawaiian and refers to how it’s prepared: grilled between two racks and turned halfway through cooking. This simplified version calls for chicken pieces and a standard grill. The original recipe is a trade secret, but you can find many slightly different variations on the internet, typically including ginger, garlic, soy sauce, something sweet (honey, brown sugar or maple syrup) and something acidic (vinegar, white wine, lime juice or pineapple juice). This recipe is adapted from “Aloha Kitchen: Recipes from Hawai‘i” by Alana Kysar (Ten Speed, March 2019). It also works beautifully with boneless chicken thighs, but adjust your cooking time accordingly.

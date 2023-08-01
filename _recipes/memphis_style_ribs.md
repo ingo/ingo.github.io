@@ -1,7 +1,11 @@
 ---
 author: Steven Raichlen
 category: Entrees
-description: Memphis-style ribs showcase a fusion of regional American barbecue traditions. Pork ribs are rubbed with a blend of herbs and spices then smoked over indirect heat. The simple idea of smoked pork ribs has given birth to many great regional variations over time. A pork rib fresh off the grill or smoker is one of life's great pleasures
+description: Memphis-style ribs showcase a fusion of regional American barbecue traditions.
+  Pork ribs are rubbed with a blend of herbs and spices then smoked over indirect
+  heat. The simple idea of smoked pork ribs has given birth to many great regional
+  variations over time. A pork rib fresh off the grill or smoker is one of life's
+  great pleasures
 image: memphis_style_ribs.jpg
 original_title: Memphis-Style Ribs
 size: 6 servings

@@ -1,5 +1,5 @@
 ---
-author: J. Kenji López-Alt
+author: "J. Kenji L\xF3pez-Alt"
 category: Entrees
 description: Mussels cooked in a spicy and aromatic coconut broth with Thai curry
   flavors.
@@ -7,7 +7,7 @@ image: steamed_mussels_with_thai_style_coconut_curry_broth.jpg
 original_title: Steamed Mussels With Thai-Style Coconut-Curry Broth
 size: Serves 3 to 4
 source: http://www.seriouseats.com/2014/11/steamed-mussels-thai-curry-coconut-broth-recipe.html
-spicy: ✓
+spicy: "\u2713"
 time: 20 minutes
 title: Steamed Mussels With Thai-Style Coconut-Curry Broth
 ---

@@ -8,8 +8,8 @@ size: 2 jars
 source: https://www.acouplecooks.com/quick-refrigerator-dill-pickles/print/17346/
 time: 24 hours 10 minutes
 title: Quick Refrigerator Dill Pickles
-vegan: ✓
-veggie: ✓
+vegan: "\u2713"
+veggie: "\u2713"
 ---
 Each year, we have every intention of spending the time to preserve some summer vegetables for the long winter months. Though it hasn’t happened yet, we _have_ mastered the instantly gratifying quick refrigerator dill pickle. While you can pickle just about any vegetable, one of our favorites is the classic dill pickle.
 

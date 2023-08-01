@@ -1,8 +1,10 @@
 ---
 author: Ani
 category: Entrees
-description: Traditional old-school Carnitas that are the best. Enjoy this authentic
-  Mexican dish with a variety of garnishes.
+description: These traditional slow-cooked carnitas deliver deep, succulent pork flavor.
+  Pork shoulder is simmered for hours until meltingly tender, then fried until crispy
+  and caramelized. Authentic carnitas are meant to be served with accompaniments like
+  tortillas, guacamole, salsa, cilantro, and onion rather than made into tacos.
 image: authentic_mexican_carnitas.jpg
 original_title: Carnitas
 size: 8 servings

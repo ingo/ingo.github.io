@@ -1,9 +1,9 @@
 ---
 author: jemangelaville.com
 category: Sides
-description: A delicious, addictive salad with a perfect balance of crunchy, bacony,
-  oniony and sweet flavors. It's a favorite from Whole Foods that you can now make
-  at home.
+description: This addictive broccoli salad from Whole Foods has the perfect balance
+  of crispy broccoli florets, smoky bacon, red onion, dried cranberries, sunflower
+  seeds and a sweet and tangy dressing. Easy to recreate at home.
 favorite: "\u2713"
 image: broccoli_crunch_salad_a_la_whole_foods.jpg
 original_title: "Broccoli Crunch Salad (\xE0 la Whole Foods)"

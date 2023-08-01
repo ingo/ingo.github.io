@@ -1,14 +1,14 @@
 ---
-author: Chef Ramón Martínez
+author: "Chef Ram\xF3n Mart\xEDnez"
 category: Sides
 description: Fried potatoes with spicy tomato sauce and garlic mayonnaise, a staple
   in Spanish cuisine.
-favorite: ✓
+favorite: "\u2713"
 image: patatas_bravas.jpg
 original_title: Patatas Bravas
 size: 4 servings
 source: https://www.insidehook.com/article/chicago/jaleo-patatas-bravas-recipe
-spicy: ✓
+spicy: "\u2713"
 time: 1 hour
 title: Jaleo's Patatas Bravas
 ---

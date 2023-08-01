@@ -8,7 +8,7 @@ size: 2 cups
 source: https://cookieandkate.com/quick-pickled-onions-recipe/
 time: 10 minutes (plus 30 minutes cooling time)
 title: Quick Pickled Onions
-vegan: ✓
+vegan: "\u2713"
 ---
 This recipe teaches you how to make quick-pickled onions. It's a simple and delicious condiment that can be used in a variety of dishes. 
 

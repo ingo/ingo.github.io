@@ -4,11 +4,11 @@ category: Entrees
 description: Juicy, rich, savory cumin lamb dumplings encased in a crispy and chewy
   wrapper, coated in a spicy, mouth tingling, slightly sweet, and acidic blend of
   sauces plus a sprinkle of fresh herbs.
-favorite: ✓
+favorite: "\u2713"
 image: spicy_cumin_lamb_dumplings_with_fly_by_jing_chili_oil.jpg
 size: 40-50 dumplings
 source: http://indulgenteats.com/2020/10/02/spicy-cumin-lamb-dumplings-with-fly-by-jing-chili-oil-discount-code-inside/
-spicy: ✓
+spicy: "\u2713"
 time: 2 hours
 title: Spicy Cumin Lamb Dumplings with Fly by Jing Chili Oil
 ---

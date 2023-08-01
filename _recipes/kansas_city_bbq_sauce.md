@@ -8,7 +8,7 @@ description: The perfect balance of sweet and tangy, rich from the molasses, bri
 image: kansas_city_bbq_sauce.jpg
 size: 3 cups
 source: https://heygrillhey.com/kansas-city-bbq-sauce/
-spicy: ✓
+spicy: "\u2713"
 time: 30 minutes
 title: Kansas City BBQ Sauce
 ---

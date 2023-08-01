@@ -5,7 +5,7 @@ description: A flavorful and moist turkey recipe with two cooking methods - smok
   and rotisserie. The turkey is brined with unique apple and mushroom brines, and
   basted with a delicious mixture of turkey stock, apple cider, garlic, butter, and
   Herbes de Provence.
-favorite: ✓
+favorite: "\u2713"
 image: smoked_and_rotisserie_turkey.jpg
 size: 13.78 lbs turkey
 time: 2 days brining, 6-7 hours cooking

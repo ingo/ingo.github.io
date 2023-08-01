@@ -4,7 +4,7 @@ category: Desserts
 description: A delicious dessert that is sure to be a hit during the holiday season.
   These lumps of coal are made from Oreo cookies and marshmallows, creating a sweet
   and crunchy treat.
-favorite: ✓
+favorite: "\u2713"
 image: oreo_s_lumps_of_coal.jpg
 size: Varies
 source: https://www.justapinch.com/recipes/dessert/cookies/oreos-lumps-of-coal.html

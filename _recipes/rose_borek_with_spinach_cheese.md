@@ -4,11 +4,11 @@ category: Entrees
 description: A traditional Turkish pastry made with thin yufka dough, filled with
   spinach and cheese, and shaped like a rose.
 image: rose_borek_with_spinach_cheese.jpg
-original_title: Ispanaklı Gül Böreği
+original_title: "Ispanakl\u0131 G\xFCl B\xF6re\u011Fi"
 size: 8-10 servings
 source: https://anatolian-kitchen.com/2014/08/01/ispanakli-gul-boregi-rose-borek-with-spinach-cheese/
 time: 1 hour
-title: Rose Börek with Spinach & Cheese
+title: "Rose B\xF6rek with Spinach & Cheese"
 ---
 Börek is a popular pastry in Turkey, commonly enjoyed with a glass of tea at bakeries in Istanbul. Originating from the Ottoman Empire, börek is made with thin yufka dough and can be filled with a variety of ingredients. This recipe focuses on the rose-shaped börek, filled with spinach and cheese.
 

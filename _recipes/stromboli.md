@@ -1,14 +1,15 @@
 ---
-title: Stromboli
-original_title: Stromboli
-category: Entrees
-description: Perfect for game day and a huge crowd-pleaser, stromboli is like a rolled-up version of pizza.
-image: stromboli.jpg
-size: 6 servings
-time: 2 hours
 author: Once Upon a Chef
+category: Entrees
+description: Perfect for game day and a huge crowd-pleaser, stromboli is like a rolled-up
+  version of pizza.
+favorite: "\u2713"
+image: stromboli.jpg
+original_title: Stromboli
+size: 6 servings
 source: https://www.onceuponachef.com/recipes/stromboli.html
-favorite: ✓
+time: 2 hours
+title: Stromboli
 ---
 
 Stromboli, an Italian-American dish that originated in the city of Philadelphia, is like a rolled-up version of pizza. Filled with cheese and Italian deli meats, like pepperoni, salami, and ham, and served with marinara sauce for dipping, it’s a huge crowd-pleaser – perfect for game day, an easy dinner, or anytime you’re having people over. Just keep in mind that stromboli disappears quickly; I recommend making two rolls, especially if you’re feeding men and boys.

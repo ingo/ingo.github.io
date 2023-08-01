@@ -1,7 +1,10 @@
 ---
 author: Danny Kaye
 category: Entrees
-description: A retro chicken salad recipe using a unique technique of poaching a whole chicken slowly to keep it extra moist and flavorful. The shredded    scooked chicken is then tossed in a Dijon mustard dressing along with mayo, tarragon, and grapes for texture.
+description: A retro chicken salad recipe using a unique technique of poaching a whole
+  chicken slowly to keep it extra moist and flavorful. The shredded    scooked chicken
+  is then tossed in a Dijon mustard dressing along with mayo, tarragon, and grapes
+  for texture.
 image: chicken_salad_a_la_danny_kaye.jpg
 size: 4 servings
 time: 1 hour

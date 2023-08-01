@@ -1,8 +1,8 @@
 ---
 author: Robert Thompson
 category: Entrees
-description: A delightful dish of sea bass served on blinis, topped with crème fraîche,
-  ossetra caviar, and chervil.
+description: "A delightful dish of sea bass served on blinis, topped with cr\xE8me\
+  \ fra\xEEche, ossetra caviar, and chervil."
 image: sea_bass_blinis.jpg
 original_title: Sea Bass Blinis Recipe - Great British Chefs
 size: 12 servings

@@ -1,8 +1,9 @@
 ---
 author: Ingo's Dad
 category: Entrees
-description: These are the Nuernberger bratwursts Ingo's dad would make. These are
-  truly a "family recipe."
+description: This traditional German bratwurst recipe replicates the one Ingo's father
+  would make when he was growing up. Fresh pork and veal are minced and seasoned simply
+  with salt, white pepper and nutmeg for an unbeatable flavor.
 image: bratwurst.jpg
 size: 10 lbs
 time: Varies

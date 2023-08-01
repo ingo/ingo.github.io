@@ -1,7 +1,11 @@
 ---
 author: FoodieCrush
 category: Sides
-description: This refreshing salad combines avocado, grapefruit segments, shaved fennel, arugula, and Parmesan cheese with a light olive oil and lemon dressing. It showcases the dynamic flavor contrasts of sweet, tart and bitter. The juicy grapefruit, aromatic fennel and rich avocado complement each other beautifully. A nice change of pace from typical green salads.
+description: This refreshing salad combines avocado, grapefruit segments, shaved fennel,
+  arugula, and Parmesan cheese with a light olive oil and lemon dressing. It showcases
+  the dynamic flavor contrasts of sweet, tart and bitter. The juicy grapefruit, aromatic
+  fennel and rich avocado complement each other beautifully. A nice change of pace
+  from typical green salads.
 image: avocado_grapefruit_and_fennel_salad.jpg
 size: 2-3 servings
 source: https://www.foodiecrush.com/grapefruit-avocado-fennel-salad/

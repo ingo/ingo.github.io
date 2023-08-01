@@ -9,10 +9,10 @@ image_attribution: Christopher Simpson for The New York Times
 original_title: Silken Tofu With Spicy Soy Dressing
 size: 4 servings
 source: https://cooking.nytimes.com/recipes/1022562-silken-tofu-with-spicy-soy-dressing
-spicy: ✓
+spicy: "\u2713"
 time: 5 minutes
 title: Silken Tofu With Spicy Soy Dressing
-veggie: ✓
+veggie: "\u2713"
 ---
 This recipe is inspired by the many cold silken tofu dishes from East Asia, like Japanese hiyayakko and Chinese liangban tofu. This no-cook dish is a handy one to have up your sleeve, especially for warm evenings when the desire to cook is nonexistent. 
 

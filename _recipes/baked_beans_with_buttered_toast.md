@@ -1,8 +1,10 @@
 ---
 author: Ingo
 category: Breakfasts
-description: This dish became a favorite of Ingo's while in London. Admittedly, it's
-  very simple, but nice.
+description: These saucy baked beans served on thick buttered toast make a humble
+  yet utterly comforting meal. While associated with an English breakfast, this dish
+  became a favorite of mine while living in London. The beans lend themselves wonderfully
+  to being piled on toast.
 favorite: "\u2713"
 image: baked_beans_with_buttered_toast.jpg
 size: 1 serving

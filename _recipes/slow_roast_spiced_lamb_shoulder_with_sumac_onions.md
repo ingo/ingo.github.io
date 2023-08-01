@@ -7,7 +7,7 @@ image: slow_roast_spiced_lamb_shoulder_with_sumac_onions.jpg
 image_attribution: Michael Graydon & Nikole Herriott
 size: 8 servings
 source: https://www.bonappetit.com/recipe/slow-roast-spiced-lamb-shoulder-with-sumac-onions
-spicy: ✓
+spicy: "\u2713"
 time: 5 hours
 title: Slow-Roast Spiced Lamb Shoulder with Sumac Onions
 ---

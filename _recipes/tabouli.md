@@ -1,14 +1,15 @@
 ---
-title: Lebanese Tabouli
-original_title: Tabbouleh
-category: Entrees
-description: Authentic Lebanese Tabouli full of flavor, vegan, and can be made with bulgar wheat or quinoa. Infused with a hint of Lebanese 7-Spice that truly elevates.
-image: tabouli.jpg
-size: Varies
-time: 1-3 hours
 author: Nadia
+category: Entrees
+description: Authentic Lebanese Tabouli full of flavor, vegan, and can be made with
+  bulgar wheat or quinoa. Infused with a hint of Lebanese 7-Spice that truly elevates.
+image: tabouli.jpg
+original_title: Tabbouleh
+size: Varies
 source: https://www.feastingathome.com/lebanese-tabouli/
-vegan: ✓
+time: 1-3 hours
+title: Lebanese Tabouli
+vegan: "\u2713"
 ---
 
 This recipe for authentic Lebanese Tabouli is a family treasure, passed down from a Lebanese family friend, Nadia, to my Finnish mother, Lea. It was a staple in our household and has remained a favorite dish of mine. The unique blend of parsley, tomatoes, scallions, mint, bulgar wheat (or quinoa), lemon, olive oil, salt, and Lebanese 7-spice creates a dish that is both nourishing and full of flavor.

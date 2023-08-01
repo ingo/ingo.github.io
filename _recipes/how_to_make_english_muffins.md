@@ -3,14 +3,14 @@ author: Emma Christensen
 category: Breakfasts
 description: A step-by-step recipe for making a batch of English muffins for you and
   anyone lucky enough to be invited to your table.
-favorite: ✓
+favorite: "\u2713"
 image: how_to_make_english_muffins.jpg
 original_title: Homemade English Muffins
 size: 12 muffins
 source: https://www.thekitchn.com/how-to-make-english-muffins-cooking-lessons-from-the-kitchen-106360
 time: 1 hour
 title: English Muffins
-vegan: ✓ (with modifications)
+vegan: "\u2713 (with modifications)"
 ---
 There is really no better vehicle for melted butter than the craggy dips and toasted peaks of an English muffin. They’re surprisingly straightforward to make and since the dough is best when made ahead and refrigerated overnight, they’ve become one of my favorite treats to make over long, lazy weekends. 
 

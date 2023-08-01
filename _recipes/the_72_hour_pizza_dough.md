@@ -4,7 +4,7 @@ description: A meticulously crafted pizza dough recipe that requires a 72-hour f
   period for optimal flavor and texture. Perfect for pizza enthusiasts who love a
   homemade crust.
 image: the_72_hour_pizza_dough.jpg
-size: 7- 12” pies
+size: "7- 12\u201D pies"
 time: 72 hours
 title: The 72 Hour Pizza Dough
 ---

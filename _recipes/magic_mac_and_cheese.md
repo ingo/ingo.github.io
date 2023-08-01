@@ -4,7 +4,7 @@ category: Entrees
 description: A no-boil, no-roux, and no-nonsense recipe for the richest and most flavorful
   baked mac of your life. Its flavor is deliciously complex, yet its method is simple
   to cook and customize.
-favorite: ✓
+favorite: "\u2713"
 image: magic_mac_and_cheese.jpg
 size: 4 servings
 source: https://hostthetoast.com/magic-mac-and-cheese/

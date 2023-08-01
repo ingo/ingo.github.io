@@ -8,7 +8,7 @@ image: pollo_a_la_brasa_peruvian_roasted_chicken.jpg
 original_title: Pollo a la Brasa
 size: 4-6 servings
 source: https://www.daringgourmet.com/pollo-la-brasa-peruvian-roasted-chicken/
-spicy: ✓
+spicy: "\u2713"
 time: 7 hours (including marination time)
 title: Pollo a la Brasa (Peruvian Roasted Chicken)
 ---

@@ -1,16 +1,18 @@
 ---
-title: Stuffing with Pine Nuts
-original_title: Stuffing with Pine Nuts
-category: Sides
-description: The quintessential Thanksgiving recipe for us. Originally from James Beard, with modifications by Ingo. Yes, it uses a lot of butter, but it is worth it.
-image: stuffing_with_pine_nuts.jpg
-size: 6 cups
-time: 1 hour
 author: James Beard, Ingo
-source: 
-favorite: 
-vegan: 
-spicy: 
+category: Sides
+description: The quintessential Thanksgiving recipe for us. Originally from James
+  Beard, with modifications by Ingo. Yes, it uses a lot of butter, but it is worth
+  it.
+favorite: null
+image: stuffing_with_pine_nuts.jpg
+original_title: Stuffing with Pine Nuts
+size: 6 cups
+source: null
+spicy: null
+time: 1 hour
+title: Stuffing with Pine Nuts
+vegan: null
 ---
 
 ### Ingredients

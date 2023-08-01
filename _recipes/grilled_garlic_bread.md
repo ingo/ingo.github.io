@@ -1,7 +1,11 @@
 ---
 author: NYT Cooking
 category: Sides
-description: The perfect accompaniment to backyard grilling, this garlic bread is brushed with garlicky herbed butter then grilled until hot and crispy with nice grill marks. The smoky char pairs deliciously with grilled meat, fish and veggies. It can also stand alone as an appetizer. Quick and easy to throw on the grill alongside whatever you're cooking.
+description: The perfect accompaniment to backyard grilling, this garlic bread is
+  brushed with garlicky herbed butter then grilled until hot and crispy with nice
+  grill marks. The smoky char pairs deliciously with grilled meat, fish and veggies.
+  It can also stand alone as an appetizer. Quick and easy to throw on the grill alongside
+  whatever you're cooking.
 image: grilled_garlic_bread.jpg
 image_attribution: Sabra Krock
 image_source: The New York Times

@@ -1,8 +1,9 @@
 ---
 author: Jessie McKenney
 category: Breads
-description: Fluffy yet hearty buns, perfect for big appetites. Can also be served
-  plain with a meal.
+description: These fluffy yet hearty buns are perfect for big appetites when making
+  hamburgers. The buns can also be enjoyed plain with a meal or spread with butter.
+  They come together quickly by using a combination of bread and all-purpose flour.
 image: 40_minute_hamburger_buns.jpg
 size: 12 servings
 source: https://www.tasteofhome.com/recipes/40-minute-hamburger-buns/

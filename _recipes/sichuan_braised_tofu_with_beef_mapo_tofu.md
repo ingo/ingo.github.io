@@ -7,7 +7,7 @@ description: Our version of mapo tofu is bold in flavor, with a balanced spicine
 image: sichuan_braised_tofu_with_beef_mapo_tofu.jpg
 size: 4-6 servings
 source: https://www.americastestkitchen.com/
-spicy: ✓
+spicy: "\u2713"
 time: 1 hour
 title: Sichuan Braised Tofu with Beef (Mapo Tofu)
 ---

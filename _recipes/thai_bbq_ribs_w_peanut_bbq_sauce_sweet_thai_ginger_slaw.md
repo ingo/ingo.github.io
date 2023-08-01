@@ -6,7 +6,7 @@ description: Extra Sticky Thai BBQ Ribs with Peanut BBQ Sauce and Sweet Thai Gin
 image: thai_bbq_ribs_w_peanut_bbq_sauce_sweet_thai_ginger_slaw.jpg
 size: 2 racks
 source: http://www.halfbakedharvest.com/extra-sticky-thai-bbq-ribs-wpeanut-bbq-sauce-sweet-thai-ginger-slaw/
-spicy: ✓
+spicy: "\u2713"
 time: Overnight marination + 6 hours cooking
 title: Thai BBQ Ribs w/Peanut BBQ Sauce + Sweet Thai Ginger Slaw
 ---

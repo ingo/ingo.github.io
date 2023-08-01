@@ -7,7 +7,7 @@ image: tandoori_champ_indian_lamb_ribs.jpg
 original_title: Tandoori Champ
 size: 4-6 servings
 source: https://www.saveur.com/article/Recipes/tandoori-champ-Indian-Lamb-Ribs
-spicy: ✓
+spicy: "\u2713"
 time: 1 hour 30 minutes (including marination time)
 title: Tandoori Champ (Indian Lamb Ribs)
 ---

@@ -1,19 +1,20 @@
 ---
 author: Susan Spungen
 category: Entrees
-description: Whole roasted cauliflower is a sight to behold and never fails to delight,
-  especially when it’s topped with a verdant blend of herbs and pistachios. This version
-  delivers a browned cauliflower that ends up soft enough — custardy almost — to serve
-  with a spoon. And it all comes together in one pan, with water added right to the
-  skillet to steam and soften the cauliflower while it roasts over caramelized onions.
-  Sprinkling some Parmesan on top is a nice way to finish this dish.
+description: "Whole roasted cauliflower is a sight to behold and never fails to delight,\
+  \ especially when it\u2019s topped with a verdant blend of herbs and pistachios.\
+  \ This version delivers a browned cauliflower that ends up soft enough \u2014 custardy\
+  \ almost \u2014 to serve with a spoon. And it all comes together in one pan, with\
+  \ water added right to the skillet to steam and soften the cauliflower while it\
+  \ roasts over caramelized onions. Sprinkling some Parmesan on top is a nice way\
+  \ to finish this dish."
 image: whole_roasted_cauliflower_with_pistachio_pesto.jpg
 original_title: Whole Roasted Cauliflower With Pistachio Pesto
 size: 4-6 servings
 source: https://cooking.nytimes.com/recipes/1021963-whole-roasted-cauliflower-with-pistachio-pesto
 time: 1 hour
 title: Whole Roasted Cauliflower With Pistachio Pesto
-vegan: ✓
+vegan: "\u2713"
 ---
 ### Ingredients
 

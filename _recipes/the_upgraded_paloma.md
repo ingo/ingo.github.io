@@ -4,7 +4,7 @@ category: Beverages
 description: A summer refresher with a rich, sweet-tart grapefruit cordial. Grapefruit
   and lime bring acidity balanced by tequila's vegetal verve, Campari's bitterness,
   and a hint of salt for focus.
-favorite: ✓
+favorite: "\u2713"
 image: the_upgraded_paloma.jpg
 original_title: Paloma
 size: Makes 1 cocktail and about 1 pint of Salted Grapefruit Cordial (enough for 16

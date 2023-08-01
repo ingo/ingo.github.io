@@ -1,9 +1,10 @@
 ---
 author: Claudette Zepeda
 category: Entrees
-description: A combination of two meats creates the best balance of tender texture
-  (from the chuck roast) and succulence (from the short ribs). These birria tacos
-  get slow-cooked flavor from the adobo sauce.
+description: "These tacos are filled with incredibly flavorful, tender braised beef\
+  \ birria made by slowly cooking chuck roast and short ribs in a guajillo chili adobo.\
+  \ The meat soaks up all the complex flavors of the sauce. Served with dipping consomm\xE9\
+  ."
 image: birria_tacos.jpg
 original_title: Birria Tacos Recipe - Claudette Zepeda | Food & Wine
 size: Multiple servings

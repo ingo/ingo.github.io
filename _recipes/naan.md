@@ -4,14 +4,14 @@ category: Breads
 description: An amazingly simple, fast, and flavorful Naan recipe that is best cooked
   at a high temperature, ideally in a wood-fired pizza oven like the Ooni Pro Pizza
   Oven.
-favorite: ✓
+favorite: "\u2713"
 image: naan.jpg
-original_title: नान रेसिपी
+original_title: "\u0928\u093E\u0928 \u0930\u0947\u0938\u093F\u092A\u0940"
 size: 6 servings
 source: https://www.ooni.com/blogs/recipes/naan-bread
 time: 1 hour
 title: Naan Bread II
-vegan: ✗
+vegan: "\u2717"
 ---
 Naan is one of the easiest flatbreads to make - but it really should be cooked at a high temperature. This Naan recipe - adapted from Anjum Anand's cookbook - is amazingly simple, fast, and has great texture and flavour. Cooking the Naan in a wood fired pizza oven - like the Ooni Pro Pizza Oven - gives results very close to cooking in a Tandoor.
 

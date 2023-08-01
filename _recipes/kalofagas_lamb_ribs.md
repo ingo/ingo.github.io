@@ -6,12 +6,12 @@ description: Delicious and tender lamb ribs, perfect as a meze for 4-6 people. T
   hit at any gathering.
 difficulty: medium
 image: kalofagas_lamb_ribs.jpg
-salty: ✓
+salty: "\u2713"
 size: 4-6 servings
 source: https://www.kalofagas.ca/2021/09/09/kalofagas-lamb-ribs/
 time: 4 hours
 title: Kalofagas Lamb Ribs
-umami: ✓
+umami: "\u2713"
 vegan: null
 veggie: null
 ---

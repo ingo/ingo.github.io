@@ -1,9 +1,9 @@
 ---
 author: David Goody
 category: Entrees
-description: A vibrant dish made with fresh chiles, herbs and cucumbers that’s fantastic
-  on any type of fish or shellfish. Served with thinly sliced scallops that have been
-  just cured in fresh lime juice.
+description: "A vibrant dish made with fresh chiles, herbs and cucumbers that\u2019\
+  s fantastic on any type of fish or shellfish. Served with thinly sliced scallops\
+  \ that have been just cured in fresh lime juice."
 image: scallop_ceviche_with_aguachile.jpg
 image_attribution: Con Poulos
 size: 6 first-course servings

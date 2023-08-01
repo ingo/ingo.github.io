@@ -1,13 +1,13 @@
 ---
-title: Rosemary Spiced Nuts
+author: Ilona
 category: Sides
 description: A favorite nut recipe of Ilona
+favorite: "\u2713"
 image: rosemary_spiced_nuts.jpg
 size: 2 cups
-time: 
-author: Ilona
-source: 
-favorite: ✓
+source: null
+time: null
+title: Rosemary Spiced Nuts
 ---
 
 ### Ingredients

@@ -6,7 +6,7 @@ description: With tender chunks of beef enveloped in a deep, spicy and smoky sau
 image: texas_beef_chili.jpg
 original_title: Chili Con Carne
 size: 4-6 servings
-spicy: ✓
+spicy: "\u2713"
 time: 4 hours 20 minutes
 title: Texas Beef Chili
 ---

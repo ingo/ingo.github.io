@@ -4,7 +4,10 @@ category: Entrees
 description: Succulent cod fish with a crusty potato crust and a garlicky pine nut
   skordalia. A traditional Greek dish usually enjoyed during the Feast of the Annunciation.
 image: potato_crusted_cod_with_pine_nut_skordalia.jpg
-original_title: Πατάτα Crusted Μπακαλιάρος με Σκορδαλιά από Κουκουνάρι
+original_title: "\u03A0\u03B1\u03C4\u03AC\u03C4\u03B1 Crusted \u039C\u03C0\u03B1\u03BA\
+  \u03B1\u03BB\u03B9\u03AC\u03C1\u03BF\u03C2 \u03BC\u03B5 \u03A3\u03BA\u03BF\u03C1\
+  \u03B4\u03B1\u03BB\u03B9\u03AC \u03B1\u03C0\u03CC \u039A\u03BF\u03C5\u03BA\u03BF\
+  \u03C5\u03BD\u03AC\u03C1\u03B9"
 size: 4 servings
 source: https://www.kalofagas.ca/2021/03/29/potato-crusted-cod-with-pine-nut-skordalia/
 time: 1 hour

@@ -12,7 +12,7 @@ image_attribution: Armando Rafael
 image_source: The New York Times
 size: 1 serving
 source: https://www.nytimes.com/recipes/1020685/root-beer-rickey.html
-spicy: ✓
+spicy: "\u2713"
 time: 10 minutes
 title: Root Beer Rickey
 ---

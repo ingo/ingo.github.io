@@ -9,7 +9,7 @@ size: 4 servings
 time: 1 hour 30 minutes
 title: Persian-ish Rice with Tahdig
 vegan: null
-veggie: ✓
+veggie: "\u2713"
 ---
 This recipe is a take on the traditional Persian rice dish with Tahdig, the crispy bottom layer of the rice. The combination of yogurt, butter, and oil gives the Tahdig a unique flavor and texture.
 

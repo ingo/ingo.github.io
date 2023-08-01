@@ -4,9 +4,10 @@ category: Entrees
 description: A flavorful Greek dish made with large shrimp, ripe tomatoes, and quality
   Feta cheese, all cooked in a savory tomato sauce. A shot of Ouzo complements the
   shrimp perfectly.
-favorite: ✓
+favorite: "\u2713"
 image: shrimp_saganaki_ii.jpg
-original_title: Γαρίδες Σαγανάκι II
+original_title: "\u0393\u03B1\u03C1\u03AF\u03B4\u03B5\u03C2 \u03A3\u03B1\u03B3\u03B1\
+  \u03BD\u03AC\u03BA\u03B9 II"
 size: 4 servings
 source: https://www.kalofagas.ca/2021/04/12/shrimp-saganaki-ii/
 time: 35 minutes

@@ -4,7 +4,7 @@ category: Entrees
 description: The chicken thighs are first seared until the skin is crispy then they're
   gently simmered in a delicious tomato and olive sauce. The chicken becomes super
   flavorful and tender. This is a healthy dinner recipe you don't want to miss.
-favorite: ✓
+favorite: "\u2713"
 image: italian_braised_chicken_with_tomatoes_and_olives.jpg
 nutrition:
 - 407 calories

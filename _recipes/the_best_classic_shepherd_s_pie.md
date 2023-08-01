@@ -3,13 +3,13 @@ author: Amanda Finks
 category: Entrees
 description: Ground Beef (or lamb) with vegetables in a rich gravy, topped with cheesy
   mashed potatoes, and baked.
-favorite: ✓
+favorite: "\u2713"
 image: the_best_classic_shepherd_s_pie.jpg
 original_title: Shepherd's Pie
 size: 6 servings
 source: https://www.thewholesomedish.com/the-best-classic-shepherds-pie/
 time: 1 hour 10 minutes
-title: The Best Classic Shepherd’s Pie
+title: "The Best Classic Shepherd\u2019s Pie"
 ---
 Shepherd's Pie, also known as Shepards Pie or Cottage Pie, is a classic dish that is not only delicious but also easy to make. While traditional Irish Shepherd’s Pie calls for ground lamb, this recipe allows for either ground beef or lamb. The meat is cooked with vegetables in a rich gravy, then topped with cheesy mashed potatoes and baked until golden. Perfect for a hearty family dinner or a special occasion like St. Patrick's Day!
 

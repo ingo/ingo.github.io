@@ -1,28 +1,31 @@
 ---
-title: Aguachile de Camarón
 category: Entrees
-description: Tender shrimp marinated in a spicy, yet refreshing, lime and chile sauce. A zesty appetizer that can be served along with tortilla chips or tostadas.
+description: This bright appeteaser features tender shrimp marinated in a spicy and
+  refreshing sauce of lime juice, serrano chiles, cilantro, onions, and cucumber.
+  The zesty lime cured shrimp are served chilled, usually with saltine crackers or
+  tostadas to scoop them up.
 image: aguachile_de_camaron.jpg
-size: 1 serving
-time: 40 minutes
 nutrition:
-  - 231 kcal
-  - 24 g carbohydrates
-  - 33 g protein
-  - 3 g fat
-  - 1 g saturated fat
-  - 1 g polyunsaturated fat
-  - 1 g monounsaturated fat
-  - 375 mg cholesterol
-  - 1176 mg sodium
-  - 571 mg potassium
-  - 7 g fiber
-  - 6 g sugar
-  - 1244 IU vitamin A
-  - 73 mg vitamin C
-  - 309 mg calcium
-  - 5 mg iron
-spicy: ✓
+- 231 kcal
+- 24 g carbohydrates
+- 33 g protein
+- 3 g fat
+- 1 g saturated fat
+- 1 g polyunsaturated fat
+- 1 g monounsaturated fat
+- 375 mg cholesterol
+- 1176 mg sodium
+- 571 mg potassium
+- 7 g fiber
+- 6 g sugar
+- 1244 IU vitamin A
+- 73 mg vitamin C
+- 309 mg calcium
+- 5 mg iron
+size: 1 serving
+spicy: "\u2713"
+time: 40 minutes
+title: "Aguachile de Camar\xF3n"
 ---
 
 This Aguachile de Camarón recipe is a traditional Mexican dish that delivers a flavorful and zesty appetizer. The shrimp is marinated in a refreshing lime and chile sauce, making it a perfect dish to serve with tortilla chips or tostadas.

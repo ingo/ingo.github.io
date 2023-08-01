@@ -7,7 +7,7 @@ image: mexican_chicken_pozole_verde.jpg
 original_title: Chicken Pozole Verde
 size: 6-8 servings
 source: https://www.foodandwine.com
-spicy: ✓
+spicy: "\u2713"
 time: 2 hours
 title: Mexican Chicken Pozole Verde
 ---

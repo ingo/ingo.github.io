@@ -1,8 +1,10 @@
 ---
 author: Traditional Danish Recipe
 category: Breakfasts
-description: A traditional Danish dessert, perfect for breakfast or a sweet treat.
-  These pancake balls are delicious with jam or fruit and a drizzle of maple syrup.
+description: A traditional Danish breakfast or dessert consisting of spherical pancake
+  puffs, made in a special pan to create their distinctive shape. The puffs are filled
+  with jam, fruit, or other sweet fillings, then dusted with powdered sugar. Light
+  yet satisfying, they're perfect with maple syrup.
 image: aebleskivers.jpg
 size: 4 servings
 time: 30 minutes

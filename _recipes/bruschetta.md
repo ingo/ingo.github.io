@@ -1,12 +1,14 @@
 ---
-title: Bruschetta
+author: David Rosengarten
 category: Sides
-description: Deliciously toasted bread slices rubbed with garlic, drizzled with olive oil, and seasoned with salt. Perfect for a quick snack or appetizer.
+description: Crisp garlic toast brushed with olive oil and finished with a sprinkle
+  of salt makes the perfect base for any bruschetta topping. Bring these easy garlic
+  toasts out warm from the oven to serve.
 image: bruschetta.jpg
 size: 12 servings
-time: 30 minutes
-author: David Rosengarten
 source: https://www.heraldtribune.com/story/news/2003/07/23/simple-bruschetta/28757787007/
+time: 30 minutes
+title: Bruschetta
 ---
 
 This simple yet flavorful bruschetta recipe comes from David Rosengarten's book "Taste". It's a perfect snack or appetizer that can be prepared in just 30 minutes.

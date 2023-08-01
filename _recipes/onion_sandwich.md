@@ -1,10 +1,10 @@
 ---
 author: James Beard
 category: Entrees
-description: Delicate, fresh and unfussy sandwich with thinly sliced onions and a
-  mix of fresh herbs. Each component really matters. Slice the onions thinly and evenly,
-  season well, and be gentle so you don’t squish the bread as you press each sandwich
-  shut.
+description: "Delicate, fresh and unfussy sandwich with thinly sliced onions and a\
+  \ mix of fresh herbs. Each component really matters. Slice the onions thinly and\
+  \ evenly, season well, and be gentle so you don\u2019t squish the bread as you press\
+  \ each sandwich shut."
 image: onion_sandwich.jpg
 image_attribution: Heami Lee
 image_source: https://cooking.nytimes.com/ourcooks/tejal-rao/my-recipes?action=click&module=byline&region=recipe%20page

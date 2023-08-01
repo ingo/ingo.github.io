@@ -1,8 +1,10 @@
 ---
 author: Ingo
 category: Entrees
-description: A very typical southern German recipe, a favorite of Ingo growing up.
-  Great with Hefeknoedel.
+description: This quintessential southern German dish features beef stew meat simmered
+  until meltingly tender in a broth flavored with onions, vinegar and spices. It's
+  served warm or chilled with a creamy dill sauce speckled with cornichons and onions.
+  A favorite of Ingo's childhood.
 favorite: "\u2713"
 image: boiled_beef_with_dill_sauce.jpg
 size: 4 servings

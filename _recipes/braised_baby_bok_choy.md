@@ -1,8 +1,9 @@
 ---
 author: Gourmet | October 2000
 category: Entrees
-description: Tender baby bok choy braised in chicken broth and butter, finished with
-  a touch of sesame oil.
+description: Tender baby bok choy halves quickly braised in chicken broth with butter
+  and garlic until just tender. Finished with a touch of toasted sesame oil for nutty
+  flavor and garnished with minced garlic chips. A simple, delicious side dish.
 image: braised_baby_bok_choy.jpg
 original_title: Braised Baby Bok Choy
 size: 2 servings

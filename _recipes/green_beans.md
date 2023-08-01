@@ -2,10 +2,10 @@
 category: Sides
 description: A very simple but tasty way to prepare green beans.
 image: green_beans.jpg
-size: 4 servings
-title: Green Beans
 image_attribution: Sonja Langford
 image_source: https://unsplash.com/photos/H5k8PoC1BBc
+size: 4 servings
+title: Green Beans
 ---
 ### Ingredients
 

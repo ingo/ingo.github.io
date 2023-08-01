@@ -1,9 +1,10 @@
 ---
 author: Melissa Clark
 category: Desserts
-description: "This is an intense, creamy one-ingredient chocolate mousse adapted from\
-  \ the molecular gastronomist Herv\xE9 This. The nearly instant recipe contains no\
-  \ cream or eggs, so a complex chocolate can shine."
+description: This rich one-ingredient chocolate mousse puts a high quality bittersweet
+  chocolate front and center. Egg whites give it lightness without diluting the intense
+  chocolate flavor. A pinch of fleur de sel balances the sweetness. It comes together
+  nearly instantly.
 image: bittersweet_chocolate_mousse_with_fleur_de_sel.jpg
 image_attribution: David Malosh for The New York Times
 original_title: Bittersweet Chocolate Mousse With Fleur de Sel

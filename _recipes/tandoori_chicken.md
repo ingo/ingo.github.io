@@ -1,5 +1,5 @@
 ---
-author: J. Kenji López-Alt
+author: "J. Kenji L\xF3pez-Alt"
 category: Entrees
 description: The smaller the bird, the faster it'll cook through, and the less time
   it'll have to dry out. Better yet, just use a Cornish game hen.

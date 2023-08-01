@@ -1,12 +1,12 @@
 ---
 author: Harleynut
 category: Entrees
-description: A delightful and versatile Ahi Poké recipe that can be served in various
-  ways to suit any occasion.
+description: "A delightful and versatile Ahi Pok\xE9 recipe that can be served in\
+  \ various ways to suit any occasion."
 image: harleynut_s_ahi_poke.jpg
 size: 4-6 servings
 time: 2 hours
-title: Harleynut's Ahi Poké
+title: "Harleynut's Ahi Pok\xE9"
 ---
 Harleynut's Ahi Poké recipe is a delightful and versatile dish that can be served in various ways to suit any occasion. Whether you're hosting a dinner party, a poker night with friends, or a larger gathering, this recipe has a serving option to match.
 

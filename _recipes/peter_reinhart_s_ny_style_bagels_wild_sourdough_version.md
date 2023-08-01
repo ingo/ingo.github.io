@@ -8,7 +8,7 @@ image: peter_reinhart_s_ny_style_bagels_wild_sourdough_version.jpg
 size: 12 standard size or 24 mini bagels
 source: https://www.thefreshloaf.com/
 time: 2 days
-title: "NY Style Bagels"
+title: NY Style Bagels
 ---
 Peter Reinhart's NY Style Bagels are a testament to the art of bagel making. Using wild sourdough as a base, these bagels are a delicious blend of tradition and innovation. The process may be a bit lengthy, but the end result is well worth the effort. Enjoy these bagels in the traditional plain, poppy, sesame, salt or onion flavors.
 

@@ -1,10 +1,10 @@
 ---
 author: Nagi
 category: Entrees
-description: "Biryani is a celebration of all that is great about Indian food \u2013\
-  \ the heady aromas, the vibrant colours, the fluffy rice and those addictive curry\
-  \ flavours. Make this Chicken Biryani with your protein of choice \u2013 or try\
-  \ a vegetable biryani!"
+description: Biryani is a celebratory Indian mixed rice dish layering aromatically
+  spiced meat or vegetables with fluffy basmati rice, saffron, and fried onions. This
+  recipe can be made with chicken, lamb, or even cauliflower. It's packed with incredible
+  flavors and textures in every bite.
 favorite: "\u2713"
 image: biryani.jpg
 original_title: Biryani

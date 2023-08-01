@@ -4,7 +4,7 @@ category: Sides
 description: A quick and easy recipe for Niblets corn in butter sauce, perfect for
   Thanksgiving dinner. This recipe is a great alternative when the store-bought version
   is sold out.
-favorite: ✓
+favorite: "\u2713"
 image: niblets_corn_in_butter_sauce.jpg
 size: 10-12 servings
 time: 30 minutes

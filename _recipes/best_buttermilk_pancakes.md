@@ -1,6 +1,9 @@
 ---
 category: Breakfasts
-description: Fluffy, tender buttermilk pancakes perfect for a leisurely weekend breakfast. Buttermilk gives these pancakes a tangy flavor and light texture, while a combination of baking powder and soda ensures maximum rise. Top them with butter, maple syrup, fruit, or anything else you love!
+description: Fluffy, tender buttermilk pancakes perfect for a leisurely weekend breakfast.
+  Buttermilk gives these pancakes a tangy flavor and light texture, while a combination
+  of baking powder and soda ensures maximum rise. Top them with butter, maple syrup,
+  fruit, or anything else you love!
 image: best_buttermilk_pancakes.jpg
 size: 12 servings
 time: 30 minutes

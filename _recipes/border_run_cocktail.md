@@ -1,7 +1,8 @@
 ---
 category: Beverages
-description: A refreshing cocktail with a tequila base and a blend of grapefruit,
-  grenadine, sugar, and cointreau.
+description: This refreshing cocktail combines a base of silver tequila with tart
+  grapefruit juice, a hint of sweetness from grenadine and sugar, and orange liqueur.
+  The mixture of citrus and herbaceous agave flavors makes a nicely balanced drink.
 image: border_run_cocktail.jpg
 size: 1 serving
 time: 5 minutes

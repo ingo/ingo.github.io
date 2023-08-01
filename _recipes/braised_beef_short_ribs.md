@@ -1,8 +1,8 @@
 ---
 category: Entrees
-description: This recipe is one to keep on hand for a couple of reasons, it is so
-  warm and comforting, especially on a cold winter day and this recipe can easily
-  be adapted to feed 2 people or a crowd!
+description: This recipe for fork-tender braised short ribs adapts easily for a small
+  dinner or large gathering. Beef short ribs become fall-apart tender after a slow
+  braise in red wine and stock. The savory braising liquid makes an incredible sauce.
 image: braised_beef_short_ribs.jpg
 size: 4 servings
 time: 2-3 hours

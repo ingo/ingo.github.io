@@ -1,7 +1,9 @@
 ---
 category: Sides
-description: Baba Ghanouj can be purchased in the store, but the fresh version is
-  much tastier.
+description: This classic Middle Eastern eggplant dip called baba ghanoush has a silky
+  texture and deep smoky flavor from charred eggplant flesh. Tahini, olive oil, lemon
+  juice and garlic round it out. Much more flavorful than the store-bought version.
+  Serve with warm pita.
 image: baba_ganouj.jpg
 size: 2 cups
 title: Baba Ganouj

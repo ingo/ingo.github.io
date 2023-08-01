@@ -3,7 +3,7 @@ author: Shareba
 category: Sides
 description: An Iranian dish with perfectly steamed saffron rice and crispy fried
   potatoes. This is the ultimate comfort food!
-favorite: ✓
+favorite: "\u2713"
 image: persian_rice_with_potato_tahdig.jpg
 original_title: Persian Rice with Potato Tahdig
 size: 4 servings

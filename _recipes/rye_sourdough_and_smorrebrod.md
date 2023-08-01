@@ -4,11 +4,11 @@ category: Breads
 description: A hearty rye sourdough bread topped with a variety of ingredients to
   create the perfect open-faced sandwich.
 image: rye_sourdough_and_smorrebrod.jpg
-original_title: Rye Sourdough and Smørrebrød
+original_title: "Rye Sourdough and Sm\xF8rrebr\xF8d"
 size: 1 loaf
 source: https://www.theperfectloaf.com/rye-sourdough-and-smorrebrod/
 time: 2 days
-title: Rye Sourdough and Smørrebrød
+title: "Rye Sourdough and Sm\xF8rrebr\xF8d"
 ---
 This recipe is inspired by the traditional Danish open-faced sandwich, Smørrebrød. The hearty rye sourdough bread serves as a perfect base for a variety of toppings. The bread is made using a combination of sifted rye flour, whole grain rye flour, and freshly milled whole grain spelt. The dough is then fermented and baked to perfection. 
 

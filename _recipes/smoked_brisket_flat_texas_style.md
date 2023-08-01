@@ -4,7 +4,7 @@ category: Entrees
 description: Lean brisket flat smoked to perfection, Texas-style. This recipe guides
   you through the process of selecting the right meat, preparing it, and smoking it
   for the best results.
-favorite: ✓
+favorite: "\u2713"
 image: smoked_brisket_flat_texas_style.jpg
 original_title: Smoked Brisket Flat (Texas-Style)
 size: 16 servings

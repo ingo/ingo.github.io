@@ -1,10 +1,10 @@
 ---
 author: Heong Soon Park
 category: Entrees
-description: A versatile 'mother' sauce traditionally used for beef in Korean cuisine.
-  At Chan Seattle, we do a fairly traditional preparation of bulgogi sauce but with
-  a few tweaks. One is using Coca-Cola in our sauce to help tenderize the meat and
-  bring some acidity to the dish.
+description: This Korean bulgogi marinade doubles as a versatile "mother sauce" that
+  can be used with beef, pork, chicken or tofu. The sweet and savory sauce features
+  soy sauce, pear, onion, garlic and sesame. Traditionally used for grilled Korean
+  BBQ dishes.
 image: bulgogi_sauce.jpg
 original_title: "\uBD88\uACE0\uAE30 \uC18C\uC2A4"
 size: 4-6 servings

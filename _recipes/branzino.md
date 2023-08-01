@@ -1,9 +1,9 @@
 ---
 author: Ingo Muschenetz
 category: Entrees
-description: A flavorful, crispy branzino dish with a combination of garlic, ginger,
-  shallots, lemongrass, Thai chilis, Shaoxing wine, fish sauce, honey, and rice wine
-  vinegar.
+description: Perfectly cooked whole branzino is topped with a vibrant sauce of garlic,
+  ginger, shallots, Thai chilies, Shaoxing wine, fish sauce, honey and rice vinegar.
+  The crispy fish contrasts nicely with the punchy flavors of the sauce.
 image: branzino.jpg
 size: 2 servings
 time: 2 hours

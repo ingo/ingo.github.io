@@ -1,8 +1,10 @@
 ---
 author: "Gonzalo Guzm\xE1n"
 category: Entrees
-description: "A unique breed of Mexican sandwich, wildly popular in Puebla, piled\
-  \ high with breaded chicken, chipotle, Oaxacan cheese, and p\xE1palo."
+description: These Mexican sandwiches from Puebla are loaded with juicy breaded chicken
+  cutlets, Oaxaca cheese, avocado, chipotle salsa and papalo herb. The chicken is
+  passed through an egg wash and breadcrumb coating before frying for extra crunch.
+  Served on soft sesame rolls.
 image: breaded_chicken_sandwiches_with_sesame_rolls_cemita_poblana_de_milanesa.jpg
 image_attribution: Eva Kolenko
 original_title: Cemita Poblana de Milanesa

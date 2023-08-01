@@ -1,9 +1,9 @@
 ---
-author: J. Kenji López-Alt
+author: "J. Kenji L\xF3pez-Alt"
 category: Entrees
-description: Savory Korean vegetable pancakes bound with a basic batter. They can
-  be made with virtually any meat or vegetable odds and ends, but they’re especially
-  great with that crunchy sauerkraut.
+description: "Savory Korean vegetable pancakes bound with a basic batter. They can\
+  \ be made with virtually any meat or vegetable odds and ends, but they\u2019re especially\
+  \ great with that crunchy sauerkraut."
 image: sauerkraut_jeon_korean_pancakes.jpg
 image_attribution: David Malosh for The New York Times
 original_title: Sauerkraut Jeon

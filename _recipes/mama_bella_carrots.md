@@ -1,12 +1,12 @@
 ---
-title: Mama Bella Carrots
+author: Jane's mother
 category: Sides
 description: Great cooked carrots from Jane's mother
 image: mama_bella_carrots.jpg
 size: 4 cups
-time: 
-author: Jane's mother
-source: 
+source: null
+time: null
+title: Mama Bella Carrots
 ---
 
 ### Ingredients

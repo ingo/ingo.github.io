@@ -5,14 +5,14 @@ description: A nutrient-dense liquid gold traditionally left behind after boilin
   greens and beans, turned into an ultra-concentrated broth.
 image: smoked_paprika_and_sun_dried_tomato_potlikker.jpg
 image_attribution: Emma Fishman
-image_source: Bon Appétit
+image_source: "Bon App\xE9tit"
 original_title: Smoked Paprika and Sun-Dried Tomato Potlikker
 size: 1 quart
 source: https://www.bonappetit.com/recipe/smoked-paprika-and-sun-dried-tomato-potlikker
 time: 1 hour
 title: Smoked Paprika and Sun-Dried Tomato Potlikker
-umami: ✓
-vegan: ✓
+umami: "\u2713"
+vegan: "\u2713"
 ---
 Potlikker (or “pot liquor”) is the brothy, nutrient-dense liquid gold traditionally left behind after boiling greens and beans. An ingredient whose use sheds light on the complex racialized history of Southern cooking, potlikker was once valued only by diligent enslaved Africans who saved the nourishing broth for their families after cooking greens. Chef Carla Hall, for whom potlikker was an essential element of her childhood, switches up the order, making potlikker from scratch to use as an ultra-concentrated broth—for Hall, that’s often the first step in imbuing a dish with layers of deep, powerful flavor.
 

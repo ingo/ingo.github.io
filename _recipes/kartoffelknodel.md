@@ -7,7 +7,7 @@ description: "A different form of kn\xF6del, this one made with potatoes. There 
 image: kartoffelknodel.jpg
 size: 6-8 servings
 time: 1 hour
-title: "Kartoffelknödel"
+title: "Kartoffelkn\xF6del"
 ---
 ### Ingredients
 

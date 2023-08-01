@@ -7,7 +7,7 @@ description: A savory Moroccan stew that can be customized to your taste. Serve 
 image: lamb_tagine.jpg
 size: 6 servings
 source: http://www.davidlebovitz.com/2006/08/i-dream-of-tagi/
-spicy: ✓
+spicy: "\u2713"
 time: 3-4 hours
 title: Lamb Tagine
 ---

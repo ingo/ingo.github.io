@@ -1,8 +1,10 @@
 ---
 author: Andy Ricker
 category: Entrees
-description: A delicious recipe for whole roasted young chicken, inspired by the flavors
-  of Thailand.
+description: This whole roasted young chicken is inspired by the incredible flavors
+  of Thai street food. It's marinated in garlic, black pepper, and coriander then
+  grilled over charcoal for an unbelievable depth of flavor with crispy skin and succulent
+  meat.
 image: andy_ricker_s_kai_yaang_whole_roasted_young_chicken_from_pok_pok.jpg
 original_title: Kai Yaang
 size: 2 servings

@@ -1,9 +1,10 @@
 ---
 author: Sunset
 category: Entrees
-description: Umami-delicious morels pop up in Western woods and orchards, and make
-  plump, savory nuggets in this quiche. For the neatest slices, make quiche a day
-  ahead; let it cool, loosen it from pan edges, and chill. Cut into wedges, then reheat.
+description: Morel mushrooms add deep, woodsy umami flavor to this creamy quiche enriched
+  with gruyere cheese. Fresh asparagus spears on top keep their snap after baking.
+  For clean slices, cool completely before cutting perfect wedges. Reheat and serve
+  with a salad.
 image: asparagus_and_morel_quiche.jpg
 image_attribution: Annabelle Breakey
 image_source: http://www.sunset.com/

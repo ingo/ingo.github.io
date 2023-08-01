@@ -1,9 +1,10 @@
 ---
 author: Adrianna Adarme
 category: Sauces
-description: Aji Verde is a Peruvian green hot sauce. It's made up of fresh cilantro,
-  aji amarillo, huacatay and cheese that makes it creamy and spicy. Typically served
-  alongside pollo a la brasa, it pairs well with roasted vegetables, chicken or bread.
+description: Aji verde is a Peruvian green hot sauce typically served with roasted
+  chicken. It's made from fresh cilantro, aji amarillo peppers, huacatay (black mint),
+  and queso fresco blended into a creamy, spicy green sauce. It pairs wonderfully
+  with grilled meats, roasted veggies, empanadas, or bread.
 image: aji_verde_peruvian_green_sauce.jpg
 original_title: Aji Verde
 size: 2 cups

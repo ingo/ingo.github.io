@@ -1,5 +1,5 @@
 ---
-author: J. Kenji López-Alt
+author: "J. Kenji L\xF3pez-Alt"
 category: Entrees
 description: A delicious burger invented in El Reno, Okla., during the Depression
   era. The buns are steamed in onion-scented vapor, and the patties are cooked smashed-style

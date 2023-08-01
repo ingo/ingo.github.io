@@ -1,7 +1,10 @@
 ---
 author: Mark Bittman
 category: Sides
-description: Roasted brussels sprouts caramelized in olive oil with plenty of garlic until deeply browned and crispy on the edges. This simple preparation turns brussels sprouts into something irresistible, with their natural sweetness intensified. They may win over even the most ardent brussels sprouts skeptic.
+description: Roasted brussels sprouts caramelized in olive oil with plenty of garlic
+  until deeply browned and crispy on the edges. This simple preparation turns brussels
+  sprouts into something irresistible, with their natural sweetness intensified. They
+  may win over even the most ardent brussels sprouts skeptic.
 image: roasted_brussels_sprouts_with_garlic.jpg
 image_attribution: Andrew Scrivani
 image_source: The New York Times

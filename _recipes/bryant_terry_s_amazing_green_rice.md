@@ -1,9 +1,9 @@
 ---
 author: Bryant Terry
 category: Sides
-description: An intensely green and fragrant pot of fluffy grains made from kale,
-  spinach, and a creamy stock cooked with onions, garlic, green pepper, and long-grain
-  rice.
+description: This visually stunning rice is deeply hued from sauteed kale, spinach
+  and green peppers. Cooked in stock and onion infused oil, every spoonful yields
+  bright vegetal flavor with fluffy, separate grains. It's simple, healthy and delicious.
 image: bryant_terry_s_amazing_green_rice.jpg
 size: Varies
 source: https://www.bryant-terry.com/

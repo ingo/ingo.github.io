@@ -3,7 +3,7 @@ author: Allrecipes
 category: Sides
 description: Crispy coated onion rings like the pros make, a recipe from a former
   employee of a popular drive-in restaurant.
-favorite: ✓
+favorite: "\u2713"
 image: old_fashioned_onion_rings.jpg
 original_title: Old Fashioned Onion Rings
 size: 3 servings

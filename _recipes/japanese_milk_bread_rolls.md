@@ -2,7 +2,7 @@
 author: King Arthur Baking
 category: Breads
 description: Soft and fluffy Japanese Milk Bread Rolls with a delightful golden crust.
-favorite: ✓
+favorite: "\u2713"
 image: japanese_milk_bread_rolls.jpg
 size: 8-10 rolls
 source: https://www.kingarthurbaking.com/recipes/japanese-milk-bread-rolls-recipe

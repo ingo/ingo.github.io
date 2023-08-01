@@ -1,9 +1,10 @@
 ---
 author: EatingWell Test Kitchen
 category: Sides
-description: "It's time we rescued beets from our childhood nightmares\u2014when they\
-  \ were little better than bland wedges scooped out of a can. Roasted beets are delightful,\
-  \ sweet but very earthy and aromatic\u2014great for a side salad."
+description: This simple yet delicious beet salad rescues beets from bland canned
+  versions. Beets are roasted until caramelized, intensifying their natural sweet,
+  earthy flavor. Served over fresh greens with a tangy shallot vinaigrette and toasted
+  walnuts.
 image: beet_salad.jpg
 nutrition:
 - 119 calories

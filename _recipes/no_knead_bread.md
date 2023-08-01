@@ -1,10 +1,11 @@
 ---
 author: Jim Lahey, owner of Sullivan Street Bakery
 category: Breads
-description: A popular, easy-to-make bread that requires no kneading. It uses no special
-  ingredients, equipment or techniques. And it takes very little effort — only time.
+description: "A popular, easy-to-make bread that requires no kneading. It uses no\
+  \ special ingredients, equipment or techniques. And it takes very little effort\
+  \ \u2014 only time."
 difficulty: easy
-favorite: ✓
+favorite: "\u2713"
 image: no_knead_bread.jpg
 size: One 1 1/2-pound loaf
 source: https://cooking.nytimes.com/recipes/11376-no-knead-bread

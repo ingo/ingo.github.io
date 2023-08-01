@@ -4,12 +4,12 @@ category: Entrees
 description: A traditional Jerusalem dish, meatballs made with minced lamb and beef,
   served with a tahini sauce.
 image: kofta_b_siniyah.jpg
-original_title: Kofta b’siniyah
+original_title: "Kofta b\u2019siniyah"
 size: 60g each kofta
 source: http://www.telegraph.co.uk/foodanddrink/recipes/9540785/Kofta-bsiniyah-recipe.html
-spicy: ✓
+spicy: "\u2713"
 time: 1 hour
-title: Kofta b’siniyah
+title: "Kofta b\u2019siniyah"
 ---
 Kofta b’siniyah is a traditional Jerusalem dish, celebrated by absolutely everyone – traditional Jews, fervent Christians, Palestinian eateries and funky fusion chefs. They are essentially a ‘Mama’ food: something simple, basic and familiar, yet loaded with memories and associations. Kofta are normally cooked at home and can be made in any shape: flat patties, thin fingers or torpedoes. They can be wrapped in vine leaves or other leaves. 
 

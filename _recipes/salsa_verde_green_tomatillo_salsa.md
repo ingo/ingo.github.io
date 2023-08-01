@@ -6,7 +6,7 @@ description: A bright, tangy salsa made from fresh tomatillos, chiles, and cilan
 image: salsa_verde_green_tomatillo_salsa.jpg
 size: 1 cup
 source: http://www.foodnetwork.com/recipes/salsa-verde-green-tomatillo-salsa-recipe.html
-spicy: ✓
+spicy: "\u2713"
 time: 25 minutes
 title: Salsa Verde
 ---

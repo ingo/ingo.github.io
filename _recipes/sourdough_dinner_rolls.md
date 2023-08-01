@@ -4,7 +4,7 @@ category: Sides
 description: Sourdough adds a touch of its distinct flavor and chewiness to these
   light, moist, buttery rolls. They're perfect for soaking up a melting pat of butter,
   or gravy and cranberry sauce at a Thanksgiving feast.
-favorite: ✓
+favorite: "\u2713"
 image: sourdough_dinner_rolls.jpg
 original_title: Sourdough Dinner Rolls | King Arthur Flour
 size: 16 rolls

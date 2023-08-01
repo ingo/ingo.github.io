@@ -4,12 +4,12 @@ category: Sides
 description: Delicious simmered kabocha squash flavored with the popular Japanese
   seasoning shio koji (rice koji and salt), resulting in unique umami flavor.
 image: simmered_kabocha_with_shio_koji.jpg
-original_title: 南瓜の塩麹煮
+original_title: "\u5357\u74DC\u306E\u5869\u9EB9\u716E"
 size: 4 servings
 source: https://www.justonecookbook.com/simmered-kabocha-with-shio-koji/
 time: 10 minutes
 title: Simmered Kabocha with Shio Koji
-umami: ✓
+umami: "\u2713"
 ---
 This recipe is a simple yet flavorful side dish that showcases the unique taste of kabocha squash. The shio koji seasoning enhances the natural sweetness of the kabocha, making this a dish that is sure to impress.
 

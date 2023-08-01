@@ -5,12 +5,12 @@ description: Wonton wrappers make this Crawfish Ravioli recipe a cinch.
 difficulty: medium
 image: herbed_crawfish_ravioli.jpg
 original_title: Herbed Crawfish Ravioli
-salty: ✓
+salty: "\u2713"
 size: Varies
 source: https://www.louisianacookin.com/herbed-crawfish-ravioli/
 time: 1 hour
 title: Herbed Crawfish Ravioli
-umami: ✓
+umami: "\u2713"
 vegan: null
 veggie: null
 ---

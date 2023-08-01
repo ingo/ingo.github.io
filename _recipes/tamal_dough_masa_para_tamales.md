@@ -4,7 +4,7 @@ category: Pantry
 description: A recipe for tamal dough, a vital ingredient for making perfect tamales.
   The dough is made with fresh masa, lard, baking powder, salt, and broth, resulting
   in a fluffy, light, tender, and flavorful tamal.
-favorite: ✓
+favorite: "\u2713"
 image: tamal_dough_masa_para_tamales.jpg
 original_title: Masa para Tamales
 size: 72 tamales

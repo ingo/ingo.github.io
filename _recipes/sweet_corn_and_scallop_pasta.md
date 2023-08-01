@@ -1,13 +1,13 @@
 ---
 author: Kay Chun
 category: Entrees
-description: Scallops have a mildly briny, delicately nutty flavor that pairs extremely
-  well with sweet corn. The key to properly cooked scallops is making sure they’re
-  very dry, then allowing them to cook, undisturbed, to caramelize. Chopping the seared
-  scallops into tender morsels helps to infuse the pasta with rich seafood flavor,
-  while fresh corn adds texture to complement them. The emulsification of pasta water,
-  butter and cheese creates a silky sauce for a satisfying pasta meal that still feels
-  light.
+description: "Scallops have a mildly briny, delicately nutty flavor that pairs extremely\
+  \ well with sweet corn. The key to properly cooked scallops is making sure they\u2019\
+  re very dry, then allowing them to cook, undisturbed, to caramelize. Chopping the\
+  \ seared scallops into tender morsels helps to infuse the pasta with rich seafood\
+  \ flavor, while fresh corn adds texture to complement them. The emulsification of\
+  \ pasta water, butter and cheese creates a silky sauce for a satisfying pasta meal\
+  \ that still feels light."
 image: sweet_corn_and_scallop_pasta.jpg
 image_attribution: Bryan Gardner
 image_source: The New York Times

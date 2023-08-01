@@ -4,7 +4,7 @@ category: Breakfasts
 description: These simple, baked donuts will give you familiar old-fashioneds without
   all the hassle of rolling, cutting, and frying the dough. They are perfectly sweet
   and cakey without being too sugary.
-favorite: ✓
+favorite: "\u2713"
 image: old_fashioned_baked_donuts.jpg
 original_title: Old-Fashioned Baked Donuts
 size: 18 donuts

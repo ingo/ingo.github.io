@@ -6,7 +6,7 @@ description: Delicious steak skewers marinated in a savory blend of spices and s
 image: spanish_style_steak_skewers_with_garlic_aioli.jpg
 size: 12 skewers
 source: https://www.omahasteaks.com/product/Tenderloin-Tips-1-1-lb-00194?SRC=RZ0638
-spicy: ✓
+spicy: "\u2713"
 time: 3 hours (including marination time)
 title: Spanish-Style Steak Skewers with Garlic Aioli
 ---

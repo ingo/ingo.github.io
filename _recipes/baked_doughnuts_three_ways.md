@@ -1,9 +1,10 @@
 ---
 author: King Arthur Flour
 category: Breakfasts
-description: Old-fashioned cake doughnuts were deep-fried in hot fat; NEW-fashioned
-  cake doughnuts are baked in a hot oven! Use a doughnut pan and this tasty recipe
-  to create your choice of doughnuts.
+description: These cake doughnuts get their flavor from spices and are baked rather
+  than fried for a healthier twist. Make plain, pumpkin spice, or Meyer lemon doughnuts
+  by mixing up a simple batter, pouring into a doughnut pan, and baking until golden
+  brown.
 image: baked_doughnuts_three_ways.jpg
 size: 12 servings
 source: https://www.kingarthurflour.com/recipebox

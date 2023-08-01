@@ -4,7 +4,7 @@ category: Entrees
 description: Delicious homemade pizza with a perfect crust and your favorite toppings.
 difficulty: medium
 image: pizza_al_taglio.jpg
-size: 2 11x15” pizzas
+size: "2 11x15\u201D pizzas"
 time: Varies depending on fermentation
 title: Pizza al taglio
 vegan: null

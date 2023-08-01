@@ -1,10 +1,10 @@
 ---
 author: Melissa Clark
 category: Desserts
-description: Rice flour makes this poundcake melt-in-your-mouth tender, and gives
-  it a mild and delicate flavor that’s spiced with a touch of black pepper. It keeps
-  well, so feel free to bake it a day or two ahead of serving, or eat any leftovers
-  for breakfast.
+description: "Rice flour makes this poundcake melt-in-your-mouth tender, and gives\
+  \ it a mild and delicate flavor that\u2019s spiced with a touch of black pepper.\
+  \ It keeps well, so feel free to bake it a day or two ahead of serving, or eat any\
+  \ leftovers for breakfast."
 image: rice_flour_poundcake.jpg
 image_attribution: Yossy Arefi
 image_source: The New York Times (Photography and Styling)

@@ -13,10 +13,10 @@ nutrition:
 original_title: Indian Salad with Tomato and Mint Dressing
 size: 4 servings
 source: https://recipetineats.com/indian-salad-tomato-mint-dressing/
-spicy: ✓
+spicy: "\u2713"
 time: 10 mins
 title: Indian Tomato Salad with Mint Dressing
-veggie: ✓
+veggie: "\u2713"
 ---
 This is a wonderful refreshing Indian salad that pairs really well with rich, spicy curries. Made with slices of juicy tomato, scattered with red onion, and drizzled with a mint dressing, then finished with a small pinch of garam masala. The dressing here is simply Raita, thinned down slightly with water so it’s pourable. Raita is a green mint yogurt sauce that is often served on the side of curries. Both yogurt and mint are ideal for cooling the palette in case you can’t handle the heat!
 

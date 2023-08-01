@@ -2,7 +2,7 @@
 author: Carey Nershi
 category: Breads
 description: A simple, no-knead bread perfect for sandwiches.
-favorite: ✓
+favorite: "\u2713"
 image: no_knead_sandwich_bread.jpg
 original_title: No-Knead Sandwich Bread
 size: 2 loaves

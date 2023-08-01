@@ -3,7 +3,7 @@ author: Dewiat
 category: Breads
 description: Deliciously soft hamburger buns that are quick and easy to make. Perfect
   for a snack or with your favorite burger.
-favorite: ✓
+favorite: "\u2713"
 image: homemade_hamburger_buns.jpg
 original_title: Possibly The Best and Easiest Homemade Hamburger Buns
 size: 12 servings

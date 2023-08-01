@@ -1,9 +1,10 @@
 ---
 author: Nagi | RecipeTin Eats
 category: Sauces
-description: My secret weapon for mid week meals - an All Purposes Chinese Stir Fry
-  Sauce, a versatile base that makes a wonderfully glossy sauce for any stir fry,
-  including stir fried noodles.
+description: This versatile all-purpose Chinese style stir fry sauce is my secret
+  weapon for quick weeknight meals. It's a flavorful glossy sauce made with soy sauce,
+  oyster sauce, sesame oil, and other aromatic ingredients. Use it to pull together
+  any combination of meat or veggies into a tasty stir fry.
 image: all_purpose_stir_fry_sauce.jpg
 nutrition:
 - 34 calories

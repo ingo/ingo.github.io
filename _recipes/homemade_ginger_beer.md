@@ -1,9 +1,9 @@
 ---
 author: NYT Cooking
 category: Beverages
-description: A cloudy, dry mixer with pinprick carbonation and a straight-up goose
-  of fresh ginger. Perfect for dark ’n’ stormy hour.
-favorite: ✓
+description: "A cloudy, dry mixer with pinprick carbonation and a straight-up goose\
+  \ of fresh ginger. Perfect for dark \u2019n\u2019 stormy hour."
+favorite: "\u2713"
 image: homemade_ginger_beer.jpg
 image_attribution: Tony Cenicola
 image_source: The New York Times; Styling by Toby Cecchini

@@ -1,0 +1,161 @@
+File: 40_minute_hamburger_buns.md
+Description: These fluffy yet hearty buns are perfect for big appetites when making hamburgers. The buns can also be enjoyed plain with a meal or spread with butter. They come together quickly by using a combination of bread and all-purpose flour.
+
+File: 5_ingredient_zucchini_fritters.md
+Description: These delicious and easy to make zucchini fritters are perfect for a quick snack or appetizer anytime. They come together with just 5 simple ingredients - zucchini, flour, egg, parmesan, and parsley. Simply grate the zucchini, combine with the other ingredients, then pan fry into golden brown fritter perfection.
+
+File: aebleskivers.md
+Description: A traditional Danish breakfast or dessert consisting of spherical pancake puffs, made in a special pan to create their distinctive shape. The puffs are filled with jam, fruit, or other sweet fillings, then dusted with powdered sugar. Light yet satisfying, they're perfect with maple syrup. 
+
+File: aguachile_de_camaron.md
+Description: This bright appeteaser features tender shrimp marinated in a spicy and refreshing sauce of lime juice, serrano chiles, cilantro, onions, and cucumber. The zesty lime cured shrimp are served chilled, usually with saltine crackers or tostadas to scoop them up.
+
+File: aji_verde_peruvian_green_sauce.md
+Description: Aji verde is a Peruvian green hot sauce typically served with roasted chicken. It's made from fresh cilantro, aji amarillo peppers, huacatay (black mint), and queso fresco blended into a creamy, spicy green sauce. It pairs wonderfully with grilled meats, roasted veggies, empanadas, or bread.
+
+File: all_purpose_stir_fry_sauce.md  
+Description: This versatile all-purpose Chinese style stir fry sauce is my secret weapon for quick weeknight meals. It's a flavorful glossy sauce made with soy sauce, oyster sauce, sesame oil, and other aromatic ingredients. Use it to pull together any combination of meat or veggies into a tasty stir fry.
+
+File: andy_ricker_s_kai_yaang_whole_roasted_young_chicken_from_pok_pok.md
+Description: This whole roasted young chicken is inspired by the incredible flavors of Thai street food. It's marinated in garlic, black pepper, and coriander then grilled over charcoal for an unbelievable depth of flavor with crispy skin and succulent meat.
+
+File: andy_ricker_s_phat_thai_stir_fried_rice_noodles_with_shrimp_tofu_and_peanuts.md
+Description: This Thai street food classic features chewy rice noodles stir-fried with shrimp, tofu, sprouts and chopped peanuts in a sweet, sour and spicy tamarind sauce flavored with dried shrimp and fish sauce. A delicious noodle dish packed with protein.
+
+File: asparagus_and_herb_lasagna.md
+Description: This lasagna puts a springtime twist on a classic comfort food by incorporating fresh asparagus and mixed herbs into the usual ricotta filling. The bright green layers add beautiful color and vegetal flavor that pairs wonderfully with the tomato sauce and melted mozzarella.
+
+File: asparagus_and_morel_quiche.md
+Description: Morel mushrooms add deep, woodsy umami flavor to this creamy quiche enriched with gruyere cheese. Fresh asparagus spears on top keep their snap after baking. For clean slices, cool completely before cutting perfect wedges. Reheat and serve with a salad.
+
+File: authentic_greek_tzatziki.md
+Description: This traditional tzatziki recipe learned in Athens makes the definitive version of the creamy cucumber yogurt dip. The key is draining the yogurt to achieve an ultra-smooth, spreadable texture accented by fresh garlic, olive oil, vinegar and mint.
+
+File: authentic_mexican_carnitas.md  
+Description: These traditional slow-cooked carnitas deliver deep, succulent pork flavor. Pork shoulder is simmered for hours until meltingly tender, then fried until crispy and caramelized. Authentic carnitas are meant to be served with accompaniments like tortillas, guacamole, salsa, cilantro, and onion rather than made into tacos.
+
+File: baba_ganouj.md
+Description: This classic Middle Eastern eggplant dip called baba ghanoush has a silky texture and deep smoky flavor from charred eggplant flesh. Tahini, olive oil, lemon juice and garlic round it out. Much more flavorful than the store-bought version. Serve with warm pita.
+
+File: baguettes.md
+Description: This detailed recipe guides you through all the steps to achieve perfect, crusty French baguettes at home. It uses a pre-fermented dough for complex flavor. Requires a 2-3 day process but the from-scratch baguettes are so worth it.
+
+File: baingan_bharta.md
+Description: Baingan bharta is a popular Indian dish of smoked mashed eggplant seasoned with onions, tomatoes, garlic, ginger and an array of whole spices for deep flavor. It can be made vegan by omitting the yogurt. This smoky eggplant mash is delicious with naan or rice.
+
+File: baked_beans_with_buttered_toast.md
+Description: These saucy baked beans served on thick buttered toast make a humble yet utterly comforting meal. While associated with an English breakfast, this dish became a favorite of mine while living in London. The beans lend themselves wonderfully to being piled on toast.
+
+File: baked_doughnuts_three_ways.md
+Description: These cake doughnuts get their flavor from spices and are baked rather than fried for a healthier twist. Make plain, pumpkin spice, or Meyer lemon doughnuts by mixing up a simple batter, pouring into a doughnut pan, and baking until golden brown.  
+
+File: baked_parmesan_zucchini.md 
+Description: This oven-roasted zucchini turns a summer squash into an incredibly addictive, crispy-edged snack or side dish. Matchstick cut zucchini tossed in olive oil and parmesan bakes up crispy on the outside and tender inside. It's healthy, nutritious and delicious.
+
+File: banana_rum_gelato.md
+Description: This banana rum gelato has an ultra-rich, chewy texture from slowly simmered overripe bananas and heavy cream. Dark rum adds a touch of decadence. Chill the base thoroughly before churning for the smoothest texture. It keeps well frozen for at least a month.
+
+File: bavarian_pretzels.md
+Description: These soft, chewy pretzels are made the traditional Bavarian way with a lye water bath to give the crust its distinctive brown color and flavor. The pretels are boiled then salted and baked to perfection. Served with spicy mustard and beer cheese for dipping.
+
+File: bechamel.md
+Description: Bechamel is a classic creamy white sauce made from butter, flour and milk that is a foundation of French cuisine. Also known as a white roux, it can be flavored many ways and used as the base for other sauces, soups, gratins and casseroles.
+
+File: beet_greens_salsa_verde.md
+Description: This bright salsa verde is made from the nutrient-rich greens of beets rather than the typical parsley or cilantro. Pepitas, olive oil, garlic, lemon and capers round out the flavor. It's delicious spooned over grilled meats, fish, sandwiches, pizza, vegetables and more.
+
+File: beet_salad.md
+Description: This simple yet delicious beet salad rescues beets from bland canned versions. Beets are roasted until caramelized, intensifying their natural sweet, earthy flavor. Served over fresh greens with a tangy shallot vinaigrette and toasted walnuts.
+
+File: beet_soup_with_dill_cream.md
+Description: This easy beet soup has a deep ruby color and sweet, earthy flavor. Fresh dill and Greek yogurt swirled into sour cream offer a cool, tangy contrast when spooned over the top.
+
+File: benedictine_sandwiches.md 
+Description: These dainty old-fashioned tea sandwiches feature cool cucumber slices, thinly sliced red onion, and a creamy herbed spread made with cream cheese or mayonnaise sandwiched between thin bread slices. The simple flavors combine into a refreshing nibble. 
+
+File: better_chocolate_babka.md
+Description: This babka dough produces a pull-apart bread that is rich, buttery, and intensely chocolaty. The recipe has been carefully perfected over time for flawless babka with a crumbly texture every time. A must-try for chocolate lovers.
+
+File: birria_tacos.md
+Description: These tacos are filled with incredibly flavorful, tender braised beef birria made by slowly cooking chuck roast and short ribs in a guajillo chili adobo. The meat soaks up all the complex flavors of the sauce. Served with dipping consommé.
+
+File: biryani.md
+Description: Biryani is a celebratory Indian mixed rice dish layering aromatically spiced meat or vegetables with fluffy basmati rice, saffron, and fried onions. This recipe can be made with chicken, lamb, or even cauliflower. It's packed with incredible flavors and textures in every bite.
+
+File: bittersweet_chocolate_mousse_with_fleur_de_sel.md 
+Description: This rich one-ingredient chocolate mousse puts a high quality bittersweet chocolate front and center. Egg whites give it lightness without diluting the intense chocolate flavor. A pinch of fleur de sel balances the sweetness. It comes together nearly instantly.
+
+File: black_sesame_summer_dressing.md
+Description: A light Asian-inspired salad dressing that works beautifully over simple greens or more complex salads. Toasted black sesame seeds give it nutty flavor and crunch. Rice vinegar, soy sauce, sesame oil and ginger add sweet, salty, nutty notes.
+
+File: blueberry_bagel_bread_pudding.md
+Description: This bread pudding gives the classic comfort food a fun twist by using blueberry bagels and folding in fresh blueberries. The custard-soaked bagelssoften into a sweet, fruity bread pudding flecked with bursts of fruit.
+
+File: boiled_beef_with_dill_sauce.md 
+Description: This quintessential southern German dish features beef stew meat simmered until meltingly tender in a broth flavored with onions, vinegar and spices. It's served warm or chilled with a creamy dill sauce speckled with cornichons and onions. A favorite of Ingo's childhood.
+
+File: border_run_cocktail.md
+Description: This refreshing cocktail combines a base of silver tequila with tart grapefruit juice, a hint of sweetness from grenadine and sugar, and orange liqueur. The mixture of citrus and herbaceous agave flavors makes a nicely balanced drink.
+
+File: boursin_cheese_make_your_own_homemade.md
+Description: This easy homemade Boursin cheese recipe recreates the popular French garlic and herb cheese. Combining cream cheese, butter, garlic, and herbs makes a spreadable cheese that can also be shaped into a log. Making it yourself is economical and fun.
+
+File: braised_baby_bok_choy.md  
+Description: Tender baby bok choy halves quickly braised in chicken broth with butter and garlic until just tender. Finished with a touch of toasted sesame oil for nutty flavor and garnished with minced garlic chips. A simple, delicious side dish.
+
+File: braised_beef_short_ribs.md
+Description: This recipe for fork-tender braised short ribs adapts easily for a small dinner or large gathering. Beef short ribs become fall-apart tender after a slow braise in red wine and stock. The savory braising liquid makes an incredible sauce.
+
+File: braised_duck_tacos_tacos_de_carnitas_de_pato.md
+Description: Duck leg quarters are slowly simmered with Mexican spices and orange until ultra tender and shreddable. The spiced duck meat is crisped up in its own fat then piled into corn tortillas along with tangy pickled onions, avocado and cilantro for spectacular tacos.
+
+File: branzino.md
+Description: Perfectly cooked whole branzino is topped with a vibrant sauce of garlic, ginger, shallots, Thai chilies, Shaoxing wine, fish sauce, honey and rice vinegar. The crispy fish contrasts nicely with the punchy flavors of the sauce.
+
+File: bratwurst.md
+Description: This traditional German bratwurst recipe replicates the one Ingo's father would make when he was growing up. Fresh pork and veal are minced and seasoned simply with salt, white pepper and nutmeg for an unbeatable flavor. 
+
+File: breaded_chicken_sandwiches_with_sesame_rolls_cemita_poblana_de_milanesa.md
+Description: These Mexican sandwiches from Puebla are loaded with juicy breaded chicken cutlets, Oaxaca cheese, avocado, chipotle salsa and papalo herb. The chicken is passed through an egg wash and breadcrumb coating before frying for extra crunch. Served on soft sesame rolls.
+
+File: brining.md
+Description: This guide covers key brining techniques for various meats like pork chops, chicken, and turkey to help retain moisture and impart flavor. It includes details on wet brines, buttermilk brines, and dry rubs along with tips for brining success.
+
+File: broccoli_crunch_salad_a_la_whole_foods.md
+Description: This addictive broccoli salad from Whole Foods has the perfect balance of crispy broccoli florets, smoky bacon, red onion, dried cranberries, sunflower seeds and a sweet and tangy dressing. Easy to recreate at home.
+
+File: broiled_feta_dip.md  
+Description: This warm, ooey-gooey feta cheese dip comes together in minutes under the broiler. Creamy feta is blended with Greek yogurt, garlic, lemon and herbs, then broiled just until hot and bubbly. Serve with pita chips or crusty bread.
+
+File: browned_butter_and_sea_salt_rice_crispy_treats.md
+Description: This gourmet twist on a classic kids' treat uses browned butter and fleur de sel to make incredibly flavorful, grown-up rice crispy bars. The browned butter adds a delicious nutty depth that pairs perfectly with the fleur de sel.
+
+File: bruschetta.md
+Description: Crisp garlic toast brushed with olive oil and finished with a sprinkle of salt makes the perfect base for any bruschetta topping. Bring these easy garlic toasts out warm from the oven to serve. 
+
+File: bruschetta_with_fresh_tomato_and_basil.md  
+Description: This classic bruschetta topping features fresh diced tomatoes marinated in olive oil, balsamic vinegar, and basil. Served piled atop warm, garlicky toast for an easy appetizer or light meal.
+
+File: bryant_terry_s_amazing_green_rice.md
+Description: This visually stunning rice is deeply hued from sauteed kale, spinach and green peppers. Cooked in stock and onion infused oil, every spoonful yields bright vegetal flavor with fluffy, separate grains. It's simple, healthy and delicious.
+
+File: bulgogi_sauce.md
+Description: This Korean bulgogi marinade doubles as a versatile "mother sauce" that can be used with beef, pork, chicken or tofu. The sweet and savory sauce features soy sauce, pear, onion, garlic and sesame. Traditionally used for grilled Korean BBQ dishes.
+
+File: burek_sirnica.md
+Description: This recipe teaches you how to make burek, a filled savory pastry, and sirnica, a sweet cheese filling, from scratch. Hand-stretching the dough takes practice but the homemade flaky burek is worth it. Fill it with sirnica or potato and meat.
+
+File: burnt_ends_from_leftover_kontosouvli.md 
+Description: Leftover kontosouvli, a Greek spit-roasted pork, is reborn as these incredible pork burnt ends. They're tossed in a homemade BBQ-like sauce and caramelized until crispy and saucy. Served with rice pilaf and gigantes beans for a comforting second meal.
+
+File: burnt_sugar_gelato.md
+Description: This deep, dark brown gelato gets its intense flavor solely from caramelized sugar. The process of slowly cooking sugar to a blackened melt imbues the custard base with bittersweet burnt sugar flavor. It's the first ice cream Jane declared perfectly made.
+
+File: butter_chicken.md
+Description: Butter chicken features chicken pieces in a rich, silky tomato-cream sauce scented with ginger, garam masala, turmeric and fenugreek. The sauce keeps even leftover tandoori chicken from drying out. Best made with boneless dark meat or a small whole chicken.
+
+File: butter_garlic_cream_sauce.md
+Description: This easy pan sauce comes together in minutes by simmering garlic and herbs in butter, then pouring in cream and letting it reduce down slightly for a lush coating consistency. It's the ultimate topper for pasta, seafood, chicken or steak.
+
+File: butternut_squash_soup.md
+Description: This creamy, orange soup highlights the natural sweetness of butternut squash. Simmered with onions and ginger, then blended smooth, it has a velvety texture without any added cream. Also works well with other winter squash.

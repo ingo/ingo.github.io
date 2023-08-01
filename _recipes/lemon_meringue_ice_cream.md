@@ -2,10 +2,10 @@
 author: Love and Olive Oil
 category: Desserts
 description: A refreshing and tangy dessert perfect for summer days.
-favorite: ✓
+favorite: "\u2713"
 image: lemon_meringue_ice_cream.jpg
 source: https://www.epicurious.com/recipes/food/views/lemon-meringue-ice-cream
-sweet: ✓
+sweet: "\u2713"
 title: Lemon Meringue Ice Cream
 ---
 This Lemon Meringue Ice Cream recipe is a delightful twist on the classic lemon meringue pie. It's a perfect treat for those hot summer days when you need something refreshing and tangy. The recipe was found on Epicurious, but has been a favorite on Love and Olive Oil.

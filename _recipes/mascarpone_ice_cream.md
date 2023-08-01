@@ -1,6 +1,8 @@
 ---
 category: Desserts
-description: A rich, creamy and smooth mascarpone ice cream, perfect for a hot summer day. The high fat content of the cheese makes for an especially decadent frozen dessert.
+description: A rich, creamy and smooth mascarpone ice cream, perfect for a hot summer
+  day. The high fat content of the cheese makes for an especially decadent frozen
+  dessert.
 image: mascarpone_ice_cream.jpg
 size: 4 servings
 time: 1 hour

@@ -6,7 +6,7 @@ description: A favorite German dish consisting of dumplings. This recipe has not
 image: kartoffelkloesse.jpg
 size: 24 dumplings
 time: Not specified
-title: "Kartoffelklöße"
+title: "Kartoffelkl\xF6\xDFe"
 ---
 ### Ingredients
 

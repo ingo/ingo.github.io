@@ -3,7 +3,7 @@ author: Craft Invaders
 category: Beverages
 description: A genuinely magical colour changing gin infusion made with Himalayan
   Balsam flowers.
-favorite: ✓
+favorite: "\u2713"
 image: magical_himalayan_balsam_gin.jpg
 size: 1 litre
 source: https://craftinvaders.co.uk/how-to-make-a-magical-himalayan-balsam-gin/

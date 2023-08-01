@@ -7,7 +7,7 @@ difficulty: Easy
 image: vanilla_poached_pears.jpg
 size: 4 servings
 source: https://www.foodnetwork.com/recipes/alton-brown/vanilla-poached-pears-recipe-1944116
-sweet: ✓
+sweet: "\u2713"
 time: 2 hours 5 min
 title: Vanilla Poached Pears
 ---

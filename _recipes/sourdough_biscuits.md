@@ -1,8 +1,8 @@
 ---
 author: Damn Delicious
 category: Breakfasts
-description: Use up your “discarded” starter in these EPIC biscuits! With that sourdough
-  tang, these biscuits are so flaky, so buttery and so so good.
+description: "Use up your \u201Cdiscarded\u201D starter in these EPIC biscuits! With\
+  \ that sourdough tang, these biscuits are so flaky, so buttery and so so good."
 image: sourdough_biscuits.jpg
 size: 8-10 biscuits
 source: https://damndelicious.net/2020/07/24/sourdough-biscuits/

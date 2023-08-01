@@ -7,11 +7,11 @@ image: shiso_sorbet.jpg
 original_title: Shiso Sorbet
 size: Varies
 source: https://www.latimes.com/
-sweet: ✓
+sweet: "\u2713"
 time: Varies
 title: Shiso Sorbet
-vegan: ✓
-veggie: ✓
+vegan: "\u2713"
+veggie: "\u2713"
 ---
 This Shiso Sorbet recipe is a unique dessert that brings the flavors of Tokyo to your kitchen. It's a part of the Tokyo Cult Recipes collection, which aims to introduce the world to the diverse and exciting culinary culture of Japan's capital city.
 

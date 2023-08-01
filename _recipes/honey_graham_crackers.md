@@ -14,7 +14,7 @@ nutrition:
 original_title: Homemade Honey Graham Crackers
 size: 14 crackers
 source: https://www.washingtonpost.com/recipes/marion-cunninghams-graham-crackers/12716/
-sweet: ✓
+sweet: "\u2713"
 time: 1 hour
 title: Honey Graham Crackers
 ---

@@ -1,7 +1,10 @@
 ---
 author: Suzy
 category: Sides
-description: This Greek-inspired lemon rice is bursting with bright flavor from lemon juice and zest, garlic and fresh dill. Tart and tangy with a pop of green freshness, it's an easy and delicious accompaniment to roasted chicken, grilled seafood, lamb kebabs and more. Let it cool before fluffing with a fork.
+description: This Greek-inspired lemon rice is bursting with bright flavor from lemon
+  juice and zest, garlic and fresh dill. Tart and tangy with a pop of green freshness,
+  it's an easy and delicious accompaniment to roasted chicken, grilled seafood, lamb
+  kebabs and more. Let it cool before fluffing with a fork.
 image: greek_lemon_rice.jpg
 original_title: Greek Lemon Rice Recipe
 size: 6 servings

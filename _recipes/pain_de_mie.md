@@ -1,8 +1,8 @@
 ---
 author: King Arthur Flour
 category: Breakfasts
-description: This delicious, fine-grained loaf is perfect for sandwiches and toast
-  — including French toast and melba toast.
+description: "This delicious, fine-grained loaf is perfect for sandwiches and toast\
+  \ \u2014 including French toast and melba toast."
 image: pain_de_mie.jpg
 size: 1100g loaf
 source: https://www.kingarthurflour.com/recipes/pain-de-mie-recipe

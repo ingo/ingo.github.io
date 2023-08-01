@@ -4,7 +4,7 @@ category: Entrees
 description: A delicious Turkish pastry filled with your choice of ingredients, rolled
   into a beautiful rose shape.
 image: rose_borek.jpg
-size: 1 3L (13*9*2”) Pyrex casserole dish
+size: "1 3L (13*9*2\u201D) Pyrex casserole dish"
 source: http://www.turkishfoodandrecipes.com/2008/12/turkish-borek.html
 time: 1 hour
 title: Rose Borek

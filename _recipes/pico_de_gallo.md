@@ -1,15 +1,15 @@
 ---
-title: Pico de Gallo
-original_title: Pico de Gallo
+author: "J. Kenji L\xF3pez-Alt"
 category: Sides
 description: A classic Mexican condiment made with tomatoes, onions, and chiles.
+favorite: "\u2713"
 image: pico_de_gallo.jpg
+original_title: Pico de Gallo
 size: 3 cups
-time: 50 minutes
-author: J. Kenji López-Alt
 source: https://www.seriouseats.com/classic-pico-de-gallo-recipe
-spicy: ✓
-favorite: ✓
+spicy: "\u2713"
+time: 50 minutes
+title: Pico de Gallo
 ---
 
 This recipe for Pico de Gallo, a classic Mexican condiment, comes from J. Kenji López-Alt, a chef well-known for his love of flavorful and authentic cuisine. This dish is a staple in Mexican cuisine, and its name literally translates to "rooster's beak". The name is said to come from the finger motion used when picking up bits of the salsa to stuff into tacos or top totopos. This version of the recipe is optimized for better flavor and texture, using the best, most flavorful tomatoes available and a special salting technique to enhance the tomatoes' flavor.

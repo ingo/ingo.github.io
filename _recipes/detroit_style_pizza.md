@@ -1,14 +1,18 @@
 ---
-title: Detroit-Style Pizza
-original_title: Detroit-Style Pizza
-category: Entrees
-description: This pizza is baked in a rectangular steel pan which gives it a distinct thick, crispy crust with caramelized, fried edges. The brick cheese and sauce are layered on top of the crust rather than mixed in, allowing them to meld together as the pizza bakes. The cheese melts into delicious globs and slices are eaten with gusto.
-image: detroit_style_pizza.jpg
-size: 12 servings
-time: 4 hours 40 minutes
 author: King Arthur
+category: Entrees
+description: This pizza is baked in a rectangular steel pan which gives it a distinct
+  thick, crispy crust with caramelized, fried edges. The brick cheese and sauce are
+  layered on top of the crust rather than mixed in, allowing them to meld together
+  as the pizza bakes. The cheese melts into delicious globs and slices are eaten with
+  gusto.
+favorite: "\u2713"
+image: detroit_style_pizza.jpg
+original_title: Detroit-Style Pizza
+size: 12 servings
 source: https://www.kingarthurflour.com/recipes/detroit-style-pizza-recipe
-favorite: ✓
+time: 4 hours 40 minutes
+title: Detroit-Style Pizza
 ---
 
 This Detroit-style pizza recipe is inspired by Serious Eats and is a new obsession for many. The pizza is known for its thick crust with crackly-crisp sides and bottom. It also layers classic pizza toppings in reverse order: first optional pepperoni, then cheese (brick cheese, to be totally traditional), then sauce. It’s baked in a special dark anodized pan to achieve perfectly crispy caramelized cheese around the edge; a harmonious balance to the soft, chewy crust, and sauce and gooey cheese on top.

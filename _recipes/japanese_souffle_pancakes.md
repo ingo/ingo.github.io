@@ -7,12 +7,12 @@ description: Towering pancakes made with a meringue mixture for extra height, co
 image: japanese_souffle_pancakes.jpg
 image_attribution: Romulo Yanes
 image_source: The New York Times
-original_title: フワフワパンケーキ
+original_title: "\u30D5\u30EF\u30D5\u30EF\u30D1\u30F3\u30B1\u30FC\u30AD"
 size: 8 pancakes
 source: https://cooking.nytimes.com/recipes/1020120-japanese-souffle-pancakes
-sweet: ✓
+sweet: "\u2713"
 time: 30 minutes
-title: Japanese Soufflé Pancakes
+title: "Japanese Souffl\xE9 Pancakes"
 ---
 Japanese soufflé pancakes start with the same ingredients as American varieties — namely, eggs, flour and milk — but they tower above traditional diner versions thanks to the addition of extra egg whites. A meringue mixture is beaten to stiff peaks, then folded into the batter, which cooks directly in metal pastry rings to help the pancakes attain their distinctive height. The key is to cook the batter at a very low temperature. If your stove has a small burner, or an especially low heat setting, use it here to create these custardy pancakes, worthy of breakfast, an afternoon snack or even dessert.
 

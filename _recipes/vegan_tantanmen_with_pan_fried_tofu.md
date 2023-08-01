@@ -11,7 +11,7 @@ size: 4 servings
 source: https://cooking.nytimes.com/recipes/1022099-vegan-tantanmen-with-pan-fried-tofuundefined
 time: 45 minutes
 title: Vegan Tantanmen With Pan-Fried Tofu
-vegan: ✓
+vegan: "\u2713"
 ---
 Tantanmen is the Japanese version of dan dan noodles, a Sichuan dish of noodles and pork bathed in a spicy sesame broth. Chinese or Japanese sesame pastes, which are made from roasted sesame seeds and yield a more robust flavor than tahini, are traditionally used in this dish. For those who keep doubanjiang, or Chinese fermented bean paste, on hand, add a teaspoon or two to your soup base for even deeper flavor. Slices of pan-fried tofu make this dish feel more substantial, but if you are looking for a shortcut, crumble it up and pan-fry it alongside the mushrooms. For non-vegans, add a jammy egg.
 

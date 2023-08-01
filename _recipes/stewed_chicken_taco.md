@@ -3,10 +3,10 @@ author: Unknown
 category: Entrees
 description: A flavorful and tender chicken taco, stewed with spices and served with
   fresh cilantro and onion.
-favorite: ✓
+favorite: "\u2713"
 image: stewed_chicken_taco.jpg
 size: 4 servings
-spicy: ✓
+spicy: "\u2713"
 time: 1 hour
 title: Stewed Chicken Taco
 ---

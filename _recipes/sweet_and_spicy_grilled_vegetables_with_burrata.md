@@ -9,8 +9,8 @@ image_attribution: Andrew Purcell for The New York Times
 original_title: Sweet-and-Spicy Grilled Vegetables With Burrata
 size: 6-8 servings
 source: https://cooking.nytimes.com/ourcooks/melissa-clark/my-recipes?action=click&module=byline&region=recipe%20page
-spicy: ✓
-sweet: ✓
+spicy: "\u2713"
+sweet: "\u2713"
 time: 45 minutes
 title: Sweet-and-Spicy Grilled Vegetables With Burrata
 ---

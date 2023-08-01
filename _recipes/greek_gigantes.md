@@ -1,7 +1,11 @@
 ---
 author: The Wanderlust Kitchen
 category: Sides
-description: Greek Gigantes, meaning “giant beans”, live up to their name. These large white beans are slow simmered in a rich tomato and herb sauce until perfectly tender and creamy. They make a satisfying vegetarian main dish when served over crusty toasted bread. The beans become melt-in-your-mouth soft and soak up the flavors of the aromatic sauce.
+description: "Greek Gigantes, meaning \u201Cgiant beans\u201D, live up to their name.\
+  \ These large white beans are slow simmered in a rich tomato and herb sauce until\
+  \ perfectly tender and creamy. They make a satisfying vegetarian main dish when\
+  \ served over crusty toasted bread. The beans become melt-in-your-mouth soft and\
+  \ soak up the flavors of the aromatic sauce."
 image: greek_gigantes.jpg
 original_title: Greek Gigantes
 size: servings

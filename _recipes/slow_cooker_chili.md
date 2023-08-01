@@ -9,7 +9,7 @@ image_attribution: Julia Gartland
 image_source: The New York Times
 size: 6-8 servings
 source: https://cooking.nytimes.com/search?q=Sarah+DiGregorio&action=click&module=byline&region=recipe%20page
-spicy: ✓
+spicy: "\u2713"
 time: 4 hours, 30 minutes
 title: Slow Cooker Chili
 ---

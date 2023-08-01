@@ -7,7 +7,7 @@ image: turkey_pho_dip.jpg
 original_title: Turkey Pho Dip Recipe
 size: 4 servings
 source: https://www.epicurious.com/recipes/food/views/turkey-pho-dip
-spicy: ✓
+spicy: "\u2713"
 time: 2.5 hours
 title: Turkey Pho Dip
 ---

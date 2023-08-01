@@ -6,7 +6,7 @@ description: This sweet, simple pepper stew is an ideal use for summer's bounty 
 image: stewed_sweet_peppers_peperonata.jpg
 size: 2 cups
 source: http://www.saveur.com/gallery/Roman-Pasta-and-Side-Dishes
-sweet: ✓
+sweet: "\u2713"
 time: 1 hour
 title: Stewed Sweet Peppers (Peperonata)
 ---

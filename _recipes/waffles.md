@@ -3,7 +3,7 @@ author: The Joy of Cooking
 category: Breakfasts
 description: Crispy and fluffy waffles with a hint of vanilla. Perfect for a cozy
   breakfast or brunch.
-favorite: ✓
+favorite: "\u2713"
 image: waffles.jpg
 size: 4 servings
 time: 30 minutes

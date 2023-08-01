@@ -1,6 +1,8 @@
 ---
 category: Entrees
-description: A great beet soup.
+description: This easy beet soup has a deep ruby color and sweet, earthy flavor. Fresh
+  dill and Greek yogurt swirled into sour cream offer a cool, tangy contrast when
+  spooned over the top.
 image: beet_soup_with_dill_cream.jpg
 size: 4 servings
 time: 4 hours 35 minutes

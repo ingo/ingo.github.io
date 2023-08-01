@@ -5,10 +5,10 @@ description: Supercharged celery sticks that will open up any appetite even on a
   and muggy summer day. This Sichuan Celery Salad is served cold, making it a perfect
   appetizer or side dish.
 image: sichuan_celery_salad.jpg
-original_title: 涼拌芹菜
+original_title: "\u6DBC\u62CC\u82B9\u83DC"
 size: 4 servings
 source: http://www.itsmydish.com/easyrecipe-print/697-0/
-spicy: ✓
+spicy: "\u2713"
 time: 11 minutes
 title: Sichuan Celery Salad
 ---

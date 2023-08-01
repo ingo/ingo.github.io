@@ -4,14 +4,14 @@ category: Sauces
 description: A rich and tangy dressing that is perfect for your Caesar salads.
 difficulty: easy
 image: caesar_salad_dressing.jpg
-salty: ✓
+salty: "\u2713"
 size: Makes 1-1/3 cups (enough for about 10 starter salads)
-sour: ✓
+sour: "\u2713"
 time: 10 Minutes
 title: Caesar Salad Dressing
-umami: ✓
+umami: "\u2713"
 vegan: null
-veggie: ✓
+veggie: "\u2713"
 ---
 This homemade Caesar Salad Dressing will elevate your salad to a whole new level. It's rich, tangy, and incredibly easy to make. 
 

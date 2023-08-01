@@ -1,5 +1,5 @@
 ---
-author: J. Kenji López-Alt
+author: "J. Kenji L\xF3pez-Alt"
 category: Sides
 description: All the delights of Mexican street corn (elotes) in salad form, and you
   don't even have to fire up the grill to make it.
@@ -8,7 +8,7 @@ image_attribution: Vicky Wasik
 original_title: Esquites
 size: 4 servings
 source: https://www.seriouseats.com/recipes/2012/07/esquites-mexican-street-corn-salad-recipe.html
-spicy: ✓
+spicy: "\u2713"
 time: 15 minutes
 title: Mexican Street Corn Salad (Esquites)
 ---

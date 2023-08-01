@@ -1,14 +1,15 @@
 ---
-title: Hummus
-category: Sides
-description: A creamy and smooth hummus recipe that is perfect for dipping or as a spread.
-image: hummus.jpg
-size: 12 servings
-time: 25 hours 30 minutes
 author: Yotam Ottolenghi & Sami Tamimi
-source: https://food52.com/recipes/recipeStart
+category: Sides
+description: A creamy and smooth hummus recipe that is perfect for dipping or as a
+  spread.
+image: hummus.jpg
 image_attribution: Julia Gartland
 image_source: Food52
+size: 12 servings
+source: https://food52.com/recipes/recipeStart
+time: 25 hours 30 minutes
+title: Hummus
 ---
 
 This hummus recipe is adapted from the cookbook "Jerusalem" by Yotam Ottolenghi and Sami Tamimi. It's a basic recipe that can be customized to your taste. The key to its smooth and creamy texture is the use of tahini and ice-cold water. 

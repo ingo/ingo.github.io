@@ -1,9 +1,9 @@
 ---
 author: Walt Disney
 category: Entrees
-description: Recreate Walt’s Chili from Carnation Café in your own kitchen! This hearty
-  chili recipe is based on Walt’s own recipe, and is delicious topped with sour cream,
-  cheese, and fresh tomatoes.
+description: "Recreate Walt\u2019s Chili from Carnation Caf\xE9 in your own kitchen!\
+  \ This hearty chili recipe is based on Walt\u2019s own recipe, and is delicious\
+  \ topped with sour cream, cheese, and fresh tomatoes."
 image: walt_s_chili.jpg
 size: 4 servings
 source: http://disneyland.com/

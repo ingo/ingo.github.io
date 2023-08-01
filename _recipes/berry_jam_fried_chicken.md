@@ -1,7 +1,11 @@
 ---
 author: Nicole Taylor
 category: Entrees
-description: Though the name sounds like a wild sweet-tooth's parade, this fried chicken recipe actually makes perfect sense when paired with a spicy scallion cornmeal waffle. The chicken is first marinated in a mixed berry jam, which caramelizes into a sticky, sweet glaze when fried. Almost any summer fruit jam can be substituted in the marinade. Peanut oil or another high smoke point oil is best for frying, if available.
+description: Though the name sounds like a wild sweet-tooth's parade, this fried chicken
+  recipe actually makes perfect sense when paired with a spicy scallion cornmeal waffle.
+  The chicken is first marinated in a mixed berry jam, which caramelizes into a sticky,
+  sweet glaze when fried. Almost any summer fruit jam can be substituted in the marinade.
+  Peanut oil or another high smoke point oil is best for frying, if available.
 image: berry_jam_fried_chicken.jpg
 size: 4-6 servings
 source: https://cooking.nytimes.com/search?q=Nicole+Taylor&action=click&module=byline&region=recipe%20page

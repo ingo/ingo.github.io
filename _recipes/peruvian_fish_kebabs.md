@@ -6,7 +6,7 @@ description: Delicious and flavorful fish kebabs with a Peruvian twist, perfect 
 image: peruvian_fish_kebabs.jpg
 size: 4 servings
 source: https://app.ckbk.com/recipe/theb59575c11s001r035#ff001
-spicy: ✓
+spicy: "\u2713"
 time: 1 hour 30 minutes
 title: Peruvian Fish Kebabs
 ---

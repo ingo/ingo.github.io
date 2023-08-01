@@ -3,7 +3,7 @@ author: Breadtopia Forum User
 category: Breads
 description: A delicious, homemade sourdough bread with a unique taste of pumpernickel.
   Perfect for breakfast or a hearty sandwich.
-favorite: ✓
+favorite: "\u2713"
 image: pumpernickel_sourdough.jpg
 size: 1 loaf
 source: https://forum.breadtopia.com/uploads/default/original/2X/0/0f771061c6bedcb0913d298916b3ad0afbd220c6.jpeg

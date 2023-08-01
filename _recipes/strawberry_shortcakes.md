@@ -3,7 +3,7 @@ author: Claudia Fleming and Russ Parsons
 category: Desserts
 description: Delicious shortcakes with fresh strawberries and whipped cream, perfect
   for a sweet treat.
-favorite: ✓
+favorite: "\u2713"
 image: strawberry_shortcakes.jpg
 original_title: Strawberry Shortcakes
 size: 6 servings

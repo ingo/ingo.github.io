@@ -1,8 +1,9 @@
 ---
 author: Reddit User
 category: Desserts
-description: A delicious twist on the classic rice crispy treats. The browned butter
-  and sea salt give it a rich, savory flavor that's irresistible.
+description: This gourmet twist on a classic kids' treat uses browned butter and fleur
+  de sel to make incredibly flavorful, grown-up rice crispy bars. The browned butter
+  adds a delicious nutty depth that pairs perfectly with the fleur de sel.
 favorite: "\u2713"
 image: browned_butter_and_sea_salt_rice_crispy_treats.jpg
 size: 9 servings

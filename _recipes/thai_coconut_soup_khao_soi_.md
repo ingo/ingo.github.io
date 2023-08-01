@@ -3,12 +3,12 @@ author: Sylvia Fountaine | Feasting at Home Blog
 category: Entrees
 description: A flavorful and very addicting Northern Style Thai Coconut Curry Noodle
   Soup, called Khao Soi. Easy and fast, and so yummy.
-favorite: ✓
+favorite: "\u2713"
 image: thai_coconut_soup_khao_soi_.jpg
-original_title: ข้าวซอย
+original_title: "\u0E02\u0E49\u0E32\u0E27\u0E0B\u0E2D\u0E22"
 size: 3-4 servings
 source: https://www.feastingathome.com/thai-coconut-noodle-soup-khao-soi/
-spicy: ✓
+spicy: "\u2713"
 time: 15 minutes
 title: Thai Coconut Soup (Khao Soi)
 ---

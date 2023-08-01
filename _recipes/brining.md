@@ -1,6 +1,9 @@
 ---
 category: Pantry
-description: A guide to different brining techniques for various meats.
+description: This guide covers key brining techniques for various meats like pork
+  chops, chicken, and turkey to help retain moisture and impart flavor. It includes
+  details on wet brines, buttermilk brines, and dry rubs along with tips for brining
+  success.
 image: brining.jpg
 title: Brining
 ---

@@ -4,7 +4,7 @@ category: Desserts
 description: Delicious cookies just like the ones served in Momofuku Milk Bar in NYC.
   This version is even better and easier to make. Follow the tips and tricks to make
   these incredible cornflake chocolate chip cookies in your own kitchen.
-favorite: ✓
+favorite: "\u2713"
 image: milk_bar_cornflake_marshmallow_cookies.jpg
 original_title: Momofuku Milk Bar Cornflake Marshmallow Cookies
 size: Varies

@@ -6,7 +6,7 @@ description: A traditional Spanish dish adapted for cooking on a barbecue grill 
   including salt cod, rabbit, and a host of vegetables to create a rich and flavorful
   meal.
 image: paella_de_catalana.jpg
-original_title: Roger’s Catalan Paella
+original_title: "Roger\u2019s Catalan Paella"
 size: 4-6 servings
 source: https://app.ckbk.com/recipe/movi64691c11s001r001/rogers-catalan-paella
 time: 2 hours

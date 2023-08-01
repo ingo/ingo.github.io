@@ -1,6 +1,8 @@
 ---
 category: Sides
-description: A great dip to serve with pita chips
+description: This warm, ooey-gooey feta cheese dip comes together in minutes under
+  the broiler. Creamy feta is blended with Greek yogurt, garlic, lemon and herbs,
+  then broiled just until hot and bubbly. Serve with pita chips or crusty bread.
 image: broiled_feta_dip.jpg
 size: 2 cups
 title: Broiled Feta Dip

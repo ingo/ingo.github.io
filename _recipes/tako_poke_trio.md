@@ -3,12 +3,12 @@ author: Curt Okimoto and Sam Choy
 category: Entrees
 description: A trio of Hawaiian delicacies made of octopus and various condiments.
   These recipes are a perfect blend of Japanese and Hawaiian flavors.
-favorite: ✓
+favorite: "\u2713"
 image: tako_poke_trio.jpg
 original_title: Tako Poke
 size: 8 servings each
 source: http://archives.starbulletin.com/97/08/06/features/request.html
-spicy: ✓
+spicy: "\u2713"
 time: 1 hour
 title: Tako Poke Trio
 ---

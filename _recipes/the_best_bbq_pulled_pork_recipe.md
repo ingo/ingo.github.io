@@ -3,12 +3,12 @@ author: Meathead Goldwyn
 category: Entrees
 description: A flavorful and tender BBQ pulled pork recipe that is perfect for any
   occasion.
-favorite: ✓
+favorite: "\u2713"
 image: the_best_bbq_pulled_pork_recipe.jpg
 original_title: The Best BBQ Pulled Pork Recipe by Meathead Goldwyn
 size: 4-6 servings
 source: https://www.sharemycook.com/Recipe/Details/132
-spicy: ✓
+spicy: "\u2713"
 time: 8-10 hours
 title: The Best BBQ Pulled Pork
 ---

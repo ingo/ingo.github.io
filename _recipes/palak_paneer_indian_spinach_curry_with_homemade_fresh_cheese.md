@@ -22,13 +22,13 @@ nutrition:
 - 43mg vitamin C
 - 548mg calcium
 - 4mg iron
-original_title: पालक पनीर
+original_title: "\u092A\u093E\u0932\u0915 \u092A\u0928\u0940\u0930"
 size: 6 servings
 source: https://www.recipetineats.com/palak-paneer-indian-spinach-curry-with-cheese/
-spicy: ✓
+spicy: "\u2713"
 time: 1 hour 10 minutes
-title: Palak Paneer – Indian Spinach Curry with Homemade Fresh Cheese
-veggie: ✓
+title: "Palak Paneer \u2013 Indian Spinach Curry with Homemade Fresh Cheese"
+veggie: "\u2713"
 ---
 Palak Paneer is the ultimate and best-known Indian spinach curry, made with golden pan-fried pieces of cheese (paneer). This version is made entirely from scratch – including the paneer cheese! This is one of the milder Indian curries out there, both in heat and spice intensity. The gentle spicing from fenugreek, cumin and coriander plays well with the delicate spinach flavour, without overwhelming it. Meanwhile, the paneer are like little creamy sponges that suck up all those tasty flavours in the sauce!
 

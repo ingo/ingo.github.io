@@ -1,9 +1,9 @@
 ---
 author: Patrick Ryan
 category: Breads
-description: A detailed guide to making classic baguettes, using a pre-fermented dough
-  for complex flavor. This recipe takes up to 3 days to make, but the results are
-  worth it.
+description: This detailed recipe guides you through all the steps to achieve perfect,
+  crusty French baguettes at home. It uses a pre-fermented dough for complex flavor.
+  Requires a 2-3 day process but the from-scratch baguettes are so worth it.
 image: baguettes.jpg
 size: 4 baguettes
 time: 3 days

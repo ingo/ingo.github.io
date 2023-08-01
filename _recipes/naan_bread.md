@@ -1,11 +1,11 @@
 ---
 author: Nagi
 category: Breads
-description: Fluffy, bubbly and chewy naan bread, just like you get at Indian restaurants.
-  Perfect for slopping up your favourite Indian curries – yet so good that you'll
-  happily devour it plain, straight out of the skillet.
+description: "Fluffy, bubbly and chewy naan bread, just like you get at Indian restaurants.\
+  \ Perfect for slopping up your favourite Indian curries \u2013 yet so good that\
+  \ you'll happily devour it plain, straight out of the skillet."
 difficulty: medium
-favorite: ✓
+favorite: "\u2713"
 image: naan_bread.jpg
 nutrition:
 - 223 calories
@@ -13,7 +13,7 @@ nutrition:
 - 10 g fat
 - 5 g protein
 original_title: Naan
-size: 6 naans, ~15-16cm / 6 – 7" diameter
+size: "6 naans, ~15-16cm / 6 \u2013 7\" diameter"
 source: https://www.recipetineats.com/easy-soft-flatbread-yeast/
 time: 2 hours
 title: Naan Bread

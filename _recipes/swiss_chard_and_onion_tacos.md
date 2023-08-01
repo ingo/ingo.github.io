@@ -1,14 +1,17 @@
 ---
 author: Chris Cockren
 category: Entrees
-description: A delicious vegetarian taco filling made with Swiss chard and onions sauteed with spices. This flavorful plant-based option is perfect for a party menu, as it's hearty and satisfying enough for omnivores too. It'll make them feel like they're being all good and healthy while still enjoying tasty tacos.
+description: A delicious vegetarian taco filling made with Swiss chard and onions
+  sauteed with spices. This flavorful plant-based option is perfect for a party menu,
+  as it's hearty and satisfying enough for omnivores too. It'll make them feel like
+  they're being all good and healthy while still enjoying tasty tacos.
 image: swiss_chard_and_onion_tacos.jpg
 original_title: Swiss Chard and Onion Tacos
 size: Varies
 source: https://sharedappetite.com/swiss-chard-and-onion-tacos/
 time: 30 minutes
 title: Swiss Chard and Onion Tacos
-veggie: ✓
+veggie: "\u2713"
 ---
 This recipe is a lifesaver when you're throwing a party and suddenly remember that one friend who's a vegetarian. But don't worry, this taco is so good that even the omnivores in your life will love it. It's a recipe adapted from Chef Rick Bayless' cookbook, Mexican Everyday.
 

@@ -4,7 +4,7 @@ category: Entrees
 description: A whole fish coated in a thick layer of salt, slow roasted over charcoal,
   and eaten with a garlicky spicy chili dipping sauce known as sauce seafood.
 image: thai_grilled_fish_pla_pao.jpg
-original_title: ปลาเผา
+original_title: "\u0E1B\u0E25\u0E32\u0E40\u0E1C\u0E32"
 size: 1-2 servings
 source: http://www.eatingthaifood.com/thai-grilled-fish-recipe-pla-pao/
 time: 1 hour 5 minutes

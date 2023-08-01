@@ -1,8 +1,10 @@
 ---
 author: Martha Rose Shulman
 category: Entrees
-description: A delightful lasagna recipe filled with the goodness of asparagus and
-  a mix of fresh herbs.
+description: This lasagna puts a springtime twist on a classic comfort food by incorporating
+  fresh asparagus and mixed herbs into the usual ricotta filling. The bright green
+  layers add beautiful color and vegetal flavor that pairs wonderfully with the tomato
+  sauce and melted mozzarella.
 image: asparagus_and_herb_lasagna.jpg
 original_title: Asparagus and Herb Lasagna
 size: 6 servings

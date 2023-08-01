@@ -1,7 +1,10 @@
 ---
 author: Food Fidelity
 category: Sauces
-description: This magical salsa is pretty much good on anything from meats to vegetables.
+description: This bright salsa verde is made from the nutrient-rich greens of beets
+  rather than the typical parsley or cilantro. Pepitas, olive oil, garlic, lemon and
+  capers round out the flavor. It's delicious spooned over grilled meats, fish, sandwiches,
+  pizza, vegetables and more.
 image: beet_greens_salsa_verde.jpg
 size: 1 cup
 source: https://www.foodfidelity.com/wprm_print/3353

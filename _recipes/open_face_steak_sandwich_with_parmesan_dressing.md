@@ -1,8 +1,8 @@
 ---
 author: Claire Saffitz
 category: Entrees
-description: Mark your calendar. It’s steak sandwich night in America. Feeling virtuous?
-  Remove the bread and…voilà. Steak salad!
+description: "Mark your calendar. It\u2019s steak sandwich night in America. Feeling\
+  \ virtuous? Remove the bread and\u2026voil\xE0. Steak salad!"
 image: open_face_steak_sandwich_with_parmesan_dressing.jpg
 image_attribution: Alex Lau
 size: 4 servings

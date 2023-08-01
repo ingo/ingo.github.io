@@ -8,7 +8,7 @@ size: 2 quarts
 source: https://www.epicurious.com/recipes/food/views/slightly-sweet-dill-refrigerator-pickles-353891
 time: 24 hours
 title: Slightly Sweet Dill Refrigerator Pickles
-veggie: ✓
+veggie: "\u2713"
 ---
 This recipe for Slightly Sweet Dill Refrigerator Pickles is a perfect example of how simple ingredients can create a delicious and satisfying dish. The pickles are slightly sweet, tangy, and full of dill flavor. They are perfect for any occasion and can be enjoyed on their own or as a side dish. The best part is that this recipe requires no canning, so you can enjoy homemade pickles any time of the year.
 

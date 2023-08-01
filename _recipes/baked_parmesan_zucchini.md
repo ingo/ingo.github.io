@@ -1,7 +1,9 @@
 ---
 category: Sides
-description: Crisp, tender zucchini sticks oven-roasted to absolute perfection. It's
-  healthy, nutritious and completely addictive!
+description: This oven-roasted zucchini turns a summer squash into an incredibly addictive,
+  crispy-edged snack or side dish. Matchstick cut zucchini tossed in olive oil and
+  parmesan bakes up crispy on the outside and tender inside. It's healthy, nutritious
+  and delicious.
 image: baked_parmesan_zucchini.jpg
 size: 4 servings
 time: 30 minutes

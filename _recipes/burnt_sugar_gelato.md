@@ -1,8 +1,9 @@
 ---
 category: Desserts
-description: This is the first ice cream Ingo made than Jane called "perfectly made."
-  She, however, could have used more burnt sugar flavor, so decide how long you wish
-  to burn the sugar yourself.
+description: This deep, dark brown gelato gets its intense flavor solely from caramelized
+  sugar. The process of slowly cooking sugar to a blackened melt imbues the custard
+  base with bittersweet burnt sugar flavor. It's the first ice cream Jane declared
+  perfectly made.
 image: burnt_sugar_gelato.jpg
 size: 1 pint
 title: Burnt Sugar Gelato

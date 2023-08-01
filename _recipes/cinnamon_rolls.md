@@ -3,7 +3,7 @@ author: King Arthur Baking
 category: Desserts
 description: Deliciously soft and sweet cinnamon rolls, perfect for a cozy breakfast
   or dessert.
-favorite: ✓
+favorite: "\u2713"
 image: cinnamon_rolls.jpg
 original_title: Cinnamon Rolls
 size: 8 servings

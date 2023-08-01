@@ -17,7 +17,7 @@ nutrition:
 - 2.1 mg vitamin C
 - 27 mg calcium
 - 2.4 mg iron
-original_title: Legit Hawaiian Poke – No Soy Sauce Necessary
+original_title: "Legit Hawaiian Poke \u2013 No Soy Sauce Necessary"
 size: 2 servings
 source: https://asiantestkitchen.com/legit-hawaiian-poke/
 time: 30 minutes

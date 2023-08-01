@@ -1,7 +1,9 @@
 ---
 category: Sauces
-description: This butter and garlic cream sauce comes together in just minutes and
-  is the perfect topper for pasta, ravioli, shrimp, seafood or steak!
+description: This easy pan sauce comes together in minutes by simmering garlic and
+  herbs in butter, then pouring in cream and letting it reduce down slightly for a
+  lush coating consistency. It's the ultimate topper for pasta, seafood, chicken or
+  steak.
 image: butter_garlic_cream_sauce.jpg
 size: 4 servings
 time: 15 minutes

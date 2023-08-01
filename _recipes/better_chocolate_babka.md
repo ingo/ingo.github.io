@@ -1,9 +1,9 @@
 ---
 author: Smitten Kitchen
 category: Desserts
-description: A rich, buttery, crumbly and intensely chocolaty babka that's sure to
-  satisfy your sweet tooth. This recipe has been adapted and improved over time to
-  make it as easy and delicious as possible.
+description: This babka dough produces a pull-apart bread that is rich, buttery, and
+  intensely chocolaty. The recipe has been carefully perfected over time for flawless
+  babka with a crumbly texture every time. A must-try for chocolate lovers.
 favorite: "\u2713"
 image: better_chocolate_babka.jpg
 original_title: Chocolate Babka

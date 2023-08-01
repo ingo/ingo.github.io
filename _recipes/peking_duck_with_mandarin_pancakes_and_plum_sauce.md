@@ -1,5 +1,5 @@
 ---
-author: J. Kenji López-Alt
+author: "J. Kenji L\xF3pez-Alt"
 category: Entrees
 description: A traditional Chinese dish featuring a whole duck, maltose syrup and
   soy sauce, served with scallions and cucumber.

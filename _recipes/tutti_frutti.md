@@ -3,7 +3,7 @@ author: Pam Scott
 category: Beverages
 description: A highly alcoholic condiment traditionally served over desserts. A year-long
   process of fermenting your own brandied fruits results in a delicious, magical elixir.
-favorite: ✓
+favorite: "\u2713"
 image: tutti_frutti.jpg
 size: Varies
 source: https://fifthseasongardening.com/tutti-frutti-a-magical-elixir

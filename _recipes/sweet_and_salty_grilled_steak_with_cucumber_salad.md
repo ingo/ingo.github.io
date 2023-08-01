@@ -6,10 +6,10 @@ description: The marinade on this steak is inspired by a classic Vietnamese dipp
   it on crisp cucumbers and radishes, but sliced ripe tomatoes work just as well.
 image: sweet_and_salty_grilled_steak_with_cucumber_salad.jpg
 image_attribution: Evan Sung for The New York Times
-salty: ✓
+salty: "\u2713"
 size: 4 to 6 servings
 source: https://cooking.nytimes.com/ourcooks/melissa-clark/my-recipes?action=click&module=byline&region=recipe%20page
-sweet: ✓
+sweet: "\u2713"
 time: 25 minutes, plus at least 30 minutes' marinating
 title: Sweet and Salty Grilled Steak With Cucumber Salad
 ---

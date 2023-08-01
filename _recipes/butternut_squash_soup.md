@@ -1,9 +1,8 @@
 ---
 category: Entrees
-description: "This is a colorful and healthful soup made with butternut squash. It\
-  \ doesn't have any added cream, but it certainly tastes creamy. You can substitute\
-  \ other hard squashes in place of the butternut\u2014we've had good success with\
-  \ soup pumpkins as well."
+description: This creamy, orange soup highlights the natural sweetness of butternut
+  squash. Simmered with onions and ginger, then blended smooth, it has a velvety texture
+  without any added cream. Also works well with other winter squash.
 image: butternut_squash_soup.jpg
 size: 6 cups
 time: 1 hour 15 minutes

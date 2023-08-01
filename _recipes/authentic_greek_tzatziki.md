@@ -1,8 +1,10 @@
 ---
 author: The Wanderlust Kitchen
 category: Sides
-description: A recipe learned in Athens, this is the authentic tzatziki recipe you've
-  been looking for!
+description: This traditional tzatziki recipe learned in Athens makes the definitive
+  version of the creamy cucumber yogurt dip. The key is draining the yogurt to achieve
+  an ultra-smooth, spreadable texture accented by fresh garlic, olive oil, vinegar
+  and mint.
 image: authentic_greek_tzatziki.jpg
 nutrition:
 - 75 calories

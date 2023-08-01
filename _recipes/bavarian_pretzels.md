@@ -1,8 +1,10 @@
 ---
 author: Colin MacLaggan
 category: Breads
-description: Authentic Bavarian pretzels, perfect with mustard and beer cheese. The
-  key ingredients are food-grade lye and yeast.
+description: These soft, chewy pretzels are made the traditional Bavarian way with
+  a lye water bath to give the crust its distinctive brown color and flavor. The pretels
+  are boiled then salted and baked to perfection. Served with spicy mustard and beer
+  cheese for dipping.
 image: bavarian_pretzels.jpg
 original_title: Echte Bayerische Brezeln
 size: 10-12 servings

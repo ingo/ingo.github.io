@@ -3,7 +3,7 @@ author: Goode Company Seafood
 category: Entrees
 description: A favorite dish at Goode Company Seafood in Houston, perfect with fried
   tortilla chips and cold beer.
-favorite: ✓
+favorite: "\u2713"
 image: mexican_seafood_cocktail.jpg
 image_attribution: Landon Nordeman
 image_source: http://www.saveur.com/sites/saveur.com/files/images/2009-06/121-mex-seafood-cocktail300.jpg

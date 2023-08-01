@@ -1,15 +1,19 @@
 ---
 author: Ice Cream Science
 category: Desserts
-description: A luxuriously rich and creamy vanilla gelato made from scratch using real vanilla beans, milk, cream, sugar and egg yolks. The intensity of the vanilla comes from infusing heated cream with whole vanilla beans and seeds scraped from the pod. Gelato has a smoother texture than ice cream due to less air whipped in during churning.
+description: A luxuriously rich and creamy vanilla gelato made from scratch using
+  real vanilla beans, milk, cream, sugar and egg yolks. The intensity of the vanilla
+  comes from infusing heated cream with whole vanilla beans and seeds scraped from
+  the pod. Gelato has a smoother texture than ice cream due to less air whipped in
+  during churning.
 difficulty: medium
-favorite: ✓
+favorite: "\u2713"
 image: vanilla_bean_gelato.jpg
 size: 800 ml (0.85 quarts) of gelato mix
 source: http://icecreamscience.com/vanilla-bean-gelato-recipe/
 time: 1 hour 40 minutes (plus overnight chilling)
 title: Vanilla Bean Gelato
-veggie: ✓
+veggie: "\u2713"
 ---
 This recipe for Vanilla Bean Gelato is a labor of love, but the results are worth it. The gelato is rich and creamy, with a strong vanilla flavor that comes from using fresh vanilla beans. The recipe also includes detailed instructions for pasteurizing the mix and achieving the perfect texture. 
 

@@ -1,13 +1,15 @@
 ---
-title: Bruschetta with Fresh Tomato and Basil
+author: David Rosengarten
 category: Entrees
-description: A delightful and easy to prepare bruschetta topped with fresh tomatoes and basil. Perfect for a light lunch or as an appetizer.
+description: This classic bruschetta topping features fresh diced tomatoes marinated
+  in olive oil, balsamic vinegar, and basil. Served piled atop warm, garlicky toast
+  for an easy appetizer or light meal.
+difficulty: easy
 image: bruschetta_with_fresh_tomato_and_basil.jpg
 size: 12 servings
-time: 2 hours 15 minutes
-author: David Rosengarten
 source: chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html
-difficulty: easy
+time: 2 hours 15 minutes
+title: Bruschetta with Fresh Tomato and Basil
 ---
 
 This recipe is courtesy of David Rosengarten from the Food Network. It's a simple and delicious dish that can be prepared in just a few steps. The combination of fresh tomatoes and basil makes for a refreshing and flavorful topping for the bruschetta.

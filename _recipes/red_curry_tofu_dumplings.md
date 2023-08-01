@@ -9,7 +9,7 @@ size: 40-50 dumplings
 source: https://healthynibblesandbits.com/red-curry-tofu-dumplings/
 time: 1 hour 25 minutes
 title: Red Curry Tofu Dumplings
-vegan: ✓
+vegan: "\u2713"
 ---
 These red curry tofu dumplings are a perfect blend of flavors and textures, and they're vegan too! The recipe came about during a grocery shopping trip at Nugget Markets, where the wide range of fresh produce inspired the creation of these delicious dumplings. 
 

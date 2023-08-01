@@ -1,7 +1,7 @@
 ---
 category: Entrees
-description: A super easy salmon dish bursting with so much flavor, and it’s hearty-healthy
-  too!
+description: "A super easy salmon dish bursting with so much flavor, and it\u2019\
+  s hearty-healthy too!"
 image: sesame_ginger_salmon.jpg
 size: 4 servings
 time: 1 hour, 5 minutes

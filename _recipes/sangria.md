@@ -1,6 +1,10 @@
 ---
 category: Beverages
-description: During my time in Madrid, I fell in love with a refreshing, fruity concoction called sangria. My recipe discovery happened unexpectedly in a small Andalusian town during a grape harvest festival, where the third-generation winemaker Don Eduardo shared his treasured family recipe. Back home, I couldn't wait to recreate this authentic sangria, bringing a touch of Spanish tradition to my gatherings.
+description: During my time in Madrid, I fell in love with a refreshing, fruity concoction
+  called sangria. My recipe discovery happened unexpectedly in a small Andalusian
+  town during a grape harvest festival, where the third-generation winemaker Don Eduardo
+  shared his treasured family recipe. Back home, I couldn't wait to recreate this
+  authentic sangria, bringing a touch of Spanish tradition to my gatherings.
 image: sangria.jpg
 size: 4 servings
 time: 2 hours and 10 minutes

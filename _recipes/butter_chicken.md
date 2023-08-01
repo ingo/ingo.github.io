@@ -1,9 +1,10 @@
 ---
 author: Monish Gujral
 category: Entrees
-description: This classic dish is often referred to as Murgh Makhani; here, the point
-  is to smother good grilled chicken in a rich sauce. The dish was created as a way
-  to keep cooked/leftover tandoori chicken from drying out.
+description: Butter chicken features chicken pieces in a rich, silky tomato-cream
+  sauce scented with ginger, garam masala, turmeric and fenugreek. The sauce keeps
+  even leftover tandoori chicken from drying out. Best made with boneless dark meat
+  or a small whole chicken.
 image: butter_chicken.jpg
 image_attribution: Deb Lindsey for The Washington Post
 original_title: Murgh Makhani

@@ -3,7 +3,7 @@ author: The Fresh Loaf
 category: Desserts
 description: Yeast-leavened olive oil wafers laced with sesame and star anise, a delightful
   Spanish treat.
-favorite: ✓
+favorite: "\u2713"
 image: tortas_de_aceite.jpg
 original_title: Tortas de Aceite
 size: 12 servings

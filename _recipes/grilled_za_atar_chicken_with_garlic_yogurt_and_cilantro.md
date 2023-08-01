@@ -1,7 +1,11 @@
 ---
 author: Melissa Clark
 category: Entrees
-description: This Middle Eastern grilled chicken is bursting with flavor thanks to an overnight yogurt marinade infused with za'atar, garlic and lemon. The chicken emerges very tender and infused with the piquant marinade. It's a flexible recipe - marinate for just 2 hours or up to overnight. Served drizzled with the garlicky marinade and fresh cilantro.
+description: This Middle Eastern grilled chicken is bursting with flavor thanks to
+  an overnight yogurt marinade infused with za'atar, garlic and lemon. The chicken
+  emerges very tender and infused with the piquant marinade. It's a flexible recipe
+  - marinate for just 2 hours or up to overnight. Served drizzled with the garlicky
+  marinade and fresh cilantro.
 image: grilled_za_atar_chicken_with_garlic_yogurt_and_cilantro.jpg
 image_attribution: Ryan Liebe for The New York Times
 original_title: "Grilled Za\u2019atar Chicken With Garlic Yogurt and Cilantro"

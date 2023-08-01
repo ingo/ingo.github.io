@@ -7,9 +7,9 @@ description: A tangy, sweet and sour pickled daikon and carrot recipe that adds 
 image: pickled_daikon_and_carrots.jpg
 original_title: Vietnamese Pickled Daikon and Carrot Recipe
 size: 1 jar
-sour: ✓
+sour: "\u2713"
 source: http://battleofthebanhmi.com/
-sweet: ✓
+sweet: "\u2713"
 time: 1 hour (minimum) to 3-5 days (for desired sourness)
 title: Pickled Daikon and Carrots
 ---
