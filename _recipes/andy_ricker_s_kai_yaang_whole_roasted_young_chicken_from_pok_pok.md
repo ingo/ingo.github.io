@@ -6,7 +6,10 @@ description: This whole roasted young chicken is inspired by the incredible flav
   then grilled over charcoal for an unbelievable depth of flavor with crispy skin
   and succulent meat. The charcoal cooking provides a smoky aroma and flavor that
   ovens can't replicate. Served with a spicy dipping sauce, it's a must-try recipe
-  for Thai cuisine fans or anyone who loves a great roasted chicken.
+  for Thai cuisine fans or anyone who loves a great roasted chicken. Letting the chicken
+  marinate overnight allows the seasonings to thoroughly penetrate the meat. The charcoal
+  imparts a smoky essence while crisping the skin. The chicken absorbs the aromatic
+  marinade while grilling over charcoal infuses it with smokiness.
 image: andy_ricker_s_kai_yaang_whole_roasted_young_chicken_from_pok_pok.jpg
 original_title: Kai Yaang
 size: 2 servings

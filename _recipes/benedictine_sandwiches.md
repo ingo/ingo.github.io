@@ -6,7 +6,10 @@ description: These dainty old-fashioned tea sandwiches feature cool cucumber sli
   sandwiched between thin bread slices. The simple flavors combine into a refreshing
   nibble. The cucumber provides refreshing crispness, the onion a touch of bite, and
   the spread flavors everything without overpowering. Fingertip sandwiches don't get
-  easier or more classic.
+  easier or more classic. Use very thin bread and minimal spread to keep these delicate.
+  Trim the crusts for perfect little bites. The cucumber and onion provide pleasant
+  contrasts in texture. The spread adds a creamy richness without dominating. These
+  petite sandwiches are the essence of simplicity.
 image: benedictine_sandwiches.jpg
 size: Varies
 source: https://www.epicurious.com/contributors/catherine-mccord

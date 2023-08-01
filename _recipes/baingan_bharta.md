@@ -7,7 +7,9 @@ description: Baingan bharta is a popular Indian dish of smoked mashed eggplant s
   with naan or rice. Grilling or broiling the eggplant gives it a delicious charred
   flavor. The pulp is then mashed with spices and simmered into a creamy vegetable
   side dish or dip. The smokiness pairs wonderfully with the aromatics. Enjoy baingan
-  bharta as a vegan main dish or side.
+  bharta as a vegan main dish or side. The charred eggplant contributes smoky notes.
+  Simmering allows the spices to fully bloom and meld together. This smoky eggplant
+  dish can be a vegan meal or accompaniment for spicy curries.
 image: baingan_bharta.jpg
 image_source: https://rainbowplantlife.com/baingan-bharta/
 size: 4 servings

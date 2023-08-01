@@ -7,7 +7,9 @@ description: This detailed recipe guides you through all the steps to achieve pe
   be intimidated by the multistep process - each step is simple, and it's hands-off
   most of the time. Starting with a preferment builds incredible flavor. Proper shaping
   and scoring produce the signature look. Best of all, your house will smell like
-  a Parisian bakery.
+  a Parisian bakery. Taking a few days leads to the most complex flavor since the
+  yeasts have time to grow. Scoring the loaf helps it expand properly in the hot oven.
+  Your home will smell like heaven when baking these from scratch.
 image: baguettes.jpg
 size: 4 baguettes
 time: 3 days

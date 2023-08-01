@@ -6,7 +6,10 @@ description: This babka dough produces a pull-apart bread that is rich, buttery,
   babka with a crumbly texture every time. A must-try for chocolate lovers. This babka
   starts with a brioche-like dough that gets rolled up with an insane amount of chocolate
   filling. Proofing helps the dough rise into distinct layers. The chocolate seeps
-  out and caramelizes, creating crisp edges and supreme chocolatiness.
+  out and caramelizes, creating crisp edges and supreme chocolatiness. Letting the
+  rolled babka proof ensures maximum rise. Use high quality chocolate like Valrhona
+  for intense flavor. This babka achieves the perfect balance of buttery bread and
+  rich chocolate.
 favorite: "\u2713"
 image: better_chocolate_babka.jpg
 original_title: Chocolate Babka

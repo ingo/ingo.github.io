@@ -7,6 +7,10 @@ description: These traditional slow-cooked carnitas deliver deep, succulent pork
   tortillas, guacamole, salsa, cilantro, and onion rather than made into tacos. The
   long braising followed by quick frying creates pork that is tender, juicy and full
   of flavor. Serve carnitas with desired toppings so guests can build their own tacos.
+  The step of crisping the braised pork in its fat makes these extra indulgent. Keep
+  carnitas authentic by letting people assemble their own tacos. The slow braise makes
+  the pork fall-apart tender before it's crisped up in the rendered fat. Serve with
+  traditional sides.
 image: authentic_mexican_carnitas.jpg
 original_title: Carnitas
 size: 8 servings

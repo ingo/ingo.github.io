@@ -6,7 +6,9 @@ description: This easy homemade Boursin cheese recipe recreates the popular Fren
   a spreadable cheese that can also be shaped into a log. Making it yourself is economical
   and fun. You can really taste the fresh garlic and herbs versus the store-bought
   version. Adjust the flavorings to your taste - try other herbs like chives or basil.
-  Use as a spread or to stuff mushrooms.
+  Use as a spread or to stuff mushrooms. Making your own Boursin allows you to taste
+  the real garlic and herbs. Play with different herb and spice combinations to make
+  it your own. The texture is easily spreadable yet sliceable.
 image: boursin_cheese_make_your_own_homemade.jpg
 size: 16 servings
 source: https://www.food.com/recipe/boursin-cheese-make-your-own-homemade-substitute-clone-65204

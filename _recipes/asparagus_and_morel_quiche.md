@@ -6,7 +6,10 @@ description: Morel mushrooms add deep, woodsy umami flavor to this creamy quiche
   For the neatest slices, make quiche a day ahead; let it cool completely, then loosen
   edges and chill overnight. Cut perfect wedges, reheat and serve with a salad for
   brunch or lunch. Morels can be pricey but a little goes a long way. Their richness
-  pairs wonderfully with the custardy quiche filling.
+  pairs wonderfully with the custardy quiche filling. Letting the quiche set fully
+  helps it slice cleanly. The spears of asparagus add texture. The morels provide
+  an earthy, savory flavor that enriches the custard. Allowing it to chill makes slicing
+  easy. Fresh asparagus on top adds a pop of color and crunch.
 image: asparagus_and_morel_quiche.jpg
 image_attribution: Annabelle Breakey
 image_source: http://www.sunset.com/

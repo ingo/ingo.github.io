@@ -6,7 +6,10 @@ description: "These tacos are filled with incredibly flavorful, tender braised b
   \ The meat soaks up all the complex flavors of the sauce. Served with dipping consomm\xE9\
   . The beef birria features layers of flavor from slowly braising in a blend of guajillo\
   \ chiles, spices, and dried chiles. The meat shreds easily after cooking low and\
-  \ slow. Piled into a tortilla and dipped in spiced broth, it's next level tacos."
+  \ slow. Piled into a tortilla and dipped in spiced broth, it's next level tacos.\
+  \ Combining two cuts of beef gives the best texture. The braising liquid transforms\
+  \ into an incredible dipping sauce. These tacos are bursting with deep, spiced flavors\
+  \ in every bite."
 image: birria_tacos.jpg
 original_title: Birria Tacos Recipe - Claudette Zepeda | Food & Wine
 size: Multiple servings

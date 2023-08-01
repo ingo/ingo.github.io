@@ -7,7 +7,9 @@ description: This rich one-ingredient chocolate mousse puts a high quality bitte
   nearly instantly. By using only chocolate, cream and a bit of egg white, the purity
   of a top notch chocolate really shines. Creamed egg white helps achieve a mousse-like
   texture without extra ingredients. This makes an elegant dessert with a deep chocolate
-  intensity.
+  intensity. Whipping the egg whites incorporates air to lighten the mousse. Fleur
+  de sel subtly cuts the richness. Use high quality chocolate for best flavor. This
+  mousse highlights the complex flavor of gourmet chocolate.
 image: bittersweet_chocolate_mousse_with_fleur_de_sel.jpg
 image_attribution: David Malosh for The New York Times
 original_title: Bittersweet Chocolate Mousse With Fleur de Sel

@@ -5,7 +5,10 @@ description: A light Asian-inspired salad dressing that works beautifully over s
   crunch. Rice vinegar, soy sauce, sesame oil and ginger add sweet, salty, nutty notes.
   The dressing has an amazing ability to elevate basic salads into something craveable.
   The sesame seeds provide texture and richness, while the vinegar and soy offer tangy
-  brightness. Toss with your favorite summer vegetables.
+  brightness. Toss with your favorite summer vegetables. The toasted sesame seeds
+  give the dressing nuttiness and texture. Rice vinegar and soy provide the perfect
+  balance of flavors. This versatile dressing can take any salad from boring to extraordinary
+  with its punchy Asian flavors.
 image: black_sesame_summer_dressing.jpg
 size: 1 cup
 time: 20 minutes

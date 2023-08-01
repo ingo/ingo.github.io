@@ -7,7 +7,9 @@ description: These saucy baked beans served on thick buttered toast make a humbl
   to being piled on toast. The beans are flavored with onions, garlic, mustard and
   brown sugar as they bake low and slow until tender. Serving them atop a slice of
   toasted bread adds texture and soaks up the sauce. The buttered toast balances the
-  sweetness.
+  sweetness. Letting the beans bake slowly develops deep flavor while the bread provides
+  a hearty base for them. The buttered toast soaks up the sauce and provides a nice
+  contrast. Beans on toast is simple perfection.
 favorite: "\u2713"
 image: baked_beans_with_buttered_toast.jpg
 size: 1 serving

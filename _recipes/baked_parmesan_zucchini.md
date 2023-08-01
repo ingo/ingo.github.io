@@ -5,6 +5,10 @@ description: This oven-roasted zucchini turns a summer squash into an incredibly
   parmesan bakes up crispy on the outside and tender inside. It's healthy, nutritious
   and delicious. The Parmesan provides a savory, salty complement to the sweet zucchini
   that makes you keep grabbing more. Roast at a high temp to achieve maximum crisping.
+  Matchstick cutting the zucchini gives it lots of crispy edges. The Parmesan cheese
+  gets beautifully browned and gives a salty bite. The high heat helps the zucchini
+  caramelize while the Parmesan gets nice and browned. It's a perfect simple side
+  dish.
 image: baked_parmesan_zucchini.jpg
 size: 4 servings
 time: 30 minutes

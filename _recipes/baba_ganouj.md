@@ -5,7 +5,11 @@ description: This classic Middle Eastern eggplant dip called baba ghanoush has a
   juice and garlic round it out. Much more flavorful than the store-bought version.
   Serve with warm pita for dipping, raw vegetable crudites, or even on sandwiches
   in place of mayo. Grilling or broiling the eggplant imparts a delicious smoky essence,
-  while the dip consistency comes from blending in tahini and olive oil.
+  while the dip consistency comes from blending in tahini and olive oil. The eggplant
+  can be cooked directly over a gas flame for the most smoky flavor before blending.
+  Adjust garlic and lemon to taste. The fire-roasted eggplant provides a deep smokiness.
+  Blending it with tahini and olive oil makes it ultra creamy. Boost the garlic and
+  lemon if you like. This baba ganoush beats any store-bought version.
 image: baba_ganouj.jpg
 size: 2 cups
 title: Baba Ganouj

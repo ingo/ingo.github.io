@@ -6,7 +6,9 @@ description: These soft, chewy pretzels are made the traditional Bavarian way wi
   are briefly boiled then salted and baked to perfection. Serve warm with spicy mustard
   and beer cheese for dipping. The lye bath helps form that shiny, crunchy exterior
   pretzels are known for. These are fun to make at home using food-safe lye. Shape
-  and boil as you would bagels before baking.
+  and boil as you would bagels before baking. The lye bath gives pretzels their signature
+  sheen and flavor. Be sure to use food grade lye and take safety precautions when
+  working with it. Enjoy them warm with spicy mustard for dipping.
 image: bavarian_pretzels.jpg
 original_title: Echte Bayerische Brezeln
 size: 10-12 servings

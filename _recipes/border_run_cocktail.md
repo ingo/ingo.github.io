@@ -5,7 +5,8 @@ description: This refreshing cocktail combines a base of silver tequila with tar
   The mixture of citrus and herbaceous agave flavors makes a nicely balanced drink.
   Give your margarita standard routine a rest and mix up a Border Run. The tequila
   packs a punch while citrus and a touch of sugar keep it light and quenching. A salted
-  rim finishes it off.
+  rim finishes it off. The grapefruit and grenadine provide tartness and subtle sweetness.
+  The Cointreau offers a hit of orange flavor. Shake it up for a fun change of pace.
 image: border_run_cocktail.jpg
 size: 1 serving
 time: 5 minutes

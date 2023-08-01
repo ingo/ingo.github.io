@@ -6,7 +6,11 @@ description: This traditional tzatziki recipe learned in Athens makes the defini
   an ultra-smooth, spreadable texture accented by fresh garlic, olive oil, vinegar
   and mint. Letting the yogurt drain overnight results in an especially lush dip without
   any unwanted watery whey. The garlic, olive oil and mint take it to another level
-  versus store-bought. Serve with warm pita and vegetables.
+  versus store-bought. Serve with warm pita and vegetables. Draining the yogurt produces
+  a thick, creamy texture without diluting it. Fresh garlic and herbs make it shine.
+  Hanging the yogurt overnight makes the dip incredibly creamy. The fresh herbs and
+  seasonings give it authentic flavor. This tzatziki is in a whole different league
+  than store-bought.
 image: authentic_greek_tzatziki.jpg
 nutrition:
 - 75 calories
