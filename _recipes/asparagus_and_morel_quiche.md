@@ -3,8 +3,10 @@ author: Sunset
 category: Entrees
 description: Morel mushrooms add deep, woodsy umami flavor to this creamy quiche enriched
   with gruyere cheese. Fresh asparagus spears on top keep their snap after baking.
-  For clean slices, cool completely before cutting perfect wedges. Reheat and serve
-  with a salad.
+  For the neatest slices, make quiche a day ahead; let it cool completely, then loosen
+  edges and chill overnight. Cut perfect wedges, reheat and serve with a salad for
+  brunch or lunch. Morels can be pricey but a little goes a long way. Their richness
+  pairs wonderfully with the custardy quiche filling.
 image: asparagus_and_morel_quiche.jpg
 image_attribution: Annabelle Breakey
 image_source: http://www.sunset.com/

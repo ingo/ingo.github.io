@@ -3,7 +3,9 @@ category: Entrees
 description: This bright appeteaser features tender shrimp marinated in a spicy and
   refreshing sauce of lime juice, serrano chiles, cilantro, onions, and cucumber.
   The zesty lime cured shrimp are served chilled, usually with saltine crackers or
-  tostadas to scoop them up.
+  tostadas to scoop them up. The lime juice "cooks" the shrimp while infusing them
+  with citrus flavor. The serrano and cilantro provide freshness. It's a light and
+  tasty starter for a Mexican meal.
 image: aguachile_de_camaron.jpg
 nutrition:
 - 231 kcal

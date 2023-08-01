@@ -4,7 +4,9 @@ category: Breakfasts
 description: These cake doughnuts get their flavor from spices and are baked rather
   than fried for a healthier twist. Make plain, pumpkin spice, or Meyer lemon doughnuts
   by mixing up a simple batter, pouring into a doughnut pan, and baking until golden
-  brown.
+  brown. Baked doughnuts are a smart way to enjoy the treat without all the fat and
+  mess of frying. Let the kids decorate their baked doughnuts with sprinkles or glaze
+  for an easy weekend activity.
 image: baked_doughnuts_three_ways.jpg
 size: 12 servings
 source: https://www.kingarthurflour.com/recipebox

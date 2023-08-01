@@ -3,7 +3,10 @@ author: Smitten Kitchen
 category: Desserts
 description: This babka dough produces a pull-apart bread that is rich, buttery, and
   intensely chocolaty. The recipe has been carefully perfected over time for flawless
-  babka with a crumbly texture every time. A must-try for chocolate lovers.
+  babka with a crumbly texture every time. A must-try for chocolate lovers. This babka
+  starts with a brioche-like dough that gets rolled up with an insane amount of chocolate
+  filling. Proofing helps the dough rise into distinct layers. The chocolate seeps
+  out and caramelizes, creating crisp edges and supreme chocolatiness.
 favorite: "\u2713"
 image: better_chocolate_babka.jpg
 original_title: Chocolate Babka

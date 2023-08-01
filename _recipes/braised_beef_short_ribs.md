@@ -3,6 +3,9 @@ category: Entrees
 description: This recipe for fork-tender braised short ribs adapts easily for a small
   dinner or large gathering. Beef short ribs become fall-apart tender after a slow
   braise in red wine and stock. The savory braising liquid makes an incredible sauce.
+  Short ribs are ideal for braising since the fat and connective tissue break down
+  into tenderness after hours of low, moist heat. The wine and aromatics impart deep
+  flavor. Cook a day ahead; they reheat beautifully.
 image: braised_beef_short_ribs.jpg
 size: 4 servings
 time: 2-3 hours

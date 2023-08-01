@@ -4,7 +4,9 @@ category: Entrees
 description: Duck leg quarters are slowly simmered with Mexican spices and orange
   until ultra tender and shreddable. The spiced duck meat is crisped up in its own
   fat then piled into corn tortillas along with tangy pickled onions, avocado and
-  cilantro for spectacular tacos.
+  cilantro for spectacular tacos. The braising liquid reduces down to an incredible
+  sauce. Frying the duck post-braise makes it crispy. Piled into tortillas with toppings,
+  these tacos are insanely good.
 image: braised_duck_tacos_tacos_de_carnitas_de_pato.jpg
 original_title: Tacos de Carnitas de Pato
 size: 6 servings

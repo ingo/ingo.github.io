@@ -4,7 +4,8 @@ category: Entrees
 description: This Thai street food classic features chewy rice noodles stir-fried
   with shrimp, tofu, sprouts and chopped peanuts in a sweet, sour and spicy tamarind
   sauce flavored with dried shrimp and fish sauce. A delicious noodle dish packed
-  with protein.
+  with protein. The combination of flavors and textures is what makes it so craveable.
+  Sweet, sour, spicy, crunchy - it's all there in one bowl with this recipe.
 image: andy_ricker_s_phat_thai_stir_fried_rice_noodles_with_shrimp_tofu_and_peanuts.jpg
 image_attribution: Austin Bush
 size: 1 serving

@@ -4,7 +4,9 @@ category: Sauces
 description: Bechamel is a classic creamy white sauce made from butter, flour and
   milk that is a foundation of French cuisine. Also known as a white roux, it can
   be flavored many ways and used as the base for other sauces, soups, gratins and
-  casseroles.
+  casseroles. Knowing how to make a bechamel gives you a versatile cooking tool for
+  all kinds of dishes. Simply cook equal parts butter and flour together, then whisk
+  in hot milk off heat. So easy!
 image: bechamel.jpg
 original_title: "B\xE9chamel"
 size: 1 1/2 cups

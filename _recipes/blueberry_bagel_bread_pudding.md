@@ -2,7 +2,9 @@
 category: Desserts
 description: This bread pudding gives the classic comfort food a fun twist by using
   blueberry bagels and folding in fresh blueberries. The custard-soaked bagelssoften
-  into a sweet, fruity bread pudding flecked with bursts of fruit.
+  into a sweet, fruity bread pudding flecked with bursts of fruit. Using bagels instead
+  of bread gives this an extra chewy texture. The blueberries provide little pockets
+  of jammy sweetness in each bite. Top with whipped cream or vanilla ice cream.
 image: blueberry_bagel_bread_pudding.jpg
 size: 6 servings
 time: 1 hour

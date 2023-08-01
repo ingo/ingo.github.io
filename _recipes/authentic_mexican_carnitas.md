@@ -4,7 +4,9 @@ category: Entrees
 description: These traditional slow-cooked carnitas deliver deep, succulent pork flavor.
   Pork shoulder is simmered for hours until meltingly tender, then fried until crispy
   and caramelized. Authentic carnitas are meant to be served with accompaniments like
-  tortillas, guacamole, salsa, cilantro, and onion rather than made into tacos.
+  tortillas, guacamole, salsa, cilantro, and onion rather than made into tacos. The
+  long braising followed by quick frying creates pork that is tender, juicy and full
+  of flavor. Serve carnitas with desired toppings so guests can build their own tacos.
 image: authentic_mexican_carnitas.jpg
 original_title: Carnitas
 size: 8 servings

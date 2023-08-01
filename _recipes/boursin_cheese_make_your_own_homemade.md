@@ -4,7 +4,9 @@ category: Sides
 description: This easy homemade Boursin cheese recipe recreates the popular French
   garlic and herb cheese. Combining cream cheese, butter, garlic, and herbs makes
   a spreadable cheese that can also be shaped into a log. Making it yourself is economical
-  and fun.
+  and fun. You can really taste the fresh garlic and herbs versus the store-bought
+  version. Adjust the flavorings to your taste - try other herbs like chives or basil.
+  Use as a spread or to stuff mushrooms.
 image: boursin_cheese_make_your_own_homemade.jpg
 size: 16 servings
 source: https://www.food.com/recipe/boursin-cheese-make-your-own-homemade-substitute-clone-65204

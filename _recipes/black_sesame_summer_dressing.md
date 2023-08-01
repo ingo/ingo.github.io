@@ -3,6 +3,9 @@ category: Sides
 description: A light Asian-inspired salad dressing that works beautifully over simple
   greens or more complex salads. Toasted black sesame seeds give it nutty flavor and
   crunch. Rice vinegar, soy sauce, sesame oil and ginger add sweet, salty, nutty notes.
+  The dressing has an amazing ability to elevate basic salads into something craveable.
+  The sesame seeds provide texture and richness, while the vinegar and soy offer tangy
+  brightness. Toss with your favorite summer vegetables.
 image: black_sesame_summer_dressing.jpg
 size: 1 cup
 time: 20 minutes

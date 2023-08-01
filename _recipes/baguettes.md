@@ -3,7 +3,11 @@ author: Patrick Ryan
 category: Breads
 description: This detailed recipe guides you through all the steps to achieve perfect,
   crusty French baguettes at home. It uses a pre-fermented dough for complex flavor.
-  Requires a 2-3 day process but the from-scratch baguettes are so worth it.
+  Requires a 2-3 day process but the from-scratch baguettes are so worth it. Don't
+  be intimidated by the multistep process - each step is simple, and it's hands-off
+  most of the time. Starting with a preferment builds incredible flavor. Proper shaping
+  and scoring produce the signature look. Best of all, your house will smell like
+  a Parisian bakery.
 image: baguettes.jpg
 size: 4 baguettes
 time: 3 days

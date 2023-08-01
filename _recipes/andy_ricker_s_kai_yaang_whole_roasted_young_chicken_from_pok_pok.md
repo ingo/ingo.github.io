@@ -2,9 +2,11 @@
 author: Andy Ricker
 category: Entrees
 description: This whole roasted young chicken is inspired by the incredible flavors
-  of Thai street food. It's marinated in garlic, black pepper, and coriander then
-  grilled over charcoal for an unbelievable depth of flavor with crispy skin and succulent
-  meat.
+  of Thai street food. It's marinated overnight in garlic, black pepper, and coriander
+  then grilled over charcoal for an unbelievable depth of flavor with crispy skin
+  and succulent meat. The charcoal cooking provides a smoky aroma and flavor that
+  ovens can't replicate. Served with a spicy dipping sauce, it's a must-try recipe
+  for Thai cuisine fans or anyone who loves a great roasted chicken.
 image: andy_ricker_s_kai_yaang_whole_roasted_young_chicken_from_pok_pok.jpg
 original_title: Kai Yaang
 size: 2 servings

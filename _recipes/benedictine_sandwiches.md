@@ -4,7 +4,9 @@ category: Entrees
 description: These dainty old-fashioned tea sandwiches feature cool cucumber slices,
   thinly sliced red onion, and a creamy herbed spread made with cream cheese or mayonnaise
   sandwiched between thin bread slices. The simple flavors combine into a refreshing
-  nibble.
+  nibble. The cucumber provides refreshing crispness, the onion a touch of bite, and
+  the spread flavors everything without overpowering. Fingertip sandwiches don't get
+  easier or more classic.
 image: benedictine_sandwiches.jpg
 size: Varies
 source: https://www.epicurious.com/contributors/catherine-mccord

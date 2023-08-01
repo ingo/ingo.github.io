@@ -4,6 +4,8 @@ category: Breads
 description: These fluffy yet hearty buns are perfect for big appetites when making
   hamburgers. The buns can also be enjoyed plain with a meal or spread with butter.
   They come together quickly by using a combination of bread and all-purpose flour.
+  The dough only needs to rise once, keeping the active time short. Letting the shaped
+  buns proof uncovered helps give them a nice crust.
 image: 40_minute_hamburger_buns.jpg
 size: 12 servings
 source: https://www.tasteofhome.com/recipes/40-minute-hamburger-buns/
