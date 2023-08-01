@@ -3,3 +3,8 @@ _site/
 _assets/.DS_Store
 .DS_Store
 new_images/
+UpdatedMarkdownFiles.zip
+_recipes/_to_process
+UpdatedMarkdownFiles/
+.gitignore
+_recipes/_to_process.zip
