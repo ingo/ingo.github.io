@@ -2,10 +2,7 @@
 author: heneedsfood.com
 category: Sides
 description: A traditional filled pastry dough that can be used to make both sweet
-  and savory borek pastries, popular in Turkey and surrounding regions. This recipe
-  includes two types - one with feta and mint for a savory cheese borek, and one with
-  spiced meat and potatoes for a heartier borek. The dough is thin yet sturdy enough
-  to contain varied fillings.
+  and savory borek pastries, popular in Turkey and surrounding regions. 
 image: borek_dough.jpg
 original_title: Burek
 size: 2 servings
@@ -13,21 +10,27 @@ source: http://heneedsfood.com/2013/04/burek-two-ways/
 time: 1 hour
 title: Borek Dough
 ---
+
+This recipe
+  includes two types - one with feta and mint for a savory cheese borek, and one with
+  spiced meat and potatoes for a heartier borek. The dough is thin yet sturdy enough
+  to contain varied fillings.
+
 ### Ingredients
 
-#### For the dough:
+For the dough:
 * `500 g` plain flour
 * `1 tsp` salt
 * `300 ml` water (approx)
 * vegetable oil
 
-#### For the cheese filling:
+For the cheese filling:
 * `200 g` cottage cheese
 * `50 g` feta cheese, crumbled
 * `1` egg, lightly beaten
 * vegetable oil
 
-#### For the meat filling:
+For the meat filling:
 * `1 tbsp` oil
 * `1` small onion (80 g), finely diced
 * `250 g` beef mince

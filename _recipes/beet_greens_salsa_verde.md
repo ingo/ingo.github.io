@@ -10,9 +10,7 @@ time: 8 minutes
 title: Beet Greens Salsa Verde
 ---
 
-Pepitas, olive oil, garlic, lemon and
-  capers round out the flavor. It's delicious spooned over grilled meats, fish, sandwiches,
-  pizza, vegetables and more.
+Pepitas, olive oil, garlic, lemon and capers round out the flavor. It's delicious spooned over grilled meats, fish, sandwiches, pizza, vegetables and more.
   
 ### Ingredients
 

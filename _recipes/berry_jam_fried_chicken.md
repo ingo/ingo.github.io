@@ -11,9 +11,7 @@ time: "35 minutes, plus at least 30 minutes\u2019 marinating"
 title: Berry-Jam Fried Chicken
 ---
 
-The chicken is first marinated in a mixed berry jam, which caramelizes into a sticky,
-  sweet glaze when fried. Almost any summer fruit jam can be substituted in the marinade.
-  Peanut oil or another high smoke point oil is best for frying, if available.
+The chicken is first marinated in a mixed berry jam, which caramelizes into a sticky, sweet glaze when fried. Almost any summer fruit jam can be substituted in the marinade Peanut oil or another high smoke point oil is best for frying, if available.
 
 ### Ingredients
 

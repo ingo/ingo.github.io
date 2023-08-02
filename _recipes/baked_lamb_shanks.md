@@ -17,11 +17,7 @@ time: 3 hours
 title: Incredible Baked Lamb Shanks
 ---
 
-This particular style of baking them is easy and comforting\
-  \ \u2013 almost like wrapping up a jacket potato to put on the bonfire. The shanks\
-  \ should be eaten with all the veggies and any buttery juices. They're really good\
-  \ served with creamy mashed potato and steamed greens to contrast with the roasting\
-  \ stickiness of the lamb."  
+This particular style of baking them is easy and comforting—almost like wrapping up a jacket potato to put on the bonfire. The shanks should be eaten with all the veggies and any buttery juices. They're really good served with creamy mashed potato and steamed greens to contrast with the roasting stickiness of the lamb."  
 ### Ingredients
 
 * `6 sprigs` fresh rosemary

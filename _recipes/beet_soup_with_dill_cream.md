@@ -7,9 +7,7 @@ time: 4 hours 35 minutes
 title: Beet Soup With Dill Cream
 ---
 
-Fresh
-  dill and Greek yogurt swirled into sour cream offer a cool, tangy contrast when
-  spooned over the top.
+Fresh dill and Greek yogurt swirled into sour cream offer a cool, tangy contrast when spooned over the top.
 
 ### Ingredients
 

@@ -12,10 +12,7 @@ title: "B\xE9chamel"
 vegan: "\u2713"
 ---
 
- Also known as a white roux, it can
-  be flavored many ways and used as the base for other sauces, soups, gratins and
-  casseroles. Knowing how to make a bechamel gives you a versatile cooking tool for
-  all kinds of dishes.
+ Also known as a white roux, it can be flavored many ways and used as the base for other sauces, soups, gratins and casseroles. Knowing how to make a bechamel gives you a versatile cooking tool for all kinds of dishes.
 
 ### Ingredients
 

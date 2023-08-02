@@ -25,10 +25,7 @@ time: 1.5 hours
 title: Beet Salad
 ---
 
-Beets are roasted until caramelized, intensifying their natural sweet,
-  earthy flavor. Served over fresh greens with a tangy shallot vinaigrette and toasted
-  walnuts. This salad really lets the flavors of beets
-  shine.
+Beets are roasted until caramelized, intensifying their natural sweet, earthy flavor. Served over fresh greens with a tangy shallot vinaigrette and toasted walnuts. This salad really lets the flavors of beets shine.
 
 ### Ingredients
 

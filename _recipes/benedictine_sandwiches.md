@@ -11,10 +11,7 @@ time: 30 minutes
 title: Benedictine Sandwiches
 ---
 
-Use very thin bread and minimal spread to keep these delicate.
-  Trim the crusts for perfect little bites. The cucumber and onion provide pleasant
-  contrasts in texture. The spread adds a creamy richness without dominating. These
-  petite sandwiches are the essence of simplicity.
+Use very thin bread and minimal spread to keep these delicate. Trim the crusts for perfect little bites. The cucumber and onion provide pleasant contrasts in texture. The spread adds a creamy richness without dominating. These petite sandwiches are the essence of simplicity.
 
 ### Ingredients
 

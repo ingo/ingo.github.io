@@ -8,11 +8,7 @@ time: 2 hours (including freezing time)
 title: Banana Rum Gelato
 ---
 
- Dark rum adds a touch of decadence. Chill the
-  base thoroughly before churning for the smoothest texture. It keeps well frozen
-  for at least a month. Letting the banana mixture cool completely before freezing
-  is crucial for the creamiest gelato possible. Overripe bananas contribute intense
-  banana flavor.
+Dark rum adds a touch of decadence. Chill the base thoroughly before churning for the smoothest texture. It keeps well frozen for at least a month. Letting the banana mixture cool completely before freezing is crucial for the creamiest gelato possible. Overripe bananas contribute intense banana flavor.
 
 ### Ingredients
 

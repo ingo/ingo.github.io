@@ -2,14 +2,7 @@
 author: Smitten Kitchen
 category: Desserts
 description: This babka dough produces a pull-apart bread that is rich, buttery, and
-  intensely chocolaty. The recipe has been carefully perfected over time for flawless
-  babka with a crumbly texture every time. A must-try for chocolate lovers. This babka
-  starts with a brioche-like dough that gets rolled up with an insane amount of chocolate
-  filling. Proofing helps the dough rise into distinct layers. The chocolate seeps
-  out and caramelizes, creating crisp edges and supreme chocolatiness. Letting the
-  rolled babka proof ensures maximum rise. Use high quality chocolate like Valrhona
-  for intense flavor. This babka achieves the perfect balance of buttery bread and
-  rich chocolate.
+  intensely chocolaty.
 favorite: "\u2713"
 image: better_chocolate_babka.jpg
 original_title: Chocolate Babka
@@ -18,6 +11,7 @@ source: https://smittenkitchen.com/blog/2014/10/better-chocolate-babka/
 time: 1 day (including overnight dough refrigeration)
 title: Better Chocolate Babka
 ---
+
 This chocolate babka recipe has been refined over time, resulting in a rich, buttery, crumbly and intensely chocolaty dessert. The dough is made with a hint of orange zest for a unique twist, and the filling is a decadent chocolate paste. Despite the seemingly complicated process, the end result is well worth the effort. 
 
 ### Ingredients

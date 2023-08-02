@@ -2,14 +2,7 @@
 author: Melissa Clark
 category: Desserts
 description: This rich one-ingredient chocolate mousse puts a high quality bittersweet
-  chocolate front and center. Egg whites give it lightness without diluting the intense
-  chocolate flavor. A pinch of fleur de sel balances the sweetness. It comes together
-  nearly instantly. By using only chocolate, cream and a bit of egg white, the purity
-  of a top notch chocolate really shines. Creamed egg white helps achieve a mousse-like
-  texture without extra ingredients. This makes an elegant dessert with a deep chocolate
-  intensity. Whipping the egg whites incorporates air to lighten the mousse. Fleur
-  de sel subtly cuts the richness. Use high quality chocolate for best flavor. This
-  mousse highlights the complex flavor of gourmet chocolate.
+  chocolate front and center. 
 image: bittersweet_chocolate_mousse_with_fleur_de_sel.jpg
 image_attribution: David Malosh for The New York Times
 original_title: Bittersweet Chocolate Mousse With Fleur de Sel
@@ -19,6 +12,10 @@ sweet: "\u2713"
 time: 10 minutes
 title: Bittersweet Chocolate Mousse With Fleur de Sel
 ---
+
+This
+  mousse highlights the complex flavor of gourmet chocolate.
+
 ### Ingredients
 
 * `285 grams` bittersweet chocolate (about 10 ounces), roughly chopped, more as needed (see note)

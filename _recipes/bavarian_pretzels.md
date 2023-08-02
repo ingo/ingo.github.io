@@ -10,6 +10,7 @@ source: https://www.sandiegouniontribune.com/lifestyle/food-and-cooking/sdut-per
 time: 1 hour 30 minutes
 title: Bavarian Pretzels
 ---
+
 The secret to an authentic Bavarian pretzel is lye. Yes, the same stuff that's in your bar of soap. But don't worry, the lye used to make pretzels is a safe, food-grade lye solution. It's what gives the pretzel its distinct texture, color, and flavor. This recipe, courtesy of Executive Chef Colin MacLaggan of Ballast Point Brewery, will guide you through the process of making your own Bavarian pretzels at home.
 
 ### Ingredients

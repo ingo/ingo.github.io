@@ -7,9 +7,7 @@ time: 30 minutes
 title: Best Buttermilk Pancakes
 ---
 
-Buttermilk gives these pancakes a tangy flavor and light texture, while a combination
-  of baking powder and soda ensures maximum rise. Top them with butter, maple syrup,
-  fruit, or anything else you love!
+Buttermilk gives these pancakes a tangy flavor and light texture, while a combination of baking powder and soda ensures maximum rise. Top them with butter, maple syrup, fruit, or anything else you love!
 
 ### Ingredients
 

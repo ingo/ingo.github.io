@@ -8,10 +8,7 @@ time: 30 minutes
 title: Baked Parmesan Zucchini
 ---
 
-Matchstick cut zucchini tossed in olive oil and
-  parmesan bakes up crispy on the outside and tender inside. It's healthy, nutritious
-  and delicious. The Parmesan provides a savory, salty complement to the sweet zucchini
-  that makes you keep grabbing more. Roast at a high temp to achieve maximum crisping.
+Matchstick cut zucchini tossed in olive oil and parmesan bakes up crispy on the outside and tender inside. It's healthy, nutritious and delicious. The Parmesan provides a savory, salty complement to the sweet zucchini that makes you keep grabbing more. Roast at a high temp to achieve maximum crisping.
   
 ### Ingredients
 

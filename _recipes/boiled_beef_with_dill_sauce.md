@@ -2,18 +2,16 @@
 author: Ingo
 category: Entrees
 description: This quintessential southern German dish features beef stew meat simmered
-  until meltingly tender in a broth flavored with onions, vinegar and spices. It's
-  served warm or chilled with a creamy dill sauce speckled with cornichons and onions.
-  A favorite of Ingo's childhood. The moist stewing makes the beef incredibly tender.
-  Served chilled, the creamy dill sauce provides a cool complement. The cornichons
-  add bite. Make extra - this sauce is delicious on sandwiches too! The gentle braising
-  results in fork-tender meat. Chilling allows the flavors to meld. The sauce cuts
-  through the richness of the beef.
+  until meltingly tender in a broth. 
 favorite: "\u2713"
 image: boiled_beef_with_dill_sauce.jpg
 size: 4 servings
 title: Boiled Beef with Dill Sauce
 ---
+
+Chilling allows the flavors to meld. The sauce cuts
+  through the richness of the beef.
+
 ### Ingredients
 
 * `3 pounds` chuck, cut into 1 ½ inch cubes
