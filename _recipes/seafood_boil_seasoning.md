@@ -1,8 +1,7 @@
 ---
 author: Toya
 category: Pantry
-description: A flavorful seafood boil seasoning mix to make your seafood boil recipe
-  the best.
+description: A flavorful seasoning mix to make your seafood boil recipe the best.
 image: seafood_boil_seasoning.jpg
 size: 10 servings
 source: https://ohsofoodie.com/seafood-boil-seasoning/
@@ -10,7 +9,7 @@ time: 5 minutes
 title: Seafood Boil Seasoning
 ---
 
-Are you planning on making a huge seafood boil feast? If you are, then chances are you’re looking for a flavorful seafood boil seasoning mix to help make this seafood boil recipe the best.
+Are you planning on making a huge seafood boil feast? Use this seasoning.
 
 ### Ingredients
 

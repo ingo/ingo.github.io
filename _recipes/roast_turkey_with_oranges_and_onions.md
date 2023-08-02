@@ -7,6 +7,7 @@ time: 2 hours
 title: Roast Turkey with Oranges and Onions
 ---
 
+As a general rule, estimate about 1 to 1.5 pounds (0.45 to 0.68 kg) of turkey per person, depending on whether you want leftovers.
 
 
 ### Ingredients

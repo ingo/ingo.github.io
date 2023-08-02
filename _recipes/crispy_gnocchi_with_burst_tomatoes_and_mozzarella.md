@@ -10,7 +10,7 @@ time: 25 minutes
 title: Crispy Gnocchi With Burst Tomatoes and Mozzarella
 ---
 
-This dish is studded with juicy tomatoes and melty pockets of mozzarella. Cherry tomatoes are reliably more flavorful year-round than larger, more watery varieties like beefsteak and heirloom. Pan-fried gnocchi is like a faster version of baked pasta. Store-bought gnocchi can simply be browned in a pan for an exciting mix of crispy outsides and chewy middles, no boiling required. This dish is studded with juicy tomatoes and melty pockets of mozzarella. Cherry tomatoes are reliably more flavorful year-round than larger, more watery varieties like beefsteak and heirloom. Toss the tomatoes with browned butter, red-pepper flakes and garlic, then hit them with a little heat, and they’ll burst into a bright sauce. Stir in the gnocchi, dot with mozzarella, then broil until the cheese is molten and the tomatoes are blistered in spots.
+Cherry tomatoes are reliably more flavorful year-round than larger, more watery varieties like beefsteak and heirloom. Pan-fried gnocchi is like a faster version of baked pasta. Store-bought gnocchi can simply be browned in a pan for an exciting mix of crispy outsides and chewy middles, no boiling required. Toss the tomatoes with browned butter, red-pepper flakes and garlic, then hit them with a little heat, and they’ll burst into a bright sauce. Stir in the gnocchi, dot with mozzarella, then broil until the cheese is molten and the tomatoes are blistered in spots.
 
 ### Ingredients
 

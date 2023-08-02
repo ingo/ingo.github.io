@@ -13,7 +13,7 @@ time: 1 hour 30 minutes
 title: Chocolate Dump-It Cake
 ---
 
-The icing is a swirl of melted Nestlé's semisweet-chocolate chips and sour cream. True to its name, this chocolate birthday cake is made by dumping all the ingredients right into a pot over medium heat. The dense, fudgy cake batter then gets poured into a pan and baked. Topped with an easy icing of melted chocolate chips swirled with sour cream, this dump-and-bake cake always impresses. It delivers rich chocolate flavor in a treat that's perfect for birthdays. This recipe was taught to the author by her mother and has been a family favorite ever since. The cake is dense but moist, and the icing is a delightful mix of melted Nestlé's semisweet-chocolate chips and sour cream. It's a simple recipe that delivers a delicious result.
+True to its name, this chocolate birthday cake is made by dumping all the ingredients right into a pot over medium heat. The dense, fudgy cake batter then gets poured into a pan and baked. Topped with an easy icing of melted chocolate chips swirled with sour cream, this dump-and-bake cake always impresses.
 
 ### Ingredients
 

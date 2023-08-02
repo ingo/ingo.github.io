@@ -12,7 +12,7 @@ title: Tomato Risotto
 veggie: "\u2713"
 ---
 
-Best as a first course or vegetarian main course. Once you master the risotto technique, you can make flavorful versions throughout the year. This summery version is based on red, ripe tomatoes from the garden, but if you want to up the tomato quotient, surround the finished dish with slices of multicolored heirloom varieties. Best as a first course or vegetarian main course, it could also pair with a main course — grilled fish, for instance.
+This summery version is based on red, ripe tomatoes from the garden, but if you want to up the tomato quotient, surround the finished dish with slices of multicolored heirloom varieties. Best as a first course or vegetarian main course, it could also pair with a main course — grilled fish, for instance.
 
 ### Ingredients
 

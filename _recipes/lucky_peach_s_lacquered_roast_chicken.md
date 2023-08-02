@@ -10,7 +10,7 @@ time: 1 hour 30 minutes (including marination time)
 title: Lucky Peach's Lacquered Roast Chicken
 ---
 
-This recipe produces a bird with preternaturally moist meat and crisp skin, a snap to prepare by simply coating with spices and honey then roasting until lacquered and irresistible. Adapted from Lucky Peach Presents 101 Easy Asian Recipes by Peter Meehan and the Editors of Lucky Peach Magazine. This chicken recipe, also known as the Chinese lacquered roast chicken that changed my life, is stunningly delicious even if some of the glaze falls off during marination.
+This recipe produces a bird with preternaturally moist meat and crisp skin, a snap to prepare by simply coating with spices and honey then roasting until lacquered and irresistible. Adapted from _Lucky Peach Presents 101 Easy Asian Recipes_ by Peter Meehan and the Editors of Lucky Peach Magazine.
 
 ### Ingredients
 

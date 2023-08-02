@@ -8,7 +8,7 @@ time: Overnight + 3 hours
 title: Lechon Asado
 ---
 
-This recipe uses a fresh ham, marinated overnight in tangy adobo, for a more manageable and widely available cut of meat. Lechon Asado, or pit-roasted pig, is the traditional centerpiece of a Cuban Nochebuena (Cuban Christmas Eve supper). This holiday stirs the same sort of emotions—and digestive juices—in a Cuban heart that Thanksgiving does in ours. This recipe calls for a more manageable size cut of meat: a fresh (uncured) ham, which has the dual advantage of being more widely available than whole pigs and of being able to fit in your refrigerator.
+Lechon Asado, or pit-roasted pig, is the traditional centerpiece of a Cuban Nochebuena (Cuban Christmas Eve supper). This holiday stirs the same sort of emotions—and digestive juices—in a Cuban heart that Thanksgiving does in ours. This recipe calls for a more manageable size cut of meat: a fresh (uncured) ham, which has the dual advantage of being more widely available than whole pigs and of being able to fit in your refrigerator.
 
 ### Ingredients
 

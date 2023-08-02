@@ -8,7 +8,7 @@ size: 1 serving
 title: Turkey Sandwich with Cranberry Relish
 ---
 
-
+Cranberries are typically harvested in the fall. They grow on low-lying vines in beds known as cranberry bogs or marshes. During the harvest, the bogs are flooded, and the cranberries are shaken loose from the vines. The buoyant cranberries float to the surface, making it easier to gather them.
 
 ### Ingredients
 

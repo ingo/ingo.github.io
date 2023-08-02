@@ -10,8 +10,7 @@ time: 2 hours 20 minutes
 title: Authentic Mexican Carnitas
 ---
 
-Pork shoulder is simmered for hours until meltingly tender, then fried until crispy and caramelized. Authentic carnitas are meant to be served with accompaniments like
-  tortillas, guacamole, salsa, cilantro, and onion rather than made into tacos. This recipe is adapted from a traditional Mexican cooking method, resulting in flavorful and tender pork carnitas. Perfect for a weekend meal, you won't regret making these!
+Pork shoulder is simmered for hours until meltingly tender, then fried until crispy and caramelized. Authentic carnitas are meant to be served with accompaniments like tortillas, guacamole, salsa, cilantro, and onion rather than made into tacos.
 
 ### Ingredients
 

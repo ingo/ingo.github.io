@@ -14,7 +14,7 @@ vegan: null
 veggie: null
 ---
 
-This recipe is gluten-free and perfect for a main course. This recipe is a traditional Spanish dish from the cookbook "MoVida: Spanish Culinary Adventures" by Richard Cornish and Frank Camorra. It's a delicious and hearty dish that will transport you to the heart of Spain.
+This recipe is a traditional Spanish dish from the cookbook "MoVida: Spanish Culinary Adventures" by Richard Cornish and Frank Camorra. It's a delicious and hearty dish that will transport you to the heart of Spain.
 
 ### Ingredients
 

@@ -9,11 +9,7 @@ size: 4 servings
 title: Baingan Bharta
 ---
 
-It can be made vegan by omitting the yogurt. This smoky eggplant mash is delicious
-  with naan or rice. Grilling or broiling the eggplant gives it a delicious charred
-  flavor. The pulp is then mashed with spices and simmered into a creamy vegetable
-  side dish or dip. The smokiness pairs wonderfully with the aromatics. Enjoy baingan
-  bharta as a vegan main dish or side.
+It can be made vegan by omitting the yogurt. This smoky eggplant mash is delicious with naan or rice. Grilling or broiling the eggplant gives it a delicious charred flavor.
 
 ### Ingredients
 

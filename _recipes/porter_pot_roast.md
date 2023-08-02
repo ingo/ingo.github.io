@@ -11,7 +11,7 @@ time: 3 hours 40 minutes
 title: Porter Pot Roast
 ---
 
-Tips on the best cuts of beef and styles of beer. This recipe demonstrates how to make a succulent pot roast with dark ale. We will be using rump and porter ale. The affinity between a well-chosen brew and beef goes beyond pairing the two to amplify each other's flavor base. In our cooking with beer escapades we tend to fall on the combination again and again to create flavor-packed, tender meat. A pot roast braised in beer is a perfect example.
+The affinity between a well-chosen brew and beef goes beyond pairing the two to amplify each other's flavor base. In our cooking with beer escapades we tend to fall on the combination again and again to create flavor-packed, tender meat. A pot roast braised in beer is a perfect example.
 
 ### Ingredients
 

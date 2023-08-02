@@ -14,8 +14,7 @@ time: 10 mins
 title: Asian Slaw with Ginger Soy and Sesame
 ---
 
- It's most often eaten as a side dish and usually
-  but not always exclusively associated with Korean or Japanese dishes. This recipe uses soy sauce, sesame oil, and ginger for maximum flavor.
+ It's most often eaten as a side dish and usually but not always exclusively associated with Korean or Japanese dishes. This recipe uses soy sauce, sesame oil, and ginger for maximum flavor.
 
 ### Ingredients
 

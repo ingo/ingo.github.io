@@ -11,7 +11,7 @@ time: 15 minutes
 title: Braised Baby Bok Choy
 ---
 
-Finished with a touch of toasted sesame oil for nutty flavor and garnished with minced garlic chips. A simple, delicious side dish. Baby bok choy has a milder flavor than full grown. Braising gently in broth keeps it bright green and enhances natural sweetness. A kiss of sesame oil and garlic chips give it some crunch.
+Finished with a touch of toasted sesame oil for nutty flavor and garnished with minced garlic chips. A simple, delicious side dish. Baby bok choy has a milder flavor than full grown.
 
 ### Ingredients
 

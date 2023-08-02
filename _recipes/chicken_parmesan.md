@@ -11,7 +11,7 @@ time: 1 hour 15 minutes
 title: Chicken Parmesan
 ---
 
-Baked until brown-edged and bubbling, it’s classic comfort food — hearty, gooey and satisfying. This chicken Parmesan is a classic Italian-American comfort food dish. Chicken cutlets are breaded and fried until crispy, then baked with tomato sauce and mozzarella cheese. The dish emerges from the oven bubbling and browned with the cheese melted over the chicken cutlets. With its crispy chicken, savory tomato sauce and gooey cheese, chicken parm is the ultimate hearty and satisfying meal. Chicken Parmesan is a classic Italian-American dish that is all about balance. You need a bracing a tomato sauce to cut out the fried richness, while a milky, mild mozzarella rounds out the Parmesan’s tang. Although chicken or veal cutlets are the standard, boneless, skinless chicken thighs make a more flavorful alternative. Pork or turkey cutlets work nicely here, too.
+This chicken Parmesan is a classic Italian-American comfort food dish. Chicken cutlets are breaded and fried until crispy, then baked with tomato sauce and mozzarella cheese. Although chicken or veal cutlets are the standard, boneless, skinless chicken thighs make a more flavorful alternative. Pork or turkey cutlets work nicely here, too.
 
 ### Ingredients
 

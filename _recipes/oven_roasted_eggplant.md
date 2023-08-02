@@ -1,8 +1,7 @@
 ---
 author: Scott Phillips
 category: Sides
-description: "This simple eggplant preparation is one of the best\u2014as easy and\
-  \ delicious as grilling."
+description: This simple eggplant preparation is one of the best\u2014as easy and delicious as grilling."
 image: oven_roasted_eggplant.jpg
 size: 2 servings
 source: https://www.finecooking.com/recipes/eggplant_caviar.aspx

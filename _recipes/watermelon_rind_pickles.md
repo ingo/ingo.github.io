@@ -9,7 +9,7 @@ time: 10 hours & 25 minutes
 title: Watermelon Rind Pickles
 ---
 
-Crystallized ginger, allspice berries and apple cider vinegar keep these things from becoming overly sweet or tart. Great as a side with grilled dishes or as a salad tossed with crispy, crumbled bacon and served over greens. This recipe first appeared on altonbrown.com. Watermelon rind pickles are the finest thing you can do with a watermelon besides greasing it up and chasing it around the pool.
+Crystallized ginger, allspice berries and apple cider vinegar keep these things from becoming overly sweet or tart. Great as a side with grilled dishes or as a salad tossed with crispy, crumbled bacon and served over greens. Watermelon rind pickles are the finest thing you can do with a watermelon besides greasing it up and chasing it around the pool.
 
 ### Ingredients
 

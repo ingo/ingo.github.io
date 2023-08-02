@@ -8,7 +8,7 @@ time: 1 hour
 title: Mascarpone Ice Cream
 ---
 
-The high fat content of the cheese makes for an especially decadent frozen dessert. This Mascarpone Ice Cream recipe is a delightful treat that's sure to cool you down on a hot summer day. The creamy texture of the mascarpone cheese combined with the sweetness of the sugar and vanilla makes for a truly indulgent dessert.
+This Mascarpone Ice Cream recipe is a delightful treat that's sure to cool you down on a hot summer day. The creamy texture of the mascarpone cheese combined with the sweetness of the sugar and vanilla makes for a truly indulgent dessert.
 
 ### Ingredients
 

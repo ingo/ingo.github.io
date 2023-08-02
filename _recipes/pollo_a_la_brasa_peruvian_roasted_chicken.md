@@ -12,7 +12,7 @@ time: 7 hours (including marination time)
 title: Pollo a la Brasa (Peruvian Roasted Chicken)
 ---
 
-Served with a Peruvian Aji Verde Sauce, it's satisfaction guaranteed. Pollo a la Brasa is a popular dish in Peru, so much so that there's a designated national day for it in July! This recipe comes from a special request from a reader who wanted to recreate the delicious chicken she and her husband enjoyed at a local restaurant. The marinade is full of spices and herbs, creating a fragrant, savory, well-spiced, and somewhat salty flavor. The skin is beautifully crisp, and the meat is as juicy as one can imagine. 
+Pollo a la Brasa is a popular dish in Peru, so much so that there's a designated national day for it in July! This recipe comes from a special request from a reader who wanted to recreate the delicious chicken she and her husband enjoyed at a local restaurant. The marinade is full of spices and herbs, creating a fragrant, savory, well-spiced, and somewhat salty flavor. The skin is beautifully crisp, and the meat is as juicy as one can imagine. 
 
 ### Ingredients
 

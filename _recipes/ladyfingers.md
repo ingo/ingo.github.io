@@ -1,13 +1,13 @@
 ---
 category: Desserts
-description: A classic recipe for making these, used in Tiramisu.
+description: A classic recipe for making these, often used in Tiramisu.
 image: ladyfingers.jpg
 size: 24-36 servings
 time: 30 minutes
 title: Ladyfingers
 ---
 
-
+The name "Ladyfinger" for the cookie is believed to have originated from the French term "boudoir" or "biscuit à la cuillère," which translates to "ladyfinger" or "lady's finger" in English. The cookie's elongated shape resembles a lady's finger or a small delicate finger, which likely led to the naming association.
 
 ### Ingredients
 

@@ -10,7 +10,7 @@ time: 1 hour
 title: Sichuan Braised Tofu with Beef (Mapo Tofu)
 ---
 
-We started with cubed soft tofu, poaching it gently in chicken broth to help the cubes stay intact in the braise. This recipe is a classic Chinese dish that has been adapted to be more accessible for home cooks. The tofu is gently poached in chicken broth to help it stay intact during the braise, and the sauce is a flavorful blend of ginger, garlic, and Asian broad-bean chili paste.
+This recipe is a classic Chinese dish that has been adapted to be more accessible for home cooks. The tofu is gently poached in chicken broth to help it stay intact during the braise, and the sauce is a flavorful blend of ginger, garlic, and Asian broad-bean chili paste.
 
 ### Ingredients
 

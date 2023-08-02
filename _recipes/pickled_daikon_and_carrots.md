@@ -13,7 +13,7 @@ time: 1 hour (minimum) to 3-5 days (for desired sourness)
 title: Pickled Daikon and Carrots
 ---
 
-Perfect for banh mi sandwiches, salads, spring rolls and grilled meat/seafood dishes. The pungent aroma of some pickled daikon & carrots can sometimes clear a room faster than a fire alarm but when added to a great banh mi, it just might be able to bring everyone together again. These pickled jewels add the touch of tang, sweet and sour crunch and flavor to not only banh mi, but to many Vietnamese dishes. Most daikon and carrots found are shredded finely, but when it comes to home made, you can have fun and create just about any shape, size and thickness.
+The pungent aroma of some pickled daikon & carrots can sometimes clear a room faster than a fire alarm but when added to a great banh mi, it just might be able to bring everyone together again. These pickled jewels add the touch of tang, sweet and sour crunch and flavor to not only banh mi, but to many Vietnamese dishes. Most daikon and carrots found are shredded finely, but when it comes to home made, you can have fun and create just about any shape, size and thickness.
 
 ### Ingredients
 

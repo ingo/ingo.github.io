@@ -17,10 +17,7 @@ time: 2 hours
 title: Baked Baking Soda (Sodium Carbonate)
 ---
 
-Heating baking soda makes it transform from sodium
-  bicarbonate into sodium carbonate, which is a stronger alkaline salt capable of
-  providing a meaty flavor and springy texture to ramen noodles through an alkalization
-  process.
+Heating baking soda makes it transform from sodium bicarbonate into sodium carbonate, which is a stronger alkaline salt capable of providing a meaty flavor and springy texture to ramen noodles through an alkalization process.
   
 ### Ingredients
 

@@ -12,7 +12,7 @@ title: Green Bean Shiraae
 veggie: "\u2713"
 ---
 
-Spinach and green beans are commonly used for Shiraae dish. Enjoy eating vegetables!Green Bean Shiraae is a traditional Japanese dish that combines lightly-cooked vegetables with crumbled tofu, miso, and sesame seeds. Commonly, spinach and green beans are used for this dish. It's a delightful way to enjoy your vegetables!
+Green Bean Shiraae is a traditional Japanese dish that combines lightly-cooked vegetables with crumbled tofu, miso, and sesame seeds. Commonly, spinach and green beans are used for this dish.
 
 ### Ingredients
 

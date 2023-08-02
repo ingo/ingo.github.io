@@ -7,7 +7,7 @@ size: 2 cups
 title: Broiled Feta Dip
 ---
 
-Creamy feta is blended with Greek yogurt, garlic, lemon and herbs, then broiled just until hot and bubbly. The combination of feta cheese with yogurt, lemon and herbs creates a rich, flavorful dip. The broiler gives it a nice browned top and serves to melt all the ingredients together. This easy appetizer can be served with pita chips or crusty bread for dipping.
+Creamy feta is blended with Greek yogurt, garlic, lemon and herbs, then broiled just until hot and bubbly. This easy appetizer can be served with pita chips or crusty bread for dipping.
 
 ### Ingredients
 

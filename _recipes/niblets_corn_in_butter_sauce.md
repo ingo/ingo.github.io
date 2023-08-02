@@ -10,7 +10,7 @@ time: 30 minutes
 title: Niblets Corn In Butter Sauce
 ---
 
-This recipe is a great alternative when the store-bought version is sold out. This recipe was born out of necessity. Every Thanksgiving, my mom serves Green Giant Niblets corn in butter sauce and I promised I would pick it up for her and bring it on Thanksgiving day. When I went to the store, they were sold out! I made this recipe and brought it already prepared to Thanksgiving dinner. Nobody was the wiser! I saved some money too, because I used store brand corn! This recipe makes a lot...you may want to half it.
+This recipe is a great alternative when the store-bought version is sold out. This recipe was born out of necessity, though kids love it.
 
 ### Ingredients
 

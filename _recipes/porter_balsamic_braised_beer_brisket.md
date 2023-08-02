@@ -11,7 +11,7 @@ time: 3 hours 40 minutes
 title: Porter & Balsamic Braised Beer Brisket
 ---
 
-The beer and other simple ingredients come together to create a luxurious barbecue sauce-like braising liquid that enhances the strong beefy flavor of the brisket. This recipe showcases the harmonious relationship between brisket and beer. The ingredients are quite simple on their own, but once brought together, they create a luxurious barbecue sauce-like braising liquid which really uplifts the strong beefy flavor of the brisket.
+This recipe showcases the harmonious relationship between brisket and beer. The ingredients are quite simple on their own, but once brought together, they create a luxurious barbecue sauce-like braising liquid which really uplifts the strong beefy flavor of the brisket.
 
 ### Ingredients
 

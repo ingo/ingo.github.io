@@ -9,7 +9,7 @@ time: 2 hours
 title: Branzino
 ---
 
-The crispy fish contrasts nicely with the punchy flavors of the sauce. For the best texture, cook the branzino until the flesh flakes easily but is still juicy. The flavorful Thai-inspired sauce provides sweet, sour, spicy and salty notes that elevate the simple fish. Everything can be prepped ahead of time and then quickly cooked and tossed together.
+The crispy fish contrasts nicely with the punchy flavors of the sauce. For the best texture, cook the branzino until the flesh flakes easily but is still juicy. Everything can be prepped ahead of time and then quickly cooked and tossed together.
 
 ### Ingredients
 

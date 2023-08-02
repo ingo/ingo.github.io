@@ -1,7 +1,7 @@
 ---
 author: Ingo's Dad
 category: Sides
-description: Ingo's Dad's German Potato Salad.
+description: Ingo's Dad's German Potato Salad, often accompanying bratwurst.
 favorite: "\u2713"
 image: german_potato_salad.jpg
 original_title: Deutscher Kartoffelsalat
@@ -10,7 +10,7 @@ time: 1 hour
 title: German Potato Salad
 ---
 
-This would often accompany Bratwurst. This salad is good warm or cold.
+This salad is good warm or cold.
 
 ### Ingredients
 

@@ -14,7 +14,7 @@ time: 2 hours 30 minutes
 title: Chana Masala
 ---
 
-The resulting dish has a wonderful blend of flavors and fragrance. The golden color imparted by spices like turmeric and paprika is beautiful as well. It is typically served garnished with chopped fresh coriander. This recipe is a wonderful blend of Indian spices, creating a beautifully balanced dish. The color due to the tea, paprika and turmeric is beautiful as well. The fresh coriander on top at the end is a nice touch.
+The resulting dish has a wonderful blend of flavors and fragrance. The golden color imparted by spices like turmeric and paprika is beautiful as well. It is typically served garnished with chopped fresh coriander.
 
 ### Ingredients
 

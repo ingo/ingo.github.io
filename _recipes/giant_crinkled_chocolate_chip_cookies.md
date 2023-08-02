@@ -1,8 +1,7 @@
 ---
 author: Sarah Kieffer
 category: Desserts
-description: A unique take on the classic chocolate chip cookie, with a special technique
-  to create rippled edges and a soft, chocolate-filled center.
+description: A unique take on the classic chocolate chip cookie, with a special technique to create rippled edges and a soft, chocolate-filled center.
 image: giant_crinkled_chocolate_chip_cookies.jpg
 image_attribution: Peter DaSilva for The New York Times
 nutrition:

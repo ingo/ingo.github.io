@@ -12,7 +12,7 @@ time: 24 hours
 title: The Upgraded Paloma
 ---
 
-Grapefruit and lime bring acidity balanced by tequila's vegetal verve, Campari's bitterness, and a hint of salt for focus. This summer refresher from Zac Overman at Seattle's Sitka & Spruce is the perfect example of delayed gratification. Put in some advance work to make a rich, almost buttery sweet-tart grapefruit cordial and you have the makings of a whole pitcher's worth of drinks at a moment's notice.
+This summer refresher from Zac Overman at Seattle's Sitka & Spruce is the perfect example of delayed gratification. Put in some advance work to make a rich, almost buttery sweet-tart grapefruit cordial and you have the makings of a whole pitcher's worth of drinks at a moment's notice.
 
 ### Ingredients
 

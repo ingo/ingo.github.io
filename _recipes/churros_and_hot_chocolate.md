@@ -11,7 +11,7 @@ time: 1 hour
 title: Churros and Hot Chocolate
 ---
 
-Perfect for a sweet treat or a decadent breakfast. This recipe captures the classic Spanish pairing of crispy churros with thick hot chocolate. The churros are fried until golden brown and coated in cinnamon sugar. They are served with mugs of rich, dark hot chocolate for dipping to balance the crunchy sweetness. It's an indulgent dessert or breakfast that evokes the essence of Spain. This recipe is a classic from the famous Chocolateria San Gines in Madrid, Spain. It brings the authentic taste of Spanish churros and hot chocolate right into your kitchen.
+The churros are fried until golden brown and coated in cinnamon sugar. They are served with mugs of rich, dark hot chocolate for dipping to balance the crunchy sweetness. It's an indulgent dessert or breakfast that evokes the essence of Spain. This recipe is a classic from the famous Chocolateria San Gines in Madrid, Spain.
 
 ### Ingredients
 

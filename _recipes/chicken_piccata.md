@@ -11,7 +11,7 @@ time: 30 minutes
 title: Chicken Piccata
 ---
 
-This chicken piccata recipe is a healthier version of the classic. A small amount of butter is used, swirled in at the end for richness. White wine and a touch of vinegar provide bright flavor. The chicken cutlets cook up tender and juicy, napped in the lemony pan sauce. It captures the bright essence of piccata with fewer calories. Piccata is a classic preparation for chicken, but can be heavy on your diet as it's a butter and wine-based sauce. This lighter version saves you calories by adding the zip of white wine with a tiny bit of vinegar to finish (as opposed to a cup or more simmered down), and getting the most of 1 tablespoon of butter by swirling it into the sauce at the end.
+The chicken cutlets cook up tender and juicy, napped in the lemony pan sauce. It captures the bright essence of piccata with fewer calories. This lighter version saves you calories by adding the zip of white wine with a tiny bit of vinegar to finish (as opposed to a cup or more simmered down), and getting the most of 1 tablespoon of butter by swirling it into the sauce at the end.
 
 ### Ingredients
 

@@ -12,7 +12,7 @@ time: 30 minutes
 title: Kansas City BBQ Sauce
 ---
 
-It's a classic, ketchup-based BBQ sauce that is a must-have for chicken, ribs, and more!Kansas City BBQ sauce is something I recommend trying at least once. Though, once you make some from scratch, you’ll likely find yourself making your own sauce over and over again. I personally love making food that has all natural ingredients without anything added, and this BBQ sauce is full of only the good stuff.
+Kansas City BBQ sauce is something I recommend trying at least once. Though, once you make some from scratch, you’ll likely find yourself making your own sauce over and over again.
 
 ### Ingredients
 

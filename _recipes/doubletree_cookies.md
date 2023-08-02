@@ -10,7 +10,7 @@ time: 1 hour 30 minutes
 title: Doubletree Cookies
 ---
 
-Perfect for a sweet treat or dessert. These cookies are a signature recipe from DoubleTree, known for their rich flavor and soft texture. They are filled with semi-sweet chocolate chips and chopped walnuts, making them a perfect sweet treat or dessert.
+These cookies are a signature recipe from DoubleTree, known for their rich flavor and soft texture. They are filled with semi-sweet chocolate chips and chopped walnuts, making them a perfect sweet treat or dessert.
 
 ### Ingredients
 

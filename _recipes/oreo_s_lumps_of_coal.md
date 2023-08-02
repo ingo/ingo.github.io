@@ -10,7 +10,7 @@ time: Varies
 title: Oreo's Lumps Of Coal
 ---
 
-These lumps of coal are made from Oreo cookies and marshmallows, creating a sweet and crunchy treat. This recipe for Oreo's Lumps Of Coal comes from Rachel Burbank, a home cook who loves to share her delicious creations. While the recipe itself is not provided, many home cooks have shared their own versions and tips in the comments. Some suggest using marshmallow creme instead of marshmallows, while others recommend adding a bit of milk to the mixture. Regardless of the variations, one thing is clear - these Oreo's Lumps Of Coal are a hit!
+This recipe for Oreo's Lumps Of Coal comes from Rachel Burbank, a home cook who loves to share her delicious creations. While the recipe itself is not provided, many home cooks have shared their own versions and tips in the comments. Some suggest using marshmallow creme instead of marshmallows, while others recommend adding a bit of milk to the mixture.
 
 ### Ingredients
 

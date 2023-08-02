@@ -11,7 +11,7 @@ time: 2 hours
 title: Homemade Hamburger Buns
 ---
 
-Perfect for a snack or with your favorite burger. These buns are not only easy and quick to make but also taste deliciously soft, just like eating cotton candy. They can be served as a snack, eaten plain or with jams. The recipe was adapted from Sara's Hamburger Buns recipe.
+These buns are not only easy and quick to make but also taste deliciously soft, just like eating cotton candy. They can be served as a snack, eaten plain or with jams. The recipe was adapted from Sara's Hamburger Buns recipe.
 
 ### Ingredients
 

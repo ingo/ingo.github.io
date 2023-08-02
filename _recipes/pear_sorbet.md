@@ -1,6 +1,6 @@
 ---
 category: Desserts
-description: A wonderful easy pear sorbet.
+description: A wonderful easy pear sorbet with a unusual addition of cardamom.
 image: pear_sorbet.jpg
 size: 4 servings
 title: Pear Sorbet

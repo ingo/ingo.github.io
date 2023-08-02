@@ -11,7 +11,7 @@ time: 3 hours 10 minutes
 title: Hungarian Goulash
 ---
 
-Tasty, comforting and perfect for the whole family!Hungarian Goulash is a traditional dish brought by Hungarian immigrants in 1866. This rich stew is flavored with sweet paprika, plenty of fresh garlic, and caraway seed. It is usually served over noodles, potato, or spaetzle. This recipe does not rely on a flour or roux for thickening, which is why it's more like a soup. 
+Hungarian Goulash is a traditional dish brought by Hungarian immigrants in 1866. This rich stew is flavored with sweet paprika, plenty of fresh garlic, and caraway seed. It is usually served over noodles, potato, or spaetzle. This recipe does not rely on a flour or roux for thickening, which is why it's more like a soup. 
 
 ### Ingredients
 

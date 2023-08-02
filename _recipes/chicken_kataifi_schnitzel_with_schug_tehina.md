@@ -12,7 +12,7 @@ time: 40 minutes
 title: Chicken Kataifi Schnitzel with Schug Tehina
 ---
 
-A recipe adapted from the menu of K'Far, a Brooklyn restaurant. These chicken schnitzels are coated in shredded kataifi dough for an extra crispy crust, then served with a zesty schug tehina sauce. Schug is a spicy Yemenite green chili sauce that pairs nicely with the crispy chicken. The original recipe comes from K'Far, a restaurant in Brooklyn known for its flavorful Levantine food. This recipe was adapted from the menu of K'Far, a Brooklyn restaurant. The crispy chicken schnitzel is coated with a crunchy kataifi crust and served with a spicy schug tehina sauce. You can typically find kataifi in the Middle Eastern section of a supermarket or order it online.
+The original recipe comes from K'Far, a restaurant in Brooklyn known for its flavorful Levantine food. This recipe was adapted from the menu of K'Far, a Brooklyn restaurant. The crispy chicken schnitzel is coated with a crunchy kataifi crust and served with a spicy schug tehina sauce. You can typically find kataifi in the Middle Eastern section of a supermarket or order it online.
 
 ### Ingredients
 

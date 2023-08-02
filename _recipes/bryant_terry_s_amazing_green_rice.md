@@ -11,7 +11,7 @@ title: Bryant Terry's Amazing Green Rice
 vegan: "\u2713"
 ---
 
-Cooked in stock and onion infused oil, every spoonful yields bright vegetal flavor with fluffy, separate grains. It's simple, healthy and delicious. The variety of sauteed greens gives this rice an incredibly vibrant green color. The rice itself is light and fluffy, infused with the flavors of the greens, making each bite packed with flavor. This easy one-pot dish highlights nutritious greens in a new and tasty way.
+Cooked in stock and onion infused oil, every spoonful yields bright vegetal flavor with fluffy, separate grains. It's simple, healthy and delicious.
 
 ### Ingredients
 

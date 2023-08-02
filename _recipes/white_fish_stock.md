@@ -10,7 +10,7 @@ time: 40 minutes
 title: White Fish Stock
 ---
 
-This white fish stock recipe is a basic and versatile recipe that can be used in a variety of dishes. The stock is made from mixed bones and heads of white-fleshed fish, onion, parsley stems, lemon juice, and salt. It's a simple and flavorful base for many seafood dishes.
+This white fish stock recipe is a basic and versatile recipe that can be used in a variety of dishes. The stock is made from mixed bones and heads of white-fleshed fish, onion, parsley stems, lemon juice, and salt.
 
 ### Ingredients
 

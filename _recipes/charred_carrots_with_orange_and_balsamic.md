@@ -11,7 +11,7 @@ time: 20 minutes
 title: Charred Carrots With Orange and Balsamic
 ---
 
-A recipe shared by Ina Garten from her book "Modern Comfort Food". This elegant side dish features whole carrots that are charred in the oven, then tossed with a zesty vinaigrette of orange juice, lemon juice and vinegar while still hot. As the carrots cool, they absorb the bright flavors of the dressing. The recipe comes from Ina Garten's book "Modern Comfort Food". Ina Garten made roasted whole carrots fashionable for home cooks with the publication of her first book, "The Barefoot Contessa Cookbook", in 1999. She has a signature style of brightening up basic dishes with lemon, orange and vinegar. This recipe, shared with The Times for Thanksgiving 2020, is from her book "Modern Comfort Food".
+A recipe shared by Ina Garten from her book "Modern Comfort Food". This elegant side dish features whole carrots that are charred in the oven, then tossed with a zesty vinaigrette of orange juice, lemon juice and vinegar while still hot. As the carrots cool, they absorb the bright flavors of the dressing.
 
 ### Ingredients
 

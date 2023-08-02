@@ -7,7 +7,7 @@ time: 1 hour
 title: Chicken with Paprika Sauce
 ---
 
-This classic dish features chicken breasts simmered in an aromatic paprika sauce. The richly flavored sauce takes on lovely ruddy hue from the paprika. It is often served with traditional German dumplings called hefeknoedel to soak up the sauce. The combination of tender chicken with paprika gravy makes a comforting, hearty meal.
+This classic dish features chicken breasts simmered in an aromatic paprika sauce. It is often served with traditional German dumplings called hefeknoedel to soak up the sauce. The combination of tender chicken with paprika gravy makes a comforting, hearty meal.
 
 ### Ingredients
 

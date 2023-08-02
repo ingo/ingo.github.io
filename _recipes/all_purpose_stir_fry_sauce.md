@@ -1,7 +1,7 @@
 ---
 author: Nagi | RecipeTin Eats
 category: Sauces
-description: This versatile all-purpose Chinese style stir fry sauce is my secret
+description: This versatile all-purpose Chinese style stir fry sauce is a secret
   weapon for quick weeknight meals.
 image: all_purpose_stir_fry_sauce.jpg
 nutrition:

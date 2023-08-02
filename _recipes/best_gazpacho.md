@@ -1,9 +1,7 @@
 ---
 author: Julia Moskin
 category: Sides
-description: More of a drink than a soup, served in frosted glasses or chilled tumblers,\
-  \ gazpacho is perfect when it is too hot to eat but you need cold, salt and lunch\
-  \ all at the same time.
+description: More of a drink than a soup, served in frosted glasses or chilled tumblers, gazpacho is perfect when it is too hot to eat but you need cold, salt and lunch all at the same time.
 image: best_gazpacho.jpg
 image_attribution: Christopher Simpson for The New York Times
 original_title: Gazpacho, Seville Style

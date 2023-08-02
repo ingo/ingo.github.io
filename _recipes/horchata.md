@@ -10,7 +10,7 @@ title: Horchata
 vegan: null
 ---
 
-This version is dairy-free, using ice to achieve a frothy, milkshake-like texture. It's lightly sweetened and perfect to accompany Mexican food on a hot day. This is our attempt to replicate the one from La Super-Rica Taqueria.
+This version is lightly sweetened and perfect to accompany Mexican food on a hot day. This is our attempt to replicate the one from La Super-Rica Taqueria.
 
 ### Ingredients
 

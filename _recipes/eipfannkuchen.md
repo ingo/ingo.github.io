@@ -8,7 +8,7 @@ time: 30 minutes
 title: Eipfannkuchen
 ---
 
-My favorite topping is melted butter with a little honey, but they can be topped like normal crepes. You'll want to serve them immediately out of the pan with a knife and fork to cut them into squares. You'll want to serve them immediately out of the pan with a knife and fork to cut them into squares.
+My favorite topping is melted butter with a little honey, but they can be topped like normal crepes. You'll want to serve them immediately out of the pan with a knife and fork to cut them into squares.
 
 ### Ingredients
 

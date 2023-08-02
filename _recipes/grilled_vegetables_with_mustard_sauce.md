@@ -10,11 +10,11 @@ title: Grilled Vegetables with Mustard Sauce
 veggie: "\u2713"
 ---
 
-
+The light mustard sauce complements the grilled vegetables perfectly, adding a burst of flavor to each bite. The sauce is a delicate balance of creamy, tangy, and slightly pungent elements.
 
 ### Ingredients
 
-#### Basting Sauce
+Basting Sauce:
 
 * `1/2 cup` butter, diced
 * `1/3 cup` chopped shallots
@@ -24,7 +24,7 @@ veggie: "\u2713"
 * `2 tbsp` chopped fresh thyme
 * `1 tbsp` grated lemon peel
 
-#### Vegetables
+Vegetables:
 
 * `2` large ears fresh corn, husked, each cut crosswise into 4 pieces
 * `1` small eggplant (about 1 pound), cut crosswise into 1/2-inch-thick rounds
@@ -35,7 +35,7 @@ veggie: "\u2713"
 * `8` asparagus spears, trimmed
 * `1` large carrot, peeled, cut on deep diagonal into 1/4-inch-thick slices
 
-#### Grilling And Serving
+Grilling And Serving:
 
 * Fresh herb sprigs
 * Lemon wedges

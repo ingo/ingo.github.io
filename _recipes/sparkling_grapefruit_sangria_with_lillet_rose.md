@@ -1,9 +1,7 @@
 ---
 author: Elana Lepkowski
 category: Beverages
-description: "This sparkling sangria makes use of the French aperitif Lillet Ros\xE9\
-  , which comes already flavored with sweet and bitter orange peel and fruit liqueurs\
-  \ to boost the flavor of the pitcher drink."
+description: This sparkling sangria makes use of the French aperitif Lillet Ros\xE9, which comes already flavored with sweet and bitter orange peel and fruit liqueurs to boost the flavor of the pitcher drink.
 image: sparkling_grapefruit_sangria_with_lillet_rose.jpg
 size: serves 8
 source: http://www.seriouseats.com/recipes/2014/05/sparkling-grapefruit-sangria-lillet-rose-pitcher-drink-recipe.html

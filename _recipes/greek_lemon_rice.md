@@ -11,7 +11,7 @@ time: 45 minutes
 title: Greek Lemon Rice
 ---
 
-Tart and tangy with a pop of green freshness, it's an easy and delicious accompaniment to roasted chicken, grilled seafood, lamb kebabs and more. Let it cool before fluffing with a fork. This Greek lemon rice will prove you wrong if you think rice is just a dreaded, boring side dish. Once you give it a try, it might just become your favorite side of all time! This lemon rice pilaf is a fairly popular side dish, you may have sampled a version of it at your local Greek restaurant.
+Tart and tangy with a pop of green freshness, it's an easy and delicious accompaniment to roasted chicken, grilled seafood, lamb kebabs and more. Let it cool before fluffing with a fork.
 
 ### Ingredients
 

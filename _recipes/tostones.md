@@ -1,13 +1,11 @@
 ---
 category: Sides
-description: Lovely crispy tostones.
+description: Lovely crispy tostones. Great with salsa or ceviche.
 image: tostones.jpg
 size: 8 servings
 time: 1 hour
 title: Tostones
 ---
-
-Great with salsa or ceviche.
 
 ### Ingredients
 

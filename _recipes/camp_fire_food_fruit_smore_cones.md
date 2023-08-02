@@ -11,7 +11,7 @@ time: 15 minutes
 title: Camp Fire Fruit & Smore Cones
 ---
 
-Enjoy the gooey goodness of marshmallows and chocolate chips mixed with fresh fruit, all stuffed into a waffle cone and heated over the fire. This recipe cleverly transforms the classic s'more into a unique handheld version. The marshmallows and chocolate chips are combined with fresh summer fruit like cherries or raspberries, then stuffed into a waffle cone and lightly toasted over the campfire for a fun and easy dessert. This recipe is a delightful twist on the traditional campfire s'mores. Instead of graham crackers, we use waffle cones to hold the delicious mix of marshmallows, chocolate, and fresh fruit. It's a fun and easy dessert that's perfect for camping trips or backyard bonfires.
+Instead of graham crackers, we use waffle cones to hold the delicious mix of marshmallows, chocolate, and fresh fruit. It's a fun and easy dessert that's perfect for camping trips or backyard bonfires.
 
 ### Ingredients
 

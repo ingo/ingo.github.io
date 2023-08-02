@@ -18,7 +18,7 @@ title: Naan Bread
 vegan: null
 ---
 
-Perfect for slopping up your favourite Indian curries – yet so good that you'll happily devour it plain, straight out of the skillet. This is a recipe for naan bread that's fluffy, bubbly and chewy, just as it should be. Nobody will ever mistake this for just another basic flatbread! Perfect for slopping up your favourite Indian curries – yet so good that you'll happily devour it plain, straight out of the skillet.
+Perfect for slopping up your favourite Indian curries – yet so good that you'll happily devour it plain, straight out of the skillet. This is a recipe for naan bread that's fluffy, bubbly and chewy, just as it should be.
 
 ### Ingredients
 

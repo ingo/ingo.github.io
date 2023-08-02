@@ -14,13 +14,7 @@ title: Feta Saganaki
 veggie: "\u2713"
 ---
 
-Serve with warm pita bread. Feta cheese, the King of cheeses, a PDO appellation product made in Greece and consisting of a combo of sheep and goat milk cheese has come of age. It’s found in many households, surely most supermarkets carry it but you want to ask/purchase Greek Feta. Why settle for an ersatz version?
-
-The usual cheeses for making “saganaki cheese” are Kefalotyri or Kefalograviera but Feta can be pan seared as well –  with one proviso: seek a firm Feta.
-
-Here in Toronto, we have access to many Feta brands, I find the very popular Dodonia brand to work wonderfully. It’s firm enough to hold up to the heat when pan\-frying.
-
-The coating is simply all\-purpose flour that’s dunked in water and into the hot oil it goes. I love the pairing of honey and sesame seeds as it contrasts with the briny and tart flavour of Feta.
+The usual cheeses for making “saganaki cheese” are Kefalotyri or Kefalograviera but Feta can be pan seared as well –  with one proviso: seek a firm Feta. The very popular Dodonia brand seems to work wonderfully. It’s firm enough to hold up to the heat when pan\-frying. The coating is simply all\-purpose flour that’s dunked in water and into the hot oil it goes.
 
 ### Ingredients
 

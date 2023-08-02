@@ -11,7 +11,7 @@ title: Red Curry Tofu Dumplings
 vegan: "\u2713"
 ---
 
-Serve them with chili oil or sweet chili sauce. These red curry tofu dumplings are a perfect blend of flavors and textures, and they're vegan too! The recipe came about during a grocery shopping trip at Nugget Markets, where the wide range of fresh produce inspired the creation of these delicious dumplings. 
+These red curry tofu dumplings are a perfect blend of flavors and textures, and they're vegan too! The recipe came about during a grocery shopping trip at Nugget Markets, where the wide range of fresh produce inspired the creation of these delicious dumplings. 
 
 ### Ingredients
 

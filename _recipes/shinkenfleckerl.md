@@ -1,6 +1,6 @@
 ---
 category: Entrees
-description: A favorite lunch-time dish of Tante Traudl.
+description: A favorite lunch-time dish of Ingo's aunt, Tante Traudl feauturing pasta, ham and eggs.
 image: shinkenfleckerl.jpg
 size: 2 cups
 time: 2 hours

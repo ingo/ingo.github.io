@@ -11,7 +11,7 @@ time: 40 minutes, plus cooling and chilling
 title: Strawberry Pretzel Pie
 ---
 
-This fresher adaptation consists of an easy shortbread crust, a fluffy cream filling and a pile of fresh strawberries. This is a wonderful but simple summer pie inspired by strawberry pretzel salad, a popular Southern dessert. The classic recipe consists of a crumbled pretzel crust, a whipped cream cheese and Cool Whip filling, and a top layer of strawberry Jell-O. In this fresher adaptation, crushed pretzels form the foundation of an easy shortbread crust, followed by a fluffy cream filling and a pile of fresh strawberries, omitting the use of gelatin. If you’re making this pie in advance — especially with juicy, height-of-season berries — complete Steps 1 to 3, then cloak the filled crust with plastic wrap and chill up to 24 hours. Just before serving, toss the berries in sugar and pile them on top.
+The classic recipe consists of a crumbled pretzel crust, a whipped cream cheese and Cool Whip filling, and a top layer of strawberry Jell-O. In this fresher adaptation, crushed pretzels form the foundation of an easy shortbread crust, followed by a fluffy cream filling and a pile of fresh strawberries, omitting the use of gelatin. If you’re making this pie in advance — especially with juicy, height-of-season berries — complete Steps 1 to 3, then cloak the filled crust with plastic wrap and chill up to 24 hours. Just before serving, toss the berries in sugar and pile them on top.
 
 ### Ingredients
 

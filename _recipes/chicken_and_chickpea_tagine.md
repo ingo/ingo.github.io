@@ -9,8 +9,7 @@ time: 1 to 1 1/2 hours
 title: Chicken and Chickpea Tagine
 ---
 
-This version may not compare to those that begin with toasting and grinding spices and peeling grapes, but it is easily executed and still divine. This simplified Moroccan tagine still delivers on the exotic flavors of a traditional tagine without requiring hard-to-find ingredients or complex techniques. Chicken and chickpeasLike many dishes that rely on a combination of spices, a tagine, which is a slowly braised Moroccan stew, may look more intimidating to cook than it is. Even with shortcuts, the results are exotic in flavor and appearance. My version may not compare to those that begin with toasting and grinding spices and peeling grapes, but it is easily executed and still divine. 
-
+This simplified Moroccan tagine still delivers on the exotic flavors of a traditional tagine without requiring hard-to-find ingredients or complex techniques. Even with shortcuts, the results are exotic in flavor and appearance.
 ### Ingredients
 
 * `2 tbsp` corn or canola oil

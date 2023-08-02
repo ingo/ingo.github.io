@@ -8,7 +8,7 @@ size: 4 servings
 title: Green Beans
 ---
 
-
+Green beans belong to the same family as popular ornamental plants such as morning glories. Green beans are members of the Fabaceae family, also known as the Leguminosae family, which includes a wide variety of plants, ranging from food crops to beautiful flowering vines and shrubs.
 
 ### Ingredients
 

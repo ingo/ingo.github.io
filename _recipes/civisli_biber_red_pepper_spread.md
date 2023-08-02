@@ -11,7 +11,7 @@ time: 30 minutes
 title: Civisli Biber (Red Pepper Spread)
 ---
 
-Serve it with pita chips, crackers, or as a spread on sandwiches. This red pepper spread gets a nice flavor and texture boost from the addition of walnuts. The red peppers are cooked until tender then blended into a coarse paste along with the walnuts and spices. Serve it as a dip with pita chips or crackers, or spread it on sandwiches for a flavorful condiment.
+This red pepper spread gets a nice flavor and texture boost from the addition of walnuts. The red peppers are cooked until tender then blended into a coarse paste along with the walnuts and spices. Serve it as a dip with pita chips or crackers, or spread it on sandwiches for a flavorful condiment.
 
 ### Ingredients
 

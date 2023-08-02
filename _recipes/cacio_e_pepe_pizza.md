@@ -13,9 +13,7 @@ time: 13 hours
 title: Cacio e Pepe Pizza
 ---
 
-This clever pizza remixes the classic cacio e pepe pasta dish into pizza form. It uses minimal toppings of just cheese and black pepper to allow the perfectly charred and crispy sourdough crust to shine. The recipe comes from famous Roman pizza chef Stefano Callegari, known for his inventive pizza creations. Stefano Callegari, Rome’s premier pizza innovator, relies on surprising techniques to craft creative pies like cacio e pepe pizza. For this super savory pizza, he draws on the main components of the popular pasta dish cacio e pepe (Pecorino Romano cheese and black pepper), which he liberally applies to a dough base. The final touch is a healthy dose of freshly ground black pepper, which packs a piquant punch. 
-
-This recipe has been adapted for a home kitchen by baker extraordinaire chef John Regefalk. 
+This clever pizza remixes the classic cacio e pepe pasta dish into pizza form. It uses minimal toppings of just cheese and black pepper to allow the perfectly charred and crispy sourdough crust to shine. The recipe comes from famous Roman pizza chef Stefano Callegari, known for his inventive pizza creations.
 
 ### Ingredients
 

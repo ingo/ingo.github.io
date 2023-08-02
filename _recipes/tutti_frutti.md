@@ -10,7 +10,7 @@ time: 1 year
 title: Tutti Frutti
 ---
 
-A year-long process of fermenting your own brandied fruits results in a delicious, magical elixir. Tutti Frutti, a magical elixir, is a tradition in our family, always served with dessert after a weekend noonday meal. This was served to adults only, usually followed by a long nap. My grandmother and aunts spoke about it with reverence, in hushed tones. There was a mystique about Tutti Frutti that I never understood until I found the recipe in an old letter. Having inherited the family Tutti Frutti crock I decided to make it. The delicious tastes and smells that evolved from that crock over the year of fermenting were indeed sublime. 
+Tutti Frutti, a magical elixir, is a tradition in our family, always served with dessert after a weekend noonday meal. This was served to adults only, usually followed by a long nap. My grandmother and aunts spoke about it with reverence, in hushed tones. There was a mystique about Tutti Frutti that I never understood until I found the recipe in an old letter. Having inherited the family Tutti Frutti crock I decided to make it. The delicious tastes and smells that evolved from that crock over the year of fermenting were indeed sublime. 
 
 ### Ingredients
 

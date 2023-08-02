@@ -12,7 +12,7 @@ time: 55 mins
 title: Basque-Style Cheesecake
 ---
 
-Developed by Santiago Rivera (chef and owner of La Vi\xF1a in San Sebastian, Spain) this unique crustless cake, with its blackened top, appears in various forms in American restaurants and around the internet; our version here was adapted from several different sources.
+Developed by Santiago Rivera (chef and owner of La Vi\xF1a in San Sebastian, Spain) this unique crustless cake, with its blackened top, appears in various forms in American restaurants and around the internet; this version was adapted from several different sources.
 
 ### Ingredients
 

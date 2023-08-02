@@ -14,7 +14,7 @@ time: 25 minutes, plus grill heating
 title: Grilled Chicken With Parsley-Olive Sauce
 ---
 
-Serve with plenty of sauce, and perhaps a salad, grilled bread or vegetables. Boneless, skinless thighs are a boon to grilling because they’re almost impossible to overcook. Breasts are a bit trickier because they are low in fat and can dry out quickly. But this technique works beautifully for both. If you have the time, dry brine in advance (see Tips). When ready to eat, grill the chicken longer on the first side to get a little color (if the breasts are uneven in thickness, pound them until they’re even first), finish cooking on the other side, then plunge it into a bright sauce for up to 30 minutes for added juiciness. The sauce here is made with parsley, olives, chile, lemon juice and small bits of lemon rind for tartness and texture, but adjust flavorings as you wish. Serve the chicken with plenty of sauce, and perhaps a salad, grilled bread or vegetables. (Save some for the next day’s lunch, too; the smokiness will develop as it sits.)
+Serve with plenty of sauce, and perhaps a salad, grilled bread or vegetables. Boneless, skinless thighs are a boon to grilling because they’re almost impossible to overcook. Breasts are a bit trickier because they are low in fat and can dry out quickly. But this technique works beautifully for both. If you have the time, dry brine in advance (see Tips). When ready to eat, grill the chicken longer on the first side to get a little color (if the breasts are uneven in thickness, pound them until they’re even first), finish cooking on the other side, then plunge it into a bright sauce for up to 30 minutes for added juiciness.
 
 ### Ingredients
 

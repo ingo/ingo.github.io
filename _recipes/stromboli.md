@@ -12,7 +12,7 @@ time: 2 hours
 title: Stromboli
 ---
 
-Stromboli, an Italian-American dish that originated in the city of Philadelphia, is like a rolled-up version of pizza. Filled with cheese and Italian deli meats, like pepperoni, salami, and ham, and served with marinara sauce for dipping, it’s a huge crowd-pleaser – perfect for game day, an easy dinner, or anytime you’re having people over. Just keep in mind that stromboli disappears quickly; I recommend making two rolls, especially if you’re feeding men and boys.
+Stromboli, an Italian-American dish that originated in the city of Philadelphia, is like a rolled-up version of pizza. Filled with cheese and Italian deli meats, like pepperoni, salami, and ham, and served with marinara sauce for dipping, it’s a huge crowd-pleaser – perfect for game day, an easy dinner, or anytime you’re having people over.
 
 ### Ingredients
 

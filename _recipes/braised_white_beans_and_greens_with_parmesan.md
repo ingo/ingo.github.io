@@ -1,9 +1,7 @@
 ---
 author: Lidey Heuck
 category: Entrees
-description: "Inspired by the Italian dish of saut\xE9ed puntarelle and white beans,\
-  \ this recipe makes a satisfying vegetarian main course or a hearty side dish for\
-  \ roast chicken or sausages."
+description: Inspired by the Italian dish of saut\xE9ed puntarelle and white beans, this recipe makes a satisfying vegetarian main course or a hearty side dish for roast chicken or sausages.
 image: braised_white_beans_and_greens_with_parmesan.jpg
 image_attribution: Julia Gartland for The New York Times (Photography and Styling)
 size: 4 servings

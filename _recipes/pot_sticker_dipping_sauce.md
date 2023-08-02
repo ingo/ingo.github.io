@@ -12,7 +12,7 @@ time: 35 minutes
 title: Pot Sticker Dipping Sauce
 ---
 
-Made with soy sauce, rice vinegar, sesame oil, ginger, and garlic, with a kick of sriracha. The balanced sweet, salty and spicy flavors make it hard to stop dipping!This Pot Sticker Dipping Sauce is a perfect blend of flavors that will elevate your pot stickers, egg rolls, or wontons to a whole new level. The hint of sriracha gives it a kick that will keep you coming back for more.
+This Pot Sticker Dipping Sauce is a perfect blend of flavors that will elevate your pot stickers, egg rolls, or wontons to a whole new level. The hint of sriracha gives it a kick that will keep you coming back for more.
 
 ### Ingredients
 

@@ -8,8 +8,7 @@ time: 1 hour
 title: Blueberry Bagel Bread Pudding
 ---
 
- The custard-soaked bagels soften
-  into a sweet, fruity bread pudding flecked with bursts of fruit. Top with whipped cream or vanilla ice cream.
+The custard-soaked bagels soften into a sweet, fruity bread pudding flecked with bursts of fruit. Top with whipped cream or vanilla ice cream.
 
 ### Ingredients
 

@@ -11,7 +11,7 @@ title: Japanese Sushi Rice
 vegan: "\u2713"
 ---
 
-The secret to perfect sushi starts with perfect sushi rice. In this recipe, we'll be using super premium Japanese short grain white rice. Two of the best brands available are Tamaki Gold and Tamanishiki. Look for "First Crop" or "New Variety" on the bag for this Sushi Rice Recipe.
+The secret to perfect sushi starts with perfect sushi rice. In this recipe, we'll be using super premium Japanese short grain white rice. Two of the best brands available are Tamaki Gold and Tamanishiki. Look for "First Crop" or "New Variety" on the bag.
 
 ### Ingredients
 

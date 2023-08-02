@@ -1,9 +1,7 @@
 ---
 author: The Clean Eating Couple
 category: Sides
-description: "Beef Stuffed Acorn Squash is an easy, healthy dinner recipe the whole\
-  \ family will love. Packed with veggies & fall flavor, it\u2019s delicious & simple\
-  \ to make."
+description: Beef Stuffed Acorn Squash is an easy, healthy dinner recipe the whole family will love.
 image: beef_stuffed_acorn_squash.jpg
 nutrition:
 - 612 calories
@@ -16,6 +14,8 @@ source: https://thecleaneatingcouple.com/beef-stuffed-acorn-squash/
 time: 1 hour
 title: Beef Stuffed Acorn Squash
 ---
+
+Packed with veggies & fall flavor, it\u2019s delicious & simple to make.
 
 ### Ingredients
 
@@ -47,12 +47,9 @@ title: Beef Stuffed Acorn Squash
 ### Notes
 
 - Substitutions for this Stuffed Acorn Squash Recipe:
-
-* Mushrooms: If you don’t like mushrooms you can omit them
-* Dried Fruit: If you don’t have figs dried cranberries or raisins would be delicious
-* To make nut free: omit pecans and use one of La Tourangelle’s other delicious oils like this one
-* To make dairy free: omit the cheese
-* To make paleo/whole30: omit the cheese
-* Squash: If you don’t have acorn squash, this recipe would work well with spaghetti squash
-
-Weight Watchers Note: With the recipe as is, this meal is 13.5SP. This can be a 2.5SP meal if you follow the following substitutions: Save 1 SP per serving by cooking with an oil spray rather than pouring into the pan. Current points calculated using 95/5 ground beef. You can sub 99% fat free turkey for beef and save 4SP per serving. Save 3SP per serving by omitting pecans. Save 3SP per serving if you use fat free cheese.
+- Mushrooms: If you don’t like mushrooms you can omit them
+- Dried Fruit: If you don’t have figs dried cranberries or raisins would be delicious
+- To make nut free: omit pecans and use one of La Tourangelle’s other delicious oils like this one
+- To make dairy free: omit the cheese
+- To make paleo/whole30: omit the cheese
+- Squash: If you don’t have acorn squash, this recipe would work well with spaghetti squash

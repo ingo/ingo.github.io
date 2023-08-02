@@ -18,7 +18,7 @@ time: 30 minutes
 title: Parchment Baked Salmon with Lemon and Basil
 ---
 
-The parchment pouch locks in the juices and flavors, resulting in a moist and delicious salmon fillet. This recipe is a simple and healthy way to prepare salmon. The salmon is baked in parchment, which locks in all the juices and flavors. The addition of lemon and basil gives the salmon a fresh and tangy taste.
+The parchment pouch locks in the juices and flavors, resulting in a moist and delicious salmon fillet. This recipe is a simple and healthy way to prepare salmon. The salmon is baked in parchment, which locks in all the juices and flavors.
 
 ### Ingredients
 

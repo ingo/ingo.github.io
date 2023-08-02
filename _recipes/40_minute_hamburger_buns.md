@@ -10,11 +10,7 @@ time: 30 minutes + resting
 title: 40-Minute Hamburger Buns
 ---
 
-The buns can also be enjoyed plain with a meal or spread with butter. The dough only needs to rise once, keeping the active time short. Letting the shaped
-  buns proof uncovered helps give them a nice crust. The all-purpose flour lends tenderness
-  while the bread flour develops gluten for a chewy yet soft texture. The simple combination
-  of flours makes these easy to throw together. Let them proof after shaping to get
-  that nice golden crust on the buns.
+The buns can also be enjoyed plain with a meal or spread with butter. The dough only needs to rise once, keeping the active time short. Letting the shaped buns proof uncovered helps give them a nice crust.
 
 ### Ingredients
 

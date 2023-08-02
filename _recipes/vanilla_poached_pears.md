@@ -11,7 +11,7 @@ time: 2 hours 5 min
 title: Vanilla Poached Pears
 ---
 
-Perfect for a light dessert. This delightful dessert recipe comes from the renowned chef, Alton Brown. The pears are gently poached in a vanilla-infused syrup, resulting in a dessert that's both sweet and light. Perfect for rounding off a meal.
+This delightful dessert recipe comes from the renowned chef, Alton Brown. The pears are gently poached in a vanilla-infused syrup, resulting in a dessert that's both sweet and light. Perfect for rounding off a meal.
 
 ### Ingredients
 

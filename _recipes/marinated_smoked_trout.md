@@ -8,7 +8,7 @@ time: 30 minutes
 title: Marinated Smoked Trout
 ---
 
-It's all brought together by a tangy vinaigrette of garlic olive oil and white balsamic vinegar that allows the flavors to shine. This recipe brings together the rich, smoky flavor of trout with the tangy sweetness of pickled cherry tomatoes and the crisp bite of thinly sliced carrots. The marinade, a blend of roasted garlic olive oil and white balsamic vinegar, adds a depth of flavor that makes this dish truly unforgettable.
+This recipe brings together the rich, smoky flavor of trout with the tangy sweetness of pickled cherry tomatoes and the crisp bite of thinly sliced carrots. The marinade, a blend of roasted garlic olive oil and white balsamic vinegar, adds a depth of flavor that makes this dish truly unforgettable.
 
 ### Ingredients
 

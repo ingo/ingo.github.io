@@ -11,7 +11,7 @@ time: 30 minutes
 title: Sauerkraut Jeon (Korean Pancakes)
 ---
 
-They can be made with virtually any meat or vegetable odds and ends, but they’re especially great with that crunchy sauerkraut. Jeon are savory Korean vegetable, meat or seafood pancakes bound with the most basic batter: flour, cornstarch and water. Because the mixture is completely unleavened (no baking powder, yeast or even eggs), they run the risk of turning dense and gummy if you overwork the batter. This is good news for the lazy: The less work you put in, the better they come out. They can be made with virtually any meat or vegetable odds and ends, but they’re especially great with that crunchy sauerkraut languishing in the back of your fridge from that cookout you had last year.
+Jeon are savory Korean vegetable, meat or seafood pancakes bound with the most basic batter: flour, cornstarch and water. Because the mixture is completely unleavened (no baking powder, yeast or even eggs), they run the risk of turning dense and gummy if you overwork the batter. This is good news for the lazy: The less work you put in, the better they come out. They can be made with virtually any meat or vegetable odds and ends, but they’re especially great with that crunchy sauerkraut languishing in the back of your fridge from that cookout you had last year.
 
 ### Ingredients
 

@@ -19,7 +19,7 @@ time: 1 hour
 title: Stir-Fried Noodles with Chicken, Mushrooms & Green Beans
 ---
 
-This stir-fry recipe is perfect for those who want to enjoy a vibrant and fresh meal without needing to stock up on exotic ingredients. You don't even need a wok - a skillet or stir-fry pan will do the trick!
+This stir-fry recipe is perfect for those who want to enjoy a vibrant and fresh meal without needing to stock up on exotic ingredients. You don't even need a wok - a skillet or stir-fry pan will do the trick.
 
 ### Ingredients
 

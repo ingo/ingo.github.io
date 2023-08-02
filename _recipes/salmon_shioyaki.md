@@ -1,7 +1,7 @@
 ---
 author: Taichi Kitamura
 category: Entrees
-description: "Add shioyaki\u2014Japanese for \"salt-grilled\"\u2014to your repertoire."
+description: Add shioyaki\u2014Japanese for \"salt-grilled\"\u2014to your repertoire.
 image: salmon_shioyaki.jpg
 image_attribution: Leigh Beisch
 image_source: Dan Becker

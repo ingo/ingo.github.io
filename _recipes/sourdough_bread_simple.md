@@ -12,7 +12,7 @@ time: 3 days
 title: Sourdough Bread (Simple)
 ---
 
-
+Sourdough bread is made using a sourdough starter, which is a mixture of flour and water that captures wild yeast and beneficial bacteria from the environment. This natural fermentation process gives sourdough its distinct tangy flavor and chewy texture.
 
 ### Ingredients
 

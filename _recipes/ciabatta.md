@@ -10,7 +10,7 @@ time: 4 hours, 50 minutes
 title: Ciabatta
 ---
 
-It's incredible on its own or in a sandwich. This ciabatta recipe crafts the loaf the traditional Italian way using a biga starter. The biga helps create an authentic flavor and texture. The resulting bread has a crisp crust with an airy crumb inside. Sliced ciabatta is perfect on its own or for making sandwiches. Any way you serve it, this recipe delivers authentic Italian flavor and chew. This ciabatta recipe is a traditional Italian bread made the authentic way with a biga, or starter. It's incredible on its own or in a sandwich. The dough can be tricky to handle correctly as it's incredibly wet and will stick to everything it comes in contact with. But don't worry, as you make the dough again and again, you'll become practiced in how to handle it.
+This ciabatta recipe crafts the loaf the traditional Italian way using a biga starter. The resulting bread has a crisp crust with an airy crumb inside. Sliced ciabatta is perfect on its own or for making sandwiches. The dough can be tricky to handle correctly as it's incredibly wet and will stick to everything it comes in contact with. But don't worry, as you make the dough again and again, you'll become practiced in how to handle it.
 
 ### Ingredients
 

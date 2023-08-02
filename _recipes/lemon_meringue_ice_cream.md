@@ -9,7 +9,7 @@ sweet: "\u2713"
 title: Lemon Meringue Ice Cream
 ---
 
-This Lemon Meringue Ice Cream recipe is a delightful twist on the classic lemon meringue pie. It's a perfect treat for those hot summer days when you need something refreshing and tangy. The recipe was found on Epicurious, but has been a favorite on Love and Olive Oil.
+This lemon meringue ice cream recipe is a delightful twist on the classic lemon meringue pie. It's a perfect treat for those hot summer days when you need something refreshing and tangy.
 
 ### Ingredients
 

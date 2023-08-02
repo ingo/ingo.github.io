@@ -1,8 +1,7 @@
 ---
 author: Kalofagas.ca
 category: Entrees
-description: Classic Greek chicken chops seasoned with salt, pepper, garlic, onion,
-  oregano and lemon juice.
+description: Classic Greek chicken chops seasoned with salt, pepper, garlic, onion, oregano and lemon juice.
 image: chicken_chops_aka_paidakia_kotopoulo.jpg
 size: 4-6 servings
 source: https://www.kalofagas.ca/
@@ -10,7 +9,7 @@ time: 2 hours 30 minutes
 title: Chicken Chops aka Paidakia Kotopoulo
 ---
 
-Perfect as an appetizer for 4-6 people. The simple seasoning of salt, pepper, garlic, onion, oregano and lemon juice gives these Greek chicken chops big flavor. Grill them up and serve as a starter for a group of 4-6. The classic Mediterranean flavors pair nicely with tzatziki or hummus. In Greece, butchers will break down a whole chicken into pieces (leg, thigh, breast, etc) then with a heavy cleaver, cut them across the the bone into smaller pieces. They call these “kotopoulo paidakia” aka chicken chops. The seasoning and flavouring of the chicken is classic with salt, pepper, garlic, onion, oregano and of course lemon juice. If you are confident of your knife skills, cut your own chicken into chops but it you are not, ask your butcher to cut your chicken into “chops”.
+In Greece, butchers will break down a whole chicken into pieces (leg, thigh, breast, etc) then with a heavy cleaver, cut them across the the bone into smaller pieces. They call these “kotopoulo paidakia” aka chicken chops. The seasoning and flavouring of the chicken is classic with salt, pepper, garlic, onion, oregano and of course lemon juice. If you are confident of your knife skills, cut your own chicken into chops but it you are not, ask your butcher to cut your chicken into “chops”.
 
 ### Ingredients
 

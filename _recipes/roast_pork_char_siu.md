@@ -7,7 +7,7 @@ time: 4-12 hours marinating, 30-50 minutes cooking
 title: Roast Pork (Char Siu)
 ---
 
-
+Char Siu is often recognized by its vibrant red color. The reddish hue is achieved by adding red food coloring or using red fermented bean curd in the marinade. Some versions of Char Siu may omit the food coloring for a more natural appearance.
 
 ### Ingredients
 

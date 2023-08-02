@@ -11,7 +11,7 @@ time: 40 minutes
 title: Milk Bar Cornflake Marshmallow Cookies
 ---
 
-This version is even better and easier to make. Follow the tips and tricks to make these incredible cornflake chocolate chip cookies in your own kitchen. These Milk Bar Cornflake Marshmallow Cookies were a challenge to perfect, but the result is a delicious treat that's worth the effort. The recipe is finicky, but with some adjustments and careful attention, you can recreate these famous cookies in your own kitchen.
+These Milk Bar Cornflake Marshmallow Cookies were a challenge to perfect, but the result is a delicious treat that's worth the effort. The recipe is finicky, but with some adjustments and careful attention, you can recreate these famous cookies in your own kitchen.
 
 ### Ingredients
 

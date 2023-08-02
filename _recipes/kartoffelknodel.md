@@ -1,13 +1,13 @@
 ---
 category: Sides
-description: "A different form of kn\xF6del, this one made with potatoes."
+description: A different form of kn\xF6del, this one made with potatoes.
 image: kartoffelknodel.jpg
 size: 6-8 servings
 time: 1 hour
 title: "Kartoffelkn\xF6del"
 ---
 
-There are many different types, some made totally with raw potatoes only, some made with half raw potatoes, half cooked, and some made with only cooked potatoes. This is the 50-50 type.
+There are many different types of potato dumplings, some made totally with raw potatoes only, some made with half raw potatoes, half cooked, and some made with only cooked potatoes. This is the 50-50 type.
 
 ### Ingredients
 

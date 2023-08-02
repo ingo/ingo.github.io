@@ -9,7 +9,7 @@ time: 2 hours
 title: Paella
 ---
 
-This version is tuned a bit to my family’s preferences, in particular the addition of sausage. If you’d like to be truly traditional with ingredients, there are some suggestions at the bottom of the recipe. Paella is a great dish that also inspires many passions. The version I most often make is tuned a bit to my family’s preferences, in particular the addition of sausage. If you’d like to be truly traditional with ingredients, there are some suggestions at the bottom of the recipe.
+Paella is a great dish that also inspires many passions. The version I most often make is tuned a bit to my family’s preferences, in particular the addition of sausage. If you’d like to be truly traditional with ingredients, there are some suggestions at the bottom of the recipe.
 
 ### Ingredients
 

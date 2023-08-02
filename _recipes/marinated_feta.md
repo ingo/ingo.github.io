@@ -10,7 +10,7 @@ time: 5 minutes
 title: Marinated Feta
 ---
 
-Serve as an appetizer with homemade pita chips, or use it over your salads, chicken, or fish. Robust feta cheese is balanced beautifully with tangy lemon zest, earthy herbs, and subtly spicy jalapeño and dried chilies. This marinated feta recipe is a delightful blend of flavors that will enhance any meal. The tangy lemon zest, earthy herbs, and subtly spicy jalapeño and dried chilies perfectly balance the robust feta cheese. It's a quick and easy appetizer that's sure to impress.
+Robust feta cheese is balanced beautifully with tangy lemon zest, earthy herbs, and subtly spicy jalapeño and dried chilies. This marinated feta recipe is a delightful blend of flavors that will enhance any meal.
 
 ### Ingredients
 

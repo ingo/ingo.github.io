@@ -14,7 +14,7 @@ vegan: null
 veggie: null
 ---
 
-This versatile dish can be prepared in the oven or on the grill, and is sure to be a hit at any gathering. Ontario is known for its high-quality lamb, a favorite among Greeks for Sunday dinners, occasional weekdays, and of course, Easter. Lamb ribs, the top half of the rack usually sliced off when the butcher makes rack of lamb or chops, are a delicious and finger-licking meze or appetizer.
+This versatile dish can be prepared in the oven or on the grill, and is sure to be a hit at any gathering. Lamb ribs, the top half of the rack usually sliced off when the butcher makes rack of lamb or chops, are a delicious and finger-licking meze or appetizer.
 
 ### Ingredients
 

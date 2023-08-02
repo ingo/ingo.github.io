@@ -13,7 +13,7 @@ time: 30 minutes
 title: Eel Sauce
 ---
 
-This delicious version doesn't actually use any eel!Eel Sauce, also known as _Nitsume_, is a crowd favorite and it goes well on various types of rolls as well as a marinade for fish and chicken. In the United States, this sauce is created differently depending on which sushi bar you go to. This recipe will show you how to create a delicious version without actually using any eel!
+This delicious version doesn't actually use any eel! Eel Sauce, also known as _Nitsume_, is a crowd favorite and it goes well on various types of rolls as well as a marinade for fish and chicken. In the United States, this sauce is created differently depending on which sushi bar you go to.
 
 ### Ingredients
 

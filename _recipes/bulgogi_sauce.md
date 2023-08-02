@@ -13,7 +13,7 @@ title: Bulgogi Sauce
 umami: "\u2713"
 ---
 
-The sweet and savory sauce features soy sauce, pear, onion, garlic and sesame. Traditionally used for grilled Korean BBQ dishes. This flavorful bulgogi marinade can be used to add delicious Korean inspired flavor to a variety of proteins. The combination of soy sauce, pear, sesame, garlic, and onion makes a sauce that works well to marinate beef, pork, chicken or tofu. Use it to infuse Korean flavor into anything you are grilling or cooking.File
+The combination of soy sauce, pear, sesame, garlic, and onion makes a sauce that works well to marinate beef, pork, chicken or tofu. Use it to infuse Korean flavor into anything you are grilling or cooking.
 
 ### Ingredients
 

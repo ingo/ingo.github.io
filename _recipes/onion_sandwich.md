@@ -13,7 +13,7 @@ time: 20 minutes, plus chilling
 title: Onion Sandwich
 ---
 
-Each component really matters. Slice the onions thinly and evenly, season well, and be gentle so you don’t squish the bread as you press each sandwich shut. James Beard took this recipe from his colleagues Irma and Bill Rhode over 60 years ago, but there’s something delicate, fresh and unfussy about the sandwich even now. There isn’t much to it, so each component really matters: Slice the onions thinly and evenly, season well, and be gentle so you don’t squish the bread as you press each sandwich shut. Rolling the edge of the sandwich in chopped parsley (or a mix of parsley and other fresh herbs), gives it a retro styling touch, but it’s crucial for flavor, too. —Tejal Rao
+James Beard took this recipe from his colleagues Irma and Bill Rhode over 60 years ago, but there’s something delicate, fresh and unfussy about the sandwich even now. There isn’t much to it, so each component really matters: Slice the onions thinly and evenly, season well, and be gentle so you don’t squish the bread as you press each sandwich shut. Rolling the edge of the sandwich in chopped parsley (or a mix of parsley and other fresh herbs), gives it a retro styling touch, but it’s crucial for flavor, too.
 
 ### Ingredients
 

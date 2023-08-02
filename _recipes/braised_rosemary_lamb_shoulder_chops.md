@@ -5,7 +5,10 @@ image: braised_rosemary_lamb_shoulder_chops.jpg
 size: Serves variable
 time: 3-4 hours
 title: Braised Rosemary Lamb Shoulder Chops
+description: This delicious recipe features tender and juicy lamb shoulder chops seasoned with a fragrant blend of herbs and spices, then roasted to perfection.
 ---
+
+The dish is elevated with a sauce that complements the flavors of the lamb beautifully. It serves 4 people and is perfect for an elegant dinner or a special occasion.
 
 ### Ingredients
 

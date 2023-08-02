@@ -9,11 +9,7 @@ size: 1 serving
 title: Baked Beans with Buttered Toast
 ---
 
-While associated with an English breakfast, this dish
-  became a favorite of Ingo's while living in London. The beans lend themselves wonderfully
-  to being piled on toast. The beans are flavored with onions, garlic, mustard and
-  brown sugar as they bake low and slow until tender. Serving them atop a slice of
-  toasted bread adds texture and soaks up the sauce.
+While associated with an English breakfast, this dish became a favorite of Ingo's while living in London. The beans lend themselves wonderfully to being piled on toast. The beans are flavored with onions, garlic, mustard and brown sugar as they bake low and slow until tender. Serving them atop a slice of toasted bread adds texture and soaks up the sauce.
 
 ### Ingredients
 

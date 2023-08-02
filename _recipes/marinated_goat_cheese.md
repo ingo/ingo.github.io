@@ -7,7 +7,7 @@ size: 8 servings
 title: Marinated Goat Cheese
 ---
 
-
+Goat cheese is often considered more digestible than cow's milk cheese for some individuals. It contains different proteins and fats, which can be easier on the digestive system for people who are lactose intolerant or have trouble digesting cow's milk.
 
 ### Ingredients
 

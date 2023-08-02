@@ -13,8 +13,7 @@ title: Asparagus and Morel Quiche
 umami: "\u2713"
 ---
 
-Fresh asparagus spears on top keep their snap after baking.   For the neatest slices, make quiche a day ahead; let it cool completely, then loosen
-  edges and chill overnight. Cut perfect wedges, reheat and serve with a salad for brunch or lunch. Morels can be pricey but a little goes a long way. Their richness pairs wonderfully with the custardy quiche filling.
+Fresh asparagus spears on top keep their snap after baking. For the neatest slices, make quiche a day ahead; let it cool completely, then loosen edges and chill overnight. Cut perfect wedges, reheat and serve with a salad for brunch or lunch. Morels can be pricey but a little goes a long way. Their richness pairs wonderfully with the custardy quiche filling.
 
 ### Ingredients
 

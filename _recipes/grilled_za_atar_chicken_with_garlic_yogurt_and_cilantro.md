@@ -12,7 +12,7 @@ time: 30 minutes, plus marinating time
 title: "Grilled Za\u2019atar Chicken With Garlic Yogurt and Cilantro"
 ---
 
-The chicken emerges very tender and infused with the piquant marinade. It's a flexible recipe - marinate for just 2 hours or up to overnight. Served drizzled with the garlicky marinade and fresh cilantro. This garlicky, herby chicken is full-flavored and very tender, thanks to its piquant yogurt marinade. It’s flexible, too — marinate the meat for as little as a couple of hours, or as long as overnight. And the chicken is just as good cooked under the broiler as it is on the grill. You can serve this dish with almost anything, but it’s especially nice with pita or other flatbread and a big cucumber and tomato salad. 
+This garlicky, herby chicken is full-flavored and very tender, thanks to its piquant yogurt marinade. It’s flexible, too — marinate the meat for as little as a couple of hours, or as long as overnight. And the chicken is just as good cooked under the broiler as it is on the grill. You can serve this dish with almost anything, but it’s especially nice with pita or other flatbread and a big cucumber and tomato salad. 
 
 ### Ingredients
 

@@ -1,7 +1,7 @@
 ---
 author: The Wanderlust Kitchen
 category: Sides
-description: "Greek Gigantes, meaning \u201Cgiant beans\u201D, live up to their name."
+description: Greek Gigantes, meaning \u201Cgiant beans\u201D, live up to their name.
 image: greek_gigantes.jpg
 original_title: Greek Gigantes
 size: servings

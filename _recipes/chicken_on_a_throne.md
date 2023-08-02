@@ -8,7 +8,7 @@ time: 3 hours
 title: Chicken on a Throne
 ---
 
-The meat is moist and juicy with a great mahogany hue. It's delicious by itself, but also particularly great in a chicken salad. While the vertical roasting method may seem unusual, it allows the chicken to soak up incredible smoky barbecue flavor. The bird ends up with juicy, mahogany-hued meat that is perfect on its own or used in chicken salad. The unique cooking technique yields hard-to-beat smoky flavor and texture.
+The meat is moist and juicy with a great mahogany hue. It's delicious by itself, but also particularly great in a chicken salad. While the vertical roasting method may seem unusual, it allows the chicken to soak up incredible smoky barbecue flavor.
 
 ### Ingredients
 

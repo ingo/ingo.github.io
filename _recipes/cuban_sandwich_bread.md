@@ -1,8 +1,7 @@
 ---
 author: King Arthur Baking
 category: Breads
-description: Customers have written begging us to provide them with a recipe for Cuban
-  bread, so that they can replicate sandwiches they had in Miami.
+description: A recipe for Cuban bread to replicate those iconic sandwiches from Miami.
 image: cuban_sandwich_bread.jpg
 original_title: Cuban Sandwich Bread
 size: 6 sandwiches, 12 servings
@@ -11,7 +10,7 @@ time: 10 hrs 40 mins
 title: Cuban Sandwich Bread
 ---
 
-As always, we're happy to oblige!
+Cuban sandwiches are the best sandwiches.
 
 ### Ingredients
 

@@ -12,7 +12,7 @@ time: 10 minutes
 title: Zhoug Sauce
 ---
 
-This version is simple and easy without compromising flavor. Zhoug, pronounced Zoog, is a spicy, green chili cilantro sauce that hails from Yemen. It has become wildly popular in Israel and Middle Eastern cuisine to give dishes a huge burst of flavor. This simplified version of Zhoug is made with milder chilies, jalapeños versus hotter bird’s eye or serrano chilies. This version can also be made in a food processor to save time. It literally takes 5 minutes!
+Zhoug, pronounced Zoog, is a spicy, green chili cilantro sauce that hails from Yemen. It has become wildly popular in Israel and Middle Eastern cuisine to give dishes a huge burst of flavor. This simplified version of Zhoug is made with milder chilies, jalapeños versus hotter bird’s eye or serrano chilies.
 
 ### Ingredients
 

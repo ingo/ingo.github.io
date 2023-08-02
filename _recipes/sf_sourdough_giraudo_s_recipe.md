@@ -11,7 +11,7 @@ time: 1 day 10 hours
 title: Giraudo's SF Sourdough
 ---
 
-This recipe yields two 875g loaves with a mild sour tang and a chewy crust. This is a classic San Francisco sourdough recipe, shared by Mike Giraudo and tested by a home baker. The recipe was followed to the letter, with the exception of kneading by hand instead of using a stand mixer. The result is a bread with a mild sour tang and a chewy crust.
+This recipe yields two 875g loaves with a mild sour tang and a chewy crust. This is a classic San Francisco sourdough recipe, shared by Mike Giraudo and tested by a home baker. The recipe was followed to the letter, with the exception of kneading by hand instead of using a stand mixer.
 
 ### Ingredients
 

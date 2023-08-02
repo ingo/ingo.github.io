@@ -9,7 +9,7 @@ time: 30 minutes
 title: Green Beans with Pesto
 ---
 
-A simple yet flavorful side dish. This recipe is a delightful combination of fresh green beans and homemade pesto sauce. The green beans are blanched to retain their vibrant color and crunch. The pesto sauce is a flavorful blend of garlic, parmesan cheese, roasted pine nuts, and basil leaves. The dish is then garnished with torn basil leaves and more pine nuts for an added crunch.
+A simple yet flavorful side dish. This recipe is a delightful combination of fresh green beans and homemade pesto sauce. The green beans are blanched to retain their vibrant color and crunch.
 
 ### Ingredients
 

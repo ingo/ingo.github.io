@@ -10,7 +10,7 @@ time: 1 hour
 title: The Most Amazing Roasted Artichokes
 ---
 
-These roasted artichokes are full of lemony, herby, garlicky flavors. Since moving to Barcelona, our veggie bowl has mysteriously been stocked with fresh artichokes pretty much 24/7. Artichokes are by far and away Barclay’s favorite food. After a long history of steaming our artichokes, I began feeling the need for a little variety in our artichoke game happening here in Spain. So I challenged Barc to experiment with some various methods and seasonings for roasted artichokes. And now, dozens of alcachofas asadas later, we’ve both agreed that he’s landed upon a winner of a recipe.
+Artichokes are by far and away Barclay’s favorite food. After a long history of steaming our artichokes, I began feeling the need for a little variety in our artichoke game happening here in Spain. So I challenged Barc to experiment with some various methods and seasonings for roasted artichokes. And now, dozens of alcachofas asadas later, we’ve both agreed that he’s landed upon a winner of a recipe.
 
 ### Ingredients
 

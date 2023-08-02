@@ -12,7 +12,7 @@ time: 1 hour
 title: Butter Chicken
 ---
 
-The sauce keeps even leftover tandoori chicken from drying out. Best made with boneless dark meat or a small whole chicken. This classic Indian butter chicken dish combines chicken in a creamy, tomato-based sauce flavored with aromatic spices like ginger, garam masala, turmeric and fenugreek. The sauce has a unique sweet and savory flavor profile. It helps prevent leftover tandoori chicken from drying out. For best results, use boneless dark meat chicken thighs or a small whole chicken.
+This classic Indian butter chicken dish combines chicken in a creamy, tomato-based sauce flavored with aromatic spices like ginger, garam masala, turmeric and fenugreek. For best results, use boneless dark meat chicken thighs or a small whole chicken.
 
 ### Ingredients
 

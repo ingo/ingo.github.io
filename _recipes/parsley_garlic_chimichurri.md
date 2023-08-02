@@ -11,7 +11,7 @@ time: 20 minutes
 title: Parsley-Garlic Chimichurri
 ---
 
-Perfect for grilling or as a marinade. This recipe is adapted from Steven Raichlen’s Chimichurri recipe. It's a flavorful sauce made with fresh parsley, garlic, and a mix of spices. Perfect for grilling or as a marinade.
+This recipe is adapted from Steven Raichlen’s Chimichurri recipe. It's a flavorful sauce made with fresh parsley, garlic, and a mix of spices. Perfect for grilling or as a marinade.
 
 ### Ingredients
 

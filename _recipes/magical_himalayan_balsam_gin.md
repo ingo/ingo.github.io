@@ -11,7 +11,7 @@ time: 24 hours
 title: Magical Himalayan Balsam Gin
 ---
 
-This Himalayan Balsam Gin recipe is a delightful surprise. The Himalayan Balsam is a highly invasive weed, but it's also a highly edible plant. The green seed pods, seeds, young leaves, shoots, and flowers are all edible. In this recipe, we use the flowers to create a gin infusion that changes color when tonic is added. 
+The Himalayan Balsam is a highly invasive weed, but it's also a highly edible plant. The green seed pods, seeds, young leaves, shoots, and flowers are all edible. In this recipe, we use the flowers to create a gin infusion that changes color when tonic is added. 
 
 ### Ingredients
 

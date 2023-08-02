@@ -12,7 +12,7 @@ time: 4 hours 40 minutes
 title: Detroit-Style Pizza
 ---
 
-The brick cheese and sauce are layered on top of the crust rather than mixed in, allowing them to meld together as the pizza bakes. The cheese melts into delicious globs and slices are eaten with gusto. This Detroit-style pizza recipe is inspired by Serious Eats and is a new obsession for many. The pizza is known for its thick crust with crackly-crisp sides and bottom. It also layers classic pizza toppings in reverse order: first optional pepperoni, then cheese (brick cheese, to be totally traditional), then sauce. It’s baked in a special dark anodized pan to achieve perfectly crispy caramelized cheese around the edge; a harmonious balance to the soft, chewy crust, and sauce and gooey cheese on top.
+This Detroit-style pizza recipe is inspired by Serious Eats and is a new obsession for many. The pizza is known for its thick crust with crackly-crisp sides and bottom. It also layers classic pizza toppings in reverse order: first optional pepperoni, then cheese (brick cheese, to be totally traditional), then sauce. It’s baked in a special dark anodized pan to achieve perfectly crispy caramelized cheese around the edge; a harmonious balance to the soft, chewy crust, and sauce and gooey cheese on top.
 
 ### Ingredients
 

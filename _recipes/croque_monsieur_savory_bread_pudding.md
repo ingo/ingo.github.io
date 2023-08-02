@@ -10,7 +10,7 @@ time: 1 hour 30 minutes
 title: Croque Monsieur Savory Bread Pudding
 ---
 
-Perfect for lazy days and long brunches. This recipe is basically a giant deconstructed Croque Monsieur (aka ham, cheese, French Bread, and all things delicious). With caramelized onions, fresh thyme, nutty cheese, and all sorts of toasty, crunchy bits, it's make ahead and easy to put together, which makes it pretty much perfect for lazy days and long brunches.
+With caramelized onions, fresh thyme, nutty cheese, and all sorts of toasty, crunchy bits, it's make ahead and easy to put together, which makes it pretty much perfect for lazy days and long brunches.
 
 ### Ingredients
 

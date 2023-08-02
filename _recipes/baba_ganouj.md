@@ -7,8 +7,7 @@ size: 2 cups
 title: Baba Ganouj
 ---
 
-Tahini, olive oil, lemon
-  juice and garlic round it out. Much more flavorful than the store-bought version. Serve with warm pita for dipping, raw vegetable crudites, or even on sandwiches in place of mayo. Grilling or broiling the eggplant imparts a delicious smoky essence, while the dip consistency comes from blending in tahini and olive oil. The eggplant can be cooked directly over a gas flame for the most smoky flavor before blending.
+Tahini, olive oil, lemon juice and garlic round it out. Much more flavorful than the store-bought version. Serve with warm pita for dipping, raw vegetable crudites, or even on sandwiches in place of mayo.
 
 ### Ingredients
 

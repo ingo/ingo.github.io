@@ -12,7 +12,7 @@ time: 3 hours
 title: Cinnamon Rolls
 ---
 
-These tender cinnamon rolls are a delight to wake up to on a weekend morning or enjoy as a sweet treat any time. Rolled dough is swirled with cinnamon sugar that melts into the dough as they bake. The irresistible combo of fluffy dough, cinnamon, and rich glaze makes these a go-to favorite recipe. These cinnamon rolls are the perfect balance of soft and sweet. Made with a unique tangzhong technique, they are guaranteed to be the star of your breakfast or dessert table.
+These tender cinnamon rolls are a delight to wake up to on a weekend morning or enjoy as a sweet treat any time. Made with a unique tangzhong technique, they are guaranteed to be the star of your breakfast or dessert table.
 
 ### Ingredients
 

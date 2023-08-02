@@ -11,7 +11,7 @@ title: Roasted Parsnips and Carrots
 veggie: "\u2713"
 ---
 
-This recipe for Roasted Parsnips and Carrots is a classic side dish that brings out the sweet, earthy flavors of these two root vegetables. It's a recipe from the Barefoot Contessa, known for her simple and delicious dishes.
+This recipe for Roasted Parsnips and Carrots is a classic side dish that brings out the sweet, earthy flavors of these two root vegetables.
 
 ### Ingredients
 

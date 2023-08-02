@@ -14,7 +14,7 @@ time: 1 hour
 title: Potato Crusted Cod With Pine Nut Skordalia
 ---
 
-A traditional Greek dish usually enjoyed during the Feast of the Annunciation. This traditional Greek dish is usually enjoyed during the Feast of the Annunciation. The contrast of succulent cod fish with a crusty potato crust is striking. The pine nut Skordalia is the garlicky “icing” on the cod.
+This traditional Greek dish is usually enjoyed during the Feast of the Annunciation. The contrast of succulent cod fish with a crusty potato crust is striking. The pine nut Skordalia is the garlicky “icing” on the cod.
 
 ### Ingredients
 

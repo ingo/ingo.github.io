@@ -9,7 +9,7 @@ time: 15 minutes
 title: Butter & Garlic Cream Sauce
 ---
 
-It's the ultimate topper for pasta, seafood, chicken or steak. The combination of melted butter and cream creates an incredibly rich and flavorful sauce with very minimal effort. Simply cook some garlic in butter, splash in cream and reduce until thickened. This simple yet luxurious sauce pairs perfectly with pasta, seafood, poultry or steak. A great sauce for everything.
+It's the ultimate topper for pasta, seafood, chicken or steak. The combination of melted butter and cream creates an incredibly rich and flavorful sauce with very minimal effort.
 
 ### Ingredients
 

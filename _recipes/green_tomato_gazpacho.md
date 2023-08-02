@@ -7,7 +7,7 @@ time: 15 minutes
 title: Green Tomato Gazpacho
 ---
 
-Perfect for a light lunch or appetizer. This recipe for Green Tomato Gazpacho is a delightful twist on the traditional Spanish soup. The green tomatoes add a unique tanginess that is balanced by the cool cucumber and a hint of heat from the anaheim chili. 
+Perfect for a light lunch or appetizer. This recipe for green tomato gazpacho is a delightful twist on the traditional Spanish soup. The green tomatoes add a unique tanginess that is balanced by the cool cucumber and a hint of heat from the anaheim chili. 
 
 ### Ingredients
 

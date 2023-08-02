@@ -12,7 +12,7 @@ time: 1 hour
 title: Strawberry Shortcakes
 ---
 
-Adapted from Claudia Fleming and Russ Parsons, this recipe for Strawberry Shortcakes is a delightful dessert that combines the sweetness of strawberries with the lightness of shortcakes. The recipe has been updated to include weights for easier measurement.
+Adapted from Claudia Fleming and Russ Parsons, this recipe for strawberry shortcakes is a delightful dessert that combines the sweetness of strawberries with the lightness of shortcakes. The recipe has been updated to include weights for easier measurement.
 
 ### Ingredients
 

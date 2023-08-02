@@ -11,7 +11,7 @@ time: 1 hour
 title: Magic Mac and Cheese
 ---
 
-Its flavor is deliciously complex, yet its method is simple to cook and customize. This Magic Mac and Cheese recipe is a result of a spring project to create the easiest, cheesiest, most satisfying macaroni and cheese recipe of all time. After testing every variable possible, the final product is a perfect blend of velvety cheese sauce, a beautifully browned panko topping, and a blend of cheeses balanced for ample flavor and melting power.
+This Magic Mac and Cheese recipe is a result of a spring project to create the easiest, cheesiest, most satisfying macaroni and cheese recipe of all time. After testing every variable possible, the final product is a perfect blend of velvety cheese sauce, a beautifully browned panko topping, and a blend of cheeses balanced for ample flavor and melting power.
 
 ### Ingredients
 

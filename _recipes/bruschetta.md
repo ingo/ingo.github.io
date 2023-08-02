@@ -10,7 +10,7 @@ time: 30 minutes
 title: Bruschetta
 ---
 
-Bring these easy garlic toasts out warm from the oven to serve. The crisp, garlicky toast is a perfect canvas for showcasing bruschetta toppings. Serve these toasts warm right after baking and they will be crispy outside and slightly soft inside. Feel free to get creative with different bruschetta toppings. This simple yet flavorful bruschetta recipe comes from David Rosengarten's book "Taste". It's a perfect snack or appetizer that can be prepared in just 30 minutes.
+The crisp, garlicky toast is a perfect canvas for showcasing bruschetta toppings. Serve these toasts warm right after baking and they will be crispy outside and slightly soft inside.
 
 ### Ingredients
 

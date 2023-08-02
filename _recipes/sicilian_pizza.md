@@ -1,9 +1,7 @@
 ---
 author: Chris Decker, Pizza Today
 category: Entrees
-description: "A thick, focaccia-like pizza baked in a pan, traditionally topped with\
-  \ a tomato sauce, rich with olive oil, onion, anchovies, pecorino or caciocavallo\
-  \ \u2014 and a generous helping of bread crumbs."
+description: A thick, focaccia-like pizza baked in a pan, traditionally topped with a tomato sauce, rich with olive oil, onion, anchovies, pecorino or caciocavallo \u2014 and a generous helping of bread crumbs."
 image: sicilian_pizza.jpg
 original_title: Pizza Siciliana
 size: 1 pizza (12x18 inch)

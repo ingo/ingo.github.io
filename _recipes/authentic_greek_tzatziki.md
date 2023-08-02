@@ -21,11 +21,7 @@ time: 8 hours 10 minutes
 title: Authentic Greek Tzatziki
 ---
 
-The key is draining the yogurt to achieve
-  an ultra-smooth, spreadable texture accented by fresh garlic, olive oil, vinegar
-  and mint. The garlic, olive oil and mint take it to another level
-  versus store-bought. Serve with warm pita and vegetables. This tzatziki is in a whole different league
-  than store-bought.
+The key is draining the yogurt to achieve an ultra-smooth, spreadable texture accented by fresh garlic, olive oil, vinegar and mint. The garlic, olive oil and mint take it to another level versus store-bought. Serve with warm pita and vegetables.
 
 ### Ingredients
 

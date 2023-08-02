@@ -11,7 +11,7 @@ time: 9 to 19 hours
 title: Oven-Fried Buffalo Wings
 ---
 
-The secret is some baking powder. The secret to baked wings that taste just like real-deal, deep-fried Buffalo wings? Some baking powder. But, of course, this wouldn't be The Food Lab unless we tested 28 variations first to confirm.
+The secret to baked wings that taste just like real-deal, deep-fried Buffalo wings? Some baking powder.
 
 ### Ingredients
 

@@ -1,5 +1,5 @@
 ---
-author: Ottolenghi
+author: Yotam Ottolenghi
 category: Sides
 description: A refreshing and vibrant salad packed with a variety of herbs and seeds.
 image: green_herb_salad.jpg
@@ -10,7 +10,7 @@ title: Green Herb Salad
 veggie: "\u2713"
 ---
 
-Perfect for a light lunch or as a side dish. This salad is a delightful mix of fresh herbs and greens, tossed with a simple yet flavorful dressing. The combination of different herbs gives it a unique and refreshing taste, while the toasted seeds add a nice crunch. It's a recipe from the renowned chef, Ottolenghi.
+This salad is a delightful mix of fresh herbs and greens, tossed with a simple yet flavorful dressing. The combination of different herbs gives it a unique and refreshing taste, while the toasted seeds add a nice crunch.
 
 ### Ingredients
 

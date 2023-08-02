@@ -1,8 +1,7 @@
 ---
 author: Peter Minaki
 category: Desserts
-description: "A delightful rose petal ice cream that will make many happy \u2013 those\
-  \ on team rose and those perhaps on the fence, will like this treat."
+description: A delightful rose petal ice cream that will make many happy \u2013 those on team rose and those perhaps on the fence, will like this treat.
 image: rose_petal_ice_cream.jpg
 size: 6 servings
 source: https://www.kalofagas.ca/2021/07/04/rose-petal-ice-cream/

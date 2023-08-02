@@ -11,7 +11,7 @@ time: 55 minutes
 title: Parmesan Smashed Potatoes
 ---
 
-They're a delicious side dish option that requires only a few ingredients to prepare. They're certain to complement a multitude of your favorite entrees. The love of spuds is alive and well at our house. Whether I make them in hash brown muffins with eggs for breakfast, or topped with spicy beef turning them into taco taters as an appetizer or a loaded potato casserole, they're the first dish to go. Potatoes are inexpensive and readily available making them a stellar choice for families.
+They're a delicious side dish option that requires only a few ingredients to prepare. Whether I make them in hash brown muffins with eggs for breakfast, or topped with spicy beef turning them into taco taters as an appetizer or a loaded potato casserole, they're the first dish to go.
 
 ### Ingredients
 

@@ -10,7 +10,7 @@ time: 1 hour
 title: Tsampa Soup (Tsam-Thuk)
 ---
 
-Fragrant, nutty, and perfect for cold weather. This Tibetan staple, Tsampa Soup, is perfect for the cold weather. The soup is made with Tsampa, a roasted barley flour, giving it a unique, fragrant and almost nutty taste. This version of the soup, from Lhasa, one of the cities in Tibet, uses strips of steak as a substitute for yak meat. It's a full meal in itself and not difficult to make with a little preparation.
+This Tibetan staple, Tsampa Soup, is perfect for the cold weather. The soup is made with Tsampa, a roasted barley flour, giving it a unique, fragrant and almost nutty taste. This version of the soup, from Lhasa, one of the cities in Tibet, uses strips of steak as a substitute for yak meat.
 
 ### Ingredients
 

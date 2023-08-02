@@ -10,7 +10,7 @@ time: 4 hours
 title: Challah
 ---
 
-This recipe produces a loaf with a deep gold color and light, fluffy texture, ideal for braiding. The dough is wonderfully smooth and supple, a pleasure to work with. This challah recipe delivers a perfect loaf for Jewish holidays and Shabbat. It uses eggs for richness and flavor. The resulting dough is smooth, elastic, and easy to braid. It bakes up with a deep golden crust and a soft, fluffy interior crumb. A delight to prepare and share with loved ones. This deep-gold, light-textured bread is traditionally served on the Jewish Sabbath and other holidays. The dough for this loaf is wonderfully smooth and supple, making it an ideal candidate for braiding. The simplest way to go is a three-strand braid; but feel free to try the slightly more complex four-strand braid, or even a six-strand braid, which makes a striking presentation.
+This challah recipe delivers a perfect loaf for Jewish holidays and Shabbat. The dough for this loaf is wonderfully smooth and supple, making it an ideal candidate for braiding. The simplest way to go is a three-strand braid; but feel free to try the slightly more complex four-strand braid, or even a six-strand braid, which makes a striking presentation.
 
 ### Ingredients
 

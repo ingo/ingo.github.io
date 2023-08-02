@@ -9,7 +9,7 @@ time: 1 hour 10 minutes
 title: Mustard-Roasted Potatoes
 ---
 
-Perfect as a side dish for any meal. These Mustard-Roasted Potatoes are a delightful twist on the classic roasted potatoes. The tangy mustard adds a unique flavor that will have everyone asking for seconds. The recipe was first featured in the 2006 edition of Barefoot Contessa at Home.
+These mustard-roasted potatoes are a delightful twist on the classic roasted potatoes. The tangy mustard adds a unique flavor that will have everyone asking for seconds. The recipe was first featured in the 2006 edition of Barefoot Contessa at Home.
 
 ### Ingredients
 

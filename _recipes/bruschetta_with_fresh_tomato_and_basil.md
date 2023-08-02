@@ -11,7 +11,7 @@ time: 2 hours 15 minutes
 title: Bruschetta with Fresh Tomato and Basil
 ---
 
-Served piled atop warm, garlicky toast for an easy appetizer or light meal. The fresh tomatoes, flavored with olive oil, vinegar and basil make a simple yet delicious topping. When served on the crisp garlic toasts, it creates the perfect balance of flavors and textures. A great easy recipe using summer's fresh tomatoes. This recipe is courtesy of David Rosengarten from the Food Network. It's a simple and delicious dish that can be prepared in just a few steps. The combination of fresh tomatoes and basil makes for a refreshing and flavorful topping for the bruschetta.
+Served piled atop warm, garlicky toast for an easy appetizer or light meal. The fresh tomatoes, flavored with olive oil, vinegar and basil make a simple yet delicious topping. When served on the crisp garlic toasts, it creates the perfect balance of flavors and textures.
 
 ### Ingredients
 

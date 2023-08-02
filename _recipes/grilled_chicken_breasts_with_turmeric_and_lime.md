@@ -11,7 +11,7 @@ time: 15 minutes
 title: Grilled Chicken Breasts With Turmeric and Lime
 ---
 
-Most importantly, as with all white meat chicken, don't overcook it or you'll end up with well-seasoned shoe leather. This recipe is a simple, flavorful marinade of turmeric, rosemary, garlic, lime juice and olive oil. Most importantly, as with all white meat chicken, don't overcook it or you'll end up with well-seasoned shoe leather.
+Most importantly, as with all white meat chicken, don't overcook it or you'll end up with well-seasoned shoe leather. This recipe is a simple, flavorful marinade of turmeric, rosemary, garlic, lime juice and olive oil.
 
 ### Ingredients
 

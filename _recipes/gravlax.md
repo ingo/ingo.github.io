@@ -7,7 +7,7 @@ time: 5 days
 title: Gravlax
 ---
 
-Perfect for a special occasion or just a fancy brunch!Gravlax is a traditional Nordic dish made from raw salmon that's been cured with salt, sugar, and dill. It's a time-consuming process, but the result is a deliciously flavorful and unique dish that's perfect for a special occasion or just a fancy brunch!
+Perfect for a special occasion or just a fancy brunch! Gravlax is a traditional Nordic dish made from raw salmon that's been cured with salt, sugar, and dill. It's a time-consuming process, but the result is a deliciously flavorful and unique dish.
 
 ### Ingredients
 
@@ -33,3 +33,4 @@ Perfect for a special occasion or just a fancy brunch!Gravlax is a traditional N
 ### Notes
 
 - The ratio of salt to sugar for the cure is 2:1 per 1.5 lbs of fish. For example, for 680 g of fish, use 35 g of salt and 17.5 g of sugar.
+- For an easier way to cold smoke a fish, you can purchase one of those cold smoke generators used for mixed drinks. Put the cured fish in a sealed container and fill the container with smoke. Repeat a few times for a total of ~2 hours.

@@ -10,7 +10,7 @@ time: 24-48 hours
 title: Hinze's Woodfired 67% Pizza
 ---
 
-This recipe explores the difference between 48h and 24h dough fermentation. This pizza recipe is a fantastic exploration of dough fermentation. The Caputo Pizzeria flour is left to ferment for either 24 or 48 hours, creating a unique flavor and texture. The oven is fired with dry beechwood, adding a smoky touch to the pizza. This recipe yields 10 240g pizza balls, perfect for a gathering or a pizza party!
+This pizza recipe is a fantastic exploration of dough fermentation. The Caputo Pizzeria flour is left to ferment for either 24 or 48 hours, creating a unique flavor and texture. The oven is fired with dry beechwood, adding a smoky touch to the pizza. This recipe yields 10 240g pizza balls, perfect for a gathering or a pizza party!
 
 ### Ingredients
 

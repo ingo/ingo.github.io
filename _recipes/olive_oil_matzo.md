@@ -1,8 +1,7 @@
 ---
 author: NYT Cooking
 category: Breads
-description: "A wonderful Sardinian flatbread known as carta musica \u2014 sheet music,\
-  \ because it is nearly impossibly thin."
+description: A wonderful Sardinian flatbread known as carta musica \u2014 sheet music, because it is nearly impossibly thin.
 image: olive_oil_matzo.jpg
 original_title: Olive Oil Matzo
 size: 12 servings

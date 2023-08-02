@@ -1,6 +1,6 @@
 ---
 category: Entrees
-description: A wonderful stuffed chicken.
+description: A wonderful stuffed chicken based on an Italian recipe.
 image: pollo_arrosto.jpg
 size: 2-4 servings
 time: 2 hours

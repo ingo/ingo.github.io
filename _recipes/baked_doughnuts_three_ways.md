@@ -10,11 +10,7 @@ time: 25 mins
 title: Baked Doughnuts Three Ways
 ---
 
-Make plain, pumpkin spice, or Meyer lemon doughnuts
-  by mixing up a simple batter, pouring into a doughnut pan, and baking until golden
-  brown. Baked doughnuts are a smart way to enjoy the treat without all the fat and
-  mess of frying. Let the kids decorate their baked doughnuts with sprinkles or glaze
-  for an easy weekend activity.
+Make plain, pumpkin spice, or Meyer lemon doughnuts by mixing up a simple batter, pouring into a doughnut pan, and baking until golden brown. Baked doughnuts are a smart way to enjoy the treat without all the fat and mess of frying. Let the kids decorate their baked doughnuts with sprinkles or glaze for an easy weekend activity.
 
 ### Ingredients
 

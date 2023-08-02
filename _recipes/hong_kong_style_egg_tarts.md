@@ -9,7 +9,7 @@ time: 1 hour 30 minutes
 title: Hong Kong Style Egg Tarts
 ---
 
-The fish is then slowly baked until caramelized and irresistibly tender. With its delicate texture that seems to melt in your mouth, it's an impressive recipe you can make at home. This recipe for Hong Kong Style Egg Tarts is a delightful treat that is perfect for dessert or a mid-afternoon snack. The creamy custard filling is encased in a flaky pastry crust, making for a satisfying and delicious bite.
+This recipe for Hong Kong Style Egg Tarts is a delightful treat that is perfect for dessert or a mid-afternoon snack. The creamy custard filling is encased in a flaky pastry crust, making for a satisfying and delicious bite.
 
 ### Ingredients
 

@@ -13,7 +13,7 @@ title: Vanilla Bean Gelato
 veggie: "\u2713"
 ---
 
-The intensity of the vanilla comes from infusing heated cream with whole vanilla beans and seeds scraped from the pod. Gelato has a smoother texture than ice cream due to less air whipped in during churning. This recipe for Vanilla Bean Gelato is a labor of love, but the results are worth it. The gelato is rich and creamy, with a strong vanilla flavor that comes from using fresh vanilla beans. The recipe also includes detailed instructions for pasteurizing the mix and achieving the perfect texture. 
+Gelato has a smoother texture than ice cream due to less air whipped in during churning. This recipe for Vanilla Bean Gelato is a labor of love, but the results are worth it. The gelato is rich and creamy, with a strong vanilla flavor that comes from using fresh vanilla beans. The recipe also includes detailed instructions for pasteurizing the mix and achieving the perfect texture. 
 
 ### Ingredients
 

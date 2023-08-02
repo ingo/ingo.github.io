@@ -12,7 +12,7 @@ time: 1 hour
 title: Old Fashioned Onion Rings
 ---
 
-This recipe for crispy coated onion rings comes from a former employee of a popular drive-in restaurant. They're just like the pros make!
+This recipe for crispy coated onion rings comes from a former employee of a popular drive-in restaurant.
 
 ### Ingredients
 

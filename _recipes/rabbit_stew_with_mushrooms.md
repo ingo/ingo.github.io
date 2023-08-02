@@ -9,7 +9,7 @@ time: 2 hours 30 minutes
 title: Rabbit Stew with Mushrooms
 ---
 
-This recipe includes an optional step to enrich the sauce with a liver-crème fraiche mixture. This recipe comes from Simply Recipes, a trusted source for home cooks. It features rabbit, a meat often available at specialty markets, fresh or frozen, or can be ordered by your local butcher. The stew is enriched with a variety of mushrooms and an optional liver-crème fraiche mixture.
+This recipe features rabbit, a meat often available at specialty markets, fresh or frozen, or can be ordered by your local butcher. The stew is enriched with a variety of mushrooms and an optional liver-crème fraiche mixture.
 
 ### Ingredients
 

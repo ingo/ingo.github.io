@@ -1,8 +1,7 @@
 ---
 author: "J. Kenji L\xF3pez-Alt"
 category: Breads
-description: "This recipe is based on Jim Lahey\u2019s recipe from 2006, with a few\
-  \ modifications for the sake of precision and a touch of acid to improve dough strength."
+description: This recipe is based on Jim Lahey\u2019s recipe from 2006, with a few modifications for the sake of precision and a touch of acid to improve dough strength.
 image: no_knead_bread_updated.jpg
 image_attribution: Ryan Liebe for The New York Times
 original_title: Updated No-Knead Bread

@@ -13,10 +13,7 @@ title: Andy Ricker's Kai Yaang (Whole Roasted Young Chicken)
 
  It's marinated overnight in garlic, black pepper, and coriander
   then grilled over charcoal for an unbelievable depth of flavor with crispy skin
-  and succulent meat. The charcoal cooking provides a smoky aroma and flavor that
-  ovens can't replicate. Served with a spicy dipping sauce, it's a must-try recipe
-  for Thai cuisine fans or anyone who loves a great roasted chicken. Letting the chicken
-  marinate overnight allows the seasonings to thoroughly penetrate the meat.
+  and succulent meat.
 
 ### Ingredients
 

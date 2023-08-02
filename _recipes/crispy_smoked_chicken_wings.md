@@ -9,7 +9,7 @@ time: 1 day, 1 hour
 title: Crispy Smoked Chicken Wings
 ---
 
-Perfect for game day or any day. This recipe for Crispy Smoked Chicken Wings uses a unique method of coating the wings in a spice rub and baking powder, then refrigerating them overnight to dry out the skin. This results in incredibly crispy wings when smoked. The wings are then served with a homemade chipotle sauce that adds a spicy kick.
+This recipe for Crispy Smoked Chicken Wings uses a unique method of coating the wings in a spice rub and baking powder, then refrigerating them overnight to dry out the skin. This results in incredibly crispy wings when smoked. The wings are then served with a homemade chipotle sauce that adds a spicy kick.
 
 ### Ingredients
 

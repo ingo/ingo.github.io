@@ -11,7 +11,7 @@ time: 20 minutes, plus overnight chilling
 title: Chocolate Mousse
 ---
 
-As light as a meringue pie topping, but with the eggy silkiness of a creamy chocolate custard. This mousse has a particularly airy texture, but is still a little rich from the bittersweet chocolate, which makes it the ideal not-too-sweet dessert. Because the mousse develops an even deeper flavor over time, it’s perfect for parties. You can make it up to five days ahead of time and serve it straight from the refrigerator.
+This mousse has a particularly airy texture, but is still a little rich from the bittersweet chocolate, which makes it the ideal not-too-sweet dessert. Because the mousse develops an even deeper flavor over time, it’s perfect for parties. You can make it up to five days ahead of time and serve it straight from the refrigerator.
 
 ### Ingredients
 

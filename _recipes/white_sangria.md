@@ -1,6 +1,6 @@
 ---
 category: Beverages
-description: A great recipe for white wine Sangria.
+description: A great recipe for white wine Sangria using mango, peaches and oranges.
 image: white_sangria.jpg
 size: 4 servings
 time: Several hours

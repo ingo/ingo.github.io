@@ -14,7 +14,7 @@ title: "Grape Tomato \u2018Quick Kimchi\u2019"
 umami: "\u2713"
 ---
 
-Best eaten within 24 hours. This is not a traditional kimchi, but it approximates the flavor profile, bypassing a lengthier fermentation and instead relying on vinegar. In Korea, this dish would be considered a muchim, which can refer to any number of “seasoned” or “dressed” salads or other preparations. Here, thick-skinned grape tomatoes maintain their snappy crunch, even draped in a fire-bright tangle of gochugaru, sesame oil and fish sauce. Though tomato’s natural umami flavor multiplies the longer it sits, this dish is best eaten within 24 hours. When you’re done, don’t throw out the leftover dressing at the bottom of the bowl: Tossed in that tomatoey brine, bouncy rice noodles are a dream. For a vegetarian option, swap out the fish sauce for soy sauce.
+This is not a traditional kimchi, but it approximates the flavor profile, bypassing a lengthier fermentation and instead relying on vinegar. In Korea, this dish would be considered a muchim, which can refer to any number of “seasoned” or “dressed” salads or other preparations. Here, thick-skinned grape tomatoes maintain their snappy crunch, even draped in a fire-bright tangle of gochugaru, sesame oil and fish sauce. Though tomato’s natural umami flavor multiplies the longer it sits, this dish is best eaten within 24 hours. When you’re done, don’t throw out the leftover dressing at the bottom of the bowl: Tossed in that tomatoey brine, bouncy rice noodles are a dream. For a vegetarian option, swap out the fish sauce for soy sauce.
 
 ### Ingredients
 

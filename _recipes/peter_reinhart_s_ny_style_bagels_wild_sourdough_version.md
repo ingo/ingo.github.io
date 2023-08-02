@@ -11,7 +11,7 @@ time: 2 days
 title: NY Style Bagels
 ---
 
-Enjoy these bagels plain, poppy, sesame, salt or onion. Peter Reinhart's NY Style Bagels are a testament to the art of bagel making. Using wild sourdough as a base, these bagels are a delicious blend of tradition and innovation. The process may be a bit lengthy, but the end result is well worth the effort. Enjoy these bagels in the traditional plain, poppy, sesame, salt or onion flavors.
+Peter Reinhart's NY Style Bagels are a testament to the art of bagel making. Using wild sourdough as a base, these bagels are a delicious blend of tradition and innovation. The process may be a bit lengthy, but the end result is well worth the effort. Enjoy these bagels in the traditional plain, poppy, sesame, salt or onion flavors.
 
 ### Ingredients
 

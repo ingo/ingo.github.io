@@ -9,7 +9,7 @@ time: 0 hours 30 mins
 title: Garlic Butter Mushrooms
 ---
 
-If you can't find crimini mushrooms, look for baby bella's or button mushrooms—they're essentially the same thing!These garlic butter mushrooms are a great side dish for any meal. They are easy to prepare and are sure to be a hit with everyone. If you can't find crimini mushrooms, you can substitute with baby bella's or button mushrooms as they are essentially the same thing.
+If you can't find crimini mushrooms, look for baby bella's or button mushrooms—they're essentially the same thing!These garlic butter mushrooms are a great side dish for any meal. They are easy to prepare and are sure to be a hit with everyone.
 
 ### Ingredients
 

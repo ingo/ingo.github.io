@@ -10,7 +10,7 @@ time: 10 minutes preparation, overnight chilling
 title: Boursin Cheese
 ---
 
-Combining cream cheese, butter, garlic, and herbs makes a spreadable cheese that can also be shaped into a log. Making it yourself is economical and fun. You can really taste the fresh garlic and herbs versus the store-bought version. Adjust the flavorings to your taste - try other herbs like chives or basil. Use as a spread or to stuff mushrooms. Making your own Boursin allows you to taste the real garlic and herbs. Play with different herb and spice combinations to make it your own. The texture is easily spreadable yet sliceable.
+Adjust the flavorings to your taste - try other herbs like chives or basil. Use as a spread or to stuff mushrooms. Making your own Boursin allows you to taste the real garlic and herbs.
 
 ### Ingredients
 

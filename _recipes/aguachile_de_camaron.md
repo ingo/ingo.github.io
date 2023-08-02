@@ -1,6 +1,6 @@
 ---
 category: Entrees
-description: This bright appeteaser features tender shrimp marinated in a spicy and
+description: This bright appetizer features tender shrimp marinated in a spicy and
   refreshing sauce of lime juice, serrano chiles, cilantro, onions, and cucumber.
 image: aguachile_de_camaron.jpg
 nutrition:

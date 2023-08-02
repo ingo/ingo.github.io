@@ -1,7 +1,7 @@
 ---
 author: Emily Lubien
 category: Beverages
-description: Emily Lubien's favorite margarita recipe.
+description: Emily Lubien's favorite margarita recipe. Nothing fancy, just good.
 image: margarita.jpg
 size: 4 servings
 title: Margarita

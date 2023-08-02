@@ -12,7 +12,7 @@ time: 24 minutes
 title: Old-Fashioned Baked Donuts
 ---
 
-They are perfectly sweet and cakey without being too sugary. This Old-Fashioned Baked Donut recipe will remind you just how delicious breakfast can taste! These simple, baked donuts will give you familiar old-fashioneds without all the hassle of rolling, cutting, and frying the dough. They are perfectly sweet and cakey without being too sugary. They make a great breakfast treat or delicious snack at any time of day!
+These simple, baked donuts will give you familiar old-fashioneds without all the hassle of rolling, cutting, and frying the dough. They are perfectly sweet and cakey without being too sugary. They make a great breakfast treat or delicious snack at any time of day.
 
 ### Ingredients
 

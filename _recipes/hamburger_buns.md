@@ -11,7 +11,9 @@ time: 3 hours
 title: Hamburger Buns
 ---
 
+The precise origin of the hamburger bun is somewhat debated, but one popular theory attributes it to Oscar Weber Bilby from Tulsa, Oklahoma. According to this account, Bilby ran a food stand at the 1904 St. Louis World's Fair. To meet the high demand for hamburgers, Bilby enlisted a local baker to create a special bun that could hold the meat patty more conveniently. This new invention allowed people to enjoy hamburgers without getting their hands messy and made the meal more portable.
 
+Another account suggests that at around the same time, another vendor at the fair, Fletcher Davis from Athens, Texas, began serving hamburgers with his own version of a bun. His version resembled the buns used for hot dogs, and it quickly gained popularity.
 
 ### Ingredients
 

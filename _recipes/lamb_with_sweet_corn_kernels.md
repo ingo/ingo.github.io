@@ -11,7 +11,7 @@ time: 2 hours
 title: Lamb with Sweet Corn Kernels
 ---
 
-Perfect for sweet corn season. This recipe was discovered after numerous attempts and consultations of various cookbooks. The Lamb with Sweet Corn Kernels or "Makki ka Soweta" is a seasonal delight during the sweet corn season. The recipe is fairly easy to follow and produces a dish you'd want to make again.
+Perfect for sweet corn season. The Lamb with Sweet Corn Kernels or "Makki ka Soweta" is a seasonal delight during the sweet corn season.
 
 ### Ingredients
 

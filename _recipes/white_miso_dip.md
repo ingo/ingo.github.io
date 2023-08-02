@@ -8,7 +8,7 @@ time: 15 minutes
 title: White Miso Dip
 ---
 
-Perfect for a healthy snack or appetizer. This White Miso Dip is a delightful blend of flavors that pairs perfectly with an assortment of fresh vegetables. It's quick to whip up and makes for a healthy snack or appetizer.
+Perfect for a healthy snack or appetizer. This White Miso Dip is a delightful blend of flavors that pairs perfectly with an assortment of fresh vegetables.
 
 ### Ingredients
 

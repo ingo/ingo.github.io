@@ -1,8 +1,7 @@
 ---
 author: Claire Saffitz
 category: Entrees
-description: "This sandwich is engineered for maximum impact. Each element is awesome,\
-  \ but it\u2019s the way they come together that puts it over the top. Mmmmm, yeah."
+description: This sandwich is engineered for maximum impact. Each element is awesome, but it\u2019s the way they come together that puts it over the top.
 image: ba_s_best_fried_chicken_sandwich.jpg
 image_attribution: Alex Lau, Food Styling by Sue Li
 original_title: Buttermilk Fried Chicken Sandwich

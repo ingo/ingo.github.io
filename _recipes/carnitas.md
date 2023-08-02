@@ -1,13 +1,13 @@
 ---
 category: Entrees
-description: A fantastic way to make carnitas.
+description: These carnitas deliver deliciously tender, flavorful pulled pork perfect for tacos and burritos. 
 image: carnitas.jpg
 size: 3-4 lbs
 time: 4 hours 30 minutes
 title: Carnitas
 ---
 
-Recipe originally from La Taqueria in San Francisco. These carnitas deliver deliciously tender, flavorful pulled pork perfect for tacos and burritos. The pork is slowly braised in lard, orange juice and Mexican beer, emerging richly flavored and so soft it shreds easily. The recipe comes from the famous La Taqueria in San Francisco, widely lauded for its amazing carnitas.
+Recipe originally from La Taqueria in San Francisco. The pork is slowly braised in lard, orange juice and Mexican beer, emerging richly flavored and so soft it shreds easily. The recipe comes from the famous La Taqueria in San Francisco, widely lauded for its amazing carnitas.
 
 ### Ingredients
 

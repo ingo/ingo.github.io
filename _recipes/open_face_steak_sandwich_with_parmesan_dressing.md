@@ -1,7 +1,7 @@
 ---
 author: Claire Saffitz
 category: Entrees
-description: Mark your calendar.
+description: Mark your calendar. It’s steak sandwich night in America. 
 image: open_face_steak_sandwich_with_parmesan_dressing.jpg
 image_attribution: Alex Lau
 size: 4 servings
@@ -10,7 +10,7 @@ time: 35 minutes
 title: Open-Face Steak Sandwich with Parmesan Dressing
 ---
 
-It’s steak sandwich night in America. Feeling virtuous? Remove the bread and…voilà. Steak salad!
+Feeling virtuous? Remove the bread and…voilà. Steak salad!
 
 ### Ingredients
 

@@ -1,7 +1,7 @@
 ---
 author: Double8Cattle
 category: Entrees
-description: Delicious steamed buns filled with Hawaiian style braised Fullblood Wagyu
+description: Delicious steamed buns filled with Hawaiian-style braised beef.
   short ribs and pickled vegetables.
 image: hawaiian_style_braised_fullblood_wagyu_short_rib_steamed_buns.jpg
 size: 18 servings
@@ -10,7 +10,7 @@ time: 14 hours
 title: Hawaiian-Style Braised Short Rib Steamed Buns
 ---
 
-This recipe is a delightful fusion of Hawaiian and Asian cuisines, featuring tender Fullblood Wagyu short ribs braised in a flavorful mix of soy sauce, ginger, garlic, and pineapple, all wrapped up in a soft, homemade steamed bun.
+This recipe is a delightful fusion of Hawaiian and Asian cuisines, featuring tender short ribs braised in a flavorful mix of soy sauce, ginger, garlic, and pineapple, all wrapped up in a soft, homemade steamed bun.
 
 ### Ingredients
 

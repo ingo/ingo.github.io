@@ -1,13 +1,13 @@
 ---
 author: Ingo
 category: Entrees
-description: Ingo's favorite version of a French Dip sandwich
+description: Ingo's favorite version of a French Dip sandwich.
 image: french_dip_sandwich.jpg
 size: 1 serving
 title: French Dip Sandwich
 ---
 
-
+A French Dip sandwich, also known simply as a "Dip" or "Beef Dip," is a classic and savory American sandwich that traces its origins to Los Angeles, California, in the early 20th century. Despite its name, it is not a traditional French dish but rather an American creation.
 
 ### Ingredients
 

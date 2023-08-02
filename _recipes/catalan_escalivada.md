@@ -12,7 +12,7 @@ title: "Catal\xE0n Escalivada"
 veggie: "\u2713"
 ---
 
-This silken mélange of vegetables is a non-recipe recipe that you can adjust based on whatever you need to use up. This flexible Catalan dish provides a great way to use up bountiful summer vegetables like eggplant, peppers and onions. They are simply charred whole over a flame until softened and blistered. Then the vegetables are peeled and combined into a silky vegetable puree known as escalivada in Catalan. Adapt the vegetables based on what you have available. Heather Eddy's love for the late summer farmers market is evident in her feverish acquisition of produce. To avoid overwhelm, she quickly turns her haul into simple dishes that are not only delicious but also take up less fridge space. One of her favorite dishes to make is the Catalàn Escalivada, a silken mélange of peppers, eggplant, and onion.
+This flexible Catalan dish provides a great way to use up bountiful summer vegetables like eggplant, peppers and onions. They are simply charred whole over a flame until softened and blistered. Then the vegetables are peeled and combined into a silky vegetable puree known as escalivada in Catalan. Adapt the vegetables based on what you have available.
 
 ### Ingredients
 

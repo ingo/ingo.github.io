@@ -9,7 +9,7 @@ size: 8 servings
 title: Chocolate Cloud Cake
 ---
 
-Don't skip on the whipped cream topping--that definitely adds a necessary piece to the overall mixture. This flourless chocolate cake recipe yields an ultra rich chocolate dessert that's surprisingly not too heavy. The real key is topping it with freshly whipped cream, which lightens up the intense chocolate. The whipped cream provides the perfect finishing touch and keeps the cake from becoming too heavy.
+This flourless chocolate cake recipe yields an ultra rich chocolate dessert that's surprisingly not too heavy. The real key is topping it with freshly whipped cream, which lightens up the intense chocolate.
 
 ### Ingredients
 

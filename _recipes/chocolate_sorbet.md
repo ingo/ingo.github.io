@@ -9,7 +9,7 @@ time: 3 hours
 title: Chocolate Sorbet
 ---
 
-Once you try this recipe, you won't have to go searching any further. This chocolate sorbet recipe yields an ultra rich and intense frozen dessert with a fudge-like flavor and texture. Made with just a few ingredients like heavy cream and chocolate, each spoonful is akin to eating frozen fudge. The intense chocolate flavor will stop any dessert craving in its tracks. Once you try it, you won't need another chocolate sorbet recipe. This recipe was inspired by the chocolate sorbet by Double Rainbow ice cream, a San Francisco company. It uses both chopped chocolate and cocoa powder, a combination that reminds me of the fantastic hot chocolate recipe from Pierre Hermé in Jeffrey Steingarten's _[It Must've Been Something I Ate](http://www.amazon.com/Mustve-Been-Something-I-Ate/dp/0375727124/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1230264290&sr=8-1)._ The result is an incredibly rich concoction--almost like eating frozen fudge.
+This recipe was inspired by the chocolate sorbet by Double Rainbow ice cream, a San Francisco company. It uses both chopped chocolate and cocoa powder, a combination that reminds me of the fantastic hot chocolate recipe from Pierre Hermé in Jeffrey Steingarten's _[It Must've Been Something I Ate](http://www.amazon.com/Mustve-Been-Something-I-Ate/dp/0375727124/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1230264290&sr=8-1)._ The result is an incredibly rich concoction--almost like eating frozen fudge.
 
 ### Ingredients
 

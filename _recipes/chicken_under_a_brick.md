@@ -7,7 +7,7 @@ time: Several hours for marinating + approx. 30 minutes grilling
 title: Chicken Under a Brick
 ---
 
-This requires some heavy object to weigh the chicken down. A cast-iron frying pan, or several bricks placed on top of an old jelly-roll pan, works well. This Italian chicken dish involves weighing the chicken down as it cooks, ideally on the grill. The heavy object, whether a cast-iron pan, bricks, or other weight, presses the chicken so it cooks up incredibly moist and infused with flavor. The savory juices can't escape from the pressed chicken. It's a must-try dish for grilling enthusiasts seeking the ultimate juicy and flavorful chicken.
+This Italian chicken dish involves weighing the chicken down as it cooks, ideally on the grill. The heavy object, whether a cast-iron pan, bricks, or other weight, presses the chicken so it cooks up incredibly moist and infused with flavor.
 
 ### Ingredients
 

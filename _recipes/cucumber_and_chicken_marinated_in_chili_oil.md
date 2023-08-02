@@ -12,7 +12,7 @@ time: 15 mins
 title: Cucumber and Chicken Marinated in Chili Oil
 ---
 
-The fish is then slowly baked until caramelized and irresistibly tender. With its delicate texture that seems to melt in your mouth, it's an impressive recipe you can make at home. This Japanese dish is a delightful blend of cucumber and chicken marinated in chili oil. It's a simple, yet flavorful dish that can be served as a main course or a side dish. The recipe was adapted from Hashimoto's Tohoku Recipes and has been further refined by Nami from Just One Cookbook.
+This Japanese dish is a delightful blend of cucumber and chicken marinated in chili oil. It's a simple, yet flavorful dish that can be served as a main course or a side dish. The recipe was adapted from Hashimoto's Tohoku Recipes and has been further refined by Nami from Just One Cookbook.
 
 ### Ingredients
 

@@ -11,7 +11,7 @@ time: 15 minutes
 title: Ras el Hanout
 ---
 
-Its name translates from Arabic as "head of the shop" because all the best spices go into it!Ras el Hanout is a North African Spice mix that is pungent and earthy with a balance of sweet and bitter elements, as well as floral notes. Its name translates from Arabic as "head of the shop" because all the best spices go into it!
+Ras el Hanout is a North African Spice mix that is pungent and earthy with a balance of sweet and bitter elements, as well as floral notes. Its name translates from Arabic as "head of the shop" because all the best spices go into it!
 
 ### Ingredients
 

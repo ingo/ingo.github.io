@@ -17,7 +17,7 @@ time: 60 mins
 title: Homemade Ricotta Ravioli
 ---
 
-All it needs is a splash of olive oil and it's ready to serve. This recipe for classic homemade ricotta ravioli gets its unique flavor from Parmesan cheese, a tart squeeze of lemon juice, and a subtle hint of nutmeg. All it needs is a splash of olive oil and it's ready to serve. 
+This recipe for classic homemade ricotta ravioli gets its unique flavor from Parmesan cheese, a tart squeeze of lemon juice, and a subtle hint of nutmeg. All it needs is a splash of olive oil and it's ready to serve. 
 
 ### Ingredients
 

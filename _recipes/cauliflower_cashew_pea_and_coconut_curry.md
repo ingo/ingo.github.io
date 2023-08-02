@@ -13,7 +13,7 @@ title: Cauliflower, Cashew, Pea and Coconut Curry
 vegan: "\u2713"
 ---
 
-Perfect for a vegan supper. This hearty vegan cauliflower curry highlights cauliflower florets in a creamy, spiced coconut milk-based sauce. Toasted cashews add protein and crunch, while peas offer pops of color and sweetness. The medley of spices gives it a complex warmth. Serve over rice for a nourishing plant-based dinner. This curry, rooted in tradition and complexly flavored, is also approachable enough for a weeknight. It transforms cauliflower from a humble vegetable to a rich centerpiece with the addition of cashews, coconut, fresh ginger and a flurry of spices you’re likely to have in your pantry. Serve with rice for an exceptionally good vegan supper.
+Perfect for a vegan supper. This hearty vegan cauliflower curry highlights cauliflower florets in a creamy, spiced coconut milk-based sauce. Toasted cashews add protein and crunch, while peas offer pops of color and sweetness. The medley of spices gives it a complex warmth. Serve over rice for a nourishing plant-based dinner.
 
 ### Ingredients
 

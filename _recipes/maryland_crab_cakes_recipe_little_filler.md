@@ -11,7 +11,7 @@ time: 1 hour
 title: Maryland Crab Cakes
 ---
 
-This classic lump crab cake recipe combines the flavors of lemon, parsley, and Old Bay Seasoning but the most flavor is from the crab meat itself. For the best texture, use lump crab meat, little filler, and bake the cakes in a very hot oven. These Maryland crab cakes get the stamp of approval from locals and out-of-towners alike. This classic lump crab cake recipe combines the flavors of lemon, parsley, and Old Bay Seasoning but the most flavor is from the crab meat itself. For the best texture, use lump crab meat, little filler, and bake the cakes in a very hot oven.
+These Maryland crab cakes get the stamp of approval from locals and out-of-towners alike. This classic lump crab cake recipe combines the flavors of lemon, parsley, and Old Bay Seasoning but the most flavor is from the crab meat itself. For the best texture, use lump crab meat, little filler, and bake the cakes in a very hot oven.
 
 ### Ingredients
 

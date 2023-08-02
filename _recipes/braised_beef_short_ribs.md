@@ -8,7 +8,7 @@ time: 2-3 hours
 title: Braised Beef Short Ribs
 ---
 
-Beef short ribs become fall-apart tender after a slow braise in red wine and stock. The savory braising liquid makes an incredible sauce. Short ribs are ideal for braising since the fat and connective tissue break down into tenderness after hours of low, moist heat. The wine and aromatics impart deep flavor. Cook a day ahead; they reheat beautifully.
+Beef short ribs become fall-apart tender after a slow braise in red wine and stock. The savory braising liquid makes an incredible sauce. Short ribs are ideal for braising since the fat and connective tissue break down into tenderness after hours of low, moist heat. Cook a day ahead; they reheat beautifully.
 
 ### Ingredients
 

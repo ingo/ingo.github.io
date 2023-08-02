@@ -12,7 +12,7 @@ time: 45 minutes
 title: Roasted Brussels Sprouts With Garlic
 ---
 
-This simple preparation turns brussels sprouts into something irresistible, with their natural sweetness intensified. They may win over even the most ardent brussels sprouts skeptic. This recipe for roasted brussels sprouts from Mark Bittman is our most popular version and is perfect as a Thanksgiving side dish. If you haven’t yet figured out a go-to recipe, this simple preparation is the answer. It results in sweet caramelized brussels sprouts that will make a believer out of anyone.
+This recipe for roasted brussels sprouts from Mark Bittman is our most popular version and is perfect as a Thanksgiving side dish. If you haven’t yet figured out a go-to recipe, this simple preparation is the answer. It results in sweet caramelized brussels sprouts that will make a believer out of anyone.
 
 ### Ingredients
 

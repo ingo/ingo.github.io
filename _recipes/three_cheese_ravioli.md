@@ -17,7 +17,7 @@ time: 28 mins
 title: Three-Cheese Ravioli
 ---
 
-
+The word "ravioli" is derived from the Italian verb "riavvolgere," which means "to wrap" or "to roll up." This is fitting because ravioli is made by enclosing a filling, usually made of cheese, meat, vegetables, or a combination of ingredients, between two layers of thin pasta dough. The dough is then sealed together to form small, square or circular parcels.
 
 ### Ingredients
 

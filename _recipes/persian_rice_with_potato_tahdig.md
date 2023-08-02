@@ -12,7 +12,7 @@ time: 55 minutes
 title: Persian Rice with Potato Tahdig
 ---
 
-This is the ultimate comfort food!This saffron-scented rice with crispy potatoes has been a staple in my life for so many years now, that I can't even remember the exact first time I ate it. All I know is that I was in grade school, because that's when my family (who had immigrated to Canada from Trinidad), met another family (who had immigrated to Canada from Iran). This family had kids who were similar in age to me, and soon we were going over to each others homes for playdates and dinner. 
+This saffron-scented rice with crispy potatoes has been a staple in my life for so many years now, that I can't even remember the exact first time I ate it. All I know is that I was in grade school, because that's when my family (who had immigrated to Canada from Trinidad), met another family (who had immigrated to Canada from Iran). This family had kids who were similar in age to me, and soon we were going over to each others homes for playdates and dinner. 
 
 ### Ingredients
 

@@ -11,7 +11,7 @@ vegan: null
 veggie: "\u2713"
 ---
 
-Perfect for a quick dinner or a cozy lunch. This decadent cacio e pepe inspired pasta uses a creamy cheese sauce in lieu of just Pecorino Romano and pepper. The cheese sauce clings nicely to the hot pasta, making it a great option for a quick yet satisfying meal. It's easy to throw together and makes a perfect weeknight dinner or comforting lunch. This recipe is a twist on the classic Italian dish, Cacio e Pepe. Instead of using traditional ingredients, this recipe introduces a new flavor profile while maintaining the creamy, cheesy goodness of the original dish. 
+Perfect for a quick dinner or a cozy lunch. It's easy to throw together and makes a perfect weeknight dinner or comforting lunch. 
 
 ### Ingredients
 

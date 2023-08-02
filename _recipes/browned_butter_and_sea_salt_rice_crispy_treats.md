@@ -9,8 +9,7 @@ size: 9 servings
 time: 30 minutes
 title: Browned Butter and Sea Salt Rice Crispy Treats
 ---
-
-Browning the butter adds a delicious nutty depth that pairs perfectly with the fleur de sel to really elevate this simple treat. Using browned butter and fleur de sel transforms an ordinary snack into a sophisticated dessert that will impress guests, yet is still easy enough for kids to help make.
+Using browned butter and fleur de sel transforms an ordinary snack into a sophisticated dessert that will impress guests, yet is still easy enough for kids to help make.
 
 ### Ingredients
 

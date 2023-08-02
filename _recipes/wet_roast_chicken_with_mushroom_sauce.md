@@ -11,7 +11,7 @@ time: 2 hours
 title: Wet Roast Chicken with Mushroom Sauce
 ---
 
-
+Wet roasting, also known as braising, is a cooking technique used to cook meats, vegetables, and other ingredients slowly in a covered pot or pan with a small amount of liquid. The method combines both dry heat from the oven or stovetop and moist heat from the liquid to cook the ingredients to tender and flavorful perfection.
 
 ### Ingredients
 

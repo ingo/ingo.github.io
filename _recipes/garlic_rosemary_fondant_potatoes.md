@@ -12,7 +12,7 @@ time: 40 minutes
 title: Garlic Rosemary Fondant Potatoes
 ---
 
-Fondant potatoes originated in France and is a method of cooking potatoes. Traditionally a large potato would be cut into a cylinder, then ends are browned and then they are slowly roasted in butter and broth. We used the Baby Boomer varietal from The Little Potato Company for this recipe, they are a yellow-white flesh Creamer potato that already is smooth and silky in the center and just melts all over the palette.
+Fondant potatoes originated in France and is a method of cooking potatoes. Traditionally a large potato would be cut into a cylinder, then ends are browned and then they are slowly roasted in butter and broth.
 
 ### Ingredients
 

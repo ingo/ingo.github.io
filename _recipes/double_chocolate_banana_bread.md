@@ -10,7 +10,7 @@ time: 1 hour 30 minutes
 title: Double Chocolate Banana Bread
 ---
 
-Perfect for using up those overripe bananas. This Double Chocolate Banana Bread recipe is a delicious twist on the classic banana bread. It incorporates rich cocoa powder and chocolate chunks for a double dose of chocolate. This recipe is perfect for using up those overripe bananas that are just a day away from attracting fruit flies. It's a simple one-bowl recipe that requires no special equipment and can be made with ingredients you likely already have in your kitchen.
+This recipe is perfect for using up those overripe bananas that are just a day away from attracting fruit flies. It's a simple one-bowl recipe that requires no special equipment and can be made with ingredients you likely already have in your kitchen.
 
 ### Ingredients
 

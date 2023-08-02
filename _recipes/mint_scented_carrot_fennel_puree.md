@@ -1,6 +1,6 @@
 ---
 category: Sides
-description: "A delightful carrot pur\xE9e with a hint of mint and fennel."
+description: A delightful carrot pur\xE9e with a hint of mint and fennel.
 image: mint_scented_carrot_fennel_puree.jpg
 size: 4 servings
 time: 30 minutes

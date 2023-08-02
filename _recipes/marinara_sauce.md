@@ -9,7 +9,7 @@ time: 30 minutes
 title: Marinara Sauce
 ---
 
-Perfect for pasta, pizza, and more. This Marinara Sauce recipe is a classic Italian staple. Made with San Marzano tomatoes, garlic, and basil, it's the perfect sauce for pasta, pizza, and more. 
+This Marinara Sauce recipe is a classic Italian staple. Made with San Marzano tomatoes, garlic, and basil, it's the perfect sauce for pasta, pizza, and more. 
 
 ### Ingredients
 

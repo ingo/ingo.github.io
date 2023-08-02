@@ -9,8 +9,7 @@ size: 4 servings
 title: Boiled Beef with Dill Sauce
 ---
 
-Chilling allows the flavors to meld. The sauce cuts
-  through the richness of the beef.
+Chilling the resulting dish and rewarming allows the flavors to meld. The sauce cuts through the richness of the beef.
 
 ### Ingredients
 

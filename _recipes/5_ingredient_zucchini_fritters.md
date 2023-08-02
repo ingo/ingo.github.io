@@ -10,7 +10,7 @@ time: 25 minutes
 title: 5-Ingredient Zucchini Fritters
 ---
 
- They come together with just 5 simple ingredients - zucchini, flour, egg, parmesan, and parsley. Simply grate the zucchini, combine with the other ingredients, then pan fry into golden brown fritter perfection.
+They come together with just 5 simple ingredients - zucchini, flour, egg, parmesan, and parsley. Simply grate the zucchini, combine with the other ingredients, then pan fry into golden brown fritter perfection.
 
 ### Ingredients
 

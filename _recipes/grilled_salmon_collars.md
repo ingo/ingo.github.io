@@ -1,7 +1,7 @@
 ---
 author: AL's Place
 category: Entrees
-description: "Don\u2019t fuss with the salmon too much once it\u2019s on the grill."
+description: Don\u2019t fuss with the salmon too much once it\u2019s on the grill.
 image: grilled_salmon_collars.jpg
 size: 4 servings
 source: http://www.bonappetit.com/city-guides/san-francisco/venue/als-place

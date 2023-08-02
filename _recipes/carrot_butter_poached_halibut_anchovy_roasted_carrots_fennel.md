@@ -9,7 +9,7 @@ time: 1 hour
 title: "Carrot Butter\u2013Poached Halibut, Anchovy-Roasted Carrots, Fennel"
 ---
 
-This creative recipe combines poached halibut flavored with aromatic carrot butter and complements it with two vegetable sides. Carrots are roasted with savory anchovy, while thinly shaved fennel makes a light, licorice-scented salad. The end result is a restaurant-worthy seafood dish. This recipe brings together the delicate flavors of halibut, carrot, and fennel, creating a harmonious blend that is sure to impress. The halibut is poached in a rich carrot butter, while the carrots are roasted with anchovies for a unique twist. The dish is completed with a crisp fennel salad, adding a refreshing crunch to the meal.
+Carrots are roasted with savory anchovy, while thinly shaved fennel makes a light, licorice-scented salad. The end result is a restaurant-worthy seafood dish.
 
 ### Ingredients
 

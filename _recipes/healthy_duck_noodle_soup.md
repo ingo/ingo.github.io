@@ -11,7 +11,7 @@ time: 30 minutes
 title: Healthy Duck Noodle Soup
 ---
 
-Inspired by Thai celebration favourite, ped toon. Ped Toon is a special occasion dish in Thailand. You’ll often see it at festivals, with rows of duck soup sellers surrounded by locals perched on plastic chairs, happily slurping their soup. Some sellers add cola to the broth for a little fizz and top it with shredded duck.
+Ped Toon is a special occasion dish in Thailand. You’ll often see it at festivals, with rows of duck soup sellers surrounded by locals perched on plastic chairs, happily slurping their soup. Some sellers add cola to the broth for a little fizz and top it with shredded duck.
 
 ### Ingredients
 

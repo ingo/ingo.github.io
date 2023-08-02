@@ -10,7 +10,7 @@ time: 2 hours 15 minutes
 title: German Boneless Pork Shoulder Roast (Schweinebraten)
 ---
 
-Known as Schweinebraten this traditional dish couldn't be easier to make or taste more fulfilling. Plus - how to make pork gravy.
+Known as Schweinebraten, this traditional dish couldn't be easier to make or taste more fulfilling. Plus: how to make pork gravy.
 
 ### Ingredients
 

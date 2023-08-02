@@ -11,7 +11,7 @@ time: 1 hour
 title: Irish Apple Cake with Custard Sauce
 ---
 
-Topped with a crunchy streusel, it's moist and toothsome but not too sweet. Served with silky vanilla bean custard sauce, it embodies the comforting spirit of traditional Irish baking. This traditional Irish dessert is a part of the St. Patrick's Day celebration. The cake is dense and heavy, almost bread-like, filled with apples that hold their shape very well when baked. The cake is excellent on its own, but the custard sauce poured warm over the top turns it into a decadent dessert.
+Topped with a crunchy streusel, it's moist and toothsome but not too sweet. Served with silky vanilla bean custard sauce, it embodies the comforting spirit of traditional Irish baking. This Irish dessert is a part of the St. Patrick's Day celebration.
 
 ### Ingredients
 

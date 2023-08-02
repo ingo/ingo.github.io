@@ -10,7 +10,7 @@ time: null
 title: Rosemary Spiced Nuts
 ---
 
-
+A nut mix typically consists of a combination of various types of nuts. The specific nuts used in a nut mix can vary based on personal preference and availability. Some nut mixes may also include less common nuts like pine nuts, chestnuts, or other specialty nuts, depending on the intended flavor profile and regional preferences.
 
 ### Ingredients
 

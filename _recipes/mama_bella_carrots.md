@@ -9,7 +9,7 @@ time: null
 title: Mama Bella Carrots
 ---
 
-
+Carrots are good for your eyesight, and they have been associated with promoting eye health. Carrots are rich in beta-carotene, a type of carotenoid that gives carrots their vibrant orange color. When you consume carrots, your body converts beta-carotene into vitamin A, which plays a crucial role in maintaining good vision.
 
 ### Ingredients
 

@@ -14,7 +14,7 @@ vegan: null
 veggie: "\u2713"
 ---
 
-The combination of garlic, anchovies, lemon juice, Worcestershire and Parmesan makes a creamy emulsion with bright, savory umami flavor. Drizzle this Caesar dressing over chopped romaine lettuce for an easy yet impressive salad. This homemade Caesar Salad Dressing will elevate your salad to a whole new level. It's rich, tangy, and incredibly easy to make. 
+The combination of garlic, anchovies, lemon juice, Worcestershire and Parmesan makes a creamy emulsion with bright, savory umami flavor. Drizzle this Caesar dressing over chopped romaine lettuce for an easy yet impressive salad.
 
 ### Ingredients
 

@@ -8,7 +8,7 @@ time: 72 hours
 title: The 72 Hour Pizza Dough
 ---
 
-Perfect for pizza enthusiasts who love a homemade crust. This pizza dough recipe is a labor of love, requiring a 72-hour fermentation period to achieve the perfect balance of flavors and textures. The result is a crust that is light, airy, and full of complex flavors. It's perfect for pizza enthusiasts who appreciate the art of homemade crust.
+Perfect for pizza enthusiasts who love a homemade crust. This pizza dough recipe is a labor of love, requiring a 72-hour fermentation period to achieve the perfect balance of flavors and textures. The result is a crust that is light, airy, and full of complex flavors.
 
 ### Ingredients
 

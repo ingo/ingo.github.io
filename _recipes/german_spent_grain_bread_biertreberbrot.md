@@ -14,8 +14,6 @@ title: German Spent Grain Bread Biertreberbrot
 
 The spent grains add protein, fiber and wonderful malty flavor. The bread has a dense, moist texture and is known as biertreberbrot. This German recipe for spent grain bread is made with the brewer's spent grain, leftovers from brewing, known as _der biertreber._ The bread made from them is known as _biertreberbrot._
 
-The spent grain is usually added into a regular dough, along with optional nuts or raisins, which produces a bread with increased protein, fiber, and taste. 
-
 If you have friends or family who like to brew their own beer, let them save the spent grain for you to try your hand at this bread recipe.
 
 ### Ingredients

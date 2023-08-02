@@ -1,7 +1,7 @@
 ---
 author: Ingo Muschenetz
 category: Entrees
-description: Ingo's favorite dim sum.
+description: Pork buns, also known as "Baozi" or "Char Siu Bao," are a popular Chinese dim sum delicacy that has gained popularity worldwide.
 favorite: "\u2713"
 image: steamed_pork_buns.jpg
 size: 5 buns
@@ -9,7 +9,7 @@ time: 1 hour
 title: Steamed Pork Buns
 ---
 
-Takes a little while to make, but is well worth it.
+Takes a little while to make, but is well worth it. Ingo's favorite dim sum. These soft and fluffy steamed buns are filled with savory and succulent seasoned pork, creating a delightful combination of textures and flavors.
 
 ### Ingredients
 

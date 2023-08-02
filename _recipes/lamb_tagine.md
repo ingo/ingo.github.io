@@ -10,7 +10,7 @@ time: 3-4 hours
 title: Lamb Tagine
 ---
 
-Serve with cracked wheat or bread, and pass little dishes of raisins, marmalade, and chick peas for guests to add as they like. This Lamb Tagine is a traditional Moroccan stew that can be customized to your taste. You can substitute chicken for the lamb and add almonds, green olives, prunes or dried apricots for a sublime sweetness. Serve with cracked wheat or bread, and pass little dishes of raisins, marmalade, and chick peas for guests to add as they like.
+This lamb tagine is a traditional Moroccan stew that can be customized to your taste. You can substitute chicken for the lamb and add almonds, green olives, prunes or dried apricots for a sublime sweetness. Serve with cracked wheat or bread, and pass little dishes of raisins, marmalade, and chick peas for guests to add as they like.
 
 ### Ingredients
 

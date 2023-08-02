@@ -13,7 +13,7 @@ time: 15 minutes
 title: Meathead's Memphis Dust Rub
 ---
 
-It's perfect for pork, but also works well on smoked salmon, stuffed raw celery, on the rim of Bloody Mary's, and even popcorn. This rub is a creation of Meathead Goldwyn, a culinary enthusiast who believes in the power of a good rub to enhance the flavor of any meat. He originally designed this rub for ribs, but found that it works well on a variety of dishes. The rub is formulated to flavor, color, and form the proper crust when cooked at low temps. 
+It's perfect for pork, but also works well on smoked salmon, stuffed raw celery, on the rim of Bloody Mary's, and even popcorn. This rub is a creation of Meathead Goldwyn, a culinary enthusiast who believes in the power of a good rub to enhance the flavor of any meat. He originally designed this rub for ribs, but found that it works well on a variety of dishes.
 
 ### Ingredients
 

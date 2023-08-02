@@ -23,7 +23,7 @@ time: 30 minutes
 title: Legitimate Hawaiian Poke
 ---
 
-Make this traditional Hawaiian poke with the freshest fish you can find, and let the luau begin!Poke, pronounced _poh-kay_, is a traditional Hawaiian dish that originated from native Hawaiian fishermen as a simple way to prepare the day’s catch. The dish is seasoned with ingredients like sea salt, seaweed, and candlenuts, and is eaten raw. This recipe uses sashimi grade tuna, but you can also use yellowtail, cooked octopus, cooked clams, cooked mussels, or salmon. 
+Make this traditional Hawaiian poke with the freshest fish you can find, and let the luau begin!Poke originated from native Hawaiian fishermen as a simple way to prepare the day’s catch. The dish is seasoned with ingredients like sea salt, seaweed, and candlenuts, and is eaten raw. This recipe uses sashimi grade tuna, but you can also use yellowtail, cooked octopus, cooked clams, cooked mussels, or salmon. 
 
 ### Ingredients
 

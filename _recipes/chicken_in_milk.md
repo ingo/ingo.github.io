@@ -10,7 +10,7 @@ time: 2 hours
 title: Chicken in Milk
 ---
 
-The dish’s merits are, in fact, legion. The milk breaks apart in the acidity and heat to become a ropy and fascinating sauce, and the garlic goes soft and sweet within it, its fragrance filigreed with the cinnamon and sage. Jamie Oliver, the British chef and cooking star, once called this recipe, which is based on a classic Italian one for pork in milk, “a slightly odd but really fantastic combination that must be tried.” The dish’s merits are, in fact, legion. You sear a whole chicken in butter and a little oil, then dump out most of the fat and add cinnamon and garlic to the pot, along with a ton of lemon peel, sage leaves and a few cups of milk, then slide it into a hot oven to create one of the great dinners of all time.
+The dish’s merits are, in fact, legion. The milk breaks apart in the acidity and heat to become a ropy and fascinating sauce, and the garlic goes soft and sweet within it, its fragrance filigreed with the cinnamon and sage. Jamie Oliver, the British chef and cooking star, once called this recipe, which is based on a classic Italian one for pork in milk, “a slightly odd but really fantastic combination that must be tried.”
 
 ### Ingredients
 

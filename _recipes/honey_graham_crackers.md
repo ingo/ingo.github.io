@@ -18,7 +18,7 @@ time: 1 hour
 title: Honey Graham Crackers
 ---
 
-The flavor of the honey absolutely comes through, making these crackers as tempting as your favorite cookie. Store-bought graham crackers are fine, but these homemade honey graham crackers from “The Fannie Farmer Baking Book,” a classic by beloved cookbook author Marion Cunningham, will change your mind. They have the nutty flavor and hearty texture of a graham cracker, but the flavor of the honey makes them as tempting as your favorite cookie.
+Store-bought graham crackers are fine, but these homemade honey graham crackers from “The Fannie Farmer Baking Book,” a classic by beloved cookbook author Marion Cunningham, will change your mind. They have the nutty flavor and hearty texture of a graham cracker, but the flavor of the honey makes them as tempting as your favorite cookie.
 
 ### Ingredients
 

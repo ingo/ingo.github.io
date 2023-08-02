@@ -1,6 +1,6 @@
 ---
 category: Entrees
-description: These are effectively Bratwurst, but shaped differently.
+description: These are effectively Bratwurst, but shaped into spirals.
 image: ringlewurstchen.jpg
 title: "Ringlew\xFCrstchen"
 ---

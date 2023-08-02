@@ -10,7 +10,7 @@ time: 15-20 minutes
 title: Pita Chips
 ---
 
-
+Pita chips have Middle Eastern origins, as they are derived from pita bread, a staple in Middle Eastern cuisine. Pita bread is a round, pocket-like bread that can be split open to hold fillings or used as a dipping bread.
 
 ### Ingredients
 

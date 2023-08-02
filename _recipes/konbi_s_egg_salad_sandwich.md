@@ -12,7 +12,7 @@ time: 45 minutes
 title: "Konbi\u2019s Egg Salad Sandwich"
 ---
 
-It’s as pretty as it is delicious. The egg salad is brightened with a touch of rice wine vinegar and mustard and bound with Kewpie mayonnaise. This famous egg salad sandwich comes from Konbi, the tiny Los Angeles cafe run by the co-chefs Akira Akuto and Nick Montgomery. It’s not always the case that sensational, Instagram-famous dishes are carefully calibrated to taste so good, but this one breaks the mold: It’s as pretty as it is delicious. The egg salad is brightened with a touch of rice wine vinegar and mustard and bound with Kewpie mayonnaise. When making it at home, be careful not to undercook the eggs or you’ll cross that fine line between jammy and runny. At the heart of the sandwich is a perfect hard-boiled egg, and we suggest cooking a couple extra in case they break or you have trouble peeling them. Extra eggs, still warm, with a touch of salt and pepper, make for a great snack while you're assembling.
+This famous egg salad sandwich comes from Konbi, the tiny Los Angeles cafe run by the co-chefs Akira Akuto and Nick Montgomery. It’s as pretty as it is delicious. When making it at home, be careful not to undercook the eggs or you’ll cross that fine line between jammy and runny. At the heart of the sandwich is a perfect hard-boiled egg, and we suggest cooking a couple extra in case they break or you have trouble peeling them. Extra eggs, still warm, with a touch of salt and pepper, make for a great snack while you're assembling.
 
 ### Ingredients
 

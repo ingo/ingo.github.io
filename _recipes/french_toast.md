@@ -1,5 +1,5 @@
 ---
-author: Food Network
+author: Alton Brown
 category: Breakfasts
 description: Delicious and easy to make French toast with honey and half-and-half.
 difficulty: Easy
@@ -10,7 +10,7 @@ time: 34 min
 title: French Toast
 ---
 
-Perfect for a quick breakfast or brunch!This French Toast recipe is a classic breakfast staple that's simple to make, requiring only a few ingredients. The recipe is from the Food Network, known for their easy and delicious recipes.
+Perfect for a quick breakfast or brunch! This French Toast recipe is a classic breakfast staple that's simple to make, requiring only a few ingredients.
 
 ### Ingredients
 

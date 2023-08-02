@@ -10,7 +10,7 @@ time: 30 minutes
 title: Steamed Blue Crabs
 ---
 
-In summer in Philadelphia, trucks would park along certain streets, baskets in their beds shivering with live blue crabs. Sunday nights saw a crab pot boiling on my parents' yellow enamel stove. My father and I sat wordlessly, dozens of crustaceans between us. No one else in the family joined us; they eschewed the burden of my father's lousy temper and his drinking, and the mallets and picks it took to eat his favorite meal. The room smelled of Michelob and Old Bay seasoning. The crabs' shells were spicy and sharp. Cracking, sucking, sometimes drawing blood, I'd work my way to the moist, sweet meat. To this day, I crave a crab boil in summer, with all of its pleasures and its pain. —Betsy Andrews
+In summer in Philadelphia, trucks would park along certain streets, baskets in their beds shivering with live blue crabs. Sunday nights saw a crab pot boiling on my parents' yellow enamel stove. My father and I sat wordlessly, dozens of crustaceans between us. No one else in the family joined us; they eschewed the burden of my father's lousy temper and his drinking, and the mallets and picks it took to eat his favorite meal. The room smelled of Michelob and Old Bay seasoning. The crabs' shells were spicy and sharp. Cracking, sucking, sometimes drawing blood, I'd work my way to the moist, sweet meat. To this day, I crave a crab boil in summer, with all of its pleasures and its pain. — Betsy Andrews
 
 ### Ingredients
 

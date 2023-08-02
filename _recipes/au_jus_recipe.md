@@ -27,7 +27,7 @@ time: 10 minutes
 title: Au Jus
 ---
 
-It can be made with or without meat drippings, so vegetarians can also partake in its intensely savory glory. With just a few simple ingredients like herbs, garlic, wine and broth, it comes together quickly but tastes like it simmered all day. So much flavor in such an easy recipe!
+It can be made with or without meat drippings, so vegetarians can also partake in its intensely savory glory. With just a few simple ingredients like herbs, garlic, wine and broth, it comes together quickly but tastes like it simmered all day.
 
 ### Ingredients
 

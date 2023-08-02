@@ -10,7 +10,7 @@ time: Varies
 title: Chicago Stuffed Pizza
 ---
 
-This classic Chicago stuffed pizza is a must-try for all pizza lovers. This recipe recreates the iconic deep dish stuffed pizza made famous by Pequod's Pizzeria in Chicago. A layer of cheese is edged along the crust which caramelizes as it bakes. The cheese, sauce and toppings are stuffed between two layers of crust for deep, indulgent flavor. A must-try for pizza aficionados. This recipe is a tribute to the classic Chicago stuffed pizza and the legendary Burt Katz and Pequod’s. Their signature caramelized cheese crust is a delight for all pizza lovers. The dough recipe is provided below. To learn more about this style, visit the Pizza Culinary Academy's website or check out their instructional videos.
+This recipe recreates the iconic deep dish stuffed pizza made famous by Pequod's Pizzeria in Chicago. A layer of cheese is edged along the crust which caramelizes as it bakes. The cheese, sauce and toppings are stuffed between two layers of crust for deep, indulgent flavor.
 
 ### Ingredients
 

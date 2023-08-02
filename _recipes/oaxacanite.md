@@ -10,7 +10,7 @@ time: 5 minutes
 title: Oaxacanite
 ---
 
-The smoke from the mezcal doesn't dominate, but rather complements the other flavors. This cocktail was created by Ben Long at the John Dory Oyster Bar in Manhattan and was first published in Sasha Petraske’s book, _Regarding Cocktails_. It's a favorite at the Library of Distilled Spirits in New York. The pith of the grapefruit peel acts as the bittering agent, and shaking it well releases essential oils that create a balanced drink.
+This cocktail was created by Ben Long at the John Dory Oyster Bar in Manhattan and was first published in Sasha Petraske’s book, _Regarding Cocktails_. It's a favorite at the Library of Distilled Spirits in New York. The pith of the grapefruit peel acts as the bittering agent, and shaking it well releases essential oils that create a balanced drink.
 
 ### Ingredients
 

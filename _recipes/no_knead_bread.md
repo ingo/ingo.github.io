@@ -11,7 +11,7 @@ time: 1 hour 30 minutes, plus about 20 hours' resting time
 title: No-Knead Bread
 ---
 
-It uses no special ingredients, equipment or techniques. And it takes very little effort — only time. This is one of the most popular recipes The Times has ever published, courtesy of Jim Lahey, owner of Sullivan Street Bakery. It requires no kneading. It uses no special ingredients, equipment or techniques. And it takes very little effort — only time. You will need 24 hours to create the bread, but much of this is unattended waiting, a slow fermentation of the dough that results in a perfect loaf.
+This is one of the most popular recipes The Times has ever published, courtesy of Jim Lahey, owner of Sullivan Street Bakery. It requires no kneading. It uses no special ingredients, equipment or techniques. And it takes very little effort — only time. You will need 24 hours to create the bread, but much of this is unattended waiting, a slow fermentation of the dough that results in a perfect loaf.
 
 ### Ingredients
 

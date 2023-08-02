@@ -1,8 +1,7 @@
 ---
 author: Zen Can Cook
 category: Entrees
-description: "A delightful fusion of flavors featuring tender octopus, a savory miso-squid\
-  \ ink vinaigrette, and a tamed garlic-olive oil pur\xE9e."
+description: A delightful fusion of flavors featuring tender octopus, a savory miso-squid ink vinaigrette, and a tamed garlic-olive oil pur\xE9e.
 favorite: "\u2713"
 image: octopus_a_la_plancha_with_garlic_puree_miso_squid_ink_sauce.jpg
 original_title: "Pulpo a la Plancha con Pur\xE9 de Ajo y Salsa de Tinta de Calamar-Miso"

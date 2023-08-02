@@ -10,7 +10,7 @@ time: 1 hour 30 minutes
 title: How to Make Dumpling Wrappers
 ---
 
-All you need is flour and water. This dumpling wrappers recipe is great for making potstickers or boiled dumplings. Making homemade dumpling wrappers is simple. This recipe yields about 35 to 40 dumpling wrappers that are 3 1/4 to 3 1/2 inches in diameter, which is a great size for potstickers. You can adjust the size of each dumpling wrapper to your liking.
+This dumpling wrappers recipe is great for making potstickers or boiled dumplings. This recipe yields about 35 to 40 dumpling wrappers that are 3 1/4 to 3 1/2 inches in diameter. You can adjust the size of each dumpling wrapper to your liking.
 
 ### Ingredients
 

@@ -8,8 +8,7 @@ time: 5 minutes
 title: Border Run Cocktail
 ---
 
-The mixture of citrus and herbaceous agave flavors makes a nicely balanced drink.
-  Give your margarita standard routine a rest and mix up a Border Run.
+The mixture of citrus and herbaceous agave flavors makes a nicely balanced drink. Give your margarita standard routine a rest and mix up a Border Run.
 
 ### Ingredients
 

@@ -11,7 +11,7 @@ time: 1 hour
 title: Stewed Chicken Taco
 ---
 
-This Stewed Chicken Taco recipe is a perfect blend of flavors and textures. The chicken is stewed with spices until it's tender and juicy, then served on tortillas with fresh cilantro and onion. It's a delicious and satisfying meal that's sure to become a favorite.
+This stewed chicken taco recipe is a perfect blend of flavors and textures. The chicken is stewed with spices until it's tender and juicy, then served on tortillas with fresh cilantro and onion. It's a delicious and satisfying meal that's sure to become a favorite.
 
 ### Ingredients
 

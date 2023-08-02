@@ -11,10 +11,7 @@ time: 1 hour
 title: Borek Dough
 ---
 
-This recipe
-  includes two types - one with feta and mint for a savory cheese borek, and one with
-  spiced meat and potatoes for a heartier borek. The dough is thin yet sturdy enough
-  to contain varied fillings.
+This recipe includes two types - one with feta and mint for a savory cheese borek, and one with spiced meat and potatoes for a heartier borek. The dough is thin yet sturdy enough to contain varied fillings.
 
 ### Ingredients
 

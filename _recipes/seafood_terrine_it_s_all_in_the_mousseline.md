@@ -11,7 +11,7 @@ time: 1 hour
 title: Seafood Terrine
 ---
 
-It's a luxurious dish that is amazingly quick to prepare. This recipe is a luxurious dish that is amazingly quick to prepare. You simply grind the ingredients together in a food processor. Scallops, shrimp and such delicate fish as pike and sole are favorites, but I also love salmon mousseline for its flavor and color. 
+This recipe is a luxurious dish that is amazingly quick to prepare. You simply grind the ingredients together in a food processor. Scallops, shrimp and such delicate fish as pike and sole are favorites, but I also love salmon mousseline for its flavor and color. 
 
 ### Ingredients
 

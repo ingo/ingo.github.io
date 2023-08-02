@@ -8,7 +8,7 @@ time: 1-4 hours for marinating
 title: Moroccan Veggie Marinade
 ---
 
-
+Choose the right vegetables. Opt for firm and sturdy vegetables that can hold up well on the grill. Some excellent options include bell peppers, zucchini, eggplant, onions, mushrooms, asparagus, corn on the cob, and cherry tomatoes. Cut the vegetables properly. Cut the vegetables into uniform sizes and shapes to ensure even cooking. Thicker slices or halves work best for most vegetables. You can also use skewers or grill baskets to prevent smaller pieces from falling through the grates.
 
 ### Ingredients
 
