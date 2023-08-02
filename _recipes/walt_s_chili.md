@@ -1,7 +1,7 @@
 ---
 author: Walt Disney
 category: Entrees
-description: Recreate Walt\u2019s Chili from Carnation Caf\xE9 in your own kitchen!
+description: Recreate Walt’s Chili from Carnation Café in your own kitchen!
 image: walt_s_chili.jpg
 size: 4 servings
 source: http://disneyland.com/

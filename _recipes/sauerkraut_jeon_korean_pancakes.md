@@ -1,5 +1,5 @@
 ---
-author: "J. Kenji L\xF3pez-Alt"
+author: "J. Kenji López-Alt"
 category: Entrees
 description: Savory Korean vegetable pancakes bound with a basic batter.
 image: sauerkraut_jeon_korean_pancakes.jpg

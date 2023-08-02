@@ -1,7 +1,7 @@
 ---
 author: Ali Slagle
 category: Entrees
-description: Pasta with chickpeas is a substantial, quickly assembled meal, but what\u2019\
+description: Pasta with chickpeas is a substantial, quickly assembled meal, but what’\
   s alluring about this version is the undercurrent of rosemary.
 image: linguine_with_crisp_chickpeas_and_rosemary.jpg
 image_attribution: Julia Gartland for The New York Times

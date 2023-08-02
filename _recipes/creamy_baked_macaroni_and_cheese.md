@@ -1,7 +1,7 @@
 ---
 author: Eric Kim
 category: Entrees
-description: This recipe, inspired by Stouffer\u2019s macaroni and cheese, delivers the best of all worlds.
+description: This recipe, inspired by Stouffer’s macaroni and cheese, delivers the best of all worlds.
 image: creamy_baked_macaroni_and_cheese.jpg
 image_attribution: Christopher Testani for The New York Times
 size: 6 to 8 servings

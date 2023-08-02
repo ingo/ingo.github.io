@@ -6,7 +6,7 @@ description: A retro chicken salad recipe using a unique technique of poaching a
 image: chicken_salad_a_la_danny_kaye.jpg
 size: 4 servings
 time: 1 hour
-title: "Chicken Salad \xE0 la Danny Kaye"
+title: "Chicken Salad  à la Danny Kaye"
 ---
 
 This retro chicken salad recipe uses a unique whole chicken poaching technique to keep the meat extra moist. The chicken is slowly simmered in broth with aromatics. Once cooked, the chicken is shredded and then combined with a Dijon mustard dressing, mayo, tarragon, and grapes for crunch. The result is a moist, flavorful chicken salad inspired by actor Danny Kaye.

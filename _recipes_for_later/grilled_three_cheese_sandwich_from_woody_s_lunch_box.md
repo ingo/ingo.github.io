@@ -9,7 +9,7 @@ image: grilled_three_cheese_sandwich_from_woody_s_lunch_box.jpg
 size: 4 servings
 source: https://disneyparks.disney.go.com/blog/author/alex-dunlap/
 time: 30 minutes
-title: "Grilled Three-Cheese Sandwich from Woody\u2019s Lunch Box"
+title: "Grilled Three-Cheese Sandwich from Woody’s Lunch Box"
 ---
 This yummy recipe comes from Woody’s Lunch Box at Disney’s Hollywood Studios. While we can’t visit Andy’s backyard right now, this recipe is just one more great way to create Disney Magic Moments in your own backyard (or kitchen).
 

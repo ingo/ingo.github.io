@@ -7,7 +7,7 @@ favorite: "\u2713"
 image: pi_a_colada_trifle.jpg
 size: Varies
 time: Varies
-title: "Pi\xF1a Colada Trifle"
+title: "Piña Colada Trifle"
 vegan: "\u2713"
 ---
 

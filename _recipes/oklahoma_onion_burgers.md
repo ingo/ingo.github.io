@@ -1,5 +1,5 @@
 ---
-author: "J. Kenji L\xF3pez-Alt"
+author: "J. Kenji López-Alt"
 category: Entrees
 description: A delicious burger invented in El Reno, Okla., during the Depression
   era.

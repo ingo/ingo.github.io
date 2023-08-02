@@ -8,7 +8,7 @@ image_attribution: Linda Xiao for The New York Times
 original_title: Joojeh Kabab ba Holu
 size: 4 servings
 source: https://cooking.nytimes.com/search?q=Naz+Deravian&action=click&module=byline&region=recipe%20page
-time: "40 minutes, plus 2 to 24 hours\u2019 marinating"
+time: "40 minutes, plus 2 to 24 hours’ marinating"
 title: Saffron Chicken Kababs With Peaches
 ---
 

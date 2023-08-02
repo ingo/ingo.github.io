@@ -8,7 +8,7 @@ original_title: Din Tai Fung Green Bean Recipe
 size: 4 servings (side dish)
 source: https://sofoodla.com/2015/10/25/sauteed-green-beans-with-garlic/
 time: 1 hour
-title: "Saut\xE9ed Green Beans with Garlic"
+title: "Sautéed Green Beans with Garlic"
 ---
 
 Din Tai Fung is a world-class Taiwanese restaurant, best known for their soupy dumplings (xiao long bao). The first restaurant opened in Taipei in 1980, and at one point was included on the New York Times list of the top ten restaurants in the world. They expanded to the US in 2000, setting up shop in Arcadia, CA, and due to their popularity – the wait to get seated is frequently more than an hour – have since opened three more locations in Southern California. But the competition for soupy dumplings is intense in the San Gabriel Valley, and what keeps Din Tai Fung at the top of many people’s list are some of the other items on their menu. For me, that item is the green beans with garlic. The trick to achieving the blistered skin is to flash-fry the green beans before sautéing them.

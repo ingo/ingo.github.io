@@ -1,5 +1,5 @@
 ---
-author: "Ethan Adeland\u2019s Grandmother"
+author: "Ethan Adeland’s Grandmother"
 category: Desserts
 description: These cookies are soft, cakey and have just the right amount of spice
   to them. They are divine little morsels and definitely are a keeper in my book.

@@ -1,5 +1,5 @@
 ---
-author: "Gonzalo Guzm\xE1n"
+author: "Gonzalo Guzmán"
 category: Entrees
 description: These Mexican sandwiches from Puebla are loaded with juicy breaded chicken
   cutlets, Oaxaca cheese, avocado, chipotle salsa and papalo herb.

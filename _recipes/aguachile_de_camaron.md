@@ -23,7 +23,7 @@ nutrition:
 size: 1 serving
 spicy: "\u2713"
 time: 40 minutes
-title: "Aguachile de Camar\xF3n"
+title: "Aguachile de Camarón"
 ---
 
   The zesty lime cured shrimp are served chilled, usually with saltine crackers or

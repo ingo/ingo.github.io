@@ -11,7 +11,7 @@ time: 4 hours 30 minutes
 title: Birria Tacos
 ---
 
- The meat soaks up all the complex flavors of the sauce. Served with dipping consomm\xE9. The beef birria features layers of flavor from slowly braising in a blend of guajillo chiles, spices, and dried chiles.
+ The meat soaks up all the complex flavors of the sauce. Served with dipping consommé. The beef birria features layers of flavor from slowly braising in a blend of guajillo chiles, spices, and dried chiles.
 
 ### Ingredients
 

@@ -1,7 +1,7 @@
 ---
 author: Lisa Bryan
 category: Sides
-description: A delicious chickpea-free version of hummus that\u2019s low-carb, keto, paleo and Whole30 friendly.
+description: A delicious chickpea-free version of hummus that’s low-carb, keto, paleo and Whole30 friendly.
 favorite: "\u2713"
 image: roasted_cauliflower_hummus.jpg
 nutrition:

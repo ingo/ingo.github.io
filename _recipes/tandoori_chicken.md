@@ -1,5 +1,5 @@
 ---
-author: "J. Kenji L\xF3pez-Alt"
+author: "J. Kenji López-Alt"
 category: Entrees
 description: The smaller the bird, the faster it'll cook through, and the less time
   it'll have to dry out.

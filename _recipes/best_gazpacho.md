@@ -12,7 +12,7 @@ title: Best Gazpacho
 ---
 
 Gazpacho is everywhere in Seville, Spain, where this recipe
-comes from, but it's not the watered-down salsa or grainy vegetable pur\xE9e often
+comes from, but it's not the watered-down salsa or grainy vegetable purée often
 served in the United States. This version has no bread and is a creamy orange-pink
 rather than a lipstick red. That is because a large quantity of olive oil is required
 for making delicious gazpacho, rather than take-it-or-leave it gazpacho. The emulsion

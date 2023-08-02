@@ -1,5 +1,5 @@
 ---
-author: "J. Kenji L\xF3pez-Alt"
+author: "J. Kenji López-Alt"
 category: Sides
 description: This simple summer dip combines guacamole with sweet grilled corn and
   tangy Cotija cheese.

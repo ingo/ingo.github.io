@@ -1,5 +1,5 @@
 ---
-author: "J. Kenji L\xF3pez-Alt"
+author: "J. Kenji López-Alt"
 category: Entrees
 description: A classic New York Style Pizza recipe that results in a pizza with a
   thin, crisp crust, lots of cheesy goodness, and flavorful sauce.

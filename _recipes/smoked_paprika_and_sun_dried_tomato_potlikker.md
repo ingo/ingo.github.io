@@ -5,7 +5,7 @@ description: A nutrient-dense liquid gold traditionally left behind after boilin
   greens and beans, turned into an ultra-concentrated broth.
 image: smoked_paprika_and_sun_dried_tomato_potlikker.jpg
 image_attribution: Emma Fishman
-image_source: "Bon App\xE9tit"
+image_source: "Bon Appétit"
 original_title: Smoked Paprika and Sun-Dried Tomato Potlikker
 size: 1 quart
 source: https://www.bonappetit.com/recipe/smoked-paprika-and-sun-dried-tomato-potlikker

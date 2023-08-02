@@ -4,7 +4,7 @@ category: Entrees
 description: A slightly odd but really fantastic combination that must be tried.
 image: chicken_in_milk.jpg
 image_attribution: Gentl and Hyers for The New York Times
-original_title: "Jamie Oliver\u2019s Chicken in Milk Recipe"
+original_title: "Jamie Oliver’s Chicken in Milk Recipe"
 source: https://www.nytimes.com/2017/04/20/magazine/the-secrets-of-jamie-olivers-chicken-in-milk.html
 time: 2 hours
 title: Chicken in Milk

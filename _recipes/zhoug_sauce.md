@@ -5,7 +5,7 @@ description: A flavorful Middle Eastern Green Chili Sauce that gives meals a bur
   of flavor.
 image: zhoug_sauce.jpg
 original_title: Zhug
-size: "1 \xBC cup"
+size: "1 ¼ cup"
 source: https://www.feastingathome.com/zhoug-recipe/
 spicy: "\u2713"
 time: 10 minutes

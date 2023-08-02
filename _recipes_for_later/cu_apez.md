@@ -5,10 +5,10 @@ description: Cheesy bread made with tapioca starch. A perfect snack that's loved
   everyone.
 favorite: "\u2713"
 image: cu_apez.jpg
-original_title: "Cu\xF1apez"
+original_title: "Cuñapez"
 size: 20-25 servings
 time: 40 minutes
-title: "Cu\xF1apez"
+title: "Cuñapez"
 ---
 
 ### Ingredients

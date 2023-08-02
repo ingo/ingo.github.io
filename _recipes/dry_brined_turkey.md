@@ -2,14 +2,14 @@
 author: NYT Cooking
 category: Entrees
 description: "This fantastic turkey recipe borrows a technique perfected by Judy Rodgers,\
-  \ the chef from the Zuni Caf\xE9 in San Francisco, who had exceptional results salting\
+  \ the chef from the Zuni Café in San Francisco, who had exceptional results salting\
   \ chickens long before roasting them (also called dry-brining)."
 image: dry_brined_turkey.jpg
 image_attribution: Andrew Scrivani for The New York Times
 original_title: Dry-Brined Turkey
 size: 12-14 servings
 source: https://cooking.nytimes.com/recipes/1012869-dry-brined-turkey
-time: "3\xBD hours, plus 2 days\u2019 brining"
+time: "3½ hours, plus 2 days’ brining"
 title: Dry-Brined Turkey
 ---
 

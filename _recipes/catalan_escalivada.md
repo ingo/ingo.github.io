@@ -8,7 +8,7 @@ image_source: https://www.bonappetit.com/contributor/heather-eddy
 size: Varies
 source: https://www.bonappetit.com/contributor/heather-eddy
 time: 2 hours
-title: "Catal\xE0n Escalivada"
+title: "Catal àn Escalivada"
 veggie: "\u2713"
 ---
 

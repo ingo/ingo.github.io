@@ -5,11 +5,11 @@ description: This famous egg salad sandwich comes from Konbi, the tiny Los Angel
   cafe run by the co-chefs Akira Akuto and Nick Montgomery.
 image: konbi_s_egg_salad_sandwich.jpg
 image_attribution: Sang An for The New York Times
-original_title: "Konbi\u2019s Egg Salad Sandwich"
+original_title: "Konbi’s Egg Salad Sandwich"
 size: 4 sandwiches
 source: https://cooking.nytimes.com/recipes/1019941-konbis-egg-salad-sandwich
 time: 45 minutes
-title: "Konbi\u2019s Egg Salad Sandwich"
+title: "Konbi’s Egg Salad Sandwich"
 ---
 
 This famous egg salad sandwich comes from Konbi, the tiny Los Angeles cafe run by the co-chefs Akira Akuto and Nick Montgomery. It’s as pretty as it is delicious. When making it at home, be careful not to undercook the eggs or you’ll cross that fine line between jammy and runny. At the heart of the sandwich is a perfect hard-boiled egg, and we suggest cooking a couple extra in case they break or you have trouble peeling them. Extra eggs, still warm, with a touch of salt and pepper, make for a great snack while you're assembling.

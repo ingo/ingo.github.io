@@ -15,7 +15,7 @@ time: 1 hour
 title: Beef Stuffed Acorn Squash
 ---
 
-Packed with veggies & fall flavor, it\u2019s delicious & simple to make.
+Packed with veggies & fall flavor, it’s delicious & simple to make.
 
 ### Ingredients
 

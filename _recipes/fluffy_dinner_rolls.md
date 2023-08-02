@@ -7,7 +7,7 @@ image: fluffy_dinner_rolls.jpg
 original_title: Fluffy Dinner Rolls
 size: Makes 12 rolls
 source: https://www.americastestkitchen.com/search?q=Desserts%20or%20Baked%20Goods&dFR[search_site_list][0]=cio&fR[search_course_list][0]=Desserts%20or%20Baked%20Goods&fR[search_document_klass][0]=recipe
-time: "1\xBE hours, plus 1\xBE hours resting and 20 minutes cooling"
+time: "1¾ hours, plus 1¾ hours resting and 20 minutes cooling"
 title: Fluffy Dinner Rolls
 ---
 

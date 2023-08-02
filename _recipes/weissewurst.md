@@ -6,7 +6,7 @@ description: Weissewurst is a traditional Bavarian sausage made from very finely
 image: weissewurst.jpg
 size: 10-15 servings
 time: 1 hour
-title: "Wei\xDFewurst"
+title: "Weißewurst"
 ---
 
 It is usually boiled and eaten very fresh in the morning, traditionally accompanied by sweet mustard, a soft pretzel and wheat beer. The skin is not meant to be eaten.

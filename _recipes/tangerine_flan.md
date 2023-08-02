@@ -6,7 +6,7 @@ image: tangerine_flan.jpg
 image_attribution: David Malosh for The New York Times
 size: 6 servings
 source: https://cooking.nytimes.com/ourcooks/david-tanis/my-recipes?action=click&module=byline&region=recipe%20page
-time: "2 hours, plus at least 4 hours\u2019 refrigerating"
+time: "2 hours, plus at least 4 hours’ refrigerating"
 title: Tangerine Flan
 ---
 

@@ -1,5 +1,5 @@
 ---
-author: "J. Kenji L\xF3pez-Alt"
+author: "J. Kenji López-Alt"
 category: Sides
 description: All the delights of Mexican street corn (elotes) in salad form, and you
   don't even have to fire up the grill to make it.

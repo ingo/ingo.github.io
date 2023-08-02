@@ -1,14 +1,14 @@
 ---
 author: Zen Can Cook
 category: Entrees
-description: A delightful fusion of flavors featuring tender octopus, a savory miso-squid ink vinaigrette, and a tamed garlic-olive oil pur\xE9e.
+description: A delightful fusion of flavors featuring tender octopus, a savory miso-squid ink vinaigrette, and a tamed garlic-olive oil purée.
 favorite: "\u2713"
 image: octopus_a_la_plancha_with_garlic_puree_miso_squid_ink_sauce.jpg
-original_title: "Pulpo a la Plancha con Pur\xE9 de Ajo y Salsa de Tinta de Calamar-Miso"
+original_title: "Pulpo a la Plancha con Puré de Ajo y Salsa de Tinta de Calamar-Miso"
 size: 4 servings
 source: http://www.zencancook.com/2012/03/octopus-a-la-plancha-w-garlic-puree-miso-squid-ink-sauce/
 time: 2 hours 30 minutes
-title: "Octopus a la Plancha with Garlic Pur\xE9e & Miso-Squid Ink Sauce"
+title: "Octopus a la Plancha with Garlic Purée & Miso-Squid Ink Sauce"
 ---
 
 Inspired by Le Bernardin. This recipe was inspired by the author's time interning in the kitchen at Le Bernardin, where they learned an interesting way to cook octopus – in a chorizo braising liquid. The tender octopus is then kept in a miso marinade before being charred to order, which is also genius. It’s a bit like putting umami on umami. The dish is served with a “tamed” garlic and olive oil purée a bit like Bagna Cauda and a few slices of Asian pear and celery leaves to give the dish a few hints of brightness.

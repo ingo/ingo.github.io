@@ -1,5 +1,5 @@
 ---
-author: "Chef Ram\xF3n Mart\xEDnez"
+author: "Chef Ramón Martínez"
 category: Sides
 description: Fried potatoes with spicy tomato sauce and garlic mayonnaise, a staple
   in Spanish cuisine.

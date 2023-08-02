@@ -2,7 +2,7 @@
 author: Susan Spungen
 category: Entrees
 description: "Whole roasted cauliflower is a sight to behold and never fails to delight,\
-  \ especially when it\u2019s topped with a verdant blend of herbs and pistachios."
+  \ especially when it’s topped with a verdant blend of herbs and pistachios."
 image: whole_roasted_cauliflower_with_pistachio_pesto.jpg
 original_title: Whole Roasted Cauliflower With Pistachio Pesto
 size: 4-6 servings

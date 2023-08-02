@@ -5,11 +5,11 @@ description: Quick and easy pickles that come together fast, with a shock from i
   cubes and a touch of sugar helping them move from raw to something between a pickle
   and a refreshing salad in just about a half-hour.
 image: cheaters_pickles.jpg
-original_title: "Cheater\u2019s Pickles"
+original_title: "Cheater’s Pickles"
 size: 6-8 servings
 source: https://cooking.nytimes.com/recipes/1017680-cheaters-pickles
 time: About 45 minutes
-title: "Cheater\u2019s Pickles"
+title: "Cheater’s Pickles"
 ---
 
 These quick refrigerator pickles allow you to enjoy crunchy pickled vegetables in under 30 minutes. Raw vegetables are tossed with vinegar, sugar, and fragrant spices, then shocked in an ice bath to quick-pickle them. The end result lands somewhere between a fresh salad and a fully pickled pickle. A perfect way to use up garden vegetables. Fresh herbs other than dill, like basil or a bit of mint or chive, can be used. A few slivers of sweet onion are nice, too.

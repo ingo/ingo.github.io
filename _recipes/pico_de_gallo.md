@@ -1,5 +1,5 @@
 ---
-author: "J. Kenji L\xF3pez-Alt"
+author: "J. Kenji López-Alt"
 category: Sides
 description: A classic Mexican condiment made with tomatoes, onions, and chiles.
 favorite: "\u2713"

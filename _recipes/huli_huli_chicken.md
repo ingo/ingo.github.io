@@ -7,7 +7,7 @@ image: huli_huli_chicken.jpg
 image_attribution: Andrew Purcell for The New York Times
 size: 4-6 servings
 source: https://cooking.nytimes.com/guides/7-how-to-grill
-time: "45 minutes, plus 8 hours\u2019 marinating"
+time: "45 minutes, plus 8 hours’ marinating"
 title: Huli Huli Chicken
 ---
 

@@ -6,7 +6,7 @@ image: lone_star_cilantro_jalapeno_mayonnaise.jpg
 size: 2 cups
 source: null
 time: null
-title: "Lone Star Cilantro Jalape\xF1o Mayonnaise"
+title: "Lone Star Cilantro Jalapeño Mayonnaise"
 ---
 
 It goes especially well with carnitas or fish tacos.

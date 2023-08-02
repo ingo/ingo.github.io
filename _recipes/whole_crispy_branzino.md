@@ -4,7 +4,7 @@ category: Entrees
 description: A crispy, flavorful branzino recipe with a Shaoxing marinade, fried to
   perfection.
 image: whole_crispy_branzino.jpg
-original_title: "Chef Gordon Ramsay\u2019s Whole Crispy Branzino Recipe"
+original_title: "Chef Gordon Ramsay’s Whole Crispy Branzino Recipe"
 size: 2 servings
 source: https://www.masterclass.com/
 time: 1 hour 30 minutes

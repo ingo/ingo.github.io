@@ -6,7 +6,7 @@ description: Though the name sounds like a wild sweet-tooth's parade, this fried
 image: berry_jam_fried_chicken.jpg
 size: 4-6 servings
 source: https://cooking.nytimes.com/search?q=Nicole+Taylor&action=click&module=byline&region=recipe%20page
-time: "35 minutes, plus at least 30 minutes\u2019 marinating"
+time: "35 minutes, plus at least 30 minutes’ marinating"
 title: Berry-Jam Fried Chicken
 ---
 

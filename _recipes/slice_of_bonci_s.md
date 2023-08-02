@@ -8,7 +8,7 @@ original_title: "\u7F85\u99ACBonci\u6BD4\u85A9"
 size: "two 12\u2033/30 cm round pizza bianca"
 source: https://ladyandpups.com/2013/01/02/slice-of-boncis-cn/
 time: 1 day 2 hours
-title: "Slice of Bonci\u2019s"
+title: "Slice of Bonci’s"
 ---
 
 This recipe was inspired by a trip to Rome, where the author discovered the magic of Bonci's pizza dough. The crust is so unique that it doesn't deserve the stereotype of being just a "pizza". The bread is the real star of this dish, with a thin, crispy surface and a tender, chewy center. The intricate tissue inside almost embodies a translucent quality, elastically pulling away and criss-crossing throughout the large dome-like air bubbles that are carefully retained in the process of making.

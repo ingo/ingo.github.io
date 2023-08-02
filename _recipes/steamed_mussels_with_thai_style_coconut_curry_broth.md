@@ -1,5 +1,5 @@
 ---
-author: "J. Kenji L\xF3pez-Alt"
+author: "J. Kenji López-Alt"
 category: Entrees
 description: Mussels cooked in a spicy and aromatic coconut broth with Thai curry
   flavors.

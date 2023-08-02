@@ -1,7 +1,7 @@
 ---
 author: Sam Sifton
 category: Entrees
-description: "A delicious chicken p\xE2t\xE9 that can serve as an appetizer at a dinner\
+description: "A delicious chicken pâté that can serve as an appetizer at a dinner\
   \ party, or simply as a light supper or a sandwich spread."
 image: chicken_liver_pate.jpg
 image_attribution: Christopher Testani
@@ -9,7 +9,7 @@ image_source: The New York Times
 size: 6 to 8 servings
 source: https://cooking.nytimes.com/recipes/1015975-chicken-liver-pate
 time: 20 minutes, plus chilling
-title: "Chicken-Liver P\xE2t\xE9"
+title: "Chicken-Liver Pâté"
 ---
 
 This smooth chicken liver pâté comes together in under 30 minutes and makes an elegant starter or sandwich spread. The livers are sautéed with shallots, brandy, thyme and cream for incredible richness of flavor. Chill the pâté for a few hours until firm. Serve it with crackers or crusty bread for an easy yet impressive appetizer. This chicken pâté recipe is a favorite of Sam Sifton, a food editor at The New York Times.

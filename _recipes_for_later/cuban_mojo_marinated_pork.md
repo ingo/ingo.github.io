@@ -3,7 +3,7 @@ author: The Food Charlatan
 category: Entrees
 description: "A traditional Cuban roasted pork recipe that is very simple, yet packed\
   \ with tons of flavor. There is nothing to this pork except an amazing marinade,\
-  \ but it is honestly some of the best meat I\u2019ve ever put in my mouth. Just\
+  \ but it is honestly some of the best meat I’ve ever put in my mouth. Just\
   \ look at that crust!"
 image: cuban_mojo_marinated_pork.jpg
 original_title: Lechon Asado

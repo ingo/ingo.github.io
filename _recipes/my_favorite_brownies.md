@@ -1,7 +1,7 @@
 ---
 author: Smitten Kitchen
 category: Desserts
-description: Bittersweet and chewy brownies that are defined not by what they have in them but what they don\u2019t; there\u2019s no brown sugar or brown butter, baking powder, Dutched cocoa, cake flour, nuts, coffee granules, chips or frosting.
+description: Bittersweet and chewy brownies that are defined not by what they have in them but what they don’t; there’s no brown sugar or brown butter, baking powder, Dutched cocoa, cake flour, nuts, coffee granules, chips or frosting.
 favorite: "\u2713"
 image: my_favorite_brownies.jpg
 original_title: null

@@ -10,7 +10,7 @@ original_title: Quick Kimchi
 size: 2 to 2 1/2 cups
 source: https://cooking.nytimes.com/ourcooks/eric-kim/my-recipes?action=click&module=byline&region=recipe%20page
 time: 40 minutes
-title: "Grape Tomato \u2018Quick Kimchi\u2019"
+title: "Grape Tomato \u2018Quick Kimchi’"
 umami: "\u2713"
 ---
 

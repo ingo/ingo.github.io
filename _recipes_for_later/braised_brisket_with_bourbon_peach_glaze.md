@@ -1,5 +1,5 @@
 ---
-author: "Bon App\xE9tit"
+author: "Bon Appétit"
 category: Entrees
 description: No one will fault you for seasoning brisket with salt and pepper, braising it in beer, and calling it a day.
 image: braised_brisket_with_bourbon_peach_glaze.jpg

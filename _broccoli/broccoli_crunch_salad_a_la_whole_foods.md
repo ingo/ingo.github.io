@@ -6,11 +6,11 @@ description: This addictive broccoli salad from Whole Foods has the perfect bala
   seeds and a sweet and tangy dressing.
 favorite: "\u2713"
 image: broccoli_crunch_salad_a_la_whole_foods.jpg
-original_title: "Broccoli Crunch Salad (\xE0 la Whole Foods)"
+original_title: "Broccoli Crunch Salad ( à la Whole Foods)"
 size: 2-4 servings
 source: http://www.jemangelaville.com/2013/04/24/broccoli-crunch-salad-a-la-whole-foods/
 time: 1 hour
-title: "Broccoli Crunch Salad (\xE0 la Whole Foods)"
+title: "Broccoli Crunch Salad ( à la Whole Foods)"
 ---
 
 The combination of the crunchy broccoli, savory bacon, sweet dried cranberries, and flavorful dressing makes this salad hard to stop eating. This salad is easy to recreate at home and makes for an ideal summer side dish or potluck contribution.

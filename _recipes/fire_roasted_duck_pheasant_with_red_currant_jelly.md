@@ -1,5 +1,5 @@
 ---
-author: "David McMillan & Fr\xE9d\xE9ric Morin"
+author: "David McMillan & Frédéric Morin"
 category: Entrees
 description: Fire-roasted mix of birds over flames and embers, using hooks and chains
   to suspend and rotate them.

@@ -1,7 +1,7 @@
 ---
 author: Nagi
 category: Entrees
-description: A juicy, flavorful lamb roast that is so tender you won\u2019t need a knife to carve it, served with a flavor-packed gravy."
+description: A juicy, flavorful lamb roast that is so tender you won’t need a knife to carve it, served with a flavor-packed gravy."
 favorite: "\u2713"
 image: slow_cooked_lamb_shoulder.jpg
 original_title: Slow Roasted Rosemary Garlic Lamb Shoulder

@@ -4,11 +4,11 @@ category: Sauces
 description: Bechamel is a classic creamy white sauce made from butter, flour and
   milk that is a foundation of French cuisine.
 image: bechamel.jpg
-original_title: "B\xE9chamel"
+original_title: "Béchamel"
 size: 1 1/2 cups
 source: http://www.martha-rose-shulman.com/
 time: 20 minutes
-title: "B\xE9chamel"
+title: "Béchamel"
 vegan: "\u2713"
 ---
 

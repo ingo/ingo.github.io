@@ -1,5 +1,5 @@
 ---
-author: "J. Kenji L\xF3pez-Alt"
+author: "J. Kenji López-Alt"
 category: Entrees
 description: Baked wings that taste just like real-deal, deep-fried Buffalo wings.
 image: oven_fried_buffalo_wings.jpg

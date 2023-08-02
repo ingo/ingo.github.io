@@ -1,7 +1,7 @@
 ---
 author: David Tanis
 category: Breads
-description: Warm, fragrant home-baked pita is obviously superior, and there\u2019s a bit of a thrill when the breads puff up in the oven.
+description: Warm, fragrant home-baked pita is obviously superior, and there’s a bit of a thrill when the breads puff up in the oven.
 image: pita_bread.jpg
 image_attribution: Alex Block
 image_source: https://unsplash.com/photos/mc-5rj9vi8Q

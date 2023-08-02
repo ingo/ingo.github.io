@@ -1,5 +1,5 @@
 ---
-author: "J. Kenji L\xF3pez-Alt"
+author: "J. Kenji López-Alt"
 category: Entrees
 description: Colombian empanadas are typically quite small and have a crisp corn crust.
 image: colombian_beef_and_potato_empanadas.jpg
