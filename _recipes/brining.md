@@ -8,6 +8,7 @@ description: This guide covers key brining techniques for various meats like por
 image: brining.jpg
 title: Brining
 ---
+
 ### Notes
 
 - This guide provides different ratios of salt, sugar, and water for brining.
