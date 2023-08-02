@@ -68,7 +68,7 @@ if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 status "Extracting metadata..."
 for FILE in _recipes/*.md; do
 
-    python add_metadata.py "$FILE" "_temp/$(basename "$FILE" .md).yml"
+    python scripts/add_metadata.py "$FILE" "_temp/$(basename "$FILE" .md).yml"
 
     # extract category name for each recipe, set basename to avoid having to
     # use $sourcefile$ in the template which pandoc sets automatically but
