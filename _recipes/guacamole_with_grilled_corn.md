@@ -13,6 +13,7 @@ source: https://cooking.nytimes.com/recipes/1023414-guacamole-with-grilled-corn
 time: 25 minutes, plus time for grill to heat
 title: Guacamole With Grilled Corn
 ---
+
 ### Ingredients
 
 * `2` ears corn, shucked

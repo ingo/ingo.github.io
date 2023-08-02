@@ -17,6 +17,7 @@ time: 3 hours 30 minutes
 title: Bulgogi Sauce
 umami: "\u2713"
 ---
+
 ### Ingredients
 
 * `1 c` Soy sauce

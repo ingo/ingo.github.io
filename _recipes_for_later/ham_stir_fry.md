@@ -6,6 +6,7 @@ size: 4 servings
 time: 30 minutes
 title: Ham Stir Fry
 ---
+
 ### Ingredients
 
 * `12 ounces` roast ham, cut into cubes

@@ -14,6 +14,7 @@ source: https://www.nytimes.com/interactive/2017/10/25/magazine/food-issue-samin
 time: 2 hours
 title: Mandu
 ---
+
 ### Ingredients
 
 * `1 pound` firm tofu, drained

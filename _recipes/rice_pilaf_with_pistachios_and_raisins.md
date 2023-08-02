@@ -8,6 +8,7 @@ description: This fragrant rice pilaf flavored with pistachios and raisins is a 
 image: rice_pilaf_with_pistachios_and_raisins.jpg
 title: Rice Pilaf With Pistachios And Raisins
 ---
+
 ### Ingredients
 
 * `1/4 cup` finely chopped onion

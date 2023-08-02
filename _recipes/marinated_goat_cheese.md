@@ -6,6 +6,7 @@ image_source: https://www.bonappetit.com/recipe/marinated-goat-cheese-with-herbs
 size: 8 servings
 title: Marinated Goat Cheese
 ---
+
 ### Ingredients
 
 * `12` large fresh thyme sprigs

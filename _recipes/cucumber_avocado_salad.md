@@ -11,6 +11,7 @@ source: https://cooking.nytimes.com/recipes/1022411-cucumber-avocado-saladundefi
 time: 15 minutes
 title: Cucumber-Avocado Salad
 ---
+
 ### Ingredients
 
 * `2` scallions, trimmed then sliced crosswise 1/4-inch-thick

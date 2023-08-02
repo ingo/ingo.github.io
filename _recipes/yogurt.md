@@ -7,6 +7,7 @@ size: Varies
 time: 12 hours 45 minutes
 title: Yogurt
 ---
+
 ### Ingredients
 
 * Milk (amount varies)

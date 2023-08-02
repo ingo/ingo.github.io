@@ -10,6 +10,7 @@ size: 4-6 servings
 time: 1 hour
 title: Chicken with Paprika Sauce
 ---
+
 ### Ingredients
 
 * `1` 4-5 pound chicken

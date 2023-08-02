@@ -10,6 +10,7 @@ source: https://www.epicurious.com/recipes/food/views/steak-salad-sandwich-with-
 time: 35 minutes
 title: Open-Face Steak Sandwich with Parmesan Dressing
 ---
+
 ### Ingredients
 
 * `1 1/2 pounds` flank steak

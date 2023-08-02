@@ -11,6 +11,7 @@ source: https://www.thespruceeats.com/chicha-morada-4156888
 time: 4 hours 10 minutes
 title: Peruvian Chicha Morada
 ---
+
 ### Ingredients
 
 * `1 pound` dried Peruvian purple corn on the cob (approximately 4 medium-sized ears)

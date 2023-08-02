@@ -15,6 +15,7 @@ source: https://cooking.nytimes.com/ourcooks/genevieve-ko/my-recipes?action=clic
 time: 20 minutes, plus overnight chilling
 title: Chocolate Mousse
 ---
+
 ### Ingredients
 
 * `½ cup/120 grams` heavy cream, plus more if needed and for serving if you’d like

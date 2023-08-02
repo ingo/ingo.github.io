@@ -9,6 +9,7 @@ size: 2 pizzas
 time: Few hours
 title: Thin Crust Pizza Dough
 ---
+
 ### Ingredients
 
 * `1 1/2 tsp` active dry yeast

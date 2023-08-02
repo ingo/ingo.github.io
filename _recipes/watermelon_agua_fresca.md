@@ -7,6 +7,7 @@ image: watermelon_agua_fresca.jpg
 size: 2 cups
 title: Watermelon Agua Fresca
 ---
+
 ### Ingredients
 
 * `1` 10lb watermelon

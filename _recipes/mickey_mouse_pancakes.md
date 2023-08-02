@@ -8,6 +8,7 @@ image: mickey_mouse_pancakes.jpg
 size: 4 servings
 title: Mickey Mouse Pancakes
 ---
+
 ### Ingredients
 
 * `1 cup` flour, all-purpose, unbleached

@@ -12,6 +12,7 @@ source: https://cooking.nytimes.com/search?q=Samantha+Seneviratne&action=click&m
 time: About 55 minutes, plus chilling
 title: Apple Cider Whoopie Pies
 ---
+
 ### Ingredients
 
 #### For the Cakes

@@ -10,6 +10,7 @@ size: 2 cups
 time: 1 hour
 title: German Potato Salad
 ---
+
 ### Ingredients
 
 * `4 lbs` small potatoes

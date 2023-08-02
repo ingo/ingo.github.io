@@ -10,6 +10,7 @@ spicy: "\u2713"
 time: Not specified
 title: Thai Red Curry Noodles
 ---
+
 ### Ingredients
 
 * `2 quarts` of Chicken Soup

@@ -14,6 +14,7 @@ source: https://www.bonappetit.com/recipe/braised-chicken-thighs-with-olives-and
 time: 1 hour
 title: Braised Chicken Thighs With Olives and Herbs
 ---
+
 ### Ingredients
 
 * `4-6` bone-in, skin-on chicken thighs

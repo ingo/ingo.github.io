@@ -10,6 +10,7 @@ size: 4 servings
 time: 5 minutes
 title: Whipped Orange Juice
 ---
+
 ### Ingredients
 
 * `1 can` Orange juice concentrate

@@ -15,6 +15,7 @@ source: https://www.food.com/recipe/boursin-cheese-make-your-own-homemade-substi
 time: 10 minutes preparation, overnight chilling
 title: Boursin Cheese
 ---
+
 ### Ingredients
 
 * `2` garlic cloves

@@ -11,6 +11,7 @@ size: 4-6 servings
 time: Varies (See notes)
 title: Smoked Turkey
 ---
+
 ### Ingredients
 
 * `1` turkey (if fresh, see Brining A Turkey, otherwise basted). No bigger than 14lbs.

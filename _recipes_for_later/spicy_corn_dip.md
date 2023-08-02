@@ -10,6 +10,7 @@ spicy: "\u2713"
 time: 35 minutes
 title: Spicy Corn Dip
 ---
+
 ### Ingredients
 
 * `6 cups` of kernel corn

@@ -11,6 +11,7 @@ spicy: "\u2713"
 time: 30 minutes
 title: Mythic Pico de Gallo
 ---
+
 ### Ingredients
 
 * `1` big red tomato

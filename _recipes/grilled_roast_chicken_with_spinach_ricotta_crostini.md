@@ -12,6 +12,7 @@ spicy: "\u2713"
 time: 1 1/2 hours, plus at least 4 hours' marinating
 title: Grilled Roast Chicken With Spinach-Ricotta Crostini
 ---
+
 ### Ingredients
 
 * `2 tsp` kosher salt, more as needed

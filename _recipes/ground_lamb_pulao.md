@@ -16,6 +16,7 @@ spicy: "\u2713"
 time: 1 hour
 title: Ground Lamb Pulao
 ---
+
 ### Ingredients
 
 * `2 cups` basmati rice 

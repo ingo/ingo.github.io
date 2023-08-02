@@ -8,6 +8,7 @@ size: 4 servings
 time: 30 minutes
 title: Shrimp Lahaina
 ---
+
 ### Ingredients
 
 * `1 1/2 lbs` shrimp, shelled and deveined (20+ count per pound is suggested)

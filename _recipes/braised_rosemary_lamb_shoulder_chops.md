@@ -6,6 +6,7 @@ size: Serves variable
 time: 3-4 hours
 title: Braised Rosemary Lamb Shoulder Chops
 ---
+
 ### Ingredients
 
 * `4` lamb shoulder chops

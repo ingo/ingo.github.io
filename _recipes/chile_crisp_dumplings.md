@@ -17,6 +17,7 @@ time: 1 hour
 title: Chile Crisp Dumplings
 vegan: "\u2713"
 ---
+
 ### Ingredients
 
 * `8 ounces` firm tofu, cut into 1/4-inch slices

@@ -13,6 +13,7 @@ spicy: "\u2713"
 time: 4 hours, 30 minutes
 title: Slow Cooker Chili
 ---
+
 ### Ingredients
 
 * `2 tbsp` olive oil

@@ -12,6 +12,7 @@ size: 6 cups
 time: 1 hour 15 minutes
 title: Butternut Squash Soup
 ---
+
 ### Ingredients
 
 * `2` butternut squash (about 4 3/4 pounds total), halved lengthwise, seeded

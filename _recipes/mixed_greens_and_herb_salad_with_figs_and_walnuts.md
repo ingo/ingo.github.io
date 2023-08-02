@@ -17,6 +17,7 @@ source: https://www.foodandwine.com/recipes/mixed-greens-and-herb-salad-figs-and
 time: 20 minutes
 title: Mixed-Greens-and-Herb Salad with Figs and Walnuts
 ---
+
 ### Ingredients
 
 * `1/2 cup` walnuts  

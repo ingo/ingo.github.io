@@ -9,6 +9,7 @@ size: 1 gallon
 time: 1 hour
 title: Kompote
 ---
+
 ### Ingredients
 
 * `1-2 cups` sugar

@@ -17,6 +17,7 @@ time: 30 minutes
 title: Braised White Beans and Greens With Parmesan
 veggie: "\u2713"
 ---
+
 ### Ingredients
 
 * `¼ cup` olive oil

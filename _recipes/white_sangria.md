@@ -6,6 +6,7 @@ size: 4 servings
 time: Several hours
 title: White Sangria
 ---
+
 ### Ingredients
 
 * `2 bottles` light white wine, on the sweet side (Pinot Grigio and a Moscato are what we last used)

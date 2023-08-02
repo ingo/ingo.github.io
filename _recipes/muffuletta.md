@@ -12,6 +12,7 @@ source: https://www.epicurious.com/recipes/food/views/the-ba-muffuletta
 time: 1-3 hours
 title: Muffuletta
 ---
+
 ### Ingredients
 
 For the olive salad:

@@ -13,6 +13,7 @@ source: https://smittenkitchen.com/2010/08/perfect-blueberry-muffins/
 time: Not specified
 title: Blueberry Muffins
 ---
+
 ### Ingredients
 
 The ingredients are not listed in the original text.

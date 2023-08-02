@@ -10,6 +10,7 @@ size: 2 cups
 time: 1 hour 10 minutes
 title: Cucumber Salad With Caraway Seeds
 ---
+
 ### Ingredients
 
 * `2-3` cucumbers

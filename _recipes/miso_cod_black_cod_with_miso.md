@@ -12,6 +12,7 @@ source: https://www.justonecookbook.com/wprm_print/59959
 time: 2 days 30 minutes
 title: Miso Cod (Black Cod with Miso)
 ---
+
 ### Ingredients
 
 * `4 fillets` sablefish (gindara) (you can also use salmon, sea bass, etc.)

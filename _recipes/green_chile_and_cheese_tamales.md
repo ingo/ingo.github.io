@@ -10,6 +10,7 @@ size: Depends on the size of the tamales. We generally make two recipes, and the
   freeze half of the tamales. They keep frozen very well.
 title: Green Chile and Cheese Tamales
 ---
+
 ### Ingredients
 
 * `1/2 cup` milk

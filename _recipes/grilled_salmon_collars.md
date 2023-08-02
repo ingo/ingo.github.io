@@ -11,6 +11,7 @@ source: http://www.bonappetit.com/city-guides/san-francisco/venue/als-place
 time: 2 hours 30 minutes
 title: Grilled Salmon Collars
 ---
+
 ### Ingredients
 
 * `1` 2-inch piece ginger, peeled, thinly sliced

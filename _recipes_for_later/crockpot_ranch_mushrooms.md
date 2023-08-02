@@ -9,6 +9,7 @@ size: 4-6 servings
 time: Few hours
 title: Crockpot Ranch Mushrooms
 ---
+
 ### Ingredients
 
 * `1-2 lbs` mushrooms

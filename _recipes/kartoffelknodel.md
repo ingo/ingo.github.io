@@ -9,6 +9,7 @@ size: 6-8 servings
 time: 1 hour
 title: "Kartoffelkn\xF6del"
 ---
+
 ### Ingredients
 
 * `1500g` raw potatoes

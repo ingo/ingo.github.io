@@ -10,6 +10,7 @@ size: 4 servings
 time: 2 hours and 10 minutes
 title: Sangria
 ---
+
 ### Ingredients
 
 * `1 bottle` red wine (Spanish Red. Nothing too dry)

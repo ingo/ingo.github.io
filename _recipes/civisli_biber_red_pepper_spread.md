@@ -14,6 +14,7 @@ size: 2 cups
 time: 30 minutes
 title: Civisli Biber (Red Pepper Spread)
 ---
+
 ### Ingredients
 
 * `4` red bell peppers

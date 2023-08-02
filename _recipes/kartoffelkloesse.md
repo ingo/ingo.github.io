@@ -8,6 +8,7 @@ size: 24 dumplings
 time: Not specified
 title: "Kartoffelkl\xF6\xDFe"
 ---
+
 ### Ingredients
 
 * `2 tbsp` butter

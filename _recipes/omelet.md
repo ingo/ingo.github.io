@@ -9,6 +9,7 @@ size: 2 omelets
 time: 30 minutes
 title: Omelet
 ---
+
 ### Ingredients
 
 * `6` eggs

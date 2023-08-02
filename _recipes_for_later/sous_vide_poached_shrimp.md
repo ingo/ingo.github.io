@@ -15,6 +15,7 @@ source: http://www.seriouseats.com/2017/01/the-food-labs-complete-guide-to-sous-
 time: 25 minutes to 1 hour 10 minutes
 title: Sous Vide Poached Shrimp
 ---
+
 ### Ingredients
 
 * `1 1/2 pounds` large peeled shrimp (about 700g)

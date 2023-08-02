@@ -12,6 +12,7 @@ spicy: "\u2713"
 time: 2 weeks
 title: El Fuego Viviente Chili Open Sauce
 ---
+
 ### Ingredients
 
 * `400g` Habanero Chilis

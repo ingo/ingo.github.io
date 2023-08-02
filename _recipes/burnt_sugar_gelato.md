@@ -12,6 +12,7 @@ image: burnt_sugar_gelato.jpg
 size: 1 pint
 title: Burnt Sugar Gelato
 ---
+
 ### Ingredients
 
 * `2 cups plus 1 1/2 tbsp.` milk

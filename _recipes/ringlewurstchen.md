@@ -4,6 +4,7 @@ description: These are effectively Bratwurst, but shaped differently.
 image: ringlewurstchen.jpg
 title: "Ringlew\xFCrstchen"
 ---
+
 ### Ingredients
 
 * `One recipe` Bratwurst, stuffed into small casings

@@ -7,6 +7,7 @@ size: 2 servings
 time: 10 minutes
 title: Cherry Crush
 ---
+
 ### Ingredients
 
 * `8` frozen cherries

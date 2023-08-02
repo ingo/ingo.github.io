@@ -15,6 +15,7 @@ source: http://www.jemangelaville.com/2013/04/24/broccoli-crunch-salad-a-la-whol
 time: 1 hour
 title: "Broccoli Crunch Salad (\xE0 la Whole Foods)"
 ---
+
 ### Ingredients
 
 * `4 cups` Broccoli florets

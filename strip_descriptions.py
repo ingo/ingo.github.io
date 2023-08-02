@@ -3,13 +3,14 @@ import re
 import yaml
 import argparse
 from pathlib import Path
+from itertools import dropwhile
 
 def extract_first_sentence(text):
-    match = re.match(r'(.*?[.!?])\s', text.replace('\n', ' '), re.DOTALL)
+    match = re.match(r'(.*?[.!?])\s(.*)', text.replace('\n', ' '), re.DOTALL)
     if match:
-        return match.group(1)
+        return match.group(1), match.group(2)
     else:
-        return text  # In case there's no full stop, return the whole text
+        return text, ''  # In case there's no full stop, return the whole text
 
 def process_file(file_path, debug=False):
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -19,13 +20,22 @@ def process_file(file_path, debug=False):
     if len(separator_indices) != 2:
         raise ValueError(f'File {file_path} is not in the expected format')
     yaml_header = lines[separator_indices[0]+1:separator_indices[1]]
-    content = lines[separator_indices[1]+1:]
+    content = list(dropwhile(lambda x: not x.strip(), lines[separator_indices[1]+1:]))
 
     yaml_dict = yaml.safe_load(''.join(yaml_header))
-    yaml_dict['description'] = extract_first_sentence(yaml_dict['description'])
+    
+    if 'description' in yaml_dict:  # Check if 'description' key exists
+        first_sentence, remaining_text = extract_first_sentence(yaml_dict['description'])
+        yaml_dict['description'] = first_sentence
+
+        # Check if the first non-blank line of the content starts with '###'
+        if content and content[0].startswith('###'):
+            content = ['\n', '\n', remaining_text] + content
+        else:
+            content = [remaining_text] + content
 
     new_yaml_header = yaml.dump(yaml_dict, default_flow_style=False)
-    new_content = [new_yaml_header, '---\n'] + content
+    new_content = ['---\n', new_yaml_header, '---\n\n'] + content
 
     with open(file_path, 'w', encoding='utf-8') as f:
         f.writelines(new_content)

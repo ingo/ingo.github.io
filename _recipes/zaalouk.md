@@ -8,6 +8,7 @@ size: 6 servings
 time: 50 minutes
 title: Zaalouk
 ---
+
 ### Ingredients
 
 * `1` eggplant (approx 1 1/2 lbs)

@@ -8,6 +8,7 @@ size: 2 cups
 time: 3 hours
 title: Glazed Ham
 ---
+
 ### Ingredients
 
 * `1` bone-in half ham (7-9 lbs.) with as much surface fat as possible. Use a "Smithfield" or "John Morrell" ham. Either the butt or shank side is fine, but the shank will most likely be juicier.

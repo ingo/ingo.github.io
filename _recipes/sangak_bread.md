@@ -8,6 +8,7 @@ size: 6 loaves
 time: 3 hours 50 minutes (including rising time)
 title: Sangak Bread
 ---
+
 ### Ingredients
 
 * `1 tbsp` Dry yeast

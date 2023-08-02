@@ -13,6 +13,7 @@ size: 4 servings
 time: Several hours for marinating + approx. 30 minutes grilling
 title: Chicken Under a Brick
 ---
+
 ### Ingredients
 
 * `1` small chicken, cut in half down the breastbone, and pounded fairly flat (approx 3 lbs.)

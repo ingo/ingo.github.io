@@ -9,6 +9,7 @@ size: 6 servings
 time: 1 hour 35 minutes
 title: Santa Maria Style BBQ Oakwood Grilled Tri-tip
 ---
+
 ### Ingredients
 
 * `2` 3-pound tri-tip roasts

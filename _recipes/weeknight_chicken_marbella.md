@@ -16,6 +16,7 @@ source: https://cooking.nytimes.com/search?q=Rick+A.+Martinez&action=click&modul
 time: 45 minutes
 title: Weeknight Chicken Marbella
 ---
+
 ### Ingredients
 
 * `1 tbsp` extra-virgin olive oil

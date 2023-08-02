@@ -8,6 +8,7 @@ size: 2 servings
 time: 30 minutes
 title: Lamb Chops with Cherry-Port Reduction
 ---
+
 ### Ingredients
 
 * `2 tsp` olive oil

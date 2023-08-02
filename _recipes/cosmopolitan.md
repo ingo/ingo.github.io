@@ -10,6 +10,7 @@ image: cosmopolitan.jpg
 size: 4 servings
 title: Cosmopolitan
 ---
+
 ### Ingredients
 
 * `1 cup` vodka

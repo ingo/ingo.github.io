@@ -17,6 +17,7 @@ spicy: "\u2713"
 time: 1 hour
 title: Fried Chicken Sandwich with Slaw and Spicy Mayo
 ---
+
 ### Ingredients
 
 **Spicy mayo and slaw:**

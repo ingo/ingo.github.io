@@ -11,6 +11,7 @@ size: 4 servings
 time: 2-3 hours
 title: Braised Beef Short Ribs
 ---
+
 ### Ingredients
 
 * `4` bone-in beef short ribs (approx. 2.5-3 pounds, you can also use boneless if you wish)

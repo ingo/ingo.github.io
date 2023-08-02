@@ -10,6 +10,7 @@ source: http://tastesbetterwithfriends.wordpress.com/
 time: 1 hour
 title: Applesauce Chocolate Chip Cookies
 ---
+
 ### Ingredients
 
 * `1/2 c` butter, room temperature

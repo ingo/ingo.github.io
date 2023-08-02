@@ -6,6 +6,7 @@ image: tarragon_seafood_cocktail_sauce.jpg
 size: 2 cups
 title: Tarragon Seafood Cocktail Sauce
 ---
+
 ### Ingredients
 
 * `1 cup` ketchup

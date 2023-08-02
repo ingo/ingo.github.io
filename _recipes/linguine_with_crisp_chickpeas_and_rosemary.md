@@ -12,6 +12,7 @@ source: https://cooking.nytimes.com/search?q=Ali+Slagle&action=click&module=byli
 time: 20 minutes
 title: Linguine With Crisp Chickpeas and Rosemary
 ---
+
 ### Ingredients
 
 * `½ cup` extra-virgin olive oil, plus more for serving

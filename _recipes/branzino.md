@@ -13,6 +13,7 @@ size: 2 servings
 time: 2 hours
 title: Branzino
 ---
+
 ### Ingredients
 
 * `2 pound` whole branzino, gutted and scaled

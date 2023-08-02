@@ -11,6 +11,7 @@ source: https://www.epicurious.com/recipes/food/views/ba-best-fried-chicken-sand
 time: 2 hours 30 minutes
 title: Fried Chicken Sandwich
 ---
+
 ### Ingredients
 
 For the Chicken:

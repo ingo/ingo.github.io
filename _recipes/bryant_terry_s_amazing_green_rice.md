@@ -15,6 +15,7 @@ time: Varies
 title: Bryant Terry's Amazing Green Rice
 vegan: "\u2713"
 ---
+
 ### Ingredients
 
 * Green juice made from kale and spinach

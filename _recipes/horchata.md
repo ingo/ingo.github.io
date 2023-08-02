@@ -12,6 +12,7 @@ size: 4 servings
 title: Horchata
 vegan: null
 ---
+
 ### Ingredients
 
 * `1 c.` long grain rice

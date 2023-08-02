@@ -16,6 +16,7 @@ spicy: "\u2713"
 time: 10 minutes
 title: Root Beer Rickey
 ---
+
 ### Ingredients
 
 * `Ice`

@@ -9,6 +9,7 @@ size: 4 servings
 time: 2 hours 10 minutes
 title: Salmon Burger
 ---
+
 ### Ingredients
 
 * `20 oz` salmon fillet, cut into 1/4-in dice

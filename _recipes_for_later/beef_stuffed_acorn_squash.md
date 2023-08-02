@@ -16,6 +16,7 @@ source: https://thecleaneatingcouple.com/beef-stuffed-acorn-squash/
 time: 1 hour
 title: Beef Stuffed Acorn Squash
 ---
+
 ### Ingredients
 
 * `2` acorn squash halved

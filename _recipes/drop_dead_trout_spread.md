@@ -8,6 +8,7 @@ image: drop_dead_trout_spread.jpg
 size: 2 cups
 title: Drop-Dead Trout Spread
 ---
+
 ### Ingredients
 
 #### Paste

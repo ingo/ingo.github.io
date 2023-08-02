@@ -7,6 +7,7 @@ image_source: https://unsplash.com/photos/H5k8PoC1BBc
 size: 4 servings
 title: Green Beans
 ---
+
 ### Ingredients
 
 * `1 lb` green beans, ends removed

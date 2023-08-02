@@ -11,6 +11,7 @@ size: 2-3 servings
 time: 1 hour
 title: Pan-Roasted Chicken Cipollini
 ---
+
 ### Ingredients
 
 * `1` shallot

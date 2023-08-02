@@ -12,6 +12,7 @@ size: 4-8 servings
 time: 3 hours
 title: Chicken on a Throne
 ---
+
 ### Ingredients
 
 * `2` Chickens, 3 ½ to 4 lbs. each

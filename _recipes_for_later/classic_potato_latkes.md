@@ -19,6 +19,7 @@ source: https://www.washingtonpost.com/recipes/classic-potato-latkes/17674/?itid
 time: 1 hour
 title: Classic Potato Latkes
 ---
+
 ### Ingredients
 
 * `4` large russet potatoes (about 2 pounds 8 ounces total), peeled

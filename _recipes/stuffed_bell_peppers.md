@@ -12,6 +12,7 @@ title: Stuffed Bell Peppers
 vegan: null
 veggie: null
 ---
+
 ### Ingredients
 
 * `8` medium-sized bell peppers (any color, red or yellow preferred)

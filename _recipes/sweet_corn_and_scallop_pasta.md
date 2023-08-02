@@ -16,6 +16,7 @@ source: https://cooking.nytimes.com/search?q=Kay+Chun&action=click&module=byline
 time: 20 minutes
 title: Sweet Corn and Scallop Pasta
 ---
+
 ### Ingredients
 
 * `Kosher salt and black pepper`

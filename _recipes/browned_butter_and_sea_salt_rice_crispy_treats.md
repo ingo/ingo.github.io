@@ -13,6 +13,7 @@ size: 9 servings
 time: 30 minutes
 title: Browned Butter and Sea Salt Rice Crispy Treats
 ---
+
 ### Ingredients
 
 * `1 stick` of butter

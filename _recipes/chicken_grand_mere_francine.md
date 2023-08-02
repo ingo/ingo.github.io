@@ -13,6 +13,7 @@ size: 4 servings
 time: 1 hour
 title: Chicken Grand Mere Francine
 ---
+
 ### Ingredients
 
 * `2 tbsp` extra virgin olive oil

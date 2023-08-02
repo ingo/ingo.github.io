@@ -9,6 +9,7 @@ source: http://cheeseboardcollective.coop/
 time: 1 hour
 title: Fig, Blue Cheese and Caramelized Onion Pizza
 ---
+
 ### Ingredients
 
 * `1/2` recipe Pizza Dough

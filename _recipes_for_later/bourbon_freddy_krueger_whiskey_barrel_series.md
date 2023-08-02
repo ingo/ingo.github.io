@@ -11,6 +11,7 @@ source: http://www.seattleproper.com/Recipes/bourbon-freddy-krueger-whiskey-barr
 time: 6 months and 1 month
 title: Bourbon Freddy Krueger (Whiskey Barrel Series)
 ---
+
 ### Ingredients
 
 * `74.5%` Gambrinus 2-Row

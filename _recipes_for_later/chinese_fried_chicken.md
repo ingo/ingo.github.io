@@ -10,6 +10,7 @@ size: Varies
 time: Overnight + Frying Time
 title: Chinese Fried Chicken
 ---
+
 ### Ingredients
 
 * Chicken pieces

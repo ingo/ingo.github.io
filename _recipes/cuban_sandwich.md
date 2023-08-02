@@ -9,6 +9,7 @@ size: 4 generous sandwiches
 time: 20 minutes
 title: Cuban Sandwich
 ---
+
 ### Ingredients
 
 * Cuban bread or (Substitute French bread if you must. Sourdough slices also work nicely, but NOT a baguette!)

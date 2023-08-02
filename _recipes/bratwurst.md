@@ -11,6 +11,7 @@ size: 10 lbs
 time: Varies
 title: Bratwurst
 ---
+
 ### Ingredients
 
 * `10 lbs` pork butts
