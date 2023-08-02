@@ -9,6 +9,7 @@ source: http://kitchensimplicity.com/homemade-shaken-bake/
 time: 35 minutes
 title: Crispy Chicken Sandwiches
 ---
+
 This recipe for Crispy Chicken Sandwiches is a delightful treat. The chicken is marinated in a sour cream mixture before being coated in homemade shake 'n bake and baked to perfection. Served on ciabatta rolls with a quick aioli, lettuce, tomatoes, and cheese, these sandwiches are sure to be a hit!
 
 ### Ingredients

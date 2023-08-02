@@ -1,7 +1,7 @@
 ---
 category: Sides
 description: This classic Middle Eastern eggplant dip called baba ghanoush has a silky
-  texture and deep smoky flavor from charred eggplant flesh. 
+  texture and deep smoky flavor from charred eggplant flesh.
 image: baba_ganouj.jpg
 size: 2 cups
 title: Baba Ganouj

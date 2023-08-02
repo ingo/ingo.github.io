@@ -2,15 +2,15 @@
 author: Ingo's Dad
 category: Entrees
 description: This smoked turkey recipe uses a water pan in the smoker on top of the
-  coals and wood chips. The steam from the pan imparts gentle smoke flavor without
-  drying out the turkey. Ingo's father mastered this method for juicy, tender smoked
-  turkey every Thanksgiving. It's perfect sliced for sandwiches too.
+  coals and wood chips.
 image: water_smoked_turkey.jpg
 original_title: Ingo's Dad's Smoked Turkey
 size: 4-6 servings
 time: Varies (See notes)
 title: Smoked Turkey
 ---
+
+The steam from the pan imparts gentle smoke flavor without drying out the turkey. Ingo's father mastered this method for juicy, tender smoked turkey every Thanksgiving. It's perfect sliced for sandwiches too.
 
 ### Ingredients
 

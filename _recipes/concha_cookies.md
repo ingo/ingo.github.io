@@ -2,12 +2,7 @@
 author: Isabel Coss
 category: Desserts
 description: A twist on the traditional Mexican concha bread, these cookies keep all
-  the delicious orange blossom and vanilla flavors. The crust is a vanilla craquelin,
-  the same recipe used for the bread and the best part of this pastry. These Mexican
-  concha cookies capture all the flavors of the iconic concha bread in neat handheld
-  cookies. A vanilla craquelin that mimics the bread's crackly crust tops the orange-scented
-  cookies. Each bite delivers those beloved concha flavors of vanilla, orange blossom
-  and caramelized sugar. The craquelin crust adds the perfect textural finish.
+  the delicious orange blossom and vanilla flavors.
 image: concha_cookies.jpg
 image_attribution: Scott Suchman for The Washington Post
 image_source: https://www.washingtonpost.com/food/2022/12/01/concha-cookie-recipe-mexican-baking/
@@ -22,7 +17,8 @@ source: https://www.washingtonpost.com/food/2022/12/01/concha-cookie-recipe-mexi
 time: 2 hours 15 mins
 title: Concha Cookies
 ---
-This recipe is an homage to the traditional concha bread I grew up eating in Mexico. It keeps all the delicious orange blossom and vanilla flavors but uses them in a cookie. The crust is a vanilla craquelin, the same recipe I use for the bread and my favorite part of this pastry. The smell coming out of the oven when you bake them is like being in Mexico again.
+
+The crust is a vanilla craquelin, the same recipe used for the bread and the best part of this pastry. These Mexican concha cookies capture all the flavors of the iconic concha bread in neat handheld cookies. A vanilla craquelin that mimics the bread's crackly crust tops the orange-scented cookies. Each bite delivers those beloved concha flavors of vanilla, orange blossom and caramelized sugar. The craquelin crust adds the perfect textural finish. This recipe is an homage to the traditional concha bread I grew up eating in Mexico. It keeps all the delicious orange blossom and vanilla flavors but uses them in a cookie. The crust is a vanilla craquelin, the same recipe I use for the bread and my favorite part of this pastry. The smell coming out of the oven when you bake them is like being in Mexico again.
 
 ### Ingredients
 

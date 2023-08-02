@@ -1,10 +1,7 @@
 ---
 author: The Mediterranean Dish
 category: Sides
-description: "Delicious marinated feta that can be prepared in just 5 minutes. Serve\
-  \ as an appetizer with homemade pita chips, or use it over your salads, chicken,\
-  \ or fish. Robust feta cheese is balanced beautifully with tangy lemon zest, earthy\
-  \ herbs, and subtly spicy jalape\xF1o and dried chilies."
+description: Delicious marinated feta that can be prepared in just 5 minutes.
 favorite: "\u2713"
 image: marinated_feta.jpg
 size: 2-3 servings
@@ -13,7 +10,7 @@ time: 5 minutes
 title: Marinated Feta
 ---
 
-This marinated feta recipe is a delightful blend of flavors that will enhance any meal. The tangy lemon zest, earthy herbs, and subtly spicy jalapeño and dried chilies perfectly balance the robust feta cheese. It's a quick and easy appetizer that's sure to impress.
+Serve as an appetizer with homemade pita chips, or use it over your salads, chicken, or fish. Robust feta cheese is balanced beautifully with tangy lemon zest, earthy herbs, and subtly spicy jalapeño and dried chilies. This marinated feta recipe is a delightful blend of flavors that will enhance any meal. The tangy lemon zest, earthy herbs, and subtly spicy jalapeño and dried chilies perfectly balance the robust feta cheese. It's a quick and easy appetizer that's sure to impress.
 
 ### Ingredients
 

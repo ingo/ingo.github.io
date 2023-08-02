@@ -2,15 +2,15 @@
 author: Anonymous
 category: Sides
 description: A quick and easy recipe for Niblets corn in butter sauce, perfect for
-  Thanksgiving dinner. This recipe is a great alternative when the store-bought version
-  is sold out.
+  Thanksgiving dinner.
 favorite: "\u2713"
 image: niblets_corn_in_butter_sauce.jpg
 size: 10-12 servings
 time: 30 minutes
 title: Niblets Corn In Butter Sauce
 ---
-This recipe was born out of necessity. Every Thanksgiving, my mom serves Green Giant Niblets corn in butter sauce and I promised I would pick it up for her and bring it on Thanksgiving day. When I went to the store, they were sold out! I made this recipe and brought it already prepared to Thanksgiving dinner. Nobody was the wiser! I saved some money too, because I used store brand corn! This recipe makes a lot...you may want to half it.
+
+This recipe is a great alternative when the store-bought version is sold out. This recipe was born out of necessity. Every Thanksgiving, my mom serves Green Giant Niblets corn in butter sauce and I promised I would pick it up for her and bring it on Thanksgiving day. When I went to the store, they were sold out! I made this recipe and brought it already prepared to Thanksgiving dinner. Nobody was the wiser! I saved some money too, because I used store brand corn! This recipe makes a lot...you may want to half it.
 
 ### Ingredients
 

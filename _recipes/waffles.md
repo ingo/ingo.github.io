@@ -1,15 +1,15 @@
 ---
 author: The Joy of Cooking
 category: Breakfasts
-description: Crispy and fluffy waffles with a hint of vanilla. Perfect for a cozy
-  breakfast or brunch.
+description: Crispy and fluffy waffles with a hint of vanilla.
 favorite: "\u2713"
 image: waffles.jpg
 size: 4 servings
 time: 30 minutes
 title: Waffles
 ---
-This recipe is a delightful twist on the classic waffle recipe from the renowned cookbook, "The Joy of Cooking". The addition of vanilla gives these waffles a sweet aroma and a hint of extra flavor that makes them truly irresistible.
+
+Perfect for a cozy breakfast or brunch. This recipe is a delightful twist on the classic waffle recipe from the renowned cookbook, "The Joy of Cooking". The addition of vanilla gives these waffles a sweet aroma and a hint of extra flavor that makes them truly irresistible.
 
 ### Ingredients
 

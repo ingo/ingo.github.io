@@ -1,14 +1,14 @@
 ---
 category: Breads
 description: A meticulously crafted pizza dough recipe that requires a 72-hour fermentation
-  period for optimal flavor and texture. Perfect for pizza enthusiasts who love a
-  homemade crust.
+  period for optimal flavor and texture.
 image: the_72_hour_pizza_dough.jpg
 size: "7- 12\u201D pies"
 time: 72 hours
 title: The 72 Hour Pizza Dough
 ---
-This pizza dough recipe is a labor of love, requiring a 72-hour fermentation period to achieve the perfect balance of flavors and textures. The result is a crust that is light, airy, and full of complex flavors. It's perfect for pizza enthusiasts who appreciate the art of homemade crust.
+
+Perfect for pizza enthusiasts who love a homemade crust. This pizza dough recipe is a labor of love, requiring a 72-hour fermentation period to achieve the perfect balance of flavors and textures. The result is a crust that is light, airy, and full of complex flavors. It's perfect for pizza enthusiasts who appreciate the art of homemade crust.
 
 ### Ingredients
 

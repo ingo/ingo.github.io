@@ -14,6 +14,7 @@ sweet: "\u2713"
 time: 45 minutes
 title: Sweet-and-Spicy Grilled Vegetables With Burrata
 ---
+
 This recipe is extremely adaptable. You mix and match the vegetables, increasing the amounts of your favorites (or the ones you can get your hands on), and skipping anything you don’t have. And if your grill is large enough, you can make several different kinds of vegetables at the same time. Just don’t crowd them so they cook evenly.
 
 ### Ingredients

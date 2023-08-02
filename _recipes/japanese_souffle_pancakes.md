@@ -2,8 +2,7 @@
 author: Daniela Galarza
 category: Breakfasts
 description: Towering pancakes made with a meringue mixture for extra height, cooked
-  at a very low temperature for a custardy texture. Perfect for breakfast, an afternoon
-  snack, or even dessert.
+  at a very low temperature for a custardy texture.
 image: japanese_souffle_pancakes.jpg
 image_attribution: Romulo Yanes
 image_source: The New York Times
@@ -14,7 +13,8 @@ sweet: "\u2713"
 time: 30 minutes
 title: "Japanese Souffl\xE9 Pancakes"
 ---
-Japanese soufflé pancakes start with the same ingredients as American varieties — namely, eggs, flour and milk — but they tower above traditional diner versions thanks to the addition of extra egg whites. A meringue mixture is beaten to stiff peaks, then folded into the batter, which cooks directly in metal pastry rings to help the pancakes attain their distinctive height. The key is to cook the batter at a very low temperature. If your stove has a small burner, or an especially low heat setting, use it here to create these custardy pancakes, worthy of breakfast, an afternoon snack or even dessert.
+
+Perfect for breakfast, an afternoon snack, or even dessert. Japanese soufflé pancakes start with the same ingredients as American varieties — namely, eggs, flour and milk — but they tower above traditional diner versions thanks to the addition of extra egg whites. A meringue mixture is beaten to stiff peaks, then folded into the batter, which cooks directly in metal pastry rings to help the pancakes attain their distinctive height. The key is to cook the batter at a very low temperature. If your stove has a small burner, or an especially low heat setting, use it here to create these custardy pancakes, worthy of breakfast, an afternoon snack or even dessert.
 
 ### Ingredients
 

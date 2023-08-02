@@ -1,9 +1,7 @@
 ---
 author: Nagi
 category: Breads
-description: "Fluffy, bubbly and chewy naan bread, just like you get at Indian restaurants.\
-  \ Perfect for slopping up your favourite Indian curries \u2013 yet so good that\
-  \ you'll happily devour it plain, straight out of the skillet."
+description: Fluffy, bubbly and chewy naan bread, just like you get at Indian restaurants.
 difficulty: medium
 favorite: "\u2713"
 image: naan_bread.jpg
@@ -19,7 +17,8 @@ time: 2 hours
 title: Naan Bread
 vegan: null
 ---
-This is a recipe for naan bread that's fluffy, bubbly and chewy, just as it should be. Nobody will ever mistake this for just another basic flatbread! Perfect for slopping up your favourite Indian curries – yet so good that you'll happily devour it plain, straight out of the skillet.
+
+Perfect for slopping up your favourite Indian curries – yet so good that you'll happily devour it plain, straight out of the skillet. This is a recipe for naan bread that's fluffy, bubbly and chewy, just as it should be. Nobody will ever mistake this for just another basic flatbread! Perfect for slopping up your favourite Indian curries – yet so good that you'll happily devour it plain, straight out of the skillet.
 
 ### Ingredients
 

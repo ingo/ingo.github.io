@@ -2,7 +2,7 @@
 author: Yotam Ottolenghi
 category: Entrees
 description: Luxurious Middle Eastern cheese made from yogurt, flavored with nuts,
-  herbs, and spices. A hint of the Middle East in your kitchen.
+  herbs, and spices.
 image: labneh_with_olives_pistachios_and_oregano.jpg
 image_attribution: Colin Campbell
 size: 4 servings
@@ -10,7 +10,8 @@ source: http://www.ottolenghi.co.uk/
 time: 36 hours
 title: Labneh with Olives, Pistachios and Oregano
 ---
-Try your hand at turning yogurt into a luxurious Middle Eastern cheese. This recipe may seem a bit technical, but it isn't really, providing you get started a day ahead. Serve the labneh with minimum graces: spoon inside chunks of good, crusty bread and top with tomato.
+
+A hint of the Middle East in your kitchen. Try your hand at turning yogurt into a luxurious Middle Eastern cheese. This recipe may seem a bit technical, but it isn't really, providing you get started a day ahead. Serve the labneh with minimum graces: spoon inside chunks of good, crusty bread and top with tomato.
 
 ### Ingredients
 

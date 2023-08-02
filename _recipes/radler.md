@@ -1,13 +1,14 @@
 ---
 category: Beverages
 description: A Radler is a typical summer drink for Women and children in Germany.
-  It is also known as a "Kaputes Bier" or "Ruined Beer".
 image: radler.jpg
 original_title: Kaputes Bier
 size: 1 serving
 time: 5 minutes
 title: Radler
 ---
+
+It is also known as a "Kaputes Bier" or "Ruined Beer".
 
 ### Ingredients
 

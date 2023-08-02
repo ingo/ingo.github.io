@@ -2,13 +2,15 @@
 author: "J. Kenji L\xF3pez-Alt"
 category: Entrees
 description: The smaller the bird, the faster it'll cook through, and the less time
-  it'll have to dry out. Better yet, just use a Cornish game hen.
+  it'll have to dry out.
 image: tandoori_chicken.jpg
 size: 4 to 6 servings
 source: https://www.seriouseats.com/user/profile/kenjilopezalt
 time: 5 hours
 title: Tandoori Grilled Game Hens
 ---
+
+Better yet, just use a Cornish game hen.
 
 ### Ingredients
 

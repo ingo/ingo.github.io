@@ -1,16 +1,15 @@
 ---
 author: Walt Disney
 category: Entrees
-description: "Recreate Walt\u2019s Chili from Carnation Caf\xE9 in your own kitchen!\
-  \ This hearty chili recipe is based on Walt\u2019s own recipe, and is delicious\
-  \ topped with sour cream, cheese, and fresh tomatoes."
+description: "Recreate Walt\u2019s Chili from Carnation Caf\xE9 in your own kitchen!"
 image: walt_s_chili.jpg
 size: 4 servings
 source: http://disneyland.com/
 time: 3 hours 20 minutes
 title: Walt's Chili
 ---
-Walt’s diet was that of a mid-western meat and potatoes man: his taste was simple but hardy. Throughout most of his life funding was always an issue but he was always able to find a way to make ends meet. One of his fixes was his favorite chili.
+
+This hearty chili recipe is based on Walt’s own recipe, and is delicious topped with sour cream, cheese, and fresh tomatoes. Walt’s diet was that of a mid-western meat and potatoes man: his taste was simple but hardy. Throughout most of his life funding was always an issue but he was always able to find a way to make ends meet. One of his fixes was his favorite chili.
 
 Walt usually combined a can of Gebhardt’s (which had a lot of meat, few beans) and Dennison’s (lots of beans, not a lot of meat) when he ate at the Studio. The chili was always joined with a glass of V-8 and saltine crackers. This combination pleased his taste buds and his wallet.
 

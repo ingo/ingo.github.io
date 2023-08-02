@@ -2,14 +2,14 @@
 author: Ingo Muschenetz
 category: Entrees
 description: A succulent beef tenderloin wrapped in bacon and served with a tangy
-  whipped horseradish cream. A perfect dish for a special occasion or a fancy weekend
-  dinner.
+  whipped horseradish cream.
 image: filet_mignon_with_bacon_wrap_and_whipped_horseradish_cream_sous_vide.jpg
 size: 2-4 servings
 time: 2-6 hours
 title: Filet Mignon with Bacon Wrap and Whipped Horseradish Cream Sous Vide
 ---
-This recipe is a gourmet take on the classic filet mignon, using a sous vide for perfect, even cooking. The bacon wrap adds a smoky flavor and the whipped horseradish cream provides a tangy contrast to the rich beef.
+
+A perfect dish for a special occasion or a fancy weekend dinner. This recipe is a gourmet take on the classic filet mignon, using a sous vide for perfect, even cooking. The bacon wrap adds a smoky flavor and the whipped horseradish cream provides a tangy contrast to the rich beef.
 
 ### Ingredients
 

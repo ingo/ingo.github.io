@@ -1,8 +1,7 @@
 ---
 author: Unknown
 category: Sides
-description: A flavorful rice dish with a crispy bottom layer, known as Tahdig. This
-  recipe uses a combination of yogurt, butter, and oil to achieve the perfect crust.
+description: A flavorful rice dish with a crispy bottom layer, known as Tahdig.
 difficulty: medium
 image: persian_rice_with_yogurt_enhanced_tahdig.jpg
 size: 4 servings
@@ -11,7 +10,8 @@ title: Persian-ish Rice with Tahdig
 vegan: null
 veggie: "\u2713"
 ---
-This recipe is a take on the traditional Persian rice dish with Tahdig, the crispy bottom layer of the rice. The combination of yogurt, butter, and oil gives the Tahdig a unique flavor and texture.
+
+This recipe uses a combination of yogurt, butter, and oil to achieve the perfect crust. This recipe is a take on the traditional Persian rice dish with Tahdig, the crispy bottom layer of the rice. The combination of yogurt, butter, and oil gives the Tahdig a unique flavor and texture.
 
 ### Ingredients
 

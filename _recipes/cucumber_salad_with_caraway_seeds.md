@@ -2,14 +2,14 @@
 author: Ingo Muschenetz
 category: Sides
 description: A simple German cucumber salad dressed with a vinaigrette of white wine
-  vinegar and vegetable oil, featuring caraway seeds for an aromatic touch. With just
-  a few ingredients, it's a refreshing accompaniment to rich or spicy dishes. Let
-  the sliced cucumbers marinate at least 15 minutes
+  vinegar and vegetable oil, featuring caraway seeds for an aromatic touch.
 image: cucumber_salad_with_caraway_seeds.jpg
 size: 2 cups
 time: 1 hour 10 minutes
 title: Cucumber Salad With Caraway Seeds
 ---
+
+With just a few ingredients, it's a refreshing accompaniment to rich or spicy dishes. Let the sliced cucumbers marinate at least 15 minutes
 
 ### Ingredients
 

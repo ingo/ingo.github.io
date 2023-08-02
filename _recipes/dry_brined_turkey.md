@@ -3,10 +3,7 @@ author: NYT Cooking
 category: Entrees
 description: "This fantastic turkey recipe borrows a technique perfected by Judy Rodgers,\
   \ the chef from the Zuni Caf\xE9 in San Francisco, who had exceptional results salting\
-  \ chickens long before roasting them (also called dry-brining). No more fussy liquid\
-  \ brine that alters the texture of the meat \u2014 just crisp, golden skin and tender,\
-  \ moist meat. This turkey will be the talk of the table. Allow two days for the\
-  \ bird to season before roasting."
+  \ chickens long before roasting them (also called dry-brining)."
 image: dry_brined_turkey.jpg
 image_attribution: Andrew Scrivani for The New York Times
 original_title: Dry-Brined Turkey
@@ -15,6 +12,8 @@ source: https://cooking.nytimes.com/recipes/1012869-dry-brined-turkey
 time: "3\xBD hours, plus 2 days\u2019 brining"
 title: Dry-Brined Turkey
 ---
+
+No more fussy liquid brine that alters the texture of the meat — just crisp, golden skin and tender, moist meat. This turkey will be the talk of the table. Allow two days for the bird to season before roasting.
 
 ### Ingredients
 

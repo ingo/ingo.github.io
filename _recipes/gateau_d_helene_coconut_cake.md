@@ -1,8 +1,7 @@
 ---
 author: Simone (Simca) Beck
 category: Desserts
-description: A white cake filled and iced with coconut cream and apricot. Best baked,
-  filled, frosted and refrigerated for at least an hour (or up to two days).
+description: A white cake filled and iced with coconut cream and apricot.
 image: gateau_d_helene_coconut_cake.jpg
 image_attribution: David Malosh for The New York Times
 original_title: "G\xE2teau d\u2019H\xE9l\xE8ne"
@@ -11,7 +10,8 @@ source: https://www.nytimes.com/2021/06/02/magazine/gateau-dhelene-recipe.html
 time: 1 1/2 hours, plus cooling and chilling
 title: "G\xE2teau d\u2019H\xE9l\xE8ne (Coconut Cake)"
 ---
-This coconut cake was adapted from a recipe by Simone (Simca) Beck, best known as Julia Child’s co-author on “Mastering the Art of French Cooking.” She called it “Gâteau d’Hélène: a white cake filled and iced with coconut cream and apricot.” The recipe, published in Ms. Beck’s 1972 book, “Simca’s Cuisine” (Lyons Press, 1998), capped what she called a “carefree lunch” because it could be made ahead. Indeed, this cake is best baked, filled, frosted and refrigerated for at least an hour (or up to two days). Kind of like a madeleine, its layers are purposefully a bit dry, as they need to hold a dousing of orange juice and rum. The whipped cream filling and frosting is soft and dreamy. It’s an elegant celebration cake. —Dorie Greenspan
+
+Best baked, filled, frosted and refrigerated for at least an hour (or up to two days). This coconut cake was adapted from a recipe by Simone (Simca) Beck, best known as Julia Child’s co-author on “Mastering the Art of French Cooking.” She called it “Gâteau d’Hélène: a white cake filled and iced with coconut cream and apricot.” The recipe, published in Ms. Beck’s 1972 book, “Simca’s Cuisine” (Lyons Press, 1998), capped what she called a “carefree lunch” because it could be made ahead. Indeed, this cake is best baked, filled, frosted and refrigerated for at least an hour (or up to two days). Kind of like a madeleine, its layers are purposefully a bit dry, as they need to hold a dousing of orange juice and rum. The whipped cream filling and frosting is soft and dreamy. It’s an elegant celebration cake. —Dorie Greenspan
 
 ### Ingredients
 

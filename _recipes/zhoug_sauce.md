@@ -2,7 +2,7 @@
 author: Sylvia Fountaine
 category: Sauces
 description: A flavorful Middle Eastern Green Chili Sauce that gives meals a burst
-  of flavor. This version is simple and easy without compromising flavor.
+  of flavor.
 image: zhoug_sauce.jpg
 original_title: Zhug
 size: "1 \xBC cup"
@@ -11,7 +11,8 @@ spicy: "\u2713"
 time: 10 minutes
 title: Zhoug Sauce
 ---
-Zhoug, pronounced Zoog, is a spicy, green chili cilantro sauce that hails from Yemen. It has become wildly popular in Israel and Middle Eastern cuisine to give dishes a huge burst of flavor. This simplified version of Zhoug is made with milder chilies, jalapeños versus hotter bird’s eye or serrano chilies. This version can also be made in a food processor to save time. It literally takes 5 minutes!
+
+This version is simple and easy without compromising flavor. Zhoug, pronounced Zoog, is a spicy, green chili cilantro sauce that hails from Yemen. It has become wildly popular in Israel and Middle Eastern cuisine to give dishes a huge burst of flavor. This simplified version of Zhoug is made with milder chilies, jalapeños versus hotter bird’s eye or serrano chilies. This version can also be made in a food processor to save time. It literally takes 5 minutes!
 
 ### Ingredients
 

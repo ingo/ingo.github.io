@@ -11,6 +11,7 @@ source: https://www.recipetineats.com/slow-roasted-rosemary-garlic-lamb-shoulder
 time: 3 hours 30 minutes
 title: Slow-Cooked Lamb Shoulder
 ---
+
 This slow-cooked lamb shoulder is a family favorite, perfect for a Sunday Night Roast. The lamb shoulder is stuffed with rosemary and garlic to infuse the meat with flavor and slow roasted to perfection. 
 
 ### Ingredients

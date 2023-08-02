@@ -2,15 +2,15 @@
 author: Karen Muschenetz
 category: Breakfasts
 description: "Kaiserschmarren is a thick, souffle-like pancake, first\_created for\
-  \ the Austrian Emperor, Francis Joseph I. Light in texture, you could have seconds\
-  \ or thirds of it without feeling guilty. Luckily preparing Kaiserschmarren is\_\
-  almost always\_easier than spelling it."
+  \ the Austrian Emperor, Francis Joseph I."
 image: kaiserschmarren.jpg
 size: 4-5 servings
 source: http://www.amazon.de/gro%C3%9Fe-Sacher-Kochbuch-%C3%B6sterreichische-K%C3%BCche/dp/3929626276
 time: 30 minutes
 title: Kaiserschmarren
 ---
+
+Light in texture, you could have seconds or thirds of it without feeling guilty. Luckily preparing Kaiserschmarren is almost always easier than spelling it.
 
 ### Ingredients
 

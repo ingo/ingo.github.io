@@ -7,6 +7,7 @@ size: 1 batch
 time: 10 minutes
 title: Lamb Marinade
 ---
+
 A simple yet flavorful marinade for lamb that brings out the best of its natural flavors. The combination of olive oil, lemon juice, Dijon mustard, honey, Worcestershire sauce, rosemary, garlic, and fresh mint creates a balanced and aromatic blend that enhances the taste of the meat.
 
 ### Ingredients

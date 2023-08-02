@@ -7,6 +7,8 @@ size: 8 servings
 title: Marinated Goat Cheese
 ---
 
+
+
 ### Ingredients
 
 * `12` large fresh thyme sprigs

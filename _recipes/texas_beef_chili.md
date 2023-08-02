@@ -10,6 +10,7 @@ spicy: "\u2713"
 time: 4 hours 20 minutes
 title: Texas Beef Chili
 ---
+
 This Texas Beef Chili, also known as Chili Con Carne, is a hearty dish with tender chunks of beef enveloped in a deep, spicy, and smoky sauce. It's like a chili-flavored beef stew that's perfect for those cold winter nights.
 
 ### Ingredients

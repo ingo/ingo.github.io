@@ -1,15 +1,15 @@
 ---
 author: King Arthur Baking
 category: Breakfasts
-description: Wildly delicious sourdough crumpets made from unfed starter. Perfect
-  for a quick breakfast or snack.
+description: Wildly delicious sourdough crumpets made from unfed starter.
 image: sourdough_crumpets.jpg
 size: 4-5 crumpets
 source: https://www.kingarthurbaking.com/recipebox
 time: 11 mins
 title: Sourdough Crumpets
 ---
-Sourdough Crumpets are a great way to use up your discard starter. In just 10 to 15 minutes, start to finish, you can turn unfed starter into these delicious crumpets. 
+
+Perfect for a quick breakfast or snack. Sourdough Crumpets are a great way to use up your discard starter. In just 10 to 15 minutes, start to finish, you can turn unfed starter into these delicious crumpets. 
 
 ### Ingredients
 

@@ -5,6 +5,8 @@ image: ringlewurstchen.jpg
 title: "Ringlew\xFCrstchen"
 ---
 
+
+
 ### Ingredients
 
 * `One recipe` Bratwurst, stuffed into small casings

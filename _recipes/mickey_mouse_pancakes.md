@@ -1,13 +1,13 @@
 ---
 author: Ingo
 category: Breakfasts
-description: As a young kid, Ingo would often make this pancake recipe. It's so named
-  as it came out of the "Mickey Mouse Cookbook." It is not necessary to shape the
-  pancakes like Mickey Mouse's head, but it helps.
+description: As a young kid, Ingo would often make this pancake recipe.
 image: mickey_mouse_pancakes.jpg
 size: 4 servings
 title: Mickey Mouse Pancakes
 ---
+
+It's so named as it came out of the "Mickey Mouse Cookbook." It is not necessary to shape the pancakes like Mickey Mouse's head, but it helps.
 
 ### Ingredients
 

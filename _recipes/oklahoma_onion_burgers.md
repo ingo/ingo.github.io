@@ -2,8 +2,7 @@
 author: "J. Kenji L\xF3pez-Alt"
 category: Entrees
 description: A delicious burger invented in El Reno, Okla., during the Depression
-  era. The buns are steamed in onion-scented vapor, and the patties are cooked smashed-style
-  with a huge amount of thinly shaved onions.
+  era.
 image: oklahoma_onion_burgers.jpg
 image_attribution: Bryan Gardner for The New York Times
 original_title: Depression Burger
@@ -12,7 +11,8 @@ source: https://cooking.nytimes.com/ourcooks/j-kenji-lopez-alt/my-recipes?action
 time: 15 to 30 minutes
 title: Oklahoma Onion Burgers
 ---
-Homer Davis and his son Ross invented what he called the Depression burger at the Hamburger Inn in El Reno, Okla., as a means to add inexpensive bulk to their burgers. Rather than toasting, the buns are steamed in onion-scented vapor. That the technique — cooking the patties smashed-style with a huge amount of thinly shaved onions and steaming the buns — and restaurant remain popular to this day is a testament to the burgers’ deliciousness. If you prefer, you can take the cooking (and the accompanying lingering onion aroma) completely out of the house by heating the skillet or griddle directly over a very hot grill and cooking outdoors (see Tip).
+
+The buns are steamed in onion-scented vapor, and the patties are cooked smashed-style with a huge amount of thinly shaved onions. Homer Davis and his son Ross invented what he called the Depression burger at the Hamburger Inn in El Reno, Okla., as a means to add inexpensive bulk to their burgers. Rather than toasting, the buns are steamed in onion-scented vapor. That the technique — cooking the patties smashed-style with a huge amount of thinly shaved onions and steaming the buns — and restaurant remain popular to this day is a testament to the burgers’ deliciousness. If you prefer, you can take the cooking (and the accompanying lingering onion aroma) completely out of the house by heating the skillet or griddle directly over a very hot grill and cooking outdoors (see Tip).
 
 ### Ingredients
 

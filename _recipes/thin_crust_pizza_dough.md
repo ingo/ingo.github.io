@@ -2,13 +2,14 @@
 author: Marcella Hazan
 category: Breads
 description: A very tasty and crisp crust pizza dough recipe from Marcella Hazan's
-  Essentials of Classic Italian Cooking. It's very easy to make and only needs a few
-  hours of advance preparation.
+  Essentials of Classic Italian Cooking.
 image: thin_crust_pizza_dough.jpg
 size: 2 pizzas
 time: Few hours
 title: Thin Crust Pizza Dough
 ---
+
+It's very easy to make and only needs a few hours of advance preparation.
 
 ### Ingredients
 

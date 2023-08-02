@@ -1,17 +1,15 @@
 ---
 author: Ingo's Dad
 category: Sides
-description: The cranberry sauce of Ingo's Dad. This holiday cranberry relish was
-  the signature sauce Ingo's father served each Thanksgiving. The cranberries and
-  orange are simply sweetened with sugar to create a chunky-style sauce that perfectly
-  complements the turkey and stuffing. It's a classic recipe you'll want to add to
-  your own holiday traditions.
+description: The cranberry sauce of Ingo's Dad.
 image: cranberry_orange_relish.jpg
 size: 2 cups
 source: null
 time: 2 hours 15 minutes
 title: Cranberry Orange Relish
 ---
+
+This holiday cranberry relish was the signature sauce Ingo's father served each Thanksgiving. The cranberries and orange are simply sweetened with sugar to create a chunky-style sauce that perfectly complements the turkey and stuffing. It's a classic recipe you'll want to add to your own holiday traditions.
 
 ### Ingredients
 

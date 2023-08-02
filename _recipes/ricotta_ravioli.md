@@ -2,8 +2,7 @@
 author: Niki Achitoff-Gray
 category: Entrees
 description: Classic homemade ricotta ravioli with a tang from Parmesan cheese, a
-  tart squeeze of lemon juice, and a subtle hit of nutmeg. All it needs is a splash
-  of olive oil and it's ready to serve.
+  tart squeeze of lemon juice, and a subtle hit of nutmeg.
 image: ricotta_ravioli.jpg
 image_attribution: Niki Achitoff-Gray
 nutrition:
@@ -17,7 +16,8 @@ source: https://www.seriouseats.com/fresh-ricotta-ravioli-recipe
 time: 60 mins
 title: Homemade Ricotta Ravioli
 ---
-This recipe for classic homemade ricotta ravioli gets its unique flavor from Parmesan cheese, a tart squeeze of lemon juice, and a subtle hint of nutmeg. All it needs is a splash of olive oil and it's ready to serve. 
+
+All it needs is a splash of olive oil and it's ready to serve. This recipe for classic homemade ricotta ravioli gets its unique flavor from Parmesan cheese, a tart squeeze of lemon juice, and a subtle hint of nutmeg. All it needs is a splash of olive oil and it's ready to serve. 
 
 ### Ingredients
 

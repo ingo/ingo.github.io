@@ -3,7 +3,6 @@ author: Nicole Taylor
 category: Entrees
 description: Though the name sounds like a wild sweet-tooth's parade, this fried chicken
   recipe actually makes perfect sense when paired with a spicy scallion cornmeal waffle.
-  
 image: berry_jam_fried_chicken.jpg
 size: 4-6 servings
 source: https://cooking.nytimes.com/search?q=Nicole+Taylor&action=click&module=byline&region=recipe%20page

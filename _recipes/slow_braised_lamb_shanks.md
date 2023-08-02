@@ -11,6 +11,7 @@ source: https://cooking.nytimes.com/search?q=Mark+Bittman&action=click&module=by
 time: At least 2 hours
 title: Slow-Braised Lamb Shanks
 ---
+
 This slow-braised lamb shanks recipe by Mark Bittman is a versatile dish that can be incorporated into a variety of meals. The lamb is cooked until it's falling off the bone, and the cooking liquid is reserved for use in other recipes.
 
 ### Ingredients

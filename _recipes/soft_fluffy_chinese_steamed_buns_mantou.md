@@ -2,15 +2,15 @@
 author: WhatToCookToday
 category: Breads
 description: Soft and fluffy Chinese steamed buns, also known as Mantou, are a staple
-  in Chinese cuisine. These buns are perfect for any meal, and can be filled with
-  a variety of delicious fillings or eaten plain.
+  in Chinese cuisine.
 image: soft_fluffy_chinese_steamed_buns_mantou_.jpg
 size: 12 medium buns
 source: https://whattocooktoday.com/soft-fluffy-chinese-steamed-buns.html
 time: 1 hour 52 minutes
 title: Soft Fluffy Chinese Steamed Buns (Mantou)
 ---
-These soft and fluffy Chinese steamed buns, also known as Mantou, are a staple in Chinese cuisine. They can be filled with a variety of delicious fillings or eaten plain. They are perfect for any meal, and are sure to impress your friends and family with their soft and fluffy texture.
+
+These buns are perfect for any meal, and can be filled with a variety of delicious fillings or eaten plain. These soft and fluffy Chinese steamed buns, also known as Mantou, are a staple in Chinese cuisine. They can be filled with a variety of delicious fillings or eaten plain. They are perfect for any meal, and are sure to impress your friends and family with their soft and fluffy texture.
 
 ### Ingredients
 

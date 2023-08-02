@@ -28,10 +28,17 @@ def process_file(file_path, debug=False):
         first_sentence, remaining_text = extract_first_sentence(yaml_dict['description'])
         yaml_dict['description'] = first_sentence
 
+        # iterate over content
+        for i, line in enumerate(content):
+            print(f'{i}: {line}\n')
+
         # Check if the first non-blank line of the content starts with '###'
         if content and content[0].startswith('###'):
-            content = ['\n', '\n', remaining_text] + content
+            print(f'Found a heading: {content[0]}')
+            content = [remaining_text, '\n', '\n'] + content
         else:
+            if(remaining_text.endswith('.')):
+                remaining_text = remaining_text + " "            
             content = [remaining_text] + content
 
     new_yaml_header = yaml.dump(yaml_dict, default_flow_style=False)

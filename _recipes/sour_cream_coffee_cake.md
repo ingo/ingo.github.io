@@ -2,8 +2,7 @@
 author: NYT Cooking
 category: Breakfasts
 description: A classic coffee cake with a tender crumb and a crunchy streusel topping
-  that comes together in about an hour. It's quite rich, so your serving sizes don't
-  need to be large.
+  that comes together in about an hour.
 image: sour_cream_coffee_cake.jpg
 image_attribution: Craig Lee
 image_source: The New York Times
@@ -12,7 +11,8 @@ source: https://www.nytimes.com/1994/04/24/magazine/good-health-have-a-nice-brea
 time: 1 hour
 title: Sour-Cream Coffee Cake
 ---
-This Sour-Cream Coffee Cake is a classic breakfast delight, featuring a tender crumb and a crunchy streusel topping. Despite its richness, the serving sizes don't need to be large, making it perfect for sharing.
+
+It's quite rich, so your serving sizes don't need to be large. This Sour-Cream Coffee Cake is a classic breakfast delight, featuring a tender crumb and a crunchy streusel topping. Despite its richness, the serving sizes don't need to be large, making it perfect for sharing.
 
 ### Ingredients
 

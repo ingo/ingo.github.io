@@ -1,16 +1,15 @@
 ---
 author: Parker Feierbach
 category: Sides
-description: "Insanely addictive garlic butter mushrooms. If you can't find crimini\
-  \ mushrooms, look for baby bella's or button mushrooms\u2014they're essentially\
-  \ the same thing!"
+description: Insanely addictive garlic butter mushrooms.
 image: garlic_butter_mushrooms.jpg
 size: 3 servings
 source: https://www.delish.com/cooking/recipe-ideas/a24520074/garlic-butter-mushrooms-recipe/
 time: 0 hours 30 mins
 title: Garlic Butter Mushrooms
 ---
-These garlic butter mushrooms are a great side dish for any meal. They are easy to prepare and are sure to be a hit with everyone. If you can't find crimini mushrooms, you can substitute with baby bella's or button mushrooms as they are essentially the same thing.
+
+If you can't find crimini mushrooms, look for baby bella's or button mushrooms—they're essentially the same thing!These garlic butter mushrooms are a great side dish for any meal. They are easy to prepare and are sure to be a hit with everyone. If you can't find crimini mushrooms, you can substitute with baby bella's or button mushrooms as they are essentially the same thing.
 
 ### Ingredients
 

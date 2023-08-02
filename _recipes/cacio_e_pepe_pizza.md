@@ -2,11 +2,7 @@
 author: Stefano Callegari, adapted by John Regefalk
 category: Entrees
 description: A super savory pizza inspired by the popular pasta dish cacio e pepe,
-  crafted by Rome's premier pizza innovator, Stefano Callegari. This clever pizza
-  remixes the classic cacio e pepe pasta dish into pizza form. It uses minimal toppings
-  of just cheese and black pepper to allow the perfectly charred and crispy sourdough
-  crust to shine. The recipe comes from famous Roman pizza chef Stefano Callegari,
-  known for his inventive pizza creations.
+  crafted by Rome's premier pizza innovator, Stefano Callegari.
 image: cacio_e_pepe_pizza.jpg
 image_attribution: Con Poulos
 image_source: https://www.conpoulos.com/
@@ -16,7 +12,8 @@ source: https://www.foodandwine.com/recipes/cacio-e-pepe-pizza
 time: 13 hours
 title: Cacio e Pepe Pizza
 ---
-Stefano Callegari, Rome’s premier pizza innovator, relies on surprising techniques to craft creative pies like cacio e pepe pizza. For this super savory pizza, he draws on the main components of the popular pasta dish cacio e pepe (Pecorino Romano cheese and black pepper), which he liberally applies to a dough base. The final touch is a healthy dose of freshly ground black pepper, which packs a piquant punch. 
+
+This clever pizza remixes the classic cacio e pepe pasta dish into pizza form. It uses minimal toppings of just cheese and black pepper to allow the perfectly charred and crispy sourdough crust to shine. The recipe comes from famous Roman pizza chef Stefano Callegari, known for his inventive pizza creations. Stefano Callegari, Rome’s premier pizza innovator, relies on surprising techniques to craft creative pies like cacio e pepe pizza. For this super savory pizza, he draws on the main components of the popular pasta dish cacio e pepe (Pecorino Romano cheese and black pepper), which he liberally applies to a dough base. The final touch is a healthy dose of freshly ground black pepper, which packs a piquant punch. 
 
 This recipe has been adapted for a home kitchen by baker extraordinaire chef John Regefalk. 
 

@@ -9,6 +9,7 @@ source: https://www.onceuponachef.com/recipes/new-york-style-cheesecake.html?rec
 time: 2 hours 25 minutes, plus at least 8 hours to cool
 title: New York-Style Cheesecake
 ---
+
 This recipe is perfect for those who love a good cheesecake but are intimidated by the idea of making one at home. With clear instructions and common ingredients, you'll be able to create a stunning New York-Style Cheesecake that's sure to impress!
 
 ### Ingredients

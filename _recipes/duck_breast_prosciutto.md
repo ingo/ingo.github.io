@@ -10,6 +10,7 @@ source: http://foodielawyer.com/2011/01/duck-breast-prosciutto/
 time: 1 week
 title: Duck Breast Prosciutto
 ---
+
 This recipe is part of a year-long collective effort of a group of bloggers participating in "CharcutePalooza," using ancient methods of preserving meats. The first challenge was to create duck breast prosciutto, guided by Michael Ruhlman’s book on charcuterie.
 
 ### Ingredients

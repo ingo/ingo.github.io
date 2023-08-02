@@ -2,11 +2,7 @@
 author: Ali Slagle
 category: Beverages
 description: Spicy, spritzy and refreshing, this cocktail is essentially grown-up
-  root beer. A classic rickey is just liquor, lime juice and carbonated water, but
-  reach for rye whiskey and trade the soda water for root beer, and you get the root
-  beer rickey, a drink bartender Jim Meehan created for Cicoria, a pizzeria in Portland,
-  Ore. Root beer and rye are natural partners, as each is woodsy, minty and caramelly;
-  the soda also lends sweetness without having to add sugar.
+  root beer.
 image: root_beer_rickey.jpg
 image_attribution: Armando Rafael
 image_source: The New York Times
@@ -16,6 +12,8 @@ spicy: "\u2713"
 time: 10 minutes
 title: Root Beer Rickey
 ---
+
+A classic rickey is just liquor, lime juice and carbonated water, but reach for rye whiskey and trade the soda water for root beer, and you get the root beer rickey, a drink bartender Jim Meehan created for Cicoria, a pizzeria in Portland, Ore. Root beer and rye are natural partners, as each is woodsy, minty and caramelly; the soda also lends sweetness without having to add sugar.
 
 ### Ingredients
 

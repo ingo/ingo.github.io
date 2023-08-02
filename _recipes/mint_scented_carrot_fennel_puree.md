@@ -1,13 +1,13 @@
 ---
 category: Sides
-description: "A delightful carrot pur\xE9e with a hint of mint and fennel. This isn't\
-  \ just carrot pur\xE9e, but it's mostly carrots. Adjust the amount of butter and\
-  \ cream to suit, or substitute with milk if you're feeling health-conscious."
+description: "A delightful carrot pur\xE9e with a hint of mint and fennel."
 image: mint_scented_carrot_fennel_puree.jpg
 size: 4 servings
 time: 30 minutes
 title: "Mint-Scented Carrot-Fennel Pur\xE9e"
 ---
+
+This isn't just carrot purée, but it's mostly carrots. Adjust the amount of butter and cream to suit, or substitute with milk if you're feeling health-conscious.
 
 ### Ingredients
 

@@ -1,15 +1,15 @@
 ---
 author: Barefoot Contessa at Home
 category: Sides
-description: Deliciously roasted potatoes with a tangy mustard twist. Perfect as a
-  side dish for any meal.
+description: Deliciously roasted potatoes with a tangy mustard twist.
 image: mustard_roasted_potatoes.jpg
 size: 4 servings
 source: http://www.foodnetwork.com/recipes/ina-garten/mustard-roasted-potatoes-recipe.html?oc=linkback
 time: 1 hour 10 minutes
 title: Mustard-Roasted Potatoes
 ---
-These Mustard-Roasted Potatoes are a delightful twist on the classic roasted potatoes. The tangy mustard adds a unique flavor that will have everyone asking for seconds. The recipe was first featured in the 2006 edition of Barefoot Contessa at Home.
+
+Perfect as a side dish for any meal. These Mustard-Roasted Potatoes are a delightful twist on the classic roasted potatoes. The tangy mustard adds a unique flavor that will have everyone asking for seconds. The recipe was first featured in the 2006 edition of Barefoot Contessa at Home.
 
 ### Ingredients
 

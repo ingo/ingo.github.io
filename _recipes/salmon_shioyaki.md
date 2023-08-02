@@ -1,10 +1,7 @@
 ---
 author: Taichi Kitamura
 category: Entrees
-description: "Add shioyaki\u2014Japanese for \"salt-grilled\"\u2014to your repertoire.\
-  \ This quick cooking technique produces salmon with an umami-flavored salty crust\
-  \ and crispy skin. We've added an addictive, shake-on seasoning you can get at Asian\
-  \ grocery stores or online to amplify the flavors."
+description: "Add shioyaki\u2014Japanese for \"salt-grilled\"\u2014to your repertoire."
 image: salmon_shioyaki.jpg
 image_attribution: Leigh Beisch
 image_source: Dan Becker
@@ -15,7 +12,8 @@ size: Serves 4
 time: 2 hrs 15 mins
 title: Salmon Shioyaki
 ---
-This recipe is shared by Taichi Kitamura, chef of Kappo Tamura restaurant in Seattle. It's been his favorite way to eat fish since his childhood in Kyoto, Japan.
+
+This quick cooking technique produces salmon with an umami-flavored salty crust and crispy skin. We've added an addictive, shake-on seasoning you can get at Asian grocery stores or online to amplify the flavors. This recipe is shared by Taichi Kitamura, chef of Kappo Tamura restaurant in Seattle. It's been his favorite way to eat fish since his childhood in Kyoto, Japan.
 
 ### Ingredients
 

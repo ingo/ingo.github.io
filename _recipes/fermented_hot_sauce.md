@@ -1,11 +1,7 @@
 ---
 author: Sylvia Fountaine
 category: Sauces
-description: Tender and delicately tangy crepes made with a sourdough starter. The
-  sourdough adds complexity and lifts the classic crepe to new heights. Be patient
-  when you start to cook them, since just like pancakes, the first crepe is never
-  the best as you get the hang of it. They make an ideal canvas for either sweet or
-  savory fillings.
+description: Tender and delicately tangy crepes made with a sourdough starter.
 favorite: "\u2713"
 image: fermented_hot_sauce.jpg
 original_title: Fermented Hot Sauce
@@ -15,7 +11,8 @@ spicy: "\u2713"
 time: 120 hours 20 minutes
 title: Fermented Hot Sauce
 ---
-Learn how to make a fermented hot sauce – a simple way to enhance and preserve your abundance of garden chilies to use throughout the winter. Full of healthy probiotics, this easy recipe has many health benefits. Plus it just tastes good!
+
+The sourdough adds complexity and lifts the classic crepe to new heights. Be patient when you start to cook them, since just like pancakes, the first crepe is never the best as you get the hang of it. They make an ideal canvas for either sweet or savory fillings. Learn how to make a fermented hot sauce – a simple way to enhance and preserve your abundance of garden chilies to use throughout the winter. Full of healthy probiotics, this easy recipe has many health benefits. Plus it just tastes good!
 
 ### Ingredients
 

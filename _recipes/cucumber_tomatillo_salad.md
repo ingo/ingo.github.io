@@ -5,6 +5,7 @@ description: A refreshing salad made with cubed cucumber, tomatillo, and a hint 
 image: cucumber_tomatillo_salad.jpg
 title: Cucumber Tomatillo Salad
 ---
+
 This Cucumber Tomatillo Salad is a refreshing side dish that pairs well with any main course. The combination of cucumber and tomatillo gives it a unique, tangy flavor, while the ground cumin adds a touch of warmth. The cilantro and white vinegar finish it off with a fresh, zesty kick.
 
 ### Ingredients

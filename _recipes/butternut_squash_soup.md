@@ -1,17 +1,14 @@
 ---
 category: Entrees
 description: This creamy, orange soup highlights the natural sweetness of butternut
-  squash. Simmered with onions and ginger, then blended smooth, it has a velvety texture
-  without any added cream. Also works well with other winter squash. This soup allows
-  the natural sweet flavor of butternut squash to shine. The squash is cooked with
-  aromatics like onion and ginger before being blended into a velvety, creamy soup
-  without needing any cream added. Feel free to experiment with other winter squash
-  varieties in this soup as well for a simple yet satisfying appetizer or meal.
+  squash.
 image: butternut_squash_soup.jpg
 size: 6 cups
 time: 1 hour 15 minutes
 title: Butternut Squash Soup
 ---
+
+Simmered with onions and ginger, then blended smooth, it has a velvety texture without any added cream. Also works well with other winter squash. This soup allows the natural sweet flavor of butternut squash to shine. The squash is cooked with aromatics like onion and ginger before being blended into a velvety, creamy soup without needing any cream added. Feel free to experiment with other winter squash varieties in this soup as well for a simple yet satisfying appetizer or meal.
 
 ### Ingredients
 

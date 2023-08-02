@@ -11,6 +11,7 @@ title: Tamales
 vegan: null
 veggie: "\u2713"
 ---
+
 This fluffy dough is made from fresh-ground masa. The recipe is a traditional Mexican dish, often enjoyed during celebrations and gatherings. The dough is filled with sweet corn kernels and seasoned to perfection, creating a delightful balance of flavors.
 
 ### Ingredients

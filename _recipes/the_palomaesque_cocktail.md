@@ -10,6 +10,7 @@ source: https://www.foodandwine.com/monthly/may-2013
 time: 10 minutes
 title: The Palomaesque Cocktail
 ---
+
 The Paloma is a classic Mexican cocktail usually made with lime juice, tequila and grapefruit soda. This version, created by Scott Baird for Comal in Berkeley, takes a twist with smoky mezcal, fresh grapefruit juice and Cocchi Americano, a sweet Italian aperitif wine.
 
 ### Ingredients

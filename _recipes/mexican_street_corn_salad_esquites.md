@@ -12,6 +12,7 @@ spicy: "\u2713"
 time: 15 minutes
 title: Mexican Street Corn Salad (Esquites)
 ---
+
 Smoky, sweet, spicy, and tangy, esquites are the off-the-cob version of elotes—grilled Mexican street corn slathered with creamy, cheesy, lime-scented, chili-flecked sauce. In this version, we char the corn on the stovetop, though a trip to the grill wouldn't hurt.
 
 ### Ingredients

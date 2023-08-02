@@ -2,13 +2,7 @@
 author: Eric Kim
 category: Entrees
 description: "This recipe, inspired by Stouffer\u2019s macaroni and cheese, delivers\
-  \ the best of all worlds. Creamy, saucy comfort, with a consistency that\u2019s\
-  \ slightly more set than a stovetop version, thanks to a final bake in the oven.\
-  \ It stays voluptuous and molten as a result of a higher ratio of sauce to noodles,\
-  \ which are cooked completely so they don\u2019t soak up as much liquid. The Velveeta\
-  \ is necessary here, as it has sodium citrate, which prevents the sauce from separating\
-  \ in the oven. Elbow macaroni works fine, but cavatappi is an especially fun shape\
-  \ to eat with its telephone-cord bounciness."
+  \ the best of all worlds."
 image: creamy_baked_macaroni_and_cheese.jpg
 image_attribution: Christopher Testani for The New York Times
 size: 6 to 8 servings
@@ -16,6 +10,8 @@ source: https://cooking.nytimes.com/recipes/1022733-creamy-baked-macaroni-and-ch
 time: 1 hour
 title: Creamy Baked Macaroni and Cheese
 ---
+
+Creamy, saucy comfort, with a consistency that’s slightly more set than a stovetop version, thanks to a final bake in the oven. It stays voluptuous and molten as a result of a higher ratio of sauce to noodles, which are cooked completely so they don’t soak up as much liquid. The Velveeta is necessary here, as it has sodium citrate, which prevents the sauce from separating in the oven. Elbow macaroni works fine, but cavatappi is an especially fun shape to eat with its telephone-cord bounciness.
 
 ### Ingredients
 

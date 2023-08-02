@@ -2,7 +2,7 @@
 author: Ingo
 category: Breakfasts
 description: These saucy baked beans served on thick buttered toast make a humble
-  yet utterly comforting meal. 
+  yet utterly comforting meal.
 favorite: "\u2713"
 image: baked_beans_with_buttered_toast.jpg
 size: 1 serving

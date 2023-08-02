@@ -7,6 +7,7 @@ size: 8 servings
 time: 1 1/2 hour
 title: Summer-Squash Soup with Parsley Mint Pistou
 ---
+
 This soup is a perfect blend of summer squash and a refreshing parsley mint pistou. It's a great way to enjoy the flavors of summer in a hearty and satisfying dish.
 
 ### Ingredients

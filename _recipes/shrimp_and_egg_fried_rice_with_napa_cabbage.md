@@ -10,6 +10,7 @@ source: https://www.foodnetwork.com/
 time: 30 minutes
 title: Shrimp and Egg Fried Rice with Napa Cabbage
 ---
+
 A quick and easy dish that's perfect for a weeknight dinner. This fried rice is packed with flavor from the shrimp, egg, and napa cabbage, and garnished with scallions and peanuts for added crunch.
 
 ### Ingredients

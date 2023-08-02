@@ -1,13 +1,13 @@
 ---
 category: Breads
 description: A favorite Iranian bread, usually made in bakeries using hot gravel stones.
-  You may bake the bread without using any stones if you wish, although the special
-  flavor and shape of the bread does come from using stones.
 image: sangak_bread.jpg
 size: 6 loaves
 time: 3 hours 50 minutes (including rising time)
 title: Sangak Bread
 ---
+
+You may bake the bread without using any stones if you wish, although the special flavor and shape of the bread does come from using stones.
 
 ### Ingredients
 

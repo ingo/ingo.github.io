@@ -2,7 +2,7 @@
 author: The Wanderlust Kitchen
 category: Sides
 description: This traditional tzatziki recipe learned in Athens makes the definitive
-  version of the creamy cucumber yogurt dip. 
+  version of the creamy cucumber yogurt dip.
 image: authentic_greek_tzatziki.jpg
 nutrition:
 - 75 calories

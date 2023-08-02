@@ -2,7 +2,7 @@
 author: Food Fidelity
 category: Sauces
 description: This bright salsa verde is made from the nutrient-rich greens of beets
-  rather than the typical parsley or cilantro. 
+  rather than the typical parsley or cilantro.
 image: beet_greens_salsa_verde.jpg
 size: 1 cup
 source: https://www.foodfidelity.com/wprm_print/3353

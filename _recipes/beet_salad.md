@@ -2,7 +2,7 @@
 author: EatingWell Test Kitchen
 category: Sides
 description: This simple yet delicious beet salad rescues beets from bland canned
-  versions. 
+  versions.
 image: beet_salad.jpg
 nutrition:
 - 119 calories

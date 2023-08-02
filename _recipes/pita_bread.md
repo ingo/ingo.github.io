@@ -2,8 +2,7 @@
 author: David Tanis
 category: Breads
 description: "Warm, fragrant home-baked pita is obviously superior, and there\u2019\
-  s a bit of a thrill when the breads puff up in the oven. And once you get the hang\
-  \ of it, it\u2019s not difficult."
+  s a bit of a thrill when the breads puff up in the oven."
 image: pita_bread.jpg
 image_attribution: Alex Block
 image_source: https://unsplash.com/photos/mc-5rj9vi8Q
@@ -13,7 +12,8 @@ source: https://cooking.nytimes.com/ourcooks/david-tanis/my-recipes
 time: About 2 hours
 title: Pita Bread
 ---
-Is it worth making pita at home? Absolutely. Store-bought pita (like store-bought sandwich bread) is often several days old. For the best flavor, try to get freshly milled whole-wheat flour. Even though only a little is called for in the recipe, it makes a difference.
+
+And once you get the hang of it, it’s not difficult. Is it worth making pita at home? Absolutely. Store-bought pita (like store-bought sandwich bread) is often several days old. For the best flavor, try to get freshly milled whole-wheat flour. Even though only a little is called for in the recipe, it makes a difference.
 
 ### Ingredients
 

@@ -2,8 +2,7 @@
 author: Joshua Mangerson, Adapted by Ligaya Mishan
 category: Entrees
 description: Transform your Thanksgiving leftovers into a delicious turkey ramen,
-  complete with mushrooms, scallions and a six-minute egg in each bowl. The rich,
-  cloudy broth is a tribute to traditional turkey recipes.
+  complete with mushrooms, scallions and a six-minute egg in each bowl.
 difficulty: hard
 image: roasted_turkey_ramen.jpg
 image_attribution: Chris Simpson for The New York Times
@@ -13,7 +12,8 @@ source: https://cooking.nytimes.com/recipes/1023674-roasted-turkey-ramen
 time: 6 hours
 title: Roasted Turkey Ramen
 ---
-This recipe is a creative way to use your Thanksgiving leftovers. The original recipe was created by Joshua Mangerson, who would pick off the remaining meat from the turkey carcass, submerge it in chicken stock and let it simmer. The next day, the turkey leftovers are transformed into turkey ramen, with mushrooms, scallions and a six-minute egg in each bowl. The rich, cloudy broth is an ode to the Strongbow Inn, the turkey restaurant that Mr. Mangerson’s great-grandmother opened in 1940 on the family turkey farm in Valparaiso, Ind. 
+
+The rich, cloudy broth is a tribute to traditional turkey recipes. This recipe is a creative way to use your Thanksgiving leftovers. The original recipe was created by Joshua Mangerson, who would pick off the remaining meat from the turkey carcass, submerge it in chicken stock and let it simmer. The next day, the turkey leftovers are transformed into turkey ramen, with mushrooms, scallions and a six-minute egg in each bowl. The rich, cloudy broth is an ode to the Strongbow Inn, the turkey restaurant that Mr. Mangerson’s great-grandmother opened in 1940 on the family turkey farm in Valparaiso, Ind. 
 
 ### Ingredients
 

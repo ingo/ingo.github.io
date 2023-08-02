@@ -12,6 +12,7 @@ time: 1 hour
 title: English Muffins
 vegan: "\u2713 (with modifications)"
 ---
+
 There is really no better vehicle for melted butter than the craggy dips and toasted peaks of an English muffin. They’re surprisingly straightforward to make and since the dough is best when made ahead and refrigerated overnight, they’ve become one of my favorite treats to make over long, lazy weekends. 
 
 ### Ingredients

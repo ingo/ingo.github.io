@@ -12,6 +12,7 @@ spicy: "\u2713"
 time: 1 hour
 title: Jaleo's Patatas Bravas
 ---
+
 Chef Ramón Martínez has been working alongside José Andrés for 15 years, bringing the authentic taste of Spanish tapas to the U.S. One of the most popular dishes at their restaurant, Jaleo, is Patatas Bravas - fried potatoes served with a spicy tomato sauce and garlic mayonnaise. This dish is a beautiful combination of textures and flavors, and is a top seller at Jaleo.
 
 ### Ingredients

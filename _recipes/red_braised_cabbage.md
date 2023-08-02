@@ -10,6 +10,7 @@ source: http://www.foodnetwork.com/recipes/tyler-florence/braised-cabbage-recipe
 time: 45 minutes
 title: Red Braised Cabbage
 ---
+
 This recipe is a family favorite, passed down from my grandmother. The combination of tart apple, sweet brown sugar, and hearty red cabbage creates a side dish that's both flavorful and satisfying.
 
 ### Ingredients

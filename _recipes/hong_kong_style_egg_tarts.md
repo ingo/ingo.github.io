@@ -2,15 +2,14 @@
 author: Tasty
 category: Desserts
 description: Also known as miso-marinated black cod, this seafood dish features tender,
-  buttery cod marinated for days in a sweet and salty miso paste. The fish is then
-  slowly baked until caramelized and irresistibly tender. With its delicate texture
-  that seems to melt in your mouth, it's an impressive recipe you can make at home.
+  buttery cod marinated for days in a sweet and salty miso paste.
 image: hong_kong_style_egg_tarts.jpg
 size: 16 servings
 time: 1 hour 30 minutes
 title: Hong Kong Style Egg Tarts
 ---
-This recipe for Hong Kong Style Egg Tarts is a delightful treat that is perfect for dessert or a mid-afternoon snack. The creamy custard filling is encased in a flaky pastry crust, making for a satisfying and delicious bite.
+
+The fish is then slowly baked until caramelized and irresistibly tender. With its delicate texture that seems to melt in your mouth, it's an impressive recipe you can make at home. This recipe for Hong Kong Style Egg Tarts is a delightful treat that is perfect for dessert or a mid-afternoon snack. The creamy custard filling is encased in a flaky pastry crust, making for a satisfying and delicious bite.
 
 ### Ingredients
 

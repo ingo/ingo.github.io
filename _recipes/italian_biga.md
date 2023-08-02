@@ -10,6 +10,7 @@ source: https://leitesculinaria.com/79243/recipes-biga.html/print
 time: 6-24 hours
 title: Italian Biga
 ---
+
 Italian Biga, known as _biga_ in Italy, or _bighino_ when in small amounts, is a starter dough used in many classic regional breads. It gives strength to weak flours and produces a secondary fermentation which enhances the aroma, natural flavor, and special porosity of the final loaves and wheels of bread. Breads made with biga develop a wonderful taste due to their long risings which bring out the flavor of the grain. They also remain fresher and taste sweeter than those made with large amounts of commercial yeast.
 
 ### Ingredients

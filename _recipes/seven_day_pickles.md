@@ -1,15 +1,15 @@
 ---
 author: Fountain Avenue Kitchen
 category: Sides
-description: Delicious homemade pickles that are worth the seven-day wait. These pickles
-  are perfect for adding a tangy crunch to your meals.
+description: Delicious homemade pickles that are worth the seven-day wait.
 image: seven_day_pickles.jpg
 size: 7 cups (3 1/2 pints)
 source: https://fountainavenuekitchen.com/recipe/seven-day-pickles/
 time: 7 days
 title: Seven-Day Pickles
 ---
-These pickles take a week to prepare, but the result is a tangy and delicious side that can be enjoyed with any meal. The recipe is from the Fountain Avenue Kitchen, where they believe in the power of homemade pickles.
+
+These pickles are perfect for adding a tangy crunch to your meals. These pickles take a week to prepare, but the result is a tangy and delicious side that can be enjoyed with any meal. The recipe is from the Fountain Avenue Kitchen, where they believe in the power of homemade pickles.
 
 ### Ingredients
 

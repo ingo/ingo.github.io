@@ -2,8 +2,7 @@
 author: heneedsfood.com
 category: Sides
 description: This recipe teaches you how to make burek, a filled savory pastry, and
-  sirnica, a sweet cheese filling, from scratch. Hand-stretching the dough takes practice
-  but the homemade flaky burek is worth it. Fill it with sirnica or potato and meat.
+  sirnica, a sweet cheese filling, from scratch.
 image: burek_sirnica.jpg
 original_title: Burek & Sirnica
 size: 2 pies
@@ -11,6 +10,8 @@ source: http://heneedsfood.com/recipe/burek-two-ways/
 time: 2 hours
 title: Burek & Sirnica
 ---
+
+Hand-stretching the dough takes practice but the homemade flaky burek is worth it. Fill it with sirnica or potato and meat.
 
 ### Ingredients
 

@@ -12,6 +12,7 @@ source: https://www.kingarthurflour.com/recipes/classic-sourdough-waffles-or-pan
 time: 12 hours 42 mins
 title: Sourdough Pancakes or Waffles
 ---
+
 With their delightful mild tang, sourdough pancakes and waffles evoke memories of Gold Rush days in California, when sourdough in some form was served to miners morning, noon, and night. Be it in the shape of biscuits, a crusty loaf, or these breakfast treats, sourdough is an enduring American tradition.
 
 ### Ingredients

@@ -9,6 +9,7 @@ source: https://www.gordonramsayrestaurants.com/gifts-and-experiences/
 time: 4-5 hours
 title: Slow-Cooked Beef Short Ribs
 ---
+
 This recipe is a classic from the Ultimate Cookery Course by Gordon Ramsay. The slow-cooked beef short ribs are tender and full of flavor, perfect for a hearty meal.
 
 ### Ingredients

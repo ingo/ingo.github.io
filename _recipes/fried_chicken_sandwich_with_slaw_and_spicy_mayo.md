@@ -2,12 +2,7 @@
 author: Son of a Gun, Los Angeles, CA
 category: Entrees
 description: If your idea of coleslaw is the pleated paper cup of shredded stuff alongside
-  BLTs at the diner, it's time for a new rule. Slaw doesn't go with the sandwich,
-  it goes on the sandwich. Slaws deliver on several fronts. They're crunchy, and sandwiches
-  need crunch. Done right, slaws give a bright acidic kick to counter the fatty goodness
-  of meats and mayo. And they provide a temperature contrast to warm sandwiches, like
-  this fried-chicken masterpiece from Son of a Gun in Los Angeles. We can't think
-  of a sandwich that doesn't deserve slaw, so pile it on.
+  BLTs at the diner, it's time for a new rule.
 favorite: "\u2713"
 image: fried_chicken_sandwich_with_slaw_and_spicy_mayo.jpg
 original_title: Fried Chicken Sandwich with Slaw and Spicy Mayo
@@ -17,6 +12,8 @@ spicy: "\u2713"
 time: 1 hour
 title: Fried Chicken Sandwich with Slaw and Spicy Mayo
 ---
+
+Slaw doesn't go with the sandwich, it goes on the sandwich. Slaws deliver on several fronts. They're crunchy, and sandwiches need crunch. Done right, slaws give a bright acidic kick to counter the fatty goodness of meats and mayo. And they provide a temperature contrast to warm sandwiches, like this fried-chicken masterpiece from Son of a Gun in Los Angeles. We can't think of a sandwich that doesn't deserve slaw, so pile it on.
 
 ### Ingredients
 

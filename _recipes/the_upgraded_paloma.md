@@ -1,9 +1,7 @@
 ---
 author: Max Falkowitz
 category: Beverages
-description: A summer refresher with a rich, sweet-tart grapefruit cordial. Grapefruit
-  and lime bring acidity balanced by tequila's vegetal verve, Campari's bitterness,
-  and a hint of salt for focus.
+description: A summer refresher with a rich, sweet-tart grapefruit cordial.
 favorite: "\u2713"
 image: the_upgraded_paloma.jpg
 original_title: Paloma
@@ -13,7 +11,8 @@ source: https://www.seriouseats.com/2015/06/upgraded-paloma-grapefruit-cordial.h
 time: 24 hours
 title: The Upgraded Paloma
 ---
-This summer refresher from Zac Overman at Seattle's Sitka & Spruce is the perfect example of delayed gratification. Put in some advance work to make a rich, almost buttery sweet-tart grapefruit cordial and you have the makings of a whole pitcher's worth of drinks at a moment's notice.
+
+Grapefruit and lime bring acidity balanced by tequila's vegetal verve, Campari's bitterness, and a hint of salt for focus. This summer refresher from Zac Overman at Seattle's Sitka & Spruce is the perfect example of delayed gratification. Put in some advance work to make a rich, almost buttery sweet-tart grapefruit cordial and you have the makings of a whole pitcher's worth of drinks at a moment's notice.
 
 ### Ingredients
 

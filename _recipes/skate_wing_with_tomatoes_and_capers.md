@@ -9,6 +9,7 @@ source: https://www.seriouseats.com/2011/06/the-nasty-bits-skate-wing.html
 time: 20 minutes
 title: Skate Wing with Tomatoes and Capers
 ---
+
 This recipe for Skate Wing with Tomatoes and Capers is a delightful way to enjoy this unique seafood. The skate wing fillets are pan-fried to a golden brown and served with a homemade sauce of tomatoes, capers, and shallots. It's a dish that's sure to impress at any dinner table.
 
 ### Ingredients

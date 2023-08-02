@@ -2,19 +2,14 @@
 author: Danny Kaye
 category: Entrees
 description: A retro chicken salad recipe using a unique technique of poaching a whole
-  chicken slowly to keep it extra moist and flavorful. The shredded    scooked chicken
-  is then tossed in a Dijon mustard dressing along with mayo, tarragon, and grapes
-  for texture. This retro chicken salad recipe uses a unique whole chicken poaching
-  technique to keep the meat extra moist. The chicken is slowly simmered in broth
-  with aromatics. Once cooked, the chicken is shredded and then combined with a Dijon
-  mustard dressing, mayo, tarragon, and grapes for crunch. The result is a moist,
-  flavorful chicken salad inspired by actor Danny Kaye.
+  chicken slowly to keep it extra moist and flavorful.
 image: chicken_salad_a_la_danny_kaye.jpg
 size: 4 servings
 time: 1 hour
 title: "Chicken Salad \xE0 la Danny Kaye"
 ---
-This recipe not only gives you a delicious chicken salad but also teaches you the methodology for Cold Poaching a whole chicken for Chinese Ginger Chicken.
+
+The shredded    scooked chicken is then tossed in a Dijon mustard dressing along with mayo, tarragon, and grapes for texture. This retro chicken salad recipe uses a unique whole chicken poaching technique to keep the meat extra moist. The chicken is slowly simmered in broth with aromatics. Once cooked, the chicken is shredded and then combined with a Dijon mustard dressing, mayo, tarragon, and grapes for crunch. The result is a moist, flavorful chicken salad inspired by actor Danny Kaye. This recipe not only gives you a delicious chicken salad but also teaches you the methodology for Cold Poaching a whole chicken for Chinese Ginger Chicken.
 
 ### Ingredients
 

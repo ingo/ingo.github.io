@@ -10,6 +10,7 @@ source: http://www.eatingthaifood.com/thai-grilled-fish-recipe-pla-pao/
 time: 1 hour 5 minutes
 title: Thai Grilled Fish (Pla Pao)
 ---
+
 A nicely cooked juicy Thai grilled fish (pla pao), with a pungent garlic and chili dipping sauce, is one of my all-time favorite meals to eat on the streets of Thailand!
 
 ### Ingredients

@@ -1,9 +1,7 @@
 ---
 author: Nagi
 category: Sides
-description: A refreshing Indian salad that pairs well with rich, spicy curries. Made
-  with juicy tomato slices, scattered with red onion, and drizzled with a mint dressing,
-  then finished with a small pinch of garam masala.
+description: A refreshing Indian salad that pairs well with rich, spicy curries.
 image: indian_tomato_salad_with_mint_dressing.jpg
 nutrition:
 - 54 calories
@@ -18,7 +16,8 @@ time: 10 mins
 title: Indian Tomato Salad with Mint Dressing
 veggie: "\u2713"
 ---
-This is a wonderful refreshing Indian salad that pairs really well with rich, spicy curries. Made with slices of juicy tomato, scattered with red onion, and drizzled with a mint dressing, then finished with a small pinch of garam masala. The dressing here is simply Raita, thinned down slightly with water so it’s pourable. Raita is a green mint yogurt sauce that is often served on the side of curries. Both yogurt and mint are ideal for cooling the palette in case you can’t handle the heat!
+
+Made with juicy tomato slices, scattered with red onion, and drizzled with a mint dressing, then finished with a small pinch of garam masala. This is a wonderful refreshing Indian salad that pairs really well with rich, spicy curries. Made with slices of juicy tomato, scattered with red onion, and drizzled with a mint dressing, then finished with a small pinch of garam masala. The dressing here is simply Raita, thinned down slightly with water so it’s pourable. Raita is a green mint yogurt sauce that is often served on the side of curries. Both yogurt and mint are ideal for cooling the palette in case you can’t handle the heat!
 
 ### Ingredients
 

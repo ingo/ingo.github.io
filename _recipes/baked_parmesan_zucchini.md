@@ -1,7 +1,7 @@
 ---
 category: Sides
 description: This oven-roasted zucchini turns a summer squash into an incredibly addictive,
-  crispy-edged snack or side dish. 
+  crispy-edged snack or side dish.
 image: baked_parmesan_zucchini.jpg
 size: 4 servings
 time: 30 minutes

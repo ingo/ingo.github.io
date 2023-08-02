@@ -2,7 +2,6 @@
 author: Food Network
 category: Sides
 description: A bright, tangy salsa made from fresh tomatillos, chiles, and cilantro.
-  Perfect for adding a kick to your meals.
 image: salsa_verde_green_tomatillo_salsa.jpg
 size: 1 cup
 source: http://www.foodnetwork.com/recipes/salsa-verde-green-tomatillo-salsa-recipe.html
@@ -10,7 +9,8 @@ spicy: "\u2713"
 time: 25 minutes
 title: Salsa Verde
 ---
-Whether you choose the verdant, slushy, herby freshness of the all-raw tomatillo salsa or the oil-colored, voluptuous, sweet-sour richness of the roasted version, tomatillos are about brightening tang. The buzz of the fresh hot green chile adds thrill, all of which adds up to a condiment most of us simply don't want to live without.
+
+Perfect for adding a kick to your meals. Whether you choose the verdant, slushy, herby freshness of the all-raw tomatillo salsa or the oil-colored, voluptuous, sweet-sour richness of the roasted version, tomatillos are about brightening tang. The buzz of the fresh hot green chile adds thrill, all of which adds up to a condiment most of us simply don't want to live without.
 
 ### Ingredients
 

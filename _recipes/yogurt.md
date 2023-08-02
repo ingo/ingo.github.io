@@ -1,12 +1,14 @@
 ---
 category: Breakfasts
 description: Homemade yogurt made with just milk and a little bit of store-bought
-  yogurt. Perfect for a healthy breakfast or snack.
+  yogurt.
 image: yogurt.jpg
 size: Varies
 time: 12 hours 45 minutes
 title: Yogurt
 ---
+
+Perfect for a healthy breakfast or snack.
 
 ### Ingredients
 

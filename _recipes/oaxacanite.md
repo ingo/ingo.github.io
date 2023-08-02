@@ -2,15 +2,15 @@
 author: Ben Long
 category: Beverages
 description: A delightful cocktail with strong chocolate notes and a nice underlying
-  agave spirit warmth. The smoke from the mezcal doesn't dominate, but rather complements
-  the other flavors.
+  agave spirit warmth.
 image: oaxacanite.jpg
 size: 1 serving
 source: https://drunkendiplomacy.com/blog/2018/07/08/oaxacanite/
 time: 5 minutes
 title: Oaxacanite
 ---
-This cocktail was created by Ben Long at the John Dory Oyster Bar in Manhattan and was first published in Sasha Petraske’s book, _Regarding Cocktails_. It's a favorite at the Library of Distilled Spirits in New York. The pith of the grapefruit peel acts as the bittering agent, and shaking it well releases essential oils that create a balanced drink.
+
+The smoke from the mezcal doesn't dominate, but rather complements the other flavors. This cocktail was created by Ben Long at the John Dory Oyster Bar in Manhattan and was first published in Sasha Petraske’s book, _Regarding Cocktails_. It's a favorite at the Library of Distilled Spirits in New York. The pith of the grapefruit peel acts as the bittering agent, and shaking it well releases essential oils that create a balanced drink.
 
 ### Ingredients
 

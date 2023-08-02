@@ -10,6 +10,7 @@ source: https://www.greatbritishchefs.com/recipes/sea-bass-blinis-recipe/print
 time: 12 hours 30 minutes
 title: Sea Bass Blinis
 ---
+
 This recipe is a creative take on the classic blinis, featuring sea bass as the star ingredient. It was created by Robert Thompson, a chef known for his characterful and classically skilled cooking.
 
 ### Ingredients

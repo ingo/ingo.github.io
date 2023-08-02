@@ -2,8 +2,7 @@
 author: Sam Sifton
 category: Entrees
 description: Skinless chicken browns nicely over a medium flame, and the sugary soy
-  basting sauce lacquers it beautifully in the final few minutes of cooking. It's
-  terrific with rice, or as a topping for a salad of sturdy greens.
+  basting sauce lacquers it beautifully in the final few minutes of cooking.
 image: grilled_soy_basted_chicken_thighs_with_spicy_cashews.jpg
 image_attribution: Jessica Emily Marx for The New York Times
 size: 4-6 servings
@@ -12,7 +11,8 @@ spicy: "\u2713"
 time: 1 hour
 title: Grilled Soy-Basted Chicken Thighs With Spicy Cashews
 ---
-This recipe is a hack performed on a recipe for an appetizer portion of skewered chunked chicken thighs that the great live-fire cooks and cookbook writers Chris Schlesinger and John Willoughby wrote many years ago, and that I have slowly altered into a main-course grilled dinner. You may wish to double the recipe for Sriracha-roasted cashews. Those are addictive, and for them you will find many delicious uses.
+
+It's terrific with rice, or as a topping for a salad of sturdy greens. This recipe is a hack performed on a recipe for an appetizer portion of skewered chunked chicken thighs that the great live-fire cooks and cookbook writers Chris Schlesinger and John Willoughby wrote many years ago, and that I have slowly altered into a main-course grilled dinner. You may wish to double the recipe for Sriracha-roasted cashews. Those are addictive, and for them you will find many delicious uses.
 
 ### Ingredients
 

@@ -1,10 +1,8 @@
 ---
 author: Desmond Tan and Kate Leahy
 category: Entrees
-description: "A slow-simmered chicken dish with a bright hit of spice from curry powder,\
-  \ mellowed with paprika and turmeric. This dish gets even better after resting in\
-  \ the fridge, making it an ideal weeknight meal that can last days. There\u2019\
-  s plenty of coconut milk broth to spoon over rice or noodles."
+description: A slow-simmered chicken dish with a bright hit of spice from curry powder,
+  mellowed with paprika and turmeric.
 image: coconut_chicken_curry.jpg
 image_attribution: Julia Gartland for The New York Times (Photography and Styling)
 size: 4-6 servings
@@ -13,7 +11,8 @@ spicy: "\u2713"
 time: 1.5 hours
 title: Coconut Chicken Curry
 ---
-This dish from “Burma Superstar” by Desmond Tan and Kate Leahy needs time on the stove but not much attention. At his restaurant, Burma Superstar in Oakland, Calif., Mr. Tan also serves this with platha, a buttery, flaky Burmese flatbread, for dipping.
+
+This dish gets even better after resting in the fridge, making it an ideal weeknight meal that can last days. There’s plenty of coconut milk broth to spoon over rice or noodles. This dish from “Burma Superstar” by Desmond Tan and Kate Leahy needs time on the stove but not much attention. At his restaurant, Burma Superstar in Oakland, Calif., Mr. Tan also serves this with platha, a buttery, flaky Burmese flatbread, for dipping.
 
 ### Ingredients
 

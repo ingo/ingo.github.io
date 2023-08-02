@@ -1,14 +1,14 @@
 ---
 category: Entrees
 description: When made with fresh, wild salmon, these burgers are heavenly, but it
-  works well with frozen salmon too. Err on the side of chopping the pieces smaller
-  rather than larger, and make sure the salmon is very dry, as if it's wet, the burgers
-  won't stick together well.
+  works well with frozen salmon too.
 image: salmon_burger.jpg
 size: 4 servings
 time: 2 hours 10 minutes
 title: Salmon Burger
 ---
+
+Err on the side of chopping the pieces smaller rather than larger, and make sure the salmon is very dry, as if it's wet, the burgers won't stick together well.
 
 ### Ingredients
 

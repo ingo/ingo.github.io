@@ -1,13 +1,13 @@
 ---
 author: Cheryl Alters Jamison and Bill Jamison
 category: Sides
-description: Smoking food adds such a great aroma and flavor to many dishes. This
-  recipe, from the cookbook Smoke & Spice by Cheryl Alters Jamison and Bill Jamison,
-  is hard to keep in the refrigerator for very long. It's usually gone the next day.
+description: Smoking food adds such a great aroma and flavor to many dishes.
 image: drop_dead_trout_spread.jpg
 size: 2 cups
 title: Drop-Dead Trout Spread
 ---
+
+This recipe, from the cookbook Smoke & Spice by Cheryl Alters Jamison and Bill Jamison, is hard to keep in the refrigerator for very long. It's usually gone the next day.
 
 ### Ingredients
 

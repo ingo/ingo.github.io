@@ -2,13 +2,13 @@
 author: Emilie Raffa
 category: Sides
 description: A tangy, slightly sweet dip served with an assortment of fresh vegetables.
-  Perfect for a healthy snack or appetizer.
 image: white_miso_dip.jpg
 size: 6-8 servings
 time: 15 minutes
 title: White Miso Dip
 ---
-This White Miso Dip is a delightful blend of flavors that pairs perfectly with an assortment of fresh vegetables. It's quick to whip up and makes for a healthy snack or appetizer.
+
+Perfect for a healthy snack or appetizer. This White Miso Dip is a delightful blend of flavors that pairs perfectly with an assortment of fresh vegetables. It's quick to whip up and makes for a healthy snack or appetizer.
 
 ### Ingredients
 

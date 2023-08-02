@@ -2,13 +2,14 @@
 category: Entrees
 description: A delicious Cuban sandwich layers shaved ham, slow-roasted Cuban-style
   mojo pork, Swiss cheese, dill pickles and yellow mustard, pressed between slices
-  of crusty Cuban bread. It's a flavorful pressed sandwich bursting with layers of
-  sweet, salty and tangy ingredients inspired by Cuban culture in Florida.
+  of crusty Cuban bread.
 image: cuban_sandwich.jpg
 size: 4 generous sandwiches
 time: 20 minutes
 title: Cuban Sandwich
 ---
+
+It's a flavorful pressed sandwich bursting with layers of sweet, salty and tangy ingredients inspired by Cuban culture in Florida.
 
 ### Ingredients
 

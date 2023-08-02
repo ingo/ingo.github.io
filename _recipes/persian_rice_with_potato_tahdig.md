@@ -2,7 +2,7 @@
 author: Shareba
 category: Sides
 description: An Iranian dish with perfectly steamed saffron rice and crispy fried
-  potatoes. This is the ultimate comfort food!
+  potatoes.
 favorite: "\u2713"
 image: persian_rice_with_potato_tahdig.jpg
 original_title: Persian Rice with Potato Tahdig
@@ -11,7 +11,8 @@ source: https://insearchofyummyness.com/persian-rice-with-potato-tahdig/
 time: 55 minutes
 title: Persian Rice with Potato Tahdig
 ---
-This saffron-scented rice with crispy potatoes has been a staple in my life for so many years now, that I can't even remember the exact first time I ate it. All I know is that I was in grade school, because that's when my family (who had immigrated to Canada from Trinidad), met another family (who had immigrated to Canada from Iran). This family had kids who were similar in age to me, and soon we were going over to each others homes for playdates and dinner. 
+
+This is the ultimate comfort food!This saffron-scented rice with crispy potatoes has been a staple in my life for so many years now, that I can't even remember the exact first time I ate it. All I know is that I was in grade school, because that's when my family (who had immigrated to Canada from Trinidad), met another family (who had immigrated to Canada from Iran). This family had kids who were similar in age to me, and soon we were going over to each others homes for playdates and dinner. 
 
 ### Ingredients
 

@@ -2,15 +2,15 @@
 author: Scott Phillips
 category: Sides
 description: "This simple eggplant preparation is one of the best\u2014as easy and\
-  \ delicious as grilling. Roast small Italian eggplant as a versatile side dish and\
-  \ drizzle with lemon or your favorite vinaigrette."
+  \ delicious as grilling."
 image: oven_roasted_eggplant.jpg
 size: 2 servings
 source: https://www.finecooking.com/recipes/eggplant_caviar.aspx
 time: 1 hour 30 minutes
 title: Oven-Roasted Eggplant
 ---
-This simple eggplant preparation is one of the best—as easy and delicious as grilling. Roast small Italian eggplant as a versatile side dish and drizzle with lemon or your favorite vinaigrette. Or roast larger globe eggplant and use the flesh in other recipes like pastas, soups, or starters.
+
+Roast small Italian eggplant as a versatile side dish and drizzle with lemon or your favorite vinaigrette. This simple eggplant preparation is one of the best—as easy and delicious as grilling. Roast small Italian eggplant as a versatile side dish and drizzle with lemon or your favorite vinaigrette. Or roast larger globe eggplant and use the flesh in other recipes like pastas, soups, or starters.
 
 ### Ingredients
 

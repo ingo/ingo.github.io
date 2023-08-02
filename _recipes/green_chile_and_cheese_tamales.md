@@ -2,14 +2,14 @@
 author: Mark Miller
 category: Entrees
 description: These tamales truly benefit from the addition of fresh corn kernels to
-  the masa mix. Although originally the recipe calls for the cheese to be mixed in,
-  we prefer the cheese to be used as a filling. Modified from the Coyote Cafe cookbook
-  by Mark Miller.
+  the masa mix.
 image: green_chile_and_cheese_tamales.jpg
 size: Depends on the size of the tamales. We generally make two recipes, and then
   freeze half of the tamales. They keep frozen very well.
 title: Green Chile and Cheese Tamales
 ---
+
+Although originally the recipe calls for the cheese to be mixed in, we prefer the cheese to be used as a filling. Modified from the Coyote Cafe cookbook by Mark Miller.
 
 ### Ingredients
 

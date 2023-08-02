@@ -1,13 +1,14 @@
 ---
 author: Ingo
 category: Sides
-description: A favorite German dish consisting of dumplings. This recipe has not been
-  tested yet, but appears promising and seems like the right method.
+description: A favorite German dish consisting of dumplings.
 image: kartoffelkloesse.jpg
 size: 24 dumplings
 time: Not specified
 title: "Kartoffelkl\xF6\xDFe"
 ---
+
+This recipe has not been tested yet, but appears promising and seems like the right method.
 
 ### Ingredients
 

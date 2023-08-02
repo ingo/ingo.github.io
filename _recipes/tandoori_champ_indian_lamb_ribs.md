@@ -2,7 +2,7 @@
 author: Saveur
 category: Entrees
 description: Delicious lamb ribs cooked in a tandoor style, perfect for a charcoal
-  or gas grill. Served with lemon wedges and melted butter.
+  or gas grill.
 image: tandoori_champ_indian_lamb_ribs.jpg
 original_title: Tandoori Champ
 size: 4-6 servings
@@ -11,7 +11,8 @@ spicy: "\u2713"
 time: 1 hour 30 minutes (including marination time)
 title: Tandoori Champ (Indian Lamb Ribs)
 ---
-In India, these ribs would be cooked in a tandoor, a clay oven. To achieve a similar oven-roasted effect on a charcoal or gas grill, cook the ribs over indirect heat, then finish them with a sear directly over the fire.
+
+Served with lemon wedges and melted butter. In India, these ribs would be cooked in a tandoor, a clay oven. To achieve a similar oven-roasted effect on a charcoal or gas grill, cook the ribs over indirect heat, then finish them with a sear directly over the fire.
 
 ### Ingredients
 

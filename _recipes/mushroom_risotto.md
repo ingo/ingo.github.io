@@ -2,14 +2,14 @@
 author: Tyler Florence
 category: Entrees
 description: A creamy and flavorful risotto packed with fresh and dried mushrooms,
-  herbs, and Parmesan cheese. Topped with a drizzle of truffle oil for an extra touch
-  of luxury.
+  herbs, and Parmesan cheese.
 image: mushroom_risotto.jpg
 original_title: Mushroom Risotto
 size: 4-6 servings
 title: Mushroom Risotto
 ---
-This Mushroom Risotto recipe is courtesy of Tyler Florence, a renowned chef known for his flavorful and hearty dishes. This risotto is no exception, with its combination of fresh and dried mushrooms, herbs, and Parmesan cheese. The addition of truffle oil adds an extra touch of luxury, making this dish perfect for a special occasion or a comforting meal on a chilly day.
+
+Topped with a drizzle of truffle oil for an extra touch of luxury. This Mushroom Risotto recipe is courtesy of Tyler Florence, a renowned chef known for his flavorful and hearty dishes. This risotto is no exception, with its combination of fresh and dried mushrooms, herbs, and Parmesan cheese. The addition of truffle oil adds an extra touch of luxury, making this dish perfect for a special occasion or a comforting meal on a chilly day.
 
 ### Ingredients
 

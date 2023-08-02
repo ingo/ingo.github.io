@@ -1,16 +1,15 @@
 ---
 author: Simply Recipes
 category: Entrees
-description: "A hearty and flavorful stew featuring rabbit and a variety of mushrooms.\
-  \ This recipe includes an optional step to enrich the sauce with a liver-cr\xE8\
-  me fraiche mixture."
+description: A hearty and flavorful stew featuring rabbit and a variety of mushrooms.
 image: rabbit_stew_with_mushrooms.jpg
 size: 4 servings
 source: https://www.simplyrecipes.com/recipes/rabbit_stew_with_mushrooms/
 time: 2 hours 30 minutes
 title: Rabbit Stew with Mushrooms
 ---
-This recipe comes from Simply Recipes, a trusted source for home cooks. It features rabbit, a meat often available at specialty markets, fresh or frozen, or can be ordered by your local butcher. The stew is enriched with a variety of mushrooms and an optional liver-crème fraiche mixture.
+
+This recipe includes an optional step to enrich the sauce with a liver-crème fraiche mixture. This recipe comes from Simply Recipes, a trusted source for home cooks. It features rabbit, a meat often available at specialty markets, fresh or frozen, or can be ordered by your local butcher. The stew is enriched with a variety of mushrooms and an optional liver-crème fraiche mixture.
 
 ### Ingredients
 

@@ -2,12 +2,7 @@
 author: Nik Sharma
 category: Entrees
 description: The aroma of fresh mint and spices permeates this bright, turmeric-painted
-  pulao made with basmati rice and ground lamb. This recipe, which has origins in
-  the ground meat pulaos of India, is quite flexible and open to additions. a handful
-  of fresh dill, a generous sprinkling of fried peanuts or other nuts, or crispy,
-  fried onions tossed in just before serving. It also works well if you substitute
-  beef for the lamb, and really needs no sides, except maybe some raita, creamy plain
-  yogurt or a salad.
+  pulao made with basmati rice and ground lamb.
 image: ground_lamb_pulao.jpg
 original_title: Ground Lamb Pulao
 size: 4-6 servings
@@ -16,6 +11,8 @@ spicy: "\u2713"
 time: 1 hour
 title: Ground Lamb Pulao
 ---
+
+This recipe, which has origins in the ground meat pulaos of India, is quite flexible and open to additions. a handful of fresh dill, a generous sprinkling of fried peanuts or other nuts, or crispy, fried onions tossed in just before serving. It also works well if you substitute beef for the lamb, and really needs no sides, except maybe some raita, creamy plain yogurt or a salad.
 
 ### Ingredients
 

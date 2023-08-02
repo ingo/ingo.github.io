@@ -11,6 +11,7 @@ source: https://cooking.nytimes.com/recipes/1022147-updated-no-knead-breadundefi
 time: "1 hour, plus 14 to 20 hours\u2019 resting"
 title: No-Knead Bread (Updated)
 ---
+
 This recipe is based on Jim Lahey’s recipe from 2006, with a few modifications for the sake of precision and a touch of acid to improve dough strength. Unlike Mr. Lahey’s recipe, this one does not require handling a hot Dutch oven. You’ll need one metal heatproof bowl (no rubberized bottoms) around 11 to 12 inches in diameter, a second bowl of any material around 8 to 9 inches in diameter, a scale with gram-accurate resolution, a baking sheet and a clean cotton dish towel. (Freshly washed is fine; it doesn’t need to be brand new.)
 
 ### Ingredients

@@ -9,6 +9,7 @@ source: https://cooking.nytimes.com/recipes/11376-no-knead-bread
 time: About 45 minutes plus about 3 hours' resting and rising
 title: Simple Crusty Bread
 ---
+
 We thought we’d landed upon the simplest yeast bread recipe in 2007, when Mark Bittman wrote about the no-knead approach of Jim Lahey, owner of Sullivan Street Bakery. It quickly became (and remains) one of our most popular recipes because it made bakery-quality bread a real possibility for home cooks. But then we heard about Jeff Hertzberg, a physician from Minneapolis, who devised a streamlined technique for a crusty loaf of bread. Mix flour, salt, yeast and water. Let it sit a bit, refrigerate it, take some out and let it rise, then bake it. The crusty, full-flavored loaf that results may be the world’s easiest yeast bread. —Nick Fox
 
 ### Ingredients

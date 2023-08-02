@@ -2,7 +2,7 @@
 author: Ingo
 category: Entrees
 description: This quintessential southern German dish features beef stew meat simmered
-  until meltingly tender in a broth. 
+  until meltingly tender in a broth.
 favorite: "\u2713"
 image: boiled_beef_with_dill_sauce.jpg
 size: 4 servings

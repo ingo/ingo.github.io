@@ -24,6 +24,7 @@ source: http://www.nytimes.com/2017/09/29/dining/chocolate-chip-cookie-recipe-in
 time: 30 minutes, plus chilling
 title: Giant Crinkled Chocolate Chip Cookies
 ---
+
 This recipe by baker and blogger Sarah Kieffer brings a new twist to the classic chocolate chip cookie. The unique technique of banging the pan during baking creates rippled edges that shatter in your mouth and a center that is soft and full of chocolate. Make sure to follow her instructions about freezing the dough and the size of the balls.
 
 ### Ingredients

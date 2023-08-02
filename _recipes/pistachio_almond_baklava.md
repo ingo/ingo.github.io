@@ -7,6 +7,7 @@ size: 24 servings
 time: 3 hours
 title: Pistachio & Almond Baklava
 ---
+
 This traditional Turkish dessert is a delightful combination of crunchy pistachios, almonds, and flaky filo pastry, all brought together with a sweet orange syrup. It's the perfect way to end a meal.
 
 ### Ingredients

@@ -1,16 +1,15 @@
 ---
 author: Chris Cosentino
 category: Sauces
-description: Lemony salsa verde with a summery touch of fresh tarragon. It goes well
-  with grilled fish, in sandwiches, or swirled into soups. If chervil is difficult
-  to find, a mixture of extra tarragon and parsley is a fine substitute.
+description: Lemony salsa verde with a summery touch of fresh tarragon.
 image: salsa_verde_with_tarragon_and_chervil.jpg
 size: Makes 2 cups
 source: https://www.foodandwine.com/recipes/salsa-verde-tarragon-and-chervil
 time: 1 hour 30 minutes
 title: Salsa Verde with Tarragon and Chervil
 ---
-Salsa verde means "green sauce" in both Italian and Spanish. In this version, fresh tarragon gives the salsa a nice summery quality. The salsa verde also goes well with grilled fish like swordfish or tuna steaks, as well as in sandwiches or swirled into soups. If chervil proves difficult to find, a mixture of extra tarragon and parsley is a fine substitute.
+
+It goes well with grilled fish, in sandwiches, or swirled into soups. If chervil is difficult to find, a mixture of extra tarragon and parsley is a fine substitute. Salsa verde means "green sauce" in both Italian and Spanish. In this version, fresh tarragon gives the salsa a nice summery quality. The salsa verde also goes well with grilled fish like swordfish or tuna steaks, as well as in sandwiches or swirled into soups. If chervil proves difficult to find, a mixture of extra tarragon and parsley is a fine substitute.
 
 ### Ingredients
 

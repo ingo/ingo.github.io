@@ -2,7 +2,7 @@
 author: Traditional Danish Recipe
 category: Breakfasts
 description: A traditional Danish breakfast or dessert consisting of spherical pancake
-  puffs, made in a special pan to create their distinctive shape. 
+  puffs, made in a special pan to create their distinctive shape.
 image: aebleskivers.jpg
 size: 4 servings
 time: 30 minutes

@@ -2,13 +2,15 @@
 author: Hy-Vee Seasons Magazine
 category: Entrees
 description: Place a layer of lemon slices underneath the salmon for a subtle lemon
-  flavor. The slices also keep the fish from sticking to the grill grates.
+  flavor.
 image: whole_salmon_fillet_on_the_grill_with_lemons.jpg
 size: 8 servings
 source: https://www.hy-vee.com/seasons/June-2019
 time: 45 minutes
 title: Whole Salmon Fillet on the Grill with Lemons
 ---
+
+The slices also keep the fish from sticking to the grill grates.
 
 ### Ingredients
 

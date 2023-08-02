@@ -2,7 +2,7 @@
 author: Damian King Lee
 category: Entrees
 description: A healthy bowl of noodles in an aromatic broth, topped with slices of
-  tender duck. Inspired by Thai celebration favourite, ped toon.
+  tender duck.
 image: healthy_duck_noodle_soup.jpg
 original_title: Ped Toon
 size: 2 servings
@@ -10,7 +10,8 @@ source: https://thehappyfoodie.co.uk/books/the-noodle-cookbook/
 time: 30 minutes
 title: Healthy Duck Noodle Soup
 ---
-Ped Toon is a special occasion dish in Thailand. You’ll often see it at festivals, with rows of duck soup sellers surrounded by locals perched on plastic chairs, happily slurping their soup. Some sellers add cola to the broth for a little fizz and top it with shredded duck.
+
+Inspired by Thai celebration favourite, ped toon. Ped Toon is a special occasion dish in Thailand. You’ll often see it at festivals, with rows of duck soup sellers surrounded by locals perched on plastic chairs, happily slurping their soup. Some sellers add cola to the broth for a little fizz and top it with shredded duck.
 
 ### Ingredients
 

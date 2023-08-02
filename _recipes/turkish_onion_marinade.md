@@ -3,13 +3,14 @@ author: Claudia Roden
 category: Entrees
 description: Olive oil, onions and cinnamon are an unusual combination for an American
   marinade, but they provide a great background flavor without being overpowering.
-  These flavors are very good on chicken, but would work equally well with lamb.
 image: turkish_onion_marinade.jpg
 image_source: https://unsplash.com/photos/UC0HZdUitWY
 size: 2 cups, enough for 3-4 pounds of meat
 time: 1 hour to overnight
 title: Turkish Onion Marinade
 ---
+
+These flavors are very good on chicken, but would work equally well with lamb.
 
 ### Ingredients
 

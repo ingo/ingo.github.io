@@ -9,6 +9,7 @@ source: https://ohsofoodie.com/seafood-boil-seasoning/
 time: 5 minutes
 title: Seafood Boil Seasoning
 ---
+
 Are you planning on making a huge seafood boil feast? If you are, then chances are you’re looking for a flavorful seafood boil seasoning mix to help make this seafood boil recipe the best.
 
 ### Ingredients

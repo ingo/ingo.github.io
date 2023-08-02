@@ -7,6 +7,8 @@ size: 4 servings
 title: Margarita
 ---
 
+
+
 ### Ingredients
 
 * `1/2 cup` fresh lime juice

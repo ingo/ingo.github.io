@@ -1,9 +1,7 @@
 ---
 author: Domenica chef Alon Shaya
 category: Entrees
-description: This dish has become a signature of Domenica chef Alon Shaya. Precooking
-  the cauliflower in seasoned poaching liquid infuses it with flavor; roasting makes
-  it crisp.
+description: This dish has become a signature of Domenica chef Alon Shaya.
 image: whole_roasted_cauliflower_with_whipped_goat_cheese.jpg
 image_attribution: Cedric Angeles
 nutrition:
@@ -17,6 +15,8 @@ source: https://www.bonappetit.com/recipe/c_limit/whole-roasted-cauliflower-with
 time: 1 hour
 title: Whole Roasted Cauliflower with Whipped Goat Cheese
 ---
+
+Precooking the cauliflower in seasoned poaching liquid infuses it with flavor; roasting makes it crisp.
 
 ### Ingredients
 

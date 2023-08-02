@@ -10,6 +10,7 @@ source: https://www.nytimes.com/interactive/2017/10/25/magazine/food-issue-gabri
 time: 10 minutes
 title: Ice-Cold Martinez
 ---
+
 This cocktail is a perfect blend of gin, sweet vermouth, Luxardo maraschino, Angostura bitters, and orange. It's a refreshing and balanced drink that's perfect for the early fall.
 
 ### Ingredients

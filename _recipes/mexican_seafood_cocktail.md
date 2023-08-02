@@ -10,6 +10,7 @@ image_source: http://www.saveur.com/sites/saveur.com/files/images/2009-06/121-me
 size: 6-8 servings
 title: Mexican Seafood Cocktail
 ---
+
 This dish is a favorite at Goode Company Seafood in Houston. It goes perfectly with fried tortilla chips and cold beer.
 
 ### Ingredients

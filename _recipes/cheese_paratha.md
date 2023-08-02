@@ -2,12 +2,7 @@
 author: Dassana Amit
 category: Sides
 description: A delicious whole wheat unleavened flatbread stuffed with a cheesy savory
-  stuffing made with cheddar cheese, onions, green chilies and black pepper. These
-  cheese flatbreads make for a wholesome breakfast or brunch. This stuffed Indian
-  flatbread is made with a flavorful cheese filling that includes cheddar, onions,
-  green chilies and black pepper. The dough is whole wheat for a nutritious version.
-  Stuff, griddle cook, and enjoy these parathas for breakfast or brunch along with
-  yogurt or chutney.
+  stuffing made with cheddar cheese, onions, green chilies and black pepper.
 difficulty: Moderate
 image: cheese_paratha.jpg
 nutrition:
@@ -23,7 +18,8 @@ time: 40 minutes
 title: Cheese Paratha
 veggie: "\u2713"
 ---
-Cheese paratha is a delicious whole wheat unleavened flatbread stuffed with a cheesy savory stuffing made with cheddar cheese, onions, green chilies and black pepper. These cheese flatbreads make for a wholesome breakfast or brunch. 
+
+These cheese flatbreads make for a wholesome breakfast or brunch. This stuffed Indian flatbread is made with a flavorful cheese filling that includes cheddar, onions, green chilies and black pepper. The dough is whole wheat for a nutritious version. Stuff, griddle cook, and enjoy these parathas for breakfast or brunch along with yogurt or chutney. Cheese paratha is a delicious whole wheat unleavened flatbread stuffed with a cheesy savory stuffing made with cheddar cheese, onions, green chilies and black pepper. These cheese flatbreads make for a wholesome breakfast or brunch. 
 
 ### Ingredients
 

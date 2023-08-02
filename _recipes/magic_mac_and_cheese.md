@@ -2,8 +2,7 @@
 author: Morgan
 category: Entrees
 description: A no-boil, no-roux, and no-nonsense recipe for the richest and most flavorful
-  baked mac of your life. Its flavor is deliciously complex, yet its method is simple
-  to cook and customize.
+  baked mac of your life.
 favorite: "\u2713"
 image: magic_mac_and_cheese.jpg
 size: 4 servings
@@ -11,7 +10,8 @@ source: https://hostthetoast.com/magic-mac-and-cheese/
 time: 1 hour
 title: Magic Mac and Cheese
 ---
-This Magic Mac and Cheese recipe is a result of a spring project to create the easiest, cheesiest, most satisfying macaroni and cheese recipe of all time. After testing every variable possible, the final product is a perfect blend of velvety cheese sauce, a beautifully browned panko topping, and a blend of cheeses balanced for ample flavor and melting power.
+
+Its flavor is deliciously complex, yet its method is simple to cook and customize. This Magic Mac and Cheese recipe is a result of a spring project to create the easiest, cheesiest, most satisfying macaroni and cheese recipe of all time. After testing every variable possible, the final product is a perfect blend of velvety cheese sauce, a beautifully browned panko topping, and a blend of cheeses balanced for ample flavor and melting power.
 
 ### Ingredients
 

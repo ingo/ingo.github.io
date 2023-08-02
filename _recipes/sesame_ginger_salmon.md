@@ -7,6 +7,7 @@ size: 4 servings
 time: 1 hour, 5 minutes
 title: Sesame Ginger Salmon
 ---
+
 This Sesame Ginger Salmon is a simple yet flavorful dish that can be prepared in under an hour. The combination of sesame, ginger, and honey gives the salmon a unique and delicious taste. 
 
 ### Ingredients

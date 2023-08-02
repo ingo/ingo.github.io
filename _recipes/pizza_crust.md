@@ -2,7 +2,6 @@
 author: King Arthur Flour
 category: Breads
 description: A versatile, homemade pizza crust that can be customized to your liking.
-  Perfect for any pizza night.
 image: pizza_crust.jpg
 original_title: King Arthur Flour Pizza Crust
 size: 12 servings
@@ -10,7 +9,8 @@ source: http://www.kingarthurflour.com
 time: 3 hours
 title: Pizza Crust
 ---
-This pizza crust recipe is a classic from King Arthur Flour. It's versatile and can be used to make any shape, size, or thickness of pizza you prefer. The recipe also includes tips for freezing partially baked pizza crust and making cheese-stuffed bread sticks.
+
+Perfect for any pizza night. This pizza crust recipe is a classic from King Arthur Flour. It's versatile and can be used to make any shape, size, or thickness of pizza you prefer. The recipe also includes tips for freezing partially baked pizza crust and making cheese-stuffed bread sticks.
 
 ### Ingredients
 

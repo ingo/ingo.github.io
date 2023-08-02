@@ -2,8 +2,7 @@
 author: Mike Hsu
 category: Sides
 description: Supercharged celery sticks that will open up any appetite even on a hot
-  and muggy summer day. This Sichuan Celery Salad is served cold, making it a perfect
-  appetizer or side dish.
+  and muggy summer day.
 image: sichuan_celery_salad.jpg
 original_title: "\u6DBC\u62CC\u82B9\u83DC"
 size: 4 servings
@@ -12,7 +11,8 @@ spicy: "\u2713"
 time: 11 minutes
 title: Sichuan Celery Salad
 ---
-Even though a lot of Sichuan food is numbingly spicy, there are a handful of dishes that help combat the spiciness. Introducing the Sichuan Celery Salad. The salad is not referring to a garden salad or a caesar salad but more like a potato salad or pasta salad. It’s meant to be served cold (not at room temperature) and as an appetizer or a side dish.
+
+This Sichuan Celery Salad is served cold, making it a perfect appetizer or side dish. Even though a lot of Sichuan food is numbingly spicy, there are a handful of dishes that help combat the spiciness. Introducing the Sichuan Celery Salad. The salad is not referring to a garden salad or a caesar salad but more like a potato salad or pasta salad. It’s meant to be served cold (not at room temperature) and as an appetizer or a side dish.
 
 Western celery has a very mild taste when compared to Asian celery which is more herbal and earthy. The celery is quickly blanched and then marinated in a light salt and garlic dressing and placed in the refrigerator until chilled or even overnight. Even for kids that don’t like to eat raw celery are willing to give this salad a try.
 

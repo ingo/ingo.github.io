@@ -10,6 +10,7 @@ source: http://food52.com/recipes/23747-no-knead-sandwich-bread
 time: 5 hours 35 minutes
 title: No-Knead Sandwich Bread
 ---
+
 This recipe is a bit of a meeting-in-the-middle between the Artisan Bread in 5 and Jim Lahey techniques. The flavor of Lahey’s recipe is amazing, but a bit more work is involved. This recipe simplifies the process without sacrificing the taste.
 
 ### Ingredients

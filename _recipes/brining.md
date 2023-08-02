@@ -1,13 +1,12 @@
 ---
 category: Pantry
 description: This guide covers key brining techniques for various meats like pork
-  chops, chicken, and turkey to help retain moisture and impart flavor. It includes
-  details on wet brines, buttermilk brines, and dry rubs along with tips for brining
-  success. Brining pork or poultry before cooking enhances juiciness and infuses seasoning
-  all the way through. A wet brine of salt, sugar and aromatics adds the most moisture
+  chops, chicken, and turkey to help retain moisture and impart flavor.
 image: brining.jpg
 title: Brining
 ---
+
+It includes details on wet brines, buttermilk brines, and dry rubs along with tips for brining success. Brining pork or poultry before cooking enhances juiciness and infuses seasoning all the way through. A wet brine of salt, sugar and aromatics adds the most moisture
 
 ### Notes
 

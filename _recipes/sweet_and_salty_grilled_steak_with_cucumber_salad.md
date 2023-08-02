@@ -2,8 +2,7 @@
 author: Melissa Clark
 category: Entrees
 description: The marinade on this steak is inspired by a classic Vietnamese dipping
-  sauce called nuoc cham. Nuoc cham works as a salad dressing, too. Here we drizzle
-  it on crisp cucumbers and radishes, but sliced ripe tomatoes work just as well.
+  sauce called nuoc cham.
 image: sweet_and_salty_grilled_steak_with_cucumber_salad.jpg
 image_attribution: Evan Sung for The New York Times
 salty: "\u2713"
@@ -13,7 +12,8 @@ sweet: "\u2713"
 time: 25 minutes, plus at least 30 minutes' marinating
 title: Sweet and Salty Grilled Steak With Cucumber Salad
 ---
-The marinade on this steak is inspired by a classic Vietnamese dipping sauce called nuoc cham. Since it consists mostly of pantry staples – Asian fish sauce, brown sugar and garlic – all you need to pick up on the way home are some fresh limes and jalapeño. Nuoc cham works as a salad dressing, too. Here we drizzle it on crisp cucumbers and radishes, but sliced ripe tomatoes work just as well. You could serve it as it is with the salad on the side, or put everything on top of a bed of rice noodles or rice for a more substantial meal.
+
+Nuoc cham works as a salad dressing, too. Here we drizzle it on crisp cucumbers and radishes, but sliced ripe tomatoes work just as well. The marinade on this steak is inspired by a classic Vietnamese dipping sauce called nuoc cham. Since it consists mostly of pantry staples – Asian fish sauce, brown sugar and garlic – all you need to pick up on the way home are some fresh limes and jalapeño. Nuoc cham works as a salad dressing, too. Here we drizzle it on crisp cucumbers and radishes, but sliced ripe tomatoes work just as well. You could serve it as it is with the salad on the side, or put everything on top of a bed of rice noodles or rice for a more substantial meal.
 
 ### Ingredients
 

@@ -11,6 +11,7 @@ time: 5-24 hours
 title: Rose Petal Ice Cream
 veggie: "\u2713"
 ---
+
 Rose petals are indeed edible but one must ensure the petals haven’t been sprayed with any pesticides before using. If you don’t have roses in your garden, ask your florist. This recipe takes the route of "no-churn" ice creams. I scream, you scream, we all scream for rose petal ice cream!
 
 ### Ingredients

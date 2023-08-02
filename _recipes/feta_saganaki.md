@@ -2,7 +2,7 @@
 author: Peter Minaki
 category: Entrees
 description: A delicious Greek dish where Feta cheese is pan-seared, drizzled with
-  honey, and sprinkled with sesame seeds. Serve with warm pita bread.
+  honey, and sprinkled with sesame seeds.
 favorite: "\u2713"
 image: feta_saganaki.jpg
 original_title: "\u03A6\u03AD\u03C4\u03B1 \u03A3\u03B1\u03B3\u03B1\u03BD\u03AC\u03BA\
@@ -13,7 +13,8 @@ time: 30 minutes
 title: Feta Saganaki
 veggie: "\u2713"
 ---
-Feta cheese, the King of cheeses, a PDO appellation product made in Greece and consisting of a combo of sheep and goat milk cheese has come of age. It’s found in many households, surely most supermarkets carry it but you want to ask/purchase Greek Feta. Why settle for an ersatz version?
+
+Serve with warm pita bread. Feta cheese, the King of cheeses, a PDO appellation product made in Greece and consisting of a combo of sheep and goat milk cheese has come of age. It’s found in many households, surely most supermarkets carry it but you want to ask/purchase Greek Feta. Why settle for an ersatz version?
 
 The usual cheeses for making “saganaki cheese” are Kefalotyri or Kefalograviera but Feta can be pan seared as well –  with one proviso: seek a firm Feta.
 

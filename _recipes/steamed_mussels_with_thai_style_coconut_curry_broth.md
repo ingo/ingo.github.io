@@ -11,6 +11,7 @@ spicy: "\u2713"
 time: 20 minutes
 title: Steamed Mussels With Thai-Style Coconut-Curry Broth
 ---
+
 This recipe uses a standard steamed mussel technique combined with flavors from Central Thailand to create a dish that is pretty much identical to the French version, but whose end results are entirely different. All it takes is some curry paste, some coconut milk, and a few other odds and ends.
 
 ### Ingredients

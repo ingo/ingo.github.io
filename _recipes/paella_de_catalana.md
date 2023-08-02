@@ -2,9 +2,7 @@
 author: Richard Cornish and Frank Camorra
 category: Entrees
 description: A traditional Spanish dish adapted for cooking on a barbecue grill plate,
-  barbecue gas burner or a large gas burner. This recipe uses a variety of ingredients
-  including salt cod, rabbit, and a host of vegetables to create a rich and flavorful
-  meal.
+  barbecue gas burner or a large gas burner.
 image: paella_de_catalana.jpg
 original_title: "Roger\u2019s Catalan Paella"
 size: 4-6 servings
@@ -12,7 +10,8 @@ source: https://app.ckbk.com/recipe/movi64691c11s001r001/rogers-catalan-paella
 time: 2 hours
 title: Paella de Catalana
 ---
-This recipe is adapted from the traditional Catalan Paella, a dish that is typically cooked over an open fire. This version is designed for cooking on a barbecue grill plate, barbecue gas burner or a large gas burner, making it more accessible for those without an open fire setup.
+
+This recipe uses a variety of ingredients including salt cod, rabbit, and a host of vegetables to create a rich and flavorful meal. This recipe is adapted from the traditional Catalan Paella, a dish that is typically cooked over an open fire. This version is designed for cooking on a barbecue grill plate, barbecue gas burner or a large gas burner, making it more accessible for those without an open fire setup.
 
 ### Ingredients
 

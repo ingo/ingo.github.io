@@ -1,9 +1,7 @@
 ---
 author: Peter Minaki
 category: Entrees
-description: Delicious and tender lamb ribs, perfect as a meze for 4-6 people. This
-  versatile dish can be prepared in the oven or on the grill, and is sure to be a
-  hit at any gathering.
+description: Delicious and tender lamb ribs, perfect as a meze for 4-6 people.
 difficulty: medium
 image: kalofagas_lamb_ribs.jpg
 salty: "\u2713"
@@ -15,7 +13,8 @@ umami: "\u2713"
 vegan: null
 veggie: null
 ---
-Ontario is known for its high-quality lamb, a favorite among Greeks for Sunday dinners, occasional weekdays, and of course, Easter. Lamb ribs, the top half of the rack usually sliced off when the butcher makes rack of lamb or chops, are a delicious and finger-licking meze or appetizer.
+
+This versatile dish can be prepared in the oven or on the grill, and is sure to be a hit at any gathering. Ontario is known for its high-quality lamb, a favorite among Greeks for Sunday dinners, occasional weekdays, and of course, Easter. Lamb ribs, the top half of the rack usually sliced off when the butcher makes rack of lamb or chops, are a delicious and finger-licking meze or appetizer.
 
 ### Ingredients
 

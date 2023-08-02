@@ -9,6 +9,7 @@ source: https://www.kingarthurflour.com/recipes/pain-de-mie-recipe
 time: 3 hrs 20 mins
 title: Pain de Mie
 ---
+
 This Pain de Mie recipe comes from King Arthur Flour, a trusted source for baking recipes. This fine-grained loaf is perfect for sandwiches and toast, including French toast and melba toast.
 
 ### Ingredients

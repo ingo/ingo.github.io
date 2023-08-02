@@ -12,6 +12,7 @@ spicy: "\u2713"
 time: 1.5 hours
 title: Dungeness Crab Cioppino
 ---
+
 For Christmas Eve dinner, Judith Tirado, Michael Mina's late mother-in-law, always prepared cioppino—the San Francisco seafood stew that owes its origins to fishermen from Italy's Ligurian coast. "She'd spend a whole day infusing the broth with basil and tomatoes," Mina recalls. Now he carries on the tradition by making her hearty, briny recipe, full of crab, shrimp and clams.
 
 ### Ingredients

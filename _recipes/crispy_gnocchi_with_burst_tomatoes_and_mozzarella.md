@@ -1,10 +1,7 @@
 ---
 author: Ali Slagle
 category: Entrees
-description: Pan-fried gnocchi is like a faster version of baked pasta. This dish
-  is studded with juicy tomatoes and melty pockets of mozzarella. Cherry tomatoes
-  are reliably more flavorful year-round than larger, more watery varieties like beefsteak
-  and heirloom.
+description: Pan-fried gnocchi is like a faster version of baked pasta.
 image: crispy_gnocchi_with_burst_tomatoes_and_mozzarella.jpg
 image_attribution: Linda Xiao for The New York Times
 size: 4 servings
@@ -12,7 +9,8 @@ source: https://cooking.nytimes.com/recipes/1022024-crispy-gnocchi-with-burst-to
 time: 25 minutes
 title: Crispy Gnocchi With Burst Tomatoes and Mozzarella
 ---
-Pan-fried gnocchi is like a faster version of baked pasta. Store-bought gnocchi can simply be browned in a pan for an exciting mix of crispy outsides and chewy middles, no boiling required. This dish is studded with juicy tomatoes and melty pockets of mozzarella. Cherry tomatoes are reliably more flavorful year-round than larger, more watery varieties like beefsteak and heirloom. Toss the tomatoes with browned butter, red-pepper flakes and garlic, then hit them with a little heat, and they’ll burst into a bright sauce. Stir in the gnocchi, dot with mozzarella, then broil until the cheese is molten and the tomatoes are blistered in spots.
+
+This dish is studded with juicy tomatoes and melty pockets of mozzarella. Cherry tomatoes are reliably more flavorful year-round than larger, more watery varieties like beefsteak and heirloom. Pan-fried gnocchi is like a faster version of baked pasta. Store-bought gnocchi can simply be browned in a pan for an exciting mix of crispy outsides and chewy middles, no boiling required. This dish is studded with juicy tomatoes and melty pockets of mozzarella. Cherry tomatoes are reliably more flavorful year-round than larger, more watery varieties like beefsteak and heirloom. Toss the tomatoes with browned butter, red-pepper flakes and garlic, then hit them with a little heat, and they’ll burst into a bright sauce. Stir in the gnocchi, dot with mozzarella, then broil until the cheese is molten and the tomatoes are blistered in spots.
 
 ### Ingredients
 

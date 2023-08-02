@@ -2,13 +2,7 @@
 author: Judith Scharman
 category: Entrees
 description: A delicious and healthier version of the Thai Crunch Salad from California
-  Pizza Kitchen. This recipe combines a variety of fresh vegetables, grilled chicken,
-  and a homemade lime cilantro Thai peanut dressing, all topped with crispy baked
-  wontons. This lighter salad rendition replicates the Thai Crunch Salad made famous
-  by California Pizza Kitchen restaurants. It piles mixed crunchy vegetables, grilled
-  chicken and wonton strips atop mixed greens. The Thai peanut dressing gets its trademark
-  flavor from lime, cilantro and red curry paste. Make it at home for a restaurant-quality
-  meal with a healthier spin.
+  Pizza Kitchen.
 image: cpk_thai_crunch_salad.jpg
 original_title: California Pizza Kitchen Thai Crunch Salad
 size: 12-14 servings
@@ -16,7 +10,8 @@ source: https://foodswithjudes.com/recipe/copy-cat-cpk-thai-crunch-salad-califor
 time: 45 minutes
 title: Copy Cat CPK Thai Crunch Salad
 ---
-This recipe is a homemade version of the popular Thai Crunch Salad from California Pizza Kitchen. The author, Judith Scharman, simplified the original recipe and made it healthier without compromising on the taste. It's a great salad to prepare in advance and enjoy throughout the week.
+
+This recipe combines a variety of fresh vegetables, grilled chicken, and a homemade lime cilantro Thai peanut dressing, all topped with crispy baked wontons. This lighter salad rendition replicates the Thai Crunch Salad made famous by California Pizza Kitchen restaurants. It piles mixed crunchy vegetables, grilled chicken and wonton strips atop mixed greens. The Thai peanut dressing gets its trademark flavor from lime, cilantro and red curry paste. Make it at home for a restaurant-quality meal with a healthier spin. This recipe is a homemade version of the popular Thai Crunch Salad from California Pizza Kitchen. The author, Judith Scharman, simplified the original recipe and made it healthier without compromising on the taste. It's a great salad to prepare in advance and enjoy throughout the week.
 
 ### Ingredients
 

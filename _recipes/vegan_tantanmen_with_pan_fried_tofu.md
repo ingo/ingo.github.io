@@ -2,8 +2,7 @@
 author: Hetty McKinnon
 category: Entrees
 description: Tantanmen is the Japanese version of dan dan noodles, a Sichuan dish
-  of noodles and pork bathed in a spicy sesame broth. This vegan version features
-  pan-fried tofu and mushrooms.
+  of noodles and pork bathed in a spicy sesame broth.
 image: vegan_tantanmen_with_pan_fried_tofu.jpg
 image_attribution: Linda Xiao for The New York Times
 original_title: Vegan Tantanmen With Pan-Fried Tofu
@@ -13,7 +12,8 @@ time: 45 minutes
 title: Vegan Tantanmen With Pan-Fried Tofu
 vegan: "\u2713"
 ---
-Tantanmen is the Japanese version of dan dan noodles, a Sichuan dish of noodles and pork bathed in a spicy sesame broth. Chinese or Japanese sesame pastes, which are made from roasted sesame seeds and yield a more robust flavor than tahini, are traditionally used in this dish. For those who keep doubanjiang, or Chinese fermented bean paste, on hand, add a teaspoon or two to your soup base for even deeper flavor. Slices of pan-fried tofu make this dish feel more substantial, but if you are looking for a shortcut, crumble it up and pan-fry it alongside the mushrooms. For non-vegans, add a jammy egg.
+
+This vegan version features pan-fried tofu and mushrooms. Tantanmen is the Japanese version of dan dan noodles, a Sichuan dish of noodles and pork bathed in a spicy sesame broth. Chinese or Japanese sesame pastes, which are made from roasted sesame seeds and yield a more robust flavor than tahini, are traditionally used in this dish. For those who keep doubanjiang, or Chinese fermented bean paste, on hand, add a teaspoon or two to your soup base for even deeper flavor. Slices of pan-fried tofu make this dish feel more substantial, but if you are looking for a shortcut, crumble it up and pan-fry it alongside the mushrooms. For non-vegans, add a jammy egg.
 
 ### Ingredients
 

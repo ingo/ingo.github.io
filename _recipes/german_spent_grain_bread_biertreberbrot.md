@@ -2,9 +2,7 @@
 author: Jennifer McGavin
 category: Breads
 description: A traditional dark German rye bread made using spent grain left over
-  from brewing beer, known as treber in German. The spent grains add protein, fiber
-  and wonderful malty flavor. The bread has a dense, moist texture and is known as
-  biertreberbrot.
+  from brewing beer, known as treber in German.
 image: german_spent_grain_bread_biertreberbrot.jpg
 image_attribution: Klaus Radetzki / EyeEm / Getty Images
 original_title: Biertreberbrot
@@ -13,7 +11,8 @@ source: https://www.thespruceeats.com/spent-grain-bread-recipe-1447221
 time: 65 mins
 title: German Spent Grain Bread Biertreberbrot
 ---
-This German recipe for spent grain bread is made with the brewer's spent grain, leftovers from brewing, known as _der biertreber._ The bread made from them is known as _biertreberbrot._
+
+The spent grains add protein, fiber and wonderful malty flavor. The bread has a dense, moist texture and is known as biertreberbrot. This German recipe for spent grain bread is made with the brewer's spent grain, leftovers from brewing, known as _der biertreber._ The bread made from them is known as _biertreberbrot._
 
 The spent grain is usually added into a regular dough, along with optional nuts or raisins, which produces a bread with increased protein, fiber, and taste. 
 

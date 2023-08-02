@@ -2,7 +2,7 @@
 author: Patrick Ryan
 category: Breads
 description: This detailed recipe guides you through all the steps to achieve perfect,
-  crusty French baguettes at home. 
+  crusty French baguettes at home.
 image: baguettes.jpg
 size: 4 baguettes
 time: 3 days

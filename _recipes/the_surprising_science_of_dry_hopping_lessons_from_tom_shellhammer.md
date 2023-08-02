@@ -9,6 +9,7 @@ source: https://patspints.com/2019/01/16/the-surprising-science-of-dry-hopping-l
 time: N/A
 title: "The Surprising Science of Dry Hopping \u2013 Lessons from Tom Shellhammer"
 ---
+
 Last week, I attended parts of the Ohio Craft Brewer’s conference, held at the Hyatt Regency in downtown Columbus. The most interesting aspect of the conference was Tom Shellhammer’s keynote address. Shellhammer, the Norwester Professor of Fermentation Science at Oregon State University, is internationally recognized for his research on hop chemistry. His presentation at OCBC focused entirely on the chemistry of dry hopping (adding hops to the beer during conditioning and/or fermentation). This brewing technique figures prominently in many styles, most notably American IPAs of every description. Shellhammer’s talk featured three vignettes, each of which had a clear take home message that I attempt to summarize below.
 
 ![Dr. Tom Shellhammer during his presentation at the Ohio Craft Brewers Conference.](tom-shellhammer.jpg)

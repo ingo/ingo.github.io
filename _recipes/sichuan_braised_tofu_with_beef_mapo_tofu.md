@@ -2,8 +2,6 @@
 author: America's Test Kitchen
 category: Entrees
 description: Our version of mapo tofu is bold in flavor, with a balanced spiciness.
-  We started with cubed soft tofu, poaching it gently in chicken broth to help the
-  cubes stay intact in the braise.
 image: sichuan_braised_tofu_with_beef_mapo_tofu.jpg
 size: 4-6 servings
 source: https://www.americastestkitchen.com/
@@ -11,7 +9,8 @@ spicy: "\u2713"
 time: 1 hour
 title: Sichuan Braised Tofu with Beef (Mapo Tofu)
 ---
-This recipe is a classic Chinese dish that has been adapted to be more accessible for home cooks. The tofu is gently poached in chicken broth to help it stay intact during the braise, and the sauce is a flavorful blend of ginger, garlic, and Asian broad-bean chili paste.
+
+We started with cubed soft tofu, poaching it gently in chicken broth to help the cubes stay intact in the braise. This recipe is a classic Chinese dish that has been adapted to be more accessible for home cooks. The tofu is gently poached in chicken broth to help it stay intact during the braise, and the sauce is a flavorful blend of ginger, garlic, and Asian broad-bean chili paste.
 
 ### Ingredients
 

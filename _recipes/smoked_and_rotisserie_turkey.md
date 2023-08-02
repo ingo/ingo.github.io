@@ -2,16 +2,15 @@
 author: Unknown
 category: Entrees
 description: A flavorful and moist turkey recipe with two cooking methods - smoked
-  and rotisserie. The turkey is brined with unique apple and mushroom brines, and
-  basted with a delicious mixture of turkey stock, apple cider, garlic, butter, and
-  Herbes de Provence.
+  and rotisserie.
 favorite: "\u2713"
 image: smoked_and_rotisserie_turkey.jpg
 size: 13.78 lbs turkey
 time: 2 days brining, 6-7 hours cooking
 title: Smoked and Rotisserie Turkey
 ---
-This recipe offers two methods of preparing your turkey - smoked and rotisserie. Both methods result in a flavorful and moist turkey, but the rotisserie method was considered slightly saltier and more flavorful. 
+
+The turkey is brined with unique apple and mushroom brines, and basted with a delicious mixture of turkey stock, apple cider, garlic, butter, and Herbes de Provence. This recipe offers two methods of preparing your turkey - smoked and rotisserie. Both methods result in a flavorful and moist turkey, but the rotisserie method was considered slightly saltier and more flavorful. 
 
 ### Ingredients
 

@@ -7,6 +7,7 @@ size: 4 servings
 time: 30 minutes
 title: Pistachio Lamb Burgers
 ---
+
 This recipe for Pistachio Lamb Burgers is a delightful twist on the traditional burger. The addition of pistachios and ricotta to the lamb patties adds a rich, nutty flavor that pairs perfectly with the herbed goat cheese topping.
 
 ### Ingredients

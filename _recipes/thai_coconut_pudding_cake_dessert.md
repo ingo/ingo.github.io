@@ -2,11 +2,7 @@
 author: Claudia Totir
 category: Desserts
 description: This deliciously moist Thai dessert is like a pudding but with the consistency
-  of a cake. Served warm with a dollop of thick coconut milk or cream plus a sprinkling
-  of toasted coconut, this tropical-tasting dessert is certain to please, especially
-  if you're a coconut fan. Delicious and super easy to make, this pudding is healthy
-  too - low in fat and sugar, plus gluten-free. Best of all, you can have this easy
-  dessert recipe whipped up and in the oven in just 10 minutes!
+  of a cake.
 image: thai_coconut_pudding_cake_dessert.jpg
 image_attribution: Claudia Totir
 image_source: Getty Images
@@ -19,6 +15,8 @@ size: 6 to 8 servings
 time: 40 mins
 title: Thai Coconut Pudding Cake Dessert
 ---
+
+Served warm with a dollop of thick coconut milk or cream plus a sprinkling of toasted coconut, this tropical-tasting dessert is certain to please, especially if you're a coconut fan. Delicious and super easy to make, this pudding is healthy too - low in fat and sugar, plus gluten-free. Best of all, you can have this easy dessert recipe whipped up and in the oven in just 10 minutes!
 
 ### Ingredients
 

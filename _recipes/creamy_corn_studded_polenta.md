@@ -2,17 +2,15 @@
 author: Amy Finley
 category: Entrees
 description: A creamy, corn-infused polenta that is soft, thick, and perfect for a
-  comforting meal. This corn-studded polenta is the ultimate creamy comfort food.
-  Fresh corn and scallions are mixed right into the polenta as it cooks, infusing
-  it with sweet corn flavor. The result is soft, thick and ultra creamy polenta punctuated
-  with corn kernels. It's a new twist on classic polenta sure to become a favorite.
+  comforting meal.
 image: creamy_corn_studded_polenta.jpg
 size: 4 servings
 source: http://www.epicurious.com/recipes/food/views/Creamy-Corn-Studded-Polenta-242149
 time: 30 minutes
 title: Creamy Corn-Studded Polenta
 ---
-This creamy corn-studded polenta recipe is a delightful dish that brings the comforting flavors of corn and cream together. The recipe is from Amy Finley, a renowned chef known for her simple yet delicious meals.
+
+This corn-studded polenta is the ultimate creamy comfort food. Fresh corn and scallions are mixed right into the polenta as it cooks, infusing it with sweet corn flavor. The result is soft, thick and ultra creamy polenta punctuated with corn kernels. It's a new twist on classic polenta sure to become a favorite. This creamy corn-studded polenta recipe is a delightful dish that brings the comforting flavors of corn and cream together. The recipe is from Amy Finley, a renowned chef known for her simple yet delicious meals.
 
 ### Ingredients
 

@@ -1,18 +1,15 @@
 ---
 author: Anonymous
 category: Sides
-description: These potatoes are like eating clouds. They are always a hit and people
-  often ask for the recipe. The name says it all - these mashed potatoes are as light
-  and fluffy as clouds. They make a unique twist on standard mashed potatoes, becoming
-  so ethereally smooth that they live up to their name. People always request the
-  recipe after trying these dreamy spuds, which are sure to be a hit at any dinner.
+description: These potatoes are like eating clouds.
 favorite: "\u2713"
 image: cloud_potatoes.jpg
 size: 2 large pots
 time: 30 minutes
 title: Cloud Potatoes
 ---
-Cloud Potatoes are a heavenly side dish that will have your guests floating on cloud nine. This recipe was passed down from a mysterious source, and has been a crowd favorite ever since. The secret to their cloud-like texture is a combination of cream cheese and mayo, whipped to perfection.
+
+They are always a hit and people often ask for the recipe. The name says it all - these mashed potatoes are as light and fluffy as clouds. They make a unique twist on standard mashed potatoes, becoming so ethereally smooth that they live up to their name. People always request the recipe after trying these dreamy spuds, which are sure to be a hit at any dinner. Cloud Potatoes are a heavenly side dish that will have your guests floating on cloud nine. This recipe was passed down from a mysterious source, and has been a crowd favorite ever since. The secret to their cloud-like texture is a combination of cream cheese and mayo, whipped to perfection.
 
 ### Ingredients
 

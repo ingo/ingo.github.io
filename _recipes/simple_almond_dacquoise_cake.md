@@ -2,15 +2,15 @@
 author: Chef Iso
 category: Desserts
 description: A simple and delicious dacquoise recipe that is leavened by the air incorporated
-  into egg whites in the meringue. This gluten-free recipe has a shorter shelf life
-  and is best used as soon as possible.
+  into egg whites in the meringue.
 image: simple_almond_dacquoise_cake.jpg
 size: Varies based on pan size
 source: https://chefiso.com/p/almond-dacquoise-cake-recipe/
 time: 20 minutes
 title: Simple Almond Dacquoise Cake
 ---
-This recipe for dacquoise is quite simple and very delicious. Unlike traditional cakes, a dacquoise is leavened (risen) by the air incorporated into egg whites in the meringue. But the small ingredient list comes at a cost of a shorter shelf life. Lacking any flour, starch, or other stabilizing agent, this particular recipe is fragile in both lifespan and structure. Fresher is better, so be sure to use it as soon as possible, or keep sealed air-tight in the refrigerator for a few days at most. Because the meringue can get sticky over time, you want to use pieces of parchment to keep any cut layers separated. 
+
+This gluten-free recipe has a shorter shelf life and is best used as soon as possible. This recipe for dacquoise is quite simple and very delicious. Unlike traditional cakes, a dacquoise is leavened (risen) by the air incorporated into egg whites in the meringue. But the small ingredient list comes at a cost of a shorter shelf life. Lacking any flour, starch, or other stabilizing agent, this particular recipe is fragile in both lifespan and structure. Fresher is better, so be sure to use it as soon as possible, or keep sealed air-tight in the refrigerator for a few days at most. Because the meringue can get sticky over time, you want to use pieces of parchment to keep any cut layers separated. 
 
 Lacking any wheat flour, this recipe is completely gluten-free.
 

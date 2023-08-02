@@ -2,7 +2,6 @@
 author: "J. Kenji L\xF3pez-Alt"
 category: Entrees
 description: Baked wings that taste just like real-deal, deep-fried Buffalo wings.
-  The secret is some baking powder.
 image: oven_fried_buffalo_wings.jpg
 original_title: Really Good Oven-Fried Buffalo Wings Recipe
 size: Serves 4 to 8
@@ -11,7 +10,8 @@ spicy: "\u2713"
 time: 9 to 19 hours
 title: Oven-Fried Buffalo Wings
 ---
-The secret to baked wings that taste just like real-deal, deep-fried Buffalo wings? Some baking powder. But, of course, this wouldn't be The Food Lab unless we tested 28 variations first to confirm.
+
+The secret is some baking powder. The secret to baked wings that taste just like real-deal, deep-fried Buffalo wings? Some baking powder. But, of course, this wouldn't be The Food Lab unless we tested 28 variations first to confirm.
 
 ### Ingredients
 

@@ -2,9 +2,7 @@
 author: Ali Slagle
 category: Entrees
 description: "Pasta with chickpeas is a substantial, quickly assembled meal, but what\u2019\
-  s alluring about this version is the undercurrent of rosemary. Whole sprigs lightly\
-  \ fried in olive oil provide flavor in two ways. The leaves are crumbled into the\
-  \ pasta for a fragrant punch, and the infused oil slicks the noodles."
+  s alluring about this version is the undercurrent of rosemary."
 image: linguine_with_crisp_chickpeas_and_rosemary.jpg
 image_attribution: Julia Gartland for The New York Times
 size: 4 servings
@@ -12,6 +10,8 @@ source: https://cooking.nytimes.com/search?q=Ali+Slagle&action=click&module=byli
 time: 20 minutes
 title: Linguine With Crisp Chickpeas and Rosemary
 ---
+
+Whole sprigs lightly fried in olive oil provide flavor in two ways. The leaves are crumbled into the pasta for a fragrant punch, and the infused oil slicks the noodles.
 
 ### Ingredients
 

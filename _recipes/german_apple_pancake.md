@@ -11,6 +11,7 @@ sweet: "\u2713"
 time: 30 minutes
 title: German Apple Pancake
 ---
+
 This delightful German Apple Pancake recipe comes from Carolyn, a passionate pancake maker who runs a website dedicated to perfect pancakes. On a quiet Wednesday morning, she decided to make use of some leftover Granny Smith apples and ended up creating this heavenly dish. She recommends using Braeburn apples for a sweeter pancake, but feel free to experiment with your favorite apple varieties.
 
 ### Ingredients

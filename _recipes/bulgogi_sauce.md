@@ -2,12 +2,7 @@
 author: Heong Soon Park
 category: Entrees
 description: This Korean bulgogi marinade doubles as a versatile "mother sauce" that
-  can be used with beef, pork, chicken or tofu. The sweet and savory sauce features
-  soy sauce, pear, onion, garlic and sesame. Traditionally used for grilled Korean
-  BBQ dishes. This flavorful bulgogi marinade can be used to add delicious Korean
-  inspired flavor to a variety of proteins. The combination of soy sauce, pear, sesame,
-  garlic, and onion makes a sauce that works well to marinate beef, pork, chicken
-  or tofu. Use it to infuse Korean flavor into anything you are grilling or cooking.File
+  can be used with beef, pork, chicken or tofu.
 image: bulgogi_sauce.jpg
 original_title: "\uBD88\uACE0\uAE30 \uC18C\uC2A4"
 size: 4-6 servings
@@ -17,6 +12,8 @@ time: 3 hours 30 minutes
 title: Bulgogi Sauce
 umami: "\u2713"
 ---
+
+The sweet and savory sauce features soy sauce, pear, onion, garlic and sesame. Traditionally used for grilled Korean BBQ dishes. This flavorful bulgogi marinade can be used to add delicious Korean inspired flavor to a variety of proteins. The combination of soy sauce, pear, sesame, garlic, and onion makes a sauce that works well to marinate beef, pork, chicken or tofu. Use it to infuse Korean flavor into anything you are grilling or cooking.File
 
 ### Ingredients
 

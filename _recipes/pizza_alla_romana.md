@@ -2,8 +2,7 @@
 author: Registered User from Pizza Making Forum
 category: Entrees
 description: A delicious and authentic Italian pizza recipe shared by a pizza enthusiast
-  from Modena, Italy. This pizza is made in the Bonci style, with a soft and fluffy
-  crumb, and a perfect balance of toppings.
+  from Modena, Italy.
 difficulty: medium
 image: pizza_alla_romana.jpg
 original_title: Teglia alla Romana
@@ -14,7 +13,8 @@ title: Pizza alla Romana
 vegan: null
 veggie: null
 ---
-This recipe comes from a pizza enthusiast from Modena, Italy, who shared his recipe on the Pizza Making Forum. The pizza is made in the Bonci style, which involves stretching the dough, placing it in an unoiled pan, topping it, and baking it in two stages. The result is a pizza with a soft and fluffy crumb, and a perfect balance of toppings.
+
+This pizza is made in the Bonci style, with a soft and fluffy crumb, and a perfect balance of toppings. This recipe comes from a pizza enthusiast from Modena, Italy, who shared his recipe on the Pizza Making Forum. The pizza is made in the Bonci style, which involves stretching the dough, placing it in an unoiled pan, topping it, and baking it in two stages. The result is a pizza with a soft and fluffy crumb, and a perfect balance of toppings.
 
 ### Ingredients
 

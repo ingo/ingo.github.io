@@ -2,8 +2,7 @@
 author: Ali Slagle
 category: Sides
 description: Crunchy cucumbers and creamy avocados are the stars of this simple five-ingredient
-  salad. Finish with a hit of red-pepper flakes for heat, or embellish with herbs,
-  lettuces, beans, soft-boiled eggs, feta, nuts and so on.
+  salad.
 image: cucumber_avocado_salad.jpg
 image_attribution: Christopher Simpson for The New York Times
 size: 4 servings
@@ -11,6 +10,8 @@ source: https://cooking.nytimes.com/recipes/1022411-cucumber-avocado-saladundefi
 time: 15 minutes
 title: Cucumber-Avocado Salad
 ---
+
+Finish with a hit of red-pepper flakes for heat, or embellish with herbs, lettuces, beans, soft-boiled eggs, feta, nuts and so on.
 
 ### Ingredients
 

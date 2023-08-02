@@ -2,11 +2,7 @@
 author: The New York Times
 category: Entrees
 description: A simple tart featuring beautifully cooked carrots, ricotta and feta
-  cheese. Perfect for a picnic or a light meal. This carrot tart recipe relies on
-  just a few main ingredients - carrots, ricotta, feta, and phyllo dough - to create
-  a flavorful appetizer or light meal. The carrots are cooked down until caramelized
-  before being combined with the cheeses and baked into the flaky phyllo crust. It's
-  impressive yet easy enough for a picnic or casual gathering.
+  cheese.
 image: carrot_tart_with_ricotta_and_feta.jpg
 image_attribution: Romulo Yanes
 image_source: The New York Times
@@ -27,7 +23,8 @@ source: https://cooking.nytimes.com/recipes/1020174-carrot-tart-with-ricotta-and
 time: 1 hour
 title: Carrot Tart With Ricotta and Feta
 ---
-This simple tart features beautifully cooked carrots, but can be easily adapted to include other vegetables such as onions, parsnips, beets, zucchini or pumpkin. The key is to cook the vegetables before putting them on the tart to prevent the puff pastry from becoming soggy. 
+
+Perfect for a picnic or a light meal. This carrot tart recipe relies on just a few main ingredients - carrots, ricotta, feta, and phyllo dough - to create a flavorful appetizer or light meal. The carrots are cooked down until caramelized before being combined with the cheeses and baked into the flaky phyllo crust. It's impressive yet easy enough for a picnic or casual gathering. This simple tart features beautifully cooked carrots, but can be easily adapted to include other vegetables such as onions, parsnips, beets, zucchini or pumpkin. The key is to cook the vegetables before putting them on the tart to prevent the puff pastry from becoming soggy. 
 
 ### Ingredients
 

@@ -10,6 +10,7 @@ spicy: "\u2713"
 time: 1 hour 30 minutes
 title: Peruvian Fish Kebabs
 ---
+
 This recipe for Peruvian Fish Kebabs comes from the Barbecue Bible by Steven Raichlen. It's a delightful mix of firm white fish and red bell peppers, marinated in a blend of garlic, cumin, vinegar, and lemon juice, then grilled to perfection. The unique addition of aji amarillo gives it a Peruvian twist that will make your barbecue stand out.
 
 ### Ingredients

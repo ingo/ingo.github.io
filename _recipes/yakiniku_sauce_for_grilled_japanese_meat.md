@@ -8,6 +8,7 @@ size: 2 servings
 time: 8 minutes
 title: Yakiniku Sauce for Grilled Japanese Meat
 ---
+
 Yakiniku sauce is a term derived from the Japanese term _yaki_, which means "grilled," and _niku_, which means "meat," or "beef." It is used broadly to describe various grilled and cooked meats, including American outdoor BBQ style meats and Korean style BBQ. Regardless of the cooking method, grilled meat is often served with a yakiniku dipping sauce, or it is seasoned with yakiniku sauce prior to being cooked.
 
 ### Ingredients

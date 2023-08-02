@@ -2,8 +2,7 @@
 author: The Daring Gourmet
 category: Entrees
 description: This Peruvian roasted chicken is marinated in a magical concoction of
-  spices and herbs, then roasted to perfection. Served with a Peruvian Aji Verde Sauce,
-  it's satisfaction guaranteed.
+  spices and herbs, then roasted to perfection.
 image: pollo_a_la_brasa_peruvian_roasted_chicken.jpg
 original_title: Pollo a la Brasa
 size: 4-6 servings
@@ -12,7 +11,8 @@ spicy: "\u2713"
 time: 7 hours (including marination time)
 title: Pollo a la Brasa (Peruvian Roasted Chicken)
 ---
-Pollo a la Brasa is a popular dish in Peru, so much so that there's a designated national day for it in July! This recipe comes from a special request from a reader who wanted to recreate the delicious chicken she and her husband enjoyed at a local restaurant. The marinade is full of spices and herbs, creating a fragrant, savory, well-spiced, and somewhat salty flavor. The skin is beautifully crisp, and the meat is as juicy as one can imagine. 
+
+Served with a Peruvian Aji Verde Sauce, it's satisfaction guaranteed. Pollo a la Brasa is a popular dish in Peru, so much so that there's a designated national day for it in July! This recipe comes from a special request from a reader who wanted to recreate the delicious chicken she and her husband enjoyed at a local restaurant. The marinade is full of spices and herbs, creating a fragrant, savory, well-spiced, and somewhat salty flavor. The skin is beautifully crisp, and the meat is as juicy as one can imagine. 
 
 ### Ingredients
 

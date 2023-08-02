@@ -2,8 +2,7 @@
 author: Hetty McKinnon
 category: Entrees
 description: Silky soft tofu draped in a punchy soy dressing, creating a lively dish
-  with little effort. Make it your own with other fresh herbs or add crunch with fried
-  shallots or roasted peanuts.
+  with little effort.
 image: silken_tofu_with_spicy_soy_dressing.jpg
 image_attribution: Christopher Simpson for The New York Times
 original_title: Silken Tofu With Spicy Soy Dressing
@@ -14,7 +13,8 @@ time: 5 minutes
 title: Silken Tofu With Spicy Soy Dressing
 veggie: "\u2713"
 ---
-This recipe is inspired by the many cold silken tofu dishes from East Asia, like Japanese hiyayakko and Chinese liangban tofu. This no-cook dish is a handy one to have up your sleeve, especially for warm evenings when the desire to cook is nonexistent. 
+
+Make it your own with other fresh herbs or add crunch with fried shallots or roasted peanuts. This recipe is inspired by the many cold silken tofu dishes from East Asia, like Japanese hiyayakko and Chinese liangban tofu. This no-cook dish is a handy one to have up your sleeve, especially for warm evenings when the desire to cook is nonexistent. 
 
 ### Ingredients
 

@@ -2,9 +2,7 @@
 author: Chris Morocco
 category: Entrees
 description: There is no better beach or picnic sandwich, It feeds a crowd, gets better
-  as it sits, and is a hearty meal built inside a loaf of bread. Unless you live in
-  New Orleans and can get the real thing, opt for a ciabatta or other loaf with a
-  sturdy but not too crusty exterior.
+  as it sits, and is a hearty meal built inside a loaf of bread.
 image: muffuletta.jpg
 image_attribution: Gentl & Hyers
 size: 4 servings
@@ -12,6 +10,8 @@ source: https://www.epicurious.com/recipes/food/views/the-ba-muffuletta
 time: 1-3 hours
 title: Muffuletta
 ---
+
+Unless you live in New Orleans and can get the real thing, opt for a ciabatta or other loaf with a sturdy but not too crusty exterior.
 
 ### Ingredients
 

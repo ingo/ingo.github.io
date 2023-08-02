@@ -1,11 +1,7 @@
 ---
 author: Kat Boytsova
 category: Breakfasts
-description: Tender and delicately tangy crepes made with a sourdough starter. The
-  sourdough adds complexity and lifts the classic crepe to new heights. Be patient
-  when you start to cook them, since just like pancakes, the first crepe is never
-  the best as you get the hang of it. They make an ideal canvas for either sweet or
-  savory fillings.
+description: Tender and delicately tangy crepes made with a sourdough starter.
 image: sourdough_crepes.jpg
 original_title: Sourdough Crepes
 size: 12 crepes
@@ -13,7 +9,8 @@ source: https://www.epicurious.com/recipes/food/views/sourdough-crepes
 time: 9 hours
 title: Sourdough Crepes
 ---
-These sourdough crepes are a great way to use up discarded sourdough starter. They are tender and a little bit tangy, making them an ideal blank canvas for sweet or savory toppings. Be patient when you start to cook them, since just like pancakes, the first crepe is never the best. If the initial ones are too pale (or burnt!), simply adjust the heat and keep going until you reach a sweet spot!
+
+The sourdough adds complexity and lifts the classic crepe to new heights. Be patient when you start to cook them, since just like pancakes, the first crepe is never the best as you get the hang of it. They make an ideal canvas for either sweet or savory fillings. These sourdough crepes are a great way to use up discarded sourdough starter. They are tender and a little bit tangy, making them an ideal blank canvas for sweet or savory toppings. Be patient when you start to cook them, since just like pancakes, the first crepe is never the best. If the initial ones are too pale (or burnt!), simply adjust the heat and keep going until you reach a sweet spot!
 
 ### Ingredients
 

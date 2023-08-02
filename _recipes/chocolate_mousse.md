@@ -1,12 +1,7 @@
 ---
 author: Genevieve Ko
 category: Desserts
-description: "Each mouthful of this dessert is a marvel. As light as a meringue pie\
-  \ topping, but with the eggy silkiness of a creamy chocolate custard. This mousse\
-  \ has a particularly airy texture, but is still a little rich from the bittersweet\
-  \ chocolate, which makes it the ideal not-too-sweet dessert. Because the mousse\
-  \ develops an even deeper flavor over time, it\u2019s perfect for parties. You can\
-  \ make it up to five days ahead of time and serve it straight from the refrigerator."
+description: Each mouthful of this dessert is a marvel.
 image: chocolate_mousse.jpg
 image_attribution: Chris Simpson for The New York Times
 original_title: Chocolate Mousse Recipe - NYT Cooking
@@ -15,6 +10,8 @@ source: https://cooking.nytimes.com/ourcooks/genevieve-ko/my-recipes?action=clic
 time: 20 minutes, plus overnight chilling
 title: Chocolate Mousse
 ---
+
+As light as a meringue pie topping, but with the eggy silkiness of a creamy chocolate custard. This mousse has a particularly airy texture, but is still a little rich from the bittersweet chocolate, which makes it the ideal not-too-sweet dessert. Because the mousse develops an even deeper flavor over time, it’s perfect for parties. You can make it up to five days ahead of time and serve it straight from the refrigerator.
 
 ### Ingredients
 

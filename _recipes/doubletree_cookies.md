@@ -2,14 +2,15 @@
 author: DoubleTree
 category: Desserts
 description: Deliciously rich and soft cookies filled with semi-sweet chocolate chips
-  and chopped walnuts. Perfect for a sweet treat or dessert.
+  and chopped walnuts.
 favorite: "\u2713"
 image: doubletree_cookies.jpg
 size: 26 cookies
 time: 1 hour 30 minutes
 title: Doubletree Cookies
 ---
-These cookies are a signature recipe from DoubleTree, known for their rich flavor and soft texture. They are filled with semi-sweet chocolate chips and chopped walnuts, making them a perfect sweet treat or dessert.
+
+Perfect for a sweet treat or dessert. These cookies are a signature recipe from DoubleTree, known for their rich flavor and soft texture. They are filled with semi-sweet chocolate chips and chopped walnuts, making them a perfect sweet treat or dessert.
 
 ### Ingredients
 

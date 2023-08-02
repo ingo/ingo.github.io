@@ -2,8 +2,7 @@
 author: NYT Cooking
 category: Breads
 description: "A wonderful Sardinian flatbread known as carta musica \u2014 sheet music,\
-  \ because it is nearly impossibly thin. The dough has such a high percentage of\
-  \ olive oil that rolling it super-thin is almost no work at all."
+  \ because it is nearly impossibly thin."
 image: olive_oil_matzo.jpg
 original_title: Olive Oil Matzo
 size: 12 servings
@@ -11,7 +10,8 @@ source: https://www.nytimes.com/2010/03/24/dining/24minirex.html
 time: 4 hours 15 minutes
 title: Olive Oil Matzo
 ---
-This recipe is inspired by a Sardinian flatbread known as carta musica. The dough is a joy to work with as it's almost impossible to tear and, with a minimum of additional flour, is stick-free. Baking takes a bit of practice because the oven must be heated to reach a very high temperature before the dough is inserted. The last few breads will bake a bit faster than the first few because the baking sheet will be hot.
+
+The dough has such a high percentage of olive oil that rolling it super-thin is almost no work at all. This recipe is inspired by a Sardinian flatbread known as carta musica. The dough is a joy to work with as it's almost impossible to tear and, with a minimum of additional flour, is stick-free. Baking takes a bit of practice because the oven must be heated to reach a very high temperature before the dough is inserted. The last few breads will bake a bit faster than the first few because the baking sheet will be hot.
 
 ### Ingredients
 

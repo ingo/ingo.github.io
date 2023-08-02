@@ -2,9 +2,7 @@
 author: Melissa Clark
 category: Desserts
 description: "Rice flour makes this poundcake melt-in-your-mouth tender, and gives\
-  \ it a mild and delicate flavor that\u2019s spiced with a touch of black pepper.\
-  \ It keeps well, so feel free to bake it a day or two ahead of serving, or eat any\
-  \ leftovers for breakfast."
+  \ it a mild and delicate flavor that\u2019s spiced with a touch of black pepper."
 image: rice_flour_poundcake.jpg
 image_attribution: Yossy Arefi
 image_source: The New York Times (Photography and Styling)
@@ -14,7 +12,8 @@ source: https://cooking.nytimes.com/ourcooks/melissa-clark/my-recipes
 time: 1 1/2 hours
 title: Rice Flour Poundcake
 ---
-This recipe was created by Zachary Golper of Bien Cuit bakery in Brooklyn, who prefers Japanese rice flour for its consistently fine particle size, but any white rice flour will work. (Note: If you don't have an 8-inch loaf pan, you can use a 9-inch pan but the baking time will be about 5 to 10 minutes shorter, and the loaf will be flatter in appearance.)
+
+It keeps well, so feel free to bake it a day or two ahead of serving, or eat any leftovers for breakfast. This recipe was created by Zachary Golper of Bien Cuit bakery in Brooklyn, who prefers Japanese rice flour for its consistently fine particle size, but any white rice flour will work. (Note: If you don't have an 8-inch loaf pan, you can use a 9-inch pan but the baking time will be about 5 to 10 minutes shorter, and the loaf will be flatter in appearance.)
 
 ### Ingredients
 

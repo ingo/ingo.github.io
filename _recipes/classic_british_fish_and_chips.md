@@ -1,15 +1,8 @@
 ---
 author: The Spruce
 category: Entrees
-description: "Classic fish and chips are a British institution and a national dish\
-  \ that everyone can't help but love. You can buy them from one of the thousands\
-  \ of fish and chip shops all over the country, including the world-famous Harry\
-  \ Ramsden's\u2014or you can make them at home. Fish and chips hold an iconic status\
-  \ in British culture as a beloved national dish. The combination of crispy battered\
-  \ fish with hot chips cooked to perfection is hard for anyone to resist. While you\
-  \ can enjoy outstanding fish and chips from one of thousands of shops across the\
-  \ UK, this recipe teaches you how to recreate the magic at home. Frying the fish\
-  \ and chips from scratch results in a flavorful version of this classic."
+description: Classic fish and chips are a British institution and a national dish
+  that everyone can't help but love.
 difficulty: medium
 favorite: "\u2713"
 image: classic_british_fish_and_chips.jpg
@@ -24,7 +17,8 @@ source: https://www.thespruceeats.com/best-fish-and-chips-recipe-434856
 time: 1 hour 25 minutes
 title: Classic British Fish and Chips
 ---
-Classic fish and chips are a British institution and a national dish that everyone can't help but love. You can buy them from one of the thousands of fish and chip shops all over the country, including the world-famous Harry Ramsden's—or you can make them at home. 
+
+You can buy them from one of the thousands of fish and chip shops all over the country, including the world-famous Harry Ramsden's—or you can make them at home. Fish and chips hold an iconic status in British culture as a beloved national dish. The combination of crispy battered fish with hot chips cooked to perfection is hard for anyone to resist. While you can enjoy outstanding fish and chips from one of thousands of shops across the UK, this recipe teaches you how to recreate the magic at home. Frying the fish and chips from scratch results in a flavorful version of this classic. Classic fish and chips are a British institution and a national dish that everyone can't help but love. You can buy them from one of the thousands of fish and chip shops all over the country, including the world-famous Harry Ramsden's—or you can make them at home. 
 
 ### Ingredients
 

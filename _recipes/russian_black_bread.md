@@ -2,7 +2,7 @@
 author: Beth Hensperger
 category: Breads
 description: A robust and flavorful bread that can be enjoyed with butter and caviar
-  or used to make a hearty sandwich. This recipe makes 2 loaves.
+  or used to make a hearty sandwich.
 image: russian_black_bread.jpg
 original_title: "\u0427\u0451\u0440\u043D\u044B\u0439 \u0445\u043B\u0435\u0431"
 size: 2 loaves
@@ -10,6 +10,8 @@ source: http://www.amazon.com/gp/product/0811816869?ie=UTF8&tag=smitten-20&linkC
 time: 3-4 hours
 title: Russian Black Bread
 ---
+
+This recipe makes 2 loaves.
 
 ### Ingredients
 

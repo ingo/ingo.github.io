@@ -2,8 +2,7 @@
 author: Julia Moskin
 category: Sides
 description: A sweet or pungent salad that can be served as a fresh first course,
-  a refreshing side dish, or as a palate cleanser with a cheese course. Especially
-  energizing when served alongside heavy winter feasts.
+  a refreshing side dish, or as a palate cleanser with a cheese course.
 image: soft_herb_salad.jpg
 image_attribution: Jim Wilson
 image_source: The New York Times
@@ -12,7 +11,8 @@ source: https://cooking.nytimes.com/guides/43-how-to-make-salad
 time: 1 hour
 title: Soft Herb Salad
 ---
-The beauty of this herb salad is not just how nice it looks, but also its versatility. It can be as sweet or as pungent as you like, served in a big heap as a fresh first course, or a small pile as a refreshing side dish, or as a palate cleanser with a cheese course. It is especially energizing when served alongside heavy winter feasts. The leaf-green herbs, pink peppercorns and buttery golden almonds perk up the browns of roasts and braises. Picking the herbs and cleaning them is a finicky task, but can be done a day or two before.
+
+Especially energizing when served alongside heavy winter feasts. The beauty of this herb salad is not just how nice it looks, but also its versatility. It can be as sweet or as pungent as you like, served in a big heap as a fresh first course, or a small pile as a refreshing side dish, or as a palate cleanser with a cheese course. It is especially energizing when served alongside heavy winter feasts. The leaf-green herbs, pink peppercorns and buttery golden almonds perk up the browns of roasts and braises. Picking the herbs and cleaning them is a finicky task, but can be done a day or two before.
 
 ### Ingredients
 

@@ -2,14 +2,15 @@
 author: Tyler Florence
 category: Entrees
 description: Delicious poached shrimp served with a homemade Bloody Mary cocktail
-  sauce. Perfect for a raw shellfish bar.
+  sauce.
 difficulty: Easy
 image: poached_shrimp.jpg
 size: 4 servings
 time: 50 minutes
 title: Poached Shrimp
 ---
-This recipe for poached shrimp is a courtesy of Tyler Florence. It's an easy and quick dish that is perfect for a seafood feast.
+
+Perfect for a raw shellfish bar. This recipe for poached shrimp is a courtesy of Tyler Florence. It's an easy and quick dish that is perfect for a seafood feast.
 
 ### Ingredients
 

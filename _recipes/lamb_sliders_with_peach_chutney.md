@@ -7,6 +7,8 @@ size: 8 burgers (2 per person)
 title: Lamb Sliders with Peach Chutney
 ---
 
+
+
 ### Ingredients
 
 * `1 1/2 lbs` ground lamb

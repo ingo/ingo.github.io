@@ -11,6 +11,7 @@ spicy: "\u2713"
 time: 5 hours
 title: Slow-Roast Spiced Lamb Shoulder with Sumac Onions
 ---
+
 This recipe is inspired by the lamb shoulder dish served at Maydan in Washington, DC, which was named the No. 2 Best New Restaurant in 2018. The original recipe is cooked sous vide until tender and then finished in the hearth until crisp and golden brown. This version has been adapted for the oven to achieve a similar effect.
 
 ### Ingredients

@@ -1,14 +1,8 @@
 ---
 author: Judith Hesser
 category: Desserts
-description: "A dense but moist chocolate birthday cake, mixed all in a pot over medium\
-  \ heat, then dumped into a cake pan to bake. The icing is a swirl of melted Nestl\xE9\
-  's semisweet-chocolate chips and sour cream. True to its name, this chocolate birthday\
-  \ cake is made by dumping all the ingredients right into a pot over medium heat.\
-  \ The dense, fudgy cake batter then gets poured into a pan and baked. Topped with\
-  \ an easy icing of melted chocolate chips swirled with sour cream, this dump-and-bake\
-  \ cake always impresses. It delivers rich chocolate flavor in a treat that's perfect\
-  \ for birthdays."
+description: A dense but moist chocolate birthday cake, mixed all in a pot over medium
+  heat, then dumped into a cake pan to bake.
 favorite: "\u2713"
 image: chocolate_dump_it_cake.jpg
 image_attribution: Danny Ghitis for The New York Times
@@ -18,7 +12,8 @@ source: http://www.nytimes.com/2002/05/12/magazine/food-diary-personal-best.html
 time: 1 hour 30 minutes
 title: Chocolate Dump-It Cake
 ---
-This recipe was taught to the author by her mother and has been a family favorite ever since. The cake is dense but moist, and the icing is a delightful mix of melted Nestlé's semisweet-chocolate chips and sour cream. It's a simple recipe that delivers a delicious result.
+
+The icing is a swirl of melted Nestlé's semisweet-chocolate chips and sour cream. True to its name, this chocolate birthday cake is made by dumping all the ingredients right into a pot over medium heat. The dense, fudgy cake batter then gets poured into a pan and baked. Topped with an easy icing of melted chocolate chips swirled with sour cream, this dump-and-bake cake always impresses. It delivers rich chocolate flavor in a treat that's perfect for birthdays. This recipe was taught to the author by her mother and has been a family favorite ever since. The cake is dense but moist, and the icing is a delightful mix of melted Nestlé's semisweet-chocolate chips and sour cream. It's a simple recipe that delivers a delicious result.
 
 ### Ingredients
 

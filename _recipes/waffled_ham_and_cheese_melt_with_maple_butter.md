@@ -10,6 +10,7 @@ source: https://www.epicurious.com/recipes/food/views/waffled-ham-and-cheese-mel
 time: 10 minutes
 title: Waffled Ham and Cheese Melt with Maple Butter
 ---
+
 When Daniel Shumski first dreamed up this sandwich, he wanted the maple butter to go on the bread before it went into the waffle iron, but that turned out to be a recipe for disaster: The sugars in the maple syrup burned quickly, much more quickly than the cheese melted. There would have to be another way. And there is! After a few modifications, he hit on the right balance of pre- and post-buttering.
 
 ### Ingredients

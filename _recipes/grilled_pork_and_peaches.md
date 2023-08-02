@@ -10,6 +10,7 @@ source: https://www.nytimes.com/2012/08/19/magazine/how-to-burn-dinner.html
 time: 1 hour
 title: Grilled Pork and Peaches
 ---
+
 This recipe is inspired by Francis Mallmann, the Latin American chef who developed the technique of cooking on the "uncertain edge of burnt." It requires patience and keen observation. What you are looking for on the edges of the meat and fruit is color: a deep, dark brown that is almost black — a black without bitter, a burn that is not burned.
 
 ### Ingredients

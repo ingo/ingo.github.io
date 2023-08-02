@@ -2,7 +2,7 @@
 author: Kathy YL Chan
 category: Sides
 description: A classic Hawaiian side dish made from salted salmon, tomatoes, onions,
-  and green onions. A must-have for any proper Hawaiian meal or luau.
+  and green onions.
 image: lomi_lomi_salmon.jpg
 original_title: Lomi Lomi Salmon
 size: Side dish for four people
@@ -10,7 +10,8 @@ source: https://onolicioushawaii.com/lomi-lomi-salmon/
 time: 20 minutes
 title: Lomi Lomi Salmon
 ---
-Lomi Lomi Salmon is a Hawaiian side dish made from salted salmon, tomatoes, onions, and green onions. It's a must-have for any Hawaiian meal or luau. Here's everything you need to know about Lomi Lomi Salmon, plus a step-by-step photo recipe!
+
+A must-have for any proper Hawaiian meal or luau. Lomi Lomi Salmon is a Hawaiian side dish made from salted salmon, tomatoes, onions, and green onions. It's a must-have for any Hawaiian meal or luau. Here's everything you need to know about Lomi Lomi Salmon, plus a step-by-step photo recipe!
 
 ### Ingredients
 

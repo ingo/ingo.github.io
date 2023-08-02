@@ -2,9 +2,7 @@
 author: Melissa's Southern Style Kitchen
 category: Sides
 description: This recipe for Parmesan Smashed Potatoes turns the lovable spud into
-  something extra special. They're a delicious side dish option that requires only
-  a few ingredients to prepare. They're certain to complement a multitude of your
-  favorite entrees.
+  something extra special.
 image: parmesan_smashed_potatoes.jpg
 original_title: Parmesan Smashed Potatoes
 size: 6 servings
@@ -12,7 +10,8 @@ source: https://www.melissassouthernstylekitchen.com/parmesan-smashed-potatoes/
 time: 55 minutes
 title: Parmesan Smashed Potatoes
 ---
-The love of spuds is alive and well at our house. Whether I make them in hash brown muffins with eggs for breakfast, or topped with spicy beef turning them into taco taters as an appetizer or a loaded potato casserole, they're the first dish to go. Potatoes are inexpensive and readily available making them a stellar choice for families.
+
+They're a delicious side dish option that requires only a few ingredients to prepare. They're certain to complement a multitude of your favorite entrees. The love of spuds is alive and well at our house. Whether I make them in hash brown muffins with eggs for breakfast, or topped with spicy beef turning them into taco taters as an appetizer or a loaded potato casserole, they're the first dish to go. Potatoes are inexpensive and readily available making them a stellar choice for families.
 
 ### Ingredients
 

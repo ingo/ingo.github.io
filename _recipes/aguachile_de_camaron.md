@@ -26,7 +26,6 @@ time: 40 minutes
 title: "Aguachile de Camar\xF3n"
 ---
 
-
   The zesty lime cured shrimp are served chilled, usually with saltine crackers or
   tostadas to scoop them up. This Aguachile de Camarón recipe is a traditional Mexican dish that delivers a flavorful and zesty appetizer. The shrimp is marinated in a refreshing lime and chile sauce, making it a perfect dish to serve with tortilla chips or tostadas.
 

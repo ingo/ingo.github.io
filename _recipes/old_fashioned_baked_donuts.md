@@ -2,8 +2,7 @@
 author: Jen Spbjack
 category: Breakfasts
 description: These simple, baked donuts will give you familiar old-fashioneds without
-  all the hassle of rolling, cutting, and frying the dough. They are perfectly sweet
-  and cakey without being too sugary.
+  all the hassle of rolling, cutting, and frying the dough.
 favorite: "\u2713"
 image: old_fashioned_baked_donuts.jpg
 original_title: Old-Fashioned Baked Donuts
@@ -12,7 +11,8 @@ source: https://www.bakedbyanintrovert.com/baked-old-fashioned-donuts/
 time: 24 minutes
 title: Old-Fashioned Baked Donuts
 ---
-This Old-Fashioned Baked Donut recipe will remind you just how delicious breakfast can taste! These simple, baked donuts will give you familiar old-fashioneds without all the hassle of rolling, cutting, and frying the dough. They are perfectly sweet and cakey without being too sugary. They make a great breakfast treat or delicious snack at any time of day!
+
+They are perfectly sweet and cakey without being too sugary. This Old-Fashioned Baked Donut recipe will remind you just how delicious breakfast can taste! These simple, baked donuts will give you familiar old-fashioneds without all the hassle of rolling, cutting, and frying the dough. They are perfectly sweet and cakey without being too sugary. They make a great breakfast treat or delicious snack at any time of day!
 
 ### Ingredients
 

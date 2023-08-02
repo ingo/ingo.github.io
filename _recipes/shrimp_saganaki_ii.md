@@ -2,8 +2,7 @@
 author: Peter Minaki
 category: Entrees
 description: A flavorful Greek dish made with large shrimp, ripe tomatoes, and quality
-  Feta cheese, all cooked in a savory tomato sauce. A shot of Ouzo complements the
-  shrimp perfectly.
+  Feta cheese, all cooked in a savory tomato sauce.
 favorite: "\u2713"
 image: shrimp_saganaki_ii.jpg
 original_title: "\u0393\u03B1\u03C1\u03AF\u03B4\u03B5\u03C2 \u03A3\u03B1\u03B3\u03B1\
@@ -13,7 +12,8 @@ source: https://www.kalofagas.ca/2021/04/12/shrimp-saganaki-ii/
 time: 35 minutes
 title: Shrimp Saganaki II
 ---
-This recipe comes from Peter Minaki, a Greek-Canadian chef who has traveled extensively throughout Greece. He was inspired to create this version of Shrimp Saganaki after tasting a memorable rendition at a taverna in N. Kallikratia, near his summer home in Halkidiki, Greece. This dish is best served as a shared appetizer with lots of crusty bread to mop up the sweet and savory tomato sauce.
+
+A shot of Ouzo complements the shrimp perfectly. This recipe comes from Peter Minaki, a Greek-Canadian chef who has traveled extensively throughout Greece. He was inspired to create this version of Shrimp Saganaki after tasting a memorable rendition at a taverna in N. Kallikratia, near his summer home in Halkidiki, Greece. This dish is best served as a shared appetizer with lots of crusty bread to mop up the sweet and savory tomato sauce.
 
 ### Ingredients
 

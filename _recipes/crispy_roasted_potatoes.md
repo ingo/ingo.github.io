@@ -1,8 +1,7 @@
 ---
 author: Betsy Vereckey
 category: Sides
-description: Crispy and salty potatoes with dream-like, fluffy insides. A perfect
-  side dish or a meal on its own.
+description: Crispy and salty potatoes with dream-like, fluffy insides.
 image: crispy_roasted_potatoes.jpg
 image_attribution: Stacy Zarin Goldberg
 image_source: The Washington Post
@@ -18,7 +17,8 @@ source: https://www.washingtonpost.com/recipes/potato-roasties/17200/
 time: 1 hour 10 minutes
 title: Crispy Roasted Potatoes
 ---
-This recipe for crispy roasted potatoes, or "roasties" as they're known in England, came from a time of change and transition. Despite the ups and downs of life, the comforting ritual of making these roasties remained a constant. Now, they're a beloved dish shared at potlucks and Friendsgiving dinners, a testament to the enduring power of good food and the memories we make while preparing it.
+
+A perfect side dish or a meal on its own. This recipe for crispy roasted potatoes, or "roasties" as they're known in England, came from a time of change and transition. Despite the ups and downs of life, the comforting ritual of making these roasties remained a constant. Now, they're a beloved dish shared at potlucks and Friendsgiving dinners, a testament to the enduring power of good food and the memories we make while preparing it.
 
 ### Ingredients
 

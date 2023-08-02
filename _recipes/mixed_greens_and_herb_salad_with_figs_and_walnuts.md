@@ -1,8 +1,7 @@
 ---
 author: Jessica Theroux
 category: Sides
-description: Using whole herb leaves adds bursts of flavor to this salad. If you can
-  find good fresh figs, use them here in place of dried ones.
+description: Using whole herb leaves adds bursts of flavor to this salad.
 image: mixed_greens_and_herb_salad_with_figs_and_walnuts.jpg
 image_attribution: John Kernick
 nutrition:
@@ -17,6 +16,8 @@ source: https://www.foodandwine.com/recipes/mixed-greens-and-herb-salad-figs-and
 time: 20 minutes
 title: Mixed-Greens-and-Herb Salad with Figs and Walnuts
 ---
+
+If you can find good fresh figs, use them here in place of dried ones.
 
 ### Ingredients
 

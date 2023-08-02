@@ -1,7 +1,8 @@
 ---
 author: Claudette Zepeda
 category: Entrees
-description: These tacos are filled with incredibly flavorful, tender braised beef birria made by slowly cooking chuck roast and short ribs in a guajillo chili adobo.
+description: These tacos are filled with incredibly flavorful, tender braised beef
+  birria made by slowly cooking chuck roast and short ribs in a guajillo chili adobo.
 image: birria_tacos.jpg
 original_title: Birria Tacos Recipe - Claudette Zepeda | Food & Wine
 size: Multiple servings

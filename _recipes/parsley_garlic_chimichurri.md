@@ -2,7 +2,6 @@
 author: Steven Raichlen
 category: Sauces
 description: A flavorful sauce made with fresh parsley, garlic, and a mix of spices.
-  Perfect for grilling or as a marinade.
 image: parsley_garlic_chimichurri.jpg
 image_attribution: Asado Argentina
 image_source: http://www.flickr.com/photos/asadoarg/2244320250/
@@ -11,7 +10,8 @@ source: http://www.barbecuebible.com/featured/bbqu/bbq_u_chimichurri.php
 time: 20 minutes
 title: Parsley-Garlic Chimichurri
 ---
-This recipe is adapted from Steven Raichlen’s Chimichurri recipe. It's a flavorful sauce made with fresh parsley, garlic, and a mix of spices. Perfect for grilling or as a marinade.
+
+Perfect for grilling or as a marinade. This recipe is adapted from Steven Raichlen’s Chimichurri recipe. It's a flavorful sauce made with fresh parsley, garlic, and a mix of spices. Perfect for grilling or as a marinade.
 
 ### Ingredients
 

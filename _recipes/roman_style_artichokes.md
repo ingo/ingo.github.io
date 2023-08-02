@@ -2,7 +2,7 @@
 author: Recipes from Italy
 category: Sides
 description: A traditional Roman side dish, usually served with meats, especially
-  lamb. Roman style artichokes are even served as an appetizer in many Italian restaurants.
+  lamb.
 favorite: "\u2713"
 image: roman_style_artichokes.jpg
 original_title: Carciofi alla Romana
@@ -12,7 +12,8 @@ time: 1 hour
 title: Roman Style Artichokes
 veggie: "\u2713"
 ---
-Roman style artichokes is a traditional Roman dish, usually served with meats, especially lamb. In many Italian restaurants, Roman style artichokes are even served as an appetizer. The variety of artichokes needed for this recipe are Roman artichokes or mammole, that stands out from the others for its rounder shape and non-thorny leaves. These are called globe artichokes in English. Then there is the mint (or better still mentuccia, a type of wild mint with a flavor resembling a cross between mint and oregano), parsley and the garlic clove to spice up the inside.
+
+Roman style artichokes are even served as an appetizer in many Italian restaurants. Roman style artichokes is a traditional Roman dish, usually served with meats, especially lamb. In many Italian restaurants, Roman style artichokes are even served as an appetizer. The variety of artichokes needed for this recipe are Roman artichokes or mammole, that stands out from the others for its rounder shape and non-thorny leaves. These are called globe artichokes in English. Then there is the mint (or better still mentuccia, a type of wild mint with a flavor resembling a cross between mint and oregano), parsley and the garlic clove to spice up the inside.
 
 ### Ingredients
 

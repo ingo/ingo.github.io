@@ -7,6 +7,7 @@ size: Varies
 time: Varies
 title: Pizza Toppings
 ---
+
 Explore the world of pizza toppings with these classic and unique options. Whether you prefer the traditional tomato and mozzarella combination or want to experiment with flavors like BBQ pork and smoked salmon, these toppings will take your pizza to the next level.
 
 ### Ingredients

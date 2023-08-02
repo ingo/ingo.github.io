@@ -1,15 +1,15 @@
 ---
 author: Rodney Dunn
 category: Sides
-description: Serve up a sumptuous side of rice. You can make this pilaf 1 hour before
-  serving the main. Cover and set aside.
+description: Serve up a sumptuous side of rice.
 image: saffron_chickpea_pilaf.jpg
 size: Varies
 source: http://www.taste.com.au/recipes/rate-recipe.php?id=2843
 time: 1 hour
 title: Saffron & Chickpea Pilaf
 ---
-This delicious and easy-to-make pilaf is a great side dish for any meal. Originally from the Australian Good Taste magazine, it was created by Rodney Dunn and photographed by Ian Wallace.
+
+You can make this pilaf 1 hour before serving the main. Cover and set aside. This delicious and easy-to-make pilaf is a great side dish for any meal. Originally from the Australian Good Taste magazine, it was created by Rodney Dunn and photographed by Ian Wallace.
 
 ### Ingredients
 

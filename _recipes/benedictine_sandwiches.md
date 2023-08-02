@@ -3,7 +3,7 @@ author: Catherine McCord
 category: Entrees
 description: These dainty old-fashioned tea sandwiches feature cool cucumber slices,
   thinly sliced red onion, and a creamy herbed spread made with cream cheese or mayonnaise
-  sandwiched between thin bread slices. 
+  sandwiched between thin bread slices.
 image: benedictine_sandwiches.jpg
 size: Varies
 source: https://www.epicurious.com/contributors/catherine-mccord

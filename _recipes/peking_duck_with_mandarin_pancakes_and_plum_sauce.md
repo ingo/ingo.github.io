@@ -9,6 +9,7 @@ source: http://www.seriouseats.com/recipes/2010/09/peking-duck-mandarin-pancakes
 time: 1 day and 2 hours
 title: Peking Duck with Mandarin Pancakes and Plum Sauce
 ---
+
 For best results, use a Pekin breed duck. Maltose syrup can be found in most Chinese supermarkets. If you can't find it, honey can be used in its place. To handle maltose, keep your hands and measuring equipment wet at all times, and work quickly.
 
 ### Ingredients

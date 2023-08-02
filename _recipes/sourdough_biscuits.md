@@ -1,15 +1,15 @@
 ---
 author: Damn Delicious
 category: Breakfasts
-description: "Use up your \u201Cdiscarded\u201D starter in these EPIC biscuits! With\
-  \ that sourdough tang, these biscuits are so flaky, so buttery and so so good."
+description: "Use up your \u201Cdiscarded\u201D starter in these EPIC biscuits!"
 image: sourdough_biscuits.jpg
 size: 8-10 biscuits
 source: https://damndelicious.net/2020/07/24/sourdough-biscuits/
 time: 50 minutes
 title: Sourdough Biscuits
 ---
-During the recent pandemic, everyone started baking bread, particularly sourdough – hence the yeast shortage. I, myself, tried my hand at sourdough. I was not successful. Hence my weekly no knead bread baking. But I did have a ton of discarded sourdough. So I made some pancakes. Which were of course, amazing. And then I made some biscuits. And it was legit NEXT LEVEL EPIC. The added sourdough tang knocks these biscuits right out of the park. Not to mention, the ultra flaky, light and fluffiness these biscuits encompass. Just be sure to serve them super warm with all the melted butter. And this works as an appetizer, snack or dinner. I prefer to have them for dinner though.
+
+With that sourdough tang, these biscuits are so flaky, so buttery and so so good. During the recent pandemic, everyone started baking bread, particularly sourdough – hence the yeast shortage. I, myself, tried my hand at sourdough. I was not successful. Hence my weekly no knead bread baking. But I did have a ton of discarded sourdough. So I made some pancakes. Which were of course, amazing. And then I made some biscuits. And it was legit NEXT LEVEL EPIC. The added sourdough tang knocks these biscuits right out of the park. Not to mention, the ultra flaky, light and fluffiness these biscuits encompass. Just be sure to serve them super warm with all the melted butter. And this works as an appetizer, snack or dinner. I prefer to have them for dinner though.
 
 ### Ingredients
 

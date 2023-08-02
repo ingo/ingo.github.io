@@ -1,12 +1,7 @@
 ---
 author: Meredith Heuer for The New York Times
 category: Entrees
-description: Not every version of butter chicken uses butter. Coconut milk gives this
-  slow-cooker chicken its creamy richness. This is a fast recipe for the cook. Just
-  prep it earlier in the day, even during your morning routine, getting your onion
-  and spices going on the stove while simultaneously making lunches for grumpy children,
-  folding dish towels, feeding the dogs and wondering once again why no one else has
-  done any of the above.
+description: Not every version of butter chicken uses butter.
 image: butter_chicken_in_a_slow_cooker.jpg
 nutrition:
 - 684 calories
@@ -26,6 +21,8 @@ source: http://www.nytimes.com/2017/07/10/dining/cooking-for-a-crowd.html
 time: 4.5-5 hours
 title: Slow-Cooker Butter Chicken
 ---
+
+Coconut milk gives this slow-cooker chicken its creamy richness. This is a fast recipe for the cook. Just prep it earlier in the day, even during your morning routine, getting your onion and spices going on the stove while simultaneously making lunches for grumpy children, folding dish towels, feeding the dogs and wondering once again why no one else has done any of the above.
 
 ### Ingredients
 

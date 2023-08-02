@@ -1,9 +1,7 @@
 ---
 author: David Lebovitz
 category: Entrees
-description: A savory Moroccan stew that can be customized to your taste. Serve with
-  cracked wheat or bread, and pass little dishes of raisins, marmalade, and chick
-  peas for guests to add as they like.
+description: A savory Moroccan stew that can be customized to your taste.
 image: lamb_tagine.jpg
 size: 6 servings
 source: http://www.davidlebovitz.com/2006/08/i-dream-of-tagi/
@@ -11,7 +9,8 @@ spicy: "\u2713"
 time: 3-4 hours
 title: Lamb Tagine
 ---
-This Lamb Tagine is a traditional Moroccan stew that can be customized to your taste. You can substitute chicken for the lamb and add almonds, green olives, prunes or dried apricots for a sublime sweetness. Serve with cracked wheat or bread, and pass little dishes of raisins, marmalade, and chick peas for guests to add as they like.
+
+Serve with cracked wheat or bread, and pass little dishes of raisins, marmalade, and chick peas for guests to add as they like. This Lamb Tagine is a traditional Moroccan stew that can be customized to your taste. You can substitute chicken for the lamb and add almonds, green olives, prunes or dried apricots for a sublime sweetness. Serve with cracked wheat or bread, and pass little dishes of raisins, marmalade, and chick peas for guests to add as they like.
 
 ### Ingredients
 

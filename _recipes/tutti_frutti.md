@@ -1,8 +1,7 @@
 ---
 author: Pam Scott
 category: Beverages
-description: A highly alcoholic condiment traditionally served over desserts. A year-long
-  process of fermenting your own brandied fruits results in a delicious, magical elixir.
+description: A highly alcoholic condiment traditionally served over desserts.
 favorite: "\u2713"
 image: tutti_frutti.jpg
 size: Varies
@@ -10,7 +9,8 @@ source: https://fifthseasongardening.com/tutti-frutti-a-magical-elixir
 time: 1 year
 title: Tutti Frutti
 ---
-Tutti Frutti, a magical elixir, is a tradition in our family, always served with dessert after a weekend noonday meal. This was served to adults only, usually followed by a long nap. My grandmother and aunts spoke about it with reverence, in hushed tones. There was a mystique about Tutti Frutti that I never understood until I found the recipe in an old letter. Having inherited the family Tutti Frutti crock I decided to make it. The delicious tastes and smells that evolved from that crock over the year of fermenting were indeed sublime. 
+
+A year-long process of fermenting your own brandied fruits results in a delicious, magical elixir. Tutti Frutti, a magical elixir, is a tradition in our family, always served with dessert after a weekend noonday meal. This was served to adults only, usually followed by a long nap. My grandmother and aunts spoke about it with reverence, in hushed tones. There was a mystique about Tutti Frutti that I never understood until I found the recipe in an old letter. Having inherited the family Tutti Frutti crock I decided to make it. The delicious tastes and smells that evolved from that crock over the year of fermenting were indeed sublime. 
 
 ### Ingredients
 

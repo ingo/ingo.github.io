@@ -2,14 +2,14 @@
 author: Better Homes and Gardens
 category: Sides
 description: Delicious twice-baked potatoes, perfect as a side dish or a hearty snack.
-  Variations include Bacon-Cheddar and Southwestern style.
 image: twice_baked_potatoes.jpg
 size: 4 servings
 source: http://www.bhg.com/recipes/how-to/how-to-cook-potatoes/
 time: 2 hours
 title: Twice-Baked Potatoes
 ---
-These twice-baked potatoes are a classic comfort food. They can be prepared ahead of time and reheated, making them perfect for meal prep or a dinner party. 
+
+Variations include Bacon-Cheddar and Southwestern style. These twice-baked potatoes are a classic comfort food. They can be prepared ahead of time and reheated, making them perfect for meal prep or a dinner party. 
 
 ### Ingredients
 

@@ -2,9 +2,7 @@
 author: Nami
 category: Entrees
 description: Also known as miso-marinated black cod, this seafood dish features tender,
-  buttery cod marinated for days in a sweet and salty miso paste. The fish is then
-  slowly baked until caramelized and irresistibly tender. With its delicate texture
-  that seems to melt in your mouth, it's an impressive recipe you can make at home.
+  buttery cod marinated for days in a sweet and salty miso paste.
 image: miso_cod_black_cod_with_miso.jpg
 original_title: "\u9280\u3060\u3089\u306E\u897F\u4EAC\u713C\u304D"
 size: 4 servings
@@ -12,6 +10,8 @@ source: https://www.justonecookbook.com/wprm_print/59959
 time: 2 days 30 minutes
 title: Miso Cod (Black Cod with Miso)
 ---
+
+The fish is then slowly baked until caramelized and irresistibly tender. With its delicate texture that seems to melt in your mouth, it's an impressive recipe you can make at home.
 
 ### Ingredients
 

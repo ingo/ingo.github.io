@@ -2,8 +2,7 @@
 author: David Goody
 category: Entrees
 description: "A vibrant dish made with fresh chiles, herbs and cucumbers that\u2019\
-  s fantastic on any type of fish or shellfish. Served with thinly sliced scallops\
-  \ that have been just cured in fresh lime juice."
+  s fantastic on any type of fish or shellfish."
 image: scallop_ceviche_with_aguachile.jpg
 image_attribution: Con Poulos
 size: 6 first-course servings
@@ -11,7 +10,8 @@ source: https://www.foodandwine.com/monthly/may-2013
 time: 1 hour 10 minutes
 title: Scallop Ceviche with Aguachile
 ---
-This recipe is a specialty of Gran Eléctrica in Brooklyn, New York, where chef David Goody serves aguachile with thinly sliced scallops that have been just cured in fresh lime juice.
+
+Served with thinly sliced scallops that have been just cured in fresh lime juice. This recipe is a specialty of Gran Eléctrica in Brooklyn, New York, where chef David Goody serves aguachile with thinly sliced scallops that have been just cured in fresh lime juice.
 
 ### Ingredients
 

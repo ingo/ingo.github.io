@@ -2,7 +2,7 @@
 author: King Arthur Flour
 category: Breakfasts
 description: These cake doughnuts get their flavor from spices and are baked rather
-  than fried for a healthier twist. 
+  than fried for a healthier twist.
 image: baked_doughnuts_three_ways.jpg
 size: 12 servings
 source: https://www.kingarthurflour.com/recipebox

@@ -1,14 +1,7 @@
 ---
 author: Alexandra
 category: Entrees
-description: A delicious and easy-to-make Chinese-style steamed whole fish. The fish
-  is cooked on a bed of aromatics with a splash of sake, then dressed with a simple
-  soy sauce mixture and garnished with cilantro, scallions, and ginger. This easy
-  Chinese recipe teaches how to steam a whole fish to perfection. The fish is placed
-  atop a bed of ginger, scallions and sake and then steamed. It emerges moist and
-  silky with big flavor imparted from the aromatics. A soy sauce dressing provides
-  saltiness while fresh herbs and scallions garnish the fish. You'll be impressed
-  you made this restaurant-quality dish at home.
+description: A delicious and easy-to-make Chinese-style steamed whole fish.
 favorite: "\u2713"
 image: chinese_style_steamed_whole_fish_with_ginger_and_scallions.jpg
 original_title: Chinese-Style Steamed Whole Fish with Ginger and Scallions
@@ -17,7 +10,8 @@ source: https://alexandracooks.com/2019/03/28/chinese-style-steamed-whole-fish-w
 time: 30 minutes
 title: Chinese-Style Steamed Whole Fish with Ginger and Scallions
 ---
-This recipe is inspired by Alana Kysar’s Aloha Kitchen. Cooking a whole fish might seem intimidating, but this method is both fun and forgiving. The fish is steamed on a bed of aromatics, then dressed with a simple soy sauce mixture and garnished with fresh herbs. The result is a moist, flavorful fish that's a delight to eat.
+
+The fish is cooked on a bed of aromatics with a splash of sake, then dressed with a simple soy sauce mixture and garnished with cilantro, scallions, and ginger. This easy Chinese recipe teaches how to steam a whole fish to perfection. The fish is placed atop a bed of ginger, scallions and sake and then steamed. It emerges moist and silky with big flavor imparted from the aromatics. A soy sauce dressing provides saltiness while fresh herbs and scallions garnish the fish. You'll be impressed you made this restaurant-quality dish at home. This recipe is inspired by Alana Kysar’s Aloha Kitchen. Cooking a whole fish might seem intimidating, but this method is both fun and forgiving. The fish is steamed on a bed of aromatics, then dressed with a simple soy sauce mixture and garnished with fresh herbs. The result is a moist, flavorful fish that's a delight to eat.
 
 ### Ingredients
 

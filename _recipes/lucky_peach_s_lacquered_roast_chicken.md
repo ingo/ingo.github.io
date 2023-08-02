@@ -2,16 +2,15 @@
 author: Peter Meehan and the Editors of Lucky Peach Magazine
 category: Entrees
 description: A glorious roasted chicken with crackling, bronze skin covering tender,
-  succulent meat that falls easily off the bone. This recipe produces a bird with
-  preternaturally moist meat and crisp skin, a snap to prepare by simply coating with
-  spices and honey then roasting until lacquered and irresistible.
+  succulent meat that falls easily off the bone.
 image: lucky_peach_s_lacquered_roast_chicken.jpg
 size: 2-4 servings
 source: https://amzn.to/2VqPndE
 time: 1 hour 30 minutes (including marination time)
 title: Lucky Peach's Lacquered Roast Chicken
 ---
-Adapted from Lucky Peach Presents 101 Easy Asian Recipes by Peter Meehan and the Editors of Lucky Peach Magazine. This chicken recipe, also known as the Chinese lacquered roast chicken that changed my life, is stunningly delicious even if some of the glaze falls off during marination.
+
+This recipe produces a bird with preternaturally moist meat and crisp skin, a snap to prepare by simply coating with spices and honey then roasting until lacquered and irresistible. Adapted from Lucky Peach Presents 101 Easy Asian Recipes by Peter Meehan and the Editors of Lucky Peach Magazine. This chicken recipe, also known as the Chinese lacquered roast chicken that changed my life, is stunningly delicious even if some of the glaze falls off during marination.
 
 ### Ingredients
 

@@ -2,13 +2,15 @@
 author: Anonymous
 category: Entrees
 description: A delicious, restaurant-standard dish of braised pork belly served over
-  rice. This recipe is a crowd favorite and always requested.
+  rice.
 favorite: "\u2713"
 image: taiwanese_braised_pork_rice.jpg
 size: 4-6 servings
 time: 3-4 hours
 title: Taiwanese Braised Pork Rice
 ---
+
+This recipe is a crowd favorite and always requested.
 
 ### Ingredients
 

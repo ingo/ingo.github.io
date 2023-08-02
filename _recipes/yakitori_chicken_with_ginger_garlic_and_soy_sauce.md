@@ -2,9 +2,7 @@
 author: Melissa Clark
 category: Entrees
 description: Yakitori is Japanese skewered and grilled chicken that can use approximately
-  30 different chicken parts. This recipe calls for marinating chicken thighs, gizzards
-  and livers in a savory-sweet sauce of ginger, sake, mirin, soy sauce, garlic and
-  a touch of brown sugar, grilling or broiling, then scattering with chopped scallions.
+  30 different chicken parts.
 image: yakitori_chicken_with_ginger_garlic_and_soy_sauce.jpg
 image_attribution: Andrew Scrivani for The New York Times
 size: 6 appetizer servings
@@ -12,7 +10,8 @@ source: https://cooking.nytimes.com/ourcooks/melissa-clark/my-recipes?action=cli
 time: 15 minutes
 title: Yakitori Chicken With Ginger, Garlic and Soy Sauce
 ---
-Yakitori is a popular street food in Japan, and this recipe brings that authentic flavor right to your kitchen. Serve it alongside something fresh and green, like a cucumber salad, and a pile of rice.
+
+This recipe calls for marinating chicken thighs, gizzards and livers in a savory-sweet sauce of ginger, sake, mirin, soy sauce, garlic and a touch of brown sugar, grilling or broiling, then scattering with chopped scallions. Yakitori is a popular street food in Japan, and this recipe brings that authentic flavor right to your kitchen. Serve it alongside something fresh and green, like a cucumber salad, and a pile of rice.
 
 ### Ingredients
 

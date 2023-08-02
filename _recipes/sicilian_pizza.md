@@ -11,6 +11,7 @@ source: https://www.pizzatoday.com/departments/in-the-kitchen/sicilian-pizza/
 time: 5 days (includes dough fermentation time)
 title: Sicilian Pizza
 ---
+
 The Sicilian Pizza, also known as Bakery Pizza, Casalinga, Rustica, Upside Down Pizza, Square Pie, is a popular pan pizza traditionally topped with a tomato sauce, rich with olive oil, onion, anchovies, pecorino or caciocavallo — and a generous helping of bread crumbs. This recipe, shared by Chris Decker of Metro Pizza in Las Vegas, NV, focuses on creating the perfect Sicilian crust that is thick enough to stand up to the rich sauce and toppings, but still light and airy.
 
 ### Ingredients

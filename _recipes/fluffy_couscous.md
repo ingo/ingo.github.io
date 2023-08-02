@@ -10,6 +10,7 @@ time: 20 minutes
 title: Fluffy Couscous
 vegan: "\u2713"
 ---
+
 This recipe for fluffy couscous is a game changer. Instead of the usual method of cooking couscous in a pot, this recipe instructs you to steam it in a casserole. The result is a much fluffier and tastier couscous that is ready in just 20 minutes. This couscous is perfect as a side dish or as a base for a couscous salad.
 
 ### Ingredients

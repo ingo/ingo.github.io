@@ -10,6 +10,7 @@ source: http://www.seriouseats.com/recipes/2010/10/new-york-style-pizza.html
 time: 24 hours (active time 30 minutes)
 title: New York Style Pizza
 ---
+
 This recipe comes from the culinary genius of J. Kenji López-Alt, who shares his secrets for making the perfect New York Style Pizza at home. The dough is made in a food processor to ensure it's properly developed without over-oxidizing, which can affect flavor.
 
 ### Ingredients

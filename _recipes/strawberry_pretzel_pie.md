@@ -2,8 +2,7 @@
 author: Jerrelle Guy
 category: Desserts
 description: A wonderful but simple summer pie inspired by strawberry pretzel salad,
-  a popular Southern dessert. This fresher adaptation consists of an easy shortbread
-  crust, a fluffy cream filling and a pile of fresh strawberries.
+  a popular Southern dessert.
 image: strawberry_pretzel_pie.jpg
 image_attribution: Johnny Miller for The New York Times
 size: 8 servings
@@ -11,7 +10,8 @@ source: https://cooking.nytimes.com/search?q=Jerrelle+Guy
 time: 40 minutes, plus cooling and chilling
 title: Strawberry Pretzel Pie
 ---
-This is a wonderful but simple summer pie inspired by strawberry pretzel salad, a popular Southern dessert. The classic recipe consists of a crumbled pretzel crust, a whipped cream cheese and Cool Whip filling, and a top layer of strawberry Jell-O. In this fresher adaptation, crushed pretzels form the foundation of an easy shortbread crust, followed by a fluffy cream filling and a pile of fresh strawberries, omitting the use of gelatin. If you’re making this pie in advance — especially with juicy, height-of-season berries — complete Steps 1 to 3, then cloak the filled crust with plastic wrap and chill up to 24 hours. Just before serving, toss the berries in sugar and pile them on top.
+
+This fresher adaptation consists of an easy shortbread crust, a fluffy cream filling and a pile of fresh strawberries. This is a wonderful but simple summer pie inspired by strawberry pretzel salad, a popular Southern dessert. The classic recipe consists of a crumbled pretzel crust, a whipped cream cheese and Cool Whip filling, and a top layer of strawberry Jell-O. In this fresher adaptation, crushed pretzels form the foundation of an easy shortbread crust, followed by a fluffy cream filling and a pile of fresh strawberries, omitting the use of gelatin. If you’re making this pie in advance — especially with juicy, height-of-season berries — complete Steps 1 to 3, then cloak the filled crust with plastic wrap and chill up to 24 hours. Just before serving, toss the berries in sugar and pile them on top.
 
 ### Ingredients
 

@@ -1,8 +1,7 @@
 ---
 author: Lisa Lin
 category: Entrees
-description: Great for parties or dinner, these vegan dumplings are a treat. Serve
-  them with chili oil or sweet chili sauce.
+description: Great for parties or dinner, these vegan dumplings are a treat.
 image: red_curry_tofu_dumplings.jpg
 original_title: Red Curry Tofu Dumplings
 size: 40-50 dumplings
@@ -11,7 +10,8 @@ time: 1 hour 25 minutes
 title: Red Curry Tofu Dumplings
 vegan: "\u2713"
 ---
-These red curry tofu dumplings are a perfect blend of flavors and textures, and they're vegan too! The recipe came about during a grocery shopping trip at Nugget Markets, where the wide range of fresh produce inspired the creation of these delicious dumplings. 
+
+Serve them with chili oil or sweet chili sauce. These red curry tofu dumplings are a perfect blend of flavors and textures, and they're vegan too! The recipe came about during a grocery shopping trip at Nugget Markets, where the wide range of fresh produce inspired the creation of these delicious dumplings. 
 
 ### Ingredients
 

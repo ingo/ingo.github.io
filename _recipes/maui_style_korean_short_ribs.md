@@ -2,14 +2,15 @@
 author: Unknown
 category: Entrees
 description: Sweet and savory short ribs marinated in a flavorful blend of soy sauce,
-  vinegar, and spices, then grilled to perfection. Perfect for a summer barbecue!
+  vinegar, and spices, then grilled to perfection.
 favorite: "\u2713"
 image: maui_style_korean_short_ribs.jpg
 size: 32 servings
 time: 24-72 hours for marinating, 10 minutes for grilling
 title: Maui-Style Korean Short Ribs
 ---
-This recipe brings together the rich flavors of Korean cuisine with a tropical Maui twist. The marinade, packed with soy sauce, vinegar, and spices, seeps into the short ribs to create a mouthwatering dish that's sure to impress at your next barbecue.
+
+Perfect for a summer barbecue!This recipe brings together the rich flavors of Korean cuisine with a tropical Maui twist. The marinade, packed with soy sauce, vinegar, and spices, seeps into the short ribs to create a mouthwatering dish that's sure to impress at your next barbecue.
 
 ### Ingredients
 

@@ -1,13 +1,13 @@
 ---
 category: Pantry
-description: A flavorful brine for salmon, trout, sturgeon or other fish. Perfect
-  for smoking and grilling.
+description: A flavorful brine for salmon, trout, sturgeon or other fish.
 image: soy_sauce_and_sugar_fish_marinade.jpg
 size: 8-10 pounds of fillets
 time: 4 hours for marinating, 6-12 hours for smoking
 title: Soy Sauce, Brown Sugar and Seasonings for Salmon, Trout and other Fish
 ---
-This brine recipe is perfect for enhancing the flavor of your favorite fish before smoking or grilling. The combination of soy sauce, brown sugar, and seasonings creates a savory and slightly sweet profile that complements the natural taste of the fish.
+
+Perfect for smoking and grilling. This brine recipe is perfect for enhancing the flavor of your favorite fish before smoking or grilling. The combination of soy sauce, brown sugar, and seasonings creates a savory and slightly sweet profile that complements the natural taste of the fish.
 
 ### Ingredients
 

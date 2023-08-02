@@ -2,9 +2,7 @@
 author: For the Love of Cooking.net
 category: Sauces
 description: A quick and easy dipping sauce that goes perfectly with pan-fried potstickers
-  or dumplings, egg rolls, and wontons. Made with soy sauce, rice vinegar, sesame
-  oil, ginger, and garlic, with a kick of sriracha. The balanced sweet, salty and
-  spicy flavors make it hard to stop dipping!
+  or dumplings, egg rolls, and wontons.
 image: pot_sticker_dipping_sauce.jpg
 image_attribution: Jess Smith
 image_source: https://inquiringchef.com/dumpling-and-potsticker-dipping-sauce/
@@ -13,7 +11,8 @@ source: Not specified
 time: 35 minutes
 title: Pot Sticker Dipping Sauce
 ---
-This Pot Sticker Dipping Sauce is a perfect blend of flavors that will elevate your pot stickers, egg rolls, or wontons to a whole new level. The hint of sriracha gives it a kick that will keep you coming back for more.
+
+Made with soy sauce, rice vinegar, sesame oil, ginger, and garlic, with a kick of sriracha. The balanced sweet, salty and spicy flavors make it hard to stop dipping!This Pot Sticker Dipping Sauce is a perfect blend of flavors that will elevate your pot stickers, egg rolls, or wontons to a whole new level. The hint of sriracha gives it a kick that will keep you coming back for more.
 
 ### Ingredients
 

@@ -2,15 +2,15 @@
 author: Feasting At Home
 category: Breads
 description: An easy Sourdough Bread recipe that rises overnight and bakes in the
-  morning. A simple flexible recipe, made with sourdough starter, that can be adapted
-  to your needs.
+  morning.
 image: no_knead_sourdough_bread.jpg
 size: 1 loaf
 source: https://www.feastingathome.com/sourdough-starter/
 time: Overnight + 2 hours
 title: No-Knead Sourdough Bread
 ---
-This recipe for No-Knead Sourdough Bread is perfect for those who love the tangy taste of sourdough but don't want to put in too much effort. The dough rises overnight and bakes in the morning, making it a simple and flexible recipe that can be adapted to your needs.
+
+A simple flexible recipe, made with sourdough starter, that can be adapted to your needs. This recipe for No-Knead Sourdough Bread is perfect for those who love the tangy taste of sourdough but don't want to put in too much effort. The dough rises overnight and bakes in the morning, making it a simple and flexible recipe that can be adapted to your needs.
 
 ### Ingredients
 

@@ -1,17 +1,15 @@
 ---
 author: Unknown
 category: Entrees
-description: A delicious and easy to make handroll sushi featuring spicy tuna. The
-  filling mixes fresh tuna with Japanese mayo spiked with sriracha and sesame oil
-  for a kick of heat. Thinly sliced avocado and cucumber add cool contrast. Wrapped
-  up in sheets of nori, it's a fun fresh take on sushi.
+description: A delicious and easy to make handroll sushi featuring spicy tuna.
 image: spicy_tuna_handrolls.jpg
 size: Varies
 spicy: "\u2713"
 time: 1 hour
 title: Spicy Tuna Handrolls
 ---
-This recipe for Spicy Tuna Handrolls is a modified version of a restaurant-style recipe. It's a great way to enjoy sushi at home, with a unique spicy mayo that adds a kick to the sushi rolls. The recipe uses a variety of ingredients to create a unique and flavorful experience.
+
+The filling mixes fresh tuna with Japanese mayo spiked with sriracha and sesame oil for a kick of heat. Thinly sliced avocado and cucumber add cool contrast. Wrapped up in sheets of nori, it's a fun fresh take on sushi. This recipe for Spicy Tuna Handrolls is a modified version of a restaurant-style recipe. It's a great way to enjoy sushi at home, with a unique spicy mayo that adds a kick to the sushi rolls. The recipe uses a variety of ingredients to create a unique and flavorful experience.
 
 ### Ingredients
 

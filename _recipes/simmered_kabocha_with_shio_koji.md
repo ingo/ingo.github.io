@@ -11,6 +11,7 @@ time: 10 minutes
 title: Simmered Kabocha with Shio Koji
 umami: "\u2713"
 ---
+
 This recipe is a simple yet flavorful side dish that showcases the unique taste of kabocha squash. The shio koji seasoning enhances the natural sweetness of the kabocha, making this a dish that is sure to impress.
 
 ### Ingredients

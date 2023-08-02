@@ -2,7 +2,7 @@
 author: Lisa Bryan
 category: Sides
 description: "A delicious chickpea-free version of hummus that\u2019s low-carb, keto,\
-  \ paleo and Whole30 friendly. It\u2019s creamy, savory, and veggie-packed."
+  \ paleo and Whole30 friendly."
 favorite: "\u2713"
 image: roasted_cauliflower_hummus.jpg
 nutrition:
@@ -21,7 +21,8 @@ time: 30 mins
 title: Roasted Cauliflower Hummus
 vegan: "\u2713"
 ---
-Cauliflower hummus is a unique take on the traditional hummus recipe. Instead of using chickpeas, this recipe uses roasted cauliflower, making it a low-carb and easily digestible option. It's a great way to sneak more veggies into your daily routine. 
+
+It’s creamy, savory, and veggie-packed. Cauliflower hummus is a unique take on the traditional hummus recipe. Instead of using chickpeas, this recipe uses roasted cauliflower, making it a low-carb and easily digestible option. It's a great way to sneak more veggies into your daily routine. 
 
 ### Ingredients
 

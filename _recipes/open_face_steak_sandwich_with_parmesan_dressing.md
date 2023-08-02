@@ -1,8 +1,7 @@
 ---
 author: Claire Saffitz
 category: Entrees
-description: "Mark your calendar. It\u2019s steak sandwich night in America. Feeling\
-  \ virtuous? Remove the bread and\u2026voil\xE0. Steak salad!"
+description: Mark your calendar.
 image: open_face_steak_sandwich_with_parmesan_dressing.jpg
 image_attribution: Alex Lau
 size: 4 servings
@@ -10,6 +9,8 @@ source: https://www.epicurious.com/recipes/food/views/steak-salad-sandwich-with-
 time: 35 minutes
 title: Open-Face Steak Sandwich with Parmesan Dressing
 ---
+
+It’s steak sandwich night in America. Feeling virtuous? Remove the bread and…voilà. Steak salad!
 
 ### Ingredients
 

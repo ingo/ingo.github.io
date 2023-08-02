@@ -1,8 +1,7 @@
 ---
 category: Entrees
 description: A healthy and flavorful dish of salmon baked in parchment with lemon
-  and basil. The parchment pouch locks in the juices and flavors, resulting in a moist
-  and delicious salmon fillet.
+  and basil.
 image: parchment_baked_salmon_with_lemon_and_basil.jpg
 nutrition:
 - 450 calories
@@ -18,7 +17,8 @@ size: 6 servings
 time: 30 minutes
 title: Parchment Baked Salmon with Lemon and Basil
 ---
-This recipe is a simple and healthy way to prepare salmon. The salmon is baked in parchment, which locks in all the juices and flavors. The addition of lemon and basil gives the salmon a fresh and tangy taste.
+
+The parchment pouch locks in the juices and flavors, resulting in a moist and delicious salmon fillet. This recipe is a simple and healthy way to prepare salmon. The salmon is baked in parchment, which locks in all the juices and flavors. The addition of lemon and basil gives the salmon a fresh and tangy taste.
 
 ### Ingredients
 

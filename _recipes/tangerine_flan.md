@@ -2,8 +2,6 @@
 author: David Tanis
 category: Desserts
 description: A bright and flavorful flan incorporating the winter jewel, tangerine.
-  Ideally made a day in advance for the ingredients to mingle. The caramel is dark,
-  but be careful not to burn it.
 image: tangerine_flan.jpg
 image_attribution: David Malosh for The New York Times
 size: 6 servings
@@ -11,7 +9,8 @@ source: https://cooking.nytimes.com/ourcooks/david-tanis/my-recipes?action=click
 time: "2 hours, plus at least 4 hours\u2019 refrigerating"
 title: Tangerine Flan
 ---
-This flan often incorporates orange notes, but this version looks to that jewel of winter, tangerine. The end result is somewhat brighter in flavor, and is ideally made a day in advance of serving so the ingredients have time to mingle. Be sure to let the caramel go quite dark, but take care to avoid burning it.
+
+Ideally made a day in advance for the ingredients to mingle. The caramel is dark, but be careful not to burn it. This flan often incorporates orange notes, but this version looks to that jewel of winter, tangerine. The end result is somewhat brighter in flavor, and is ideally made a day in advance of serving so the ingredients have time to mingle. Be sure to let the caramel go quite dark, but take care to avoid burning it.
 
 ### Ingredients
 

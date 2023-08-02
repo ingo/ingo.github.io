@@ -2,14 +2,14 @@
 author: Ingo Muschenetz
 category: Entrees
 description: A simple yet delicious salmon salad featuring raw salmon, tobiko, sesame
-  oil and mayonnaise. Delightful spooned over sushi rice.
+  oil and mayonnaise.
 image: salmon_salad.jpg
 size: Serves 4
 time: 15 mins
 title: Salmon Salad
 ---
 
-A must-have accompaniment at any sushi dinner.
+Delightful spooned over sushi rice. A must-have accompaniment at any sushi dinner.
 
 ### Ingredients
 

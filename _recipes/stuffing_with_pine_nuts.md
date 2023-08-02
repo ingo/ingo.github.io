@@ -1,9 +1,7 @@
 ---
 author: James Beard, Ingo
 category: Sides
-description: The quintessential Thanksgiving recipe for us. Originally from James
-  Beard, with modifications by Ingo. Yes, it uses a lot of butter, but it is worth
-  it.
+description: The quintessential Thanksgiving recipe for us.
 favorite: null
 image: stuffing_with_pine_nuts.jpg
 original_title: Stuffing with Pine Nuts
@@ -14,6 +12,8 @@ time: 1 hour
 title: Stuffing with Pine Nuts
 vegan: null
 ---
+
+Originally from James Beard, with modifications by Ingo. Yes, it uses a lot of butter, but it is worth it.
 
 ### Ingredients
 

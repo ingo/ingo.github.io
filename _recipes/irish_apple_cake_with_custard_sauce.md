@@ -2,9 +2,7 @@
 author: Kayley
 category: Desserts
 description: This homey cake is packed with tender apples and plump raisins, flavored
-  with warm spices like cinnamon and clove. Topped with a crunchy streusel, it's moist
-  and toothsome but not too sweet. Served with silky vanilla bean custard sauce, it
-  embodies the comforting spirit of traditional Irish baking.
+  with warm spices like cinnamon and clove.
 image: irish_apple_cake_with_custard_sauce.jpg
 original_title: Irish Apple Cake with Custard Sauce
 size: 12 servings
@@ -12,7 +10,8 @@ source: https://www.thekitchenmccabe.com/2014/03/07/irish-apple-cake-with-custar
 time: 1 hour
 title: Irish Apple Cake with Custard Sauce
 ---
-This traditional Irish dessert is a part of the St. Patrick's Day celebration. The cake is dense and heavy, almost bread-like, filled with apples that hold their shape very well when baked. The cake is excellent on its own, but the custard sauce poured warm over the top turns it into a decadent dessert.
+
+Topped with a crunchy streusel, it's moist and toothsome but not too sweet. Served with silky vanilla bean custard sauce, it embodies the comforting spirit of traditional Irish baking. This traditional Irish dessert is a part of the St. Patrick's Day celebration. The cake is dense and heavy, almost bread-like, filled with apples that hold their shape very well when baked. The cake is excellent on its own, but the custard sauce poured warm over the top turns it into a decadent dessert.
 
 ### Ingredients
 

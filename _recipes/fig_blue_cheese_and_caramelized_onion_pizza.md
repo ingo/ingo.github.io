@@ -2,13 +2,14 @@
 author: Cheese Board Collective
 category: Entrees
 description: A pizza inspired by a lunch at the Cheese Board Collective in Berkeley.
-  The figs and blue cheese make a lovely combination.
 image: fig_blue_cheese_and_caramelized_onion_pizza.jpg
 size: 6 small slices (2 servings)
 source: http://cheeseboardcollective.coop/
 time: 1 hour
 title: Fig, Blue Cheese and Caramelized Onion Pizza
 ---
+
+The figs and blue cheese make a lovely combination.
 
 ### Ingredients
 

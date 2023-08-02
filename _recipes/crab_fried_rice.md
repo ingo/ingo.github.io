@@ -2,11 +2,6 @@
 author: Lyuba
 category: Entrees
 description: Delicious, easy weeknight dinner that can be ready in under 30 minutes.
-  Fried rice made with lump crab meat and many delicious Thai flavors! This quick
-  fried rice transforms into a special weeknight dinner with the addition of fresh
-  lump crab meat and Thai flavors. The crab elevates the dish while chili-garlic sauce,
-  fish sauce and basil infuse it with Thai essence. Quick enough for a weeknight but
-  special enough for company, this crab fried rice is a go-to recipe.
 image: crab_fried_rice.jpg
 original_title: Crab Fried Rice
 size: 4 servings
@@ -14,7 +9,8 @@ source: https://www.willcookforsmiles.com/crab-fried-rice/
 time: 30 minutes
 title: Crab Fried Rice
 ---
-Lyuba, a sucker for Thai food and seafood, created this wonderful dish. This simple fried rice recipe's beauty lies in its simplicity. The better quality and freshness of crab you can get, the better the dish! This simple flavor pellet is what makes it so good, you will be making it again and again.
+
+Fried rice made with lump crab meat and many delicious Thai flavors! This quick fried rice transforms into a special weeknight dinner with the addition of fresh lump crab meat and Thai flavors. The crab elevates the dish while chili-garlic sauce, fish sauce and basil infuse it with Thai essence. Quick enough for a weeknight but special enough for company, this crab fried rice is a go-to recipe. Lyuba, a sucker for Thai food and seafood, created this wonderful dish. This simple fried rice recipe's beauty lies in its simplicity. The better quality and freshness of crab you can get, the better the dish! This simple flavor pellet is what makes it so good, you will be making it again and again.
 
 ### Ingredients
 

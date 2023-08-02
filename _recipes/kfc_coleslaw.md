@@ -9,6 +9,7 @@ source: http://www.food.com/recipe/authentic-kfc-coleslaw-the-real-thing-67284?m
 time: Overnight (for best results)
 title: KFC Coleslaw
 ---
+
 This is an authentic KFC coleslaw recipe that's perfect for any occasion. The secret ingredient is tarragon vinegar, which gives it a unique and delicious flavor. It's best if made the night before serving.
 
 ### Ingredients

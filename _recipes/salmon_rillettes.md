@@ -2,15 +2,15 @@
 author: Anna Zepaltas
 category: Entrees
 description: A rich spread of fresh and smoked salmon blended with butter, inspired
-  by a dish at Thomas Keller's Bouchon bistro. Perfect for serving with toasted baguette
-  slices.
+  by a dish at Thomas Keller's Bouchon bistro.
 image: salmon_rillettes.jpg
 size: 3-4 servings
 time: 2 hours
 title: Salmon Rillettes
 vegan: null
 ---
-While training at the Los Angeles Culinary Institute, Anna Zepaltas learned that French cooking doesn’t have to be intimidating or fussy. “Making rillettes is a way of showing my girlfriends that it’s really not hard,” she says. For her rillettes, inspired by a similar dish at Thomas Keller’s Bouchon bistro in the Napa town of Yountville, Zepaltas blends fresh salmon and butter with hot-smoked salmon to give the rich spread extra-rich flavor. You can pour melted butter over the top—as Keller does—to seal in freshness.
+
+Perfect for serving with toasted baguette slices. While training at the Los Angeles Culinary Institute, Anna Zepaltas learned that French cooking doesn’t have to be intimidating or fussy. “Making rillettes is a way of showing my girlfriends that it’s really not hard,” she says. For her rillettes, inspired by a similar dish at Thomas Keller’s Bouchon bistro in the Napa town of Yountville, Zepaltas blends fresh salmon and butter with hot-smoked salmon to give the rich spread extra-rich flavor. You can pour melted butter over the top—as Keller does—to seal in freshness.
 
 ### Ingredients
 

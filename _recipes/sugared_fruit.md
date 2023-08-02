@@ -1,15 +1,14 @@
 ---
 category: Sauces
 description: This is a very old and incredibly easy method of preserving fresh fruit
-  by coating it in granulated sugar. If you love fruit preserves with bright, fresh
-  fruit flavor, but are not ready to commit to the process of canning at home--try
-  this technique, there's no cooking involved. The resulting sugared fruit can keep
-  for several months stored in the refrigerator.
+  by coating it in granulated sugar.
 image: sugared_fruit.jpg
 size: 3 cups
 time: 10 minutes
 title: Sugared Fruit
 ---
+
+If you love fruit preserves with bright, fresh fruit flavor, but are not ready to commit to the process of canning at home--try this technique, there's no cooking involved. The resulting sugared fruit can keep for several months stored in the refrigerator.
 
 ### Ingredients
 

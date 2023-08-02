@@ -9,6 +9,7 @@ source: https://www.foxandbriar.com/turmeric-rice-recipe/
 time: 25 minutes
 title: Turmeric Rice
 ---
+
 This Turmeric Rice recipe was inspired by the delicious food from a local Mediterranean restaurant. After having a baby and spending a week in the hospital, the author's brother brought them some "real food" from this restaurant. The turmeric rice was so good that they decided to recreate it at home. This version might not be exactly the same, but it might be even better!
 
 ### Ingredients

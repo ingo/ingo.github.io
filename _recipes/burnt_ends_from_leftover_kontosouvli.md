@@ -2,15 +2,15 @@
 author: Kalofagas.ca
 category: Entrees
 description: Leftover kontosouvli, a Greek spit-roasted pork, is reborn as these incredible
-  pork burnt ends. They're tossed in a homemade BBQ-like sauce and caramelized until
-  crispy and saucy. Served with rice pilaf and gigantes beans for a comforting second
-  meal.
+  pork burnt ends.
 image: burnt_ends_from_leftover_kontosouvli.jpg
 size: 4-6 servings
 source: https://www.kalofagas.ca/2011/04/26/kontosouvli/
 time: 2 hours
 title: Burnt Ends From Leftover Kontosouvli
 ---
+
+They're tossed in a homemade BBQ-like sauce and caramelized until crispy and saucy. Served with rice pilaf and gigantes beans for a comforting second meal.
 
 ### Ingredients
 

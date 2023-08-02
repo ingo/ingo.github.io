@@ -2,14 +2,14 @@
 author: Unknown
 category: Breakfasts
 description: Delicious and healthy whole-wheat waffles, perfect for a hearty breakfast.
-  Serve with warm maple syrup and fresh fruit.
 image: whole_wheat_waffles.jpg
 size: 4-5 servings
 time: 30 minutes
 title: Whole-Wheat Waffles
 vegan: null
 ---
-This recipe for whole-wheat waffles is a breakfast favorite. The use of whole-wheat flour adds a healthy twist to the traditional waffle recipe. The waffles are light and fluffy, with a hint of sweetness from the honey. The addition of cinnamon gives it a warm, comforting flavor. Top these waffles with warm 100% pure maple syrup and fresh fruit for a satisfying start to your day.
+
+Serve with warm maple syrup and fresh fruit. This recipe for whole-wheat waffles is a breakfast favorite. The use of whole-wheat flour adds a healthy twist to the traditional waffle recipe. The waffles are light and fluffy, with a hint of sweetness from the honey. The addition of cinnamon gives it a warm, comforting flavor. Top these waffles with warm 100% pure maple syrup and fresh fruit for a satisfying start to your day.
 
 ### Ingredients
 

@@ -1,13 +1,14 @@
 ---
 category: Sides
 description: An exceptionally nice eggplant salad (more like a paste) for use on bread
-  or pita. Using canned tomatoes works very well and is nice in wintertime. This one
-  does not contain zucchini and is adapted from a recipe by Claudia Roden.
+  or pita.
 image: zaalouk.jpg
 size: 6 servings
 time: 50 minutes
 title: Zaalouk
 ---
+
+Using canned tomatoes works very well and is nice in wintertime. This one does not contain zucchini and is adapted from a recipe by Claudia Roden.
 
 ### Ingredients
 

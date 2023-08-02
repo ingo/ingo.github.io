@@ -9,6 +9,7 @@ source: https://www.kalofagas.ca/2021/08/23/posh-cretan-dakos-salad/
 time: 30 minutes
 title: Posh Cretan Dakos Salad
 ---
+
 This Posh Cretan Dakos Salad is a refined version of the traditional Cretan Dakos Salad. Perfect for dinner parties, it presents a more formal look to your dishes. The base is a round Cretan rusk, topped with a mix of ripe tomato and finished with a fresh tart cheese. It's a delightful and refreshing dish for a hot summer day.
 
 ### Ingredients

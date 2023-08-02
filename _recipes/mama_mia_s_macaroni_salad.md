@@ -1,14 +1,14 @@
 ---
 author: Bill#2395
 category: Sides
-description: A copycat recipe from The Shed in Ocean Springs, MS. A delightful mix
-  of pasta, mayonnaise, sour cream, and cheddar cheese with a hint of Dijon mustard.
+description: A copycat recipe from The Shed in Ocean Springs, MS.
 image: mama_mia_s_macaroni_salad.jpg
 size: 4 servings
 time: 1 hour
 title: Mama Mia's Macaroni Salad
 ---
-This recipe is a recreation of the popular Macaroni Salad from The Shed in Ocean Springs, MS. It's a perfect side dish for any BBQ or family gathering.
+
+A delightful mix of pasta, mayonnaise, sour cream, and cheddar cheese with a hint of Dijon mustard. This recipe is a recreation of the popular Macaroni Salad from The Shed in Ocean Springs, MS. It's a perfect side dish for any BBQ or family gathering.
 
 ### Ingredients
 

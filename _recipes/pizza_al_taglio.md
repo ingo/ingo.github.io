@@ -10,6 +10,7 @@ title: Pizza al taglio
 vegan: null
 veggie: null
 ---
+
 A classic Italian pizza recipe that you can easily make at home. Choose between a long fermentation process for a more complex flavor or a same-day process for instant gratification.
 
 ### Ingredients

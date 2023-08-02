@@ -2,15 +2,14 @@
 author: Ingo's Dad
 category: Entrees
 description: This traditional German bratwurst recipe replicates the one Ingo's father
-  would make when he was growing up. Fresh pork and veal are minced and seasoned simply
-  with salt, white pepper and nutmeg for an unbeatable flavor. Enjoying homemade brats
-  is special after you've only had the precooked kind. Take time to grind the meat
-  and season sparingly. Fry them up and serve with mustard,kraut and a pretzel. Prost!
+  would make when he was growing up.
 image: bratwurst.jpg
 size: 10 lbs
 time: Varies
 title: Bratwurst
 ---
+
+Fresh pork and veal are minced and seasoned simply with salt, white pepper and nutmeg for an unbeatable flavor. Enjoying homemade brats is special after you've only had the precooked kind. Take time to grind the meat and season sparingly. Fry them up and serve with mustard,kraut and a pretzel. Prost!
 
 ### Ingredients
 

@@ -2,7 +2,7 @@
 author: heneedsfood.com
 category: Sides
 description: A traditional filled pastry dough that can be used to make both sweet
-  and savory borek pastries, popular in Turkey and surrounding regions. 
+  and savory borek pastries, popular in Turkey and surrounding regions.
 image: borek_dough.jpg
 original_title: Burek
 size: 2 servings

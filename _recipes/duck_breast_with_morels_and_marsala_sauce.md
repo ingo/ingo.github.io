@@ -7,6 +7,7 @@ size: 4 servings
 time: 1 hour
 title: Duck breast with morels and Marsala sauce
 ---
+
 This dish is a perfect blend of flavors, with the rich taste of duck breast perfectly complemented by the earthy morels and the sweet Marsala sauce. It's a great choice for a special occasion or a fancy dinner at home.
 
 ### Ingredients

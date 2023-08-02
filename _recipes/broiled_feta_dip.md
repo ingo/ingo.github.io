@@ -1,15 +1,13 @@
 ---
 category: Sides
 description: This warm, ooey-gooey feta cheese dip comes together in minutes under
-  the broiler. Creamy feta is blended with Greek yogurt, garlic, lemon and herbs,
-  then broiled just until hot and bubbly. The combination of feta cheese with yogurt,
-  lemon and herbs creates a rich, flavorful dip. The broiler gives it a nice browned
-  top and serves to melt all the ingredients together. This easy appetizer can be
-  served with pita chips or crusty bread for dipping.
+  the broiler.
 image: broiled_feta_dip.jpg
 size: 2 cups
 title: Broiled Feta Dip
 ---
+
+Creamy feta is blended with Greek yogurt, garlic, lemon and herbs, then broiled just until hot and bubbly. The combination of feta cheese with yogurt, lemon and herbs creates a rich, flavorful dip. The broiler gives it a nice browned top and serves to melt all the ingredients together. This easy appetizer can be served with pita chips or crusty bread for dipping.
 
 ### Ingredients
 

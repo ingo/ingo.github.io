@@ -7,6 +7,7 @@ size: 1 cup
 time: 20 minutes
 title: Black Sesame Summer Dressing
 ---
+
 This dressing works well on a very simple salad, like the Boston lettuce shown here.
 
 ### Ingredients

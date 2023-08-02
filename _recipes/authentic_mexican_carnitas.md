@@ -2,8 +2,6 @@
 author: Ani
 category: Entrees
 description: These traditional slow-cooked carnitas deliver deep, succulent pork flavor.
-  Pork shoulder is simmered for hours until meltingly tender, then fried until crispy
-  and caramelized. 
 image: authentic_mexican_carnitas.jpg
 original_title: Carnitas
 size: 8 servings
@@ -12,7 +10,7 @@ time: 2 hours 20 minutes
 title: Authentic Mexican Carnitas
 ---
 
-Authentic carnitas are meant to be served with accompaniments like
+Pork shoulder is simmered for hours until meltingly tender, then fried until crispy and caramelized. Authentic carnitas are meant to be served with accompaniments like
   tortillas, guacamole, salsa, cilantro, and onion rather than made into tacos. This recipe is adapted from a traditional Mexican cooking method, resulting in flavorful and tender pork carnitas. Perfect for a weekend meal, you won't regret making these!
 
 ### Ingredients

@@ -1,13 +1,13 @@
 ---
 category: Entrees
 description: A traditional Nordic dish of raw salmon cured with salt, sugar, and dill.
-  Perfect for a special occasion or just a fancy brunch!
 image: gravlax.jpg
 size: 4 servings
 time: 5 days
 title: Gravlax
 ---
-Gravlax is a traditional Nordic dish made from raw salmon that's been cured with salt, sugar, and dill. It's a time-consuming process, but the result is a deliciously flavorful and unique dish that's perfect for a special occasion or just a fancy brunch!
+
+Perfect for a special occasion or just a fancy brunch!Gravlax is a traditional Nordic dish made from raw salmon that's been cured with salt, sugar, and dill. It's a time-consuming process, but the result is a deliciously flavorful and unique dish that's perfect for a special occasion or just a fancy brunch!
 
 ### Ingredients
 

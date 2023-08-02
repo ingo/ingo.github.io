@@ -1,12 +1,13 @@
 ---
 author: Ingo Muschenetz
 category: Beverages
-description: Watermelon is fun to eat, but even more fun to drink. This cooling drink
-  is a perfect antidote to hot summer days.
+description: Watermelon is fun to eat, but even more fun to drink.
 image: watermelon_agua_fresca.jpg
 size: 2 cups
 title: Watermelon Agua Fresca
 ---
+
+This cooling drink is a perfect antidote to hot summer days.
 
 ### Ingredients
 

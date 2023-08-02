@@ -2,9 +2,7 @@
 author: Suzy
 category: Sides
 description: This Greek-inspired lemon rice is bursting with bright flavor from lemon
-  juice and zest, garlic and fresh dill. Tart and tangy with a pop of green freshness,
-  it's an easy and delicious accompaniment to roasted chicken, grilled seafood, lamb
-  kebabs and more. Let it cool before fluffing with a fork.
+  juice and zest, garlic and fresh dill.
 image: greek_lemon_rice.jpg
 original_title: Greek Lemon Rice Recipe
 size: 6 servings
@@ -12,7 +10,8 @@ source: https://www.themediterraneandish.com/greek-lemon-rice-recipe/
 time: 45 minutes
 title: Greek Lemon Rice
 ---
-This Greek lemon rice will prove you wrong if you think rice is just a dreaded, boring side dish. Once you give it a try, it might just become your favorite side of all time! This lemon rice pilaf is a fairly popular side dish, you may have sampled a version of it at your local Greek restaurant.
+
+Tart and tangy with a pop of green freshness, it's an easy and delicious accompaniment to roasted chicken, grilled seafood, lamb kebabs and more. Let it cool before fluffing with a fork. This Greek lemon rice will prove you wrong if you think rice is just a dreaded, boring side dish. Once you give it a try, it might just become your favorite side of all time! This lemon rice pilaf is a fairly popular side dish, you may have sampled a version of it at your local Greek restaurant.
 
 ### Ingredients
 

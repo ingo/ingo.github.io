@@ -1,9 +1,7 @@
 ---
 author: Jim Lahey, owner of Sullivan Street Bakery
 category: Breads
-description: "A popular, easy-to-make bread that requires no kneading. It uses no\
-  \ special ingredients, equipment or techniques. And it takes very little effort\
-  \ \u2014 only time."
+description: A popular, easy-to-make bread that requires no kneading.
 difficulty: easy
 favorite: "\u2713"
 image: no_knead_bread.jpg
@@ -12,7 +10,8 @@ source: https://cooking.nytimes.com/recipes/11376-no-knead-bread
 time: 1 hour 30 minutes, plus about 20 hours' resting time
 title: No-Knead Bread
 ---
-This is one of the most popular recipes The Times has ever published, courtesy of Jim Lahey, owner of Sullivan Street Bakery. It requires no kneading. It uses no special ingredients, equipment or techniques. And it takes very little effort — only time. You will need 24 hours to create the bread, but much of this is unattended waiting, a slow fermentation of the dough that results in a perfect loaf.
+
+It uses no special ingredients, equipment or techniques. And it takes very little effort — only time. This is one of the most popular recipes The Times has ever published, courtesy of Jim Lahey, owner of Sullivan Street Bakery. It requires no kneading. It uses no special ingredients, equipment or techniques. And it takes very little effort — only time. You will need 24 hours to create the bread, but much of this is unattended waiting, a slow fermentation of the dough that results in a perfect loaf.
 
 ### Ingredients
 

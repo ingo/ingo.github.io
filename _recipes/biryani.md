@@ -2,7 +2,7 @@
 author: Nagi
 category: Entrees
 description: Biryani is a celebratory Indian mixed rice dish layering aromatically
-  spiced meat or vegetables with fluffy basmati rice, saffron, and fried onions. 
+  spiced meat or vegetables with fluffy basmati rice, saffron, and fried onions.
 favorite: "\u2713"
 image: biryani.jpg
 original_title: Biryani
@@ -11,6 +11,7 @@ source: https://www.recipetineats.com/biryani/
 time: 1 hour 20 minutes
 title: Biryani
 ---
+
 This
   recipe can be made with chicken, lamb, or even cauliflower. It's packed with incredible
   flavors and textures in every bite.

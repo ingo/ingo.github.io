@@ -11,6 +11,7 @@ source: https://www.chowhound.com/post/kosher-dill-pickles-recipe-1012766
 time: 3 weeks
 title: Kosher Dill Pickles
 ---
+
 This recipe is a traditional kosher dill pickle recipe, passed down from a 90-year-old former lower east side pickle maker named Moe, through Rabbi Marcus. The pickles are easy to make and require only a few ingredients. The key to success is getting the salt to water brine ratio correct. 
 
 ### Ingredients

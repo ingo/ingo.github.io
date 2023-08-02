@@ -3,15 +3,15 @@ author: Elana Lepkowski
 category: Beverages
 description: "This sparkling sangria makes use of the French aperitif Lillet Ros\xE9\
   , which comes already flavored with sweet and bitter orange peel and fruit liqueurs\
-  \ to boost the flavor of the pitcher drink. Grapefruit adds crisp tartness, just\
-  \ right for a hot day."
+  \ to boost the flavor of the pitcher drink."
 image: sparkling_grapefruit_sangria_with_lillet_rose.jpg
 size: serves 8
 source: http://www.seriouseats.com/recipes/2014/05/sparkling-grapefruit-sangria-lillet-rose-pitcher-drink-recipe.html
 time: 4 hours, or overnight
 title: "Sparkling Grapefruit Sangria With Lillet Ros\xE9"
 ---
-**Note:** To make simple syrup, combine `1 cup` water with `1 cup` sugar in a small saucepan and heat over medium heat, stirring constantly, until sugar is dissolved. Cool before using. Simple syrup will keep in a sealed container in the refrigerator for up to 5 days.
+
+Grapefruit adds crisp tartness, just right for a hot day. **Note:** To make simple syrup, combine `1 cup` water with `1 cup` sugar in a small saucepan and heat over medium heat, stirring constantly, until sugar is dissolved. Cool before using. Simple syrup will keep in a sealed container in the refrigerator for up to 5 days.
 
 ### Ingredients
 

@@ -2,13 +2,15 @@
 author: Frank Ostini
 category: Entrees
 description: A classic BBQ recipe with a flavorful seasoning salt mixture and a tangy
-  basting sauce. Perfect for a summer cookout.
+  basting sauce.
 favorite: "\u2713"
 image: santa_maria_style_bbq_oakwood_grilled_tri_tip.jpg
 size: 6 servings
 time: 1 hour 35 minutes
 title: Santa Maria Style BBQ Oakwood Grilled Tri-tip
 ---
+
+Perfect for a summer cookout.
 
 ### Ingredients
 

@@ -11,6 +11,7 @@ source: http://www.latimes.com/features/food/la-fo-calcook29-2009apr29,0,7260754
 time: 1 hour
 title: Strawberry Shortcakes
 ---
+
 Adapted from Claudia Fleming and Russ Parsons, this recipe for Strawberry Shortcakes is a delightful dessert that combines the sweetness of strawberries with the lightness of shortcakes. The recipe has been updated to include weights for easier measurement.
 
 ### Ingredients

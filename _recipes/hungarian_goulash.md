@@ -2,8 +2,7 @@
 author: Joanna Cismaru
 category: Entrees
 description: A classic Hungarian Goulash with melt-in-your mouth, tender beef, slowly
-  cooked in an incredibly rich broth. Tasty, comforting and perfect for the whole
-  family!
+  cooked in an incredibly rich broth.
 image: hungarian_goulash.jpg
 original_title: Hungarian Goulash
 size: 8 servings
@@ -11,7 +10,8 @@ source: https://www.jocooks.com/recipes/hungarian-goulash/
 time: 3 hours 10 minutes
 title: Hungarian Goulash
 ---
-Hungarian Goulash is a traditional dish brought by Hungarian immigrants in 1866. This rich stew is flavored with sweet paprika, plenty of fresh garlic, and caraway seed. It is usually served over noodles, potato, or spaetzle. This recipe does not rely on a flour or roux for thickening, which is why it's more like a soup. 
+
+Tasty, comforting and perfect for the whole family!Hungarian Goulash is a traditional dish brought by Hungarian immigrants in 1866. This rich stew is flavored with sweet paprika, plenty of fresh garlic, and caraway seed. It is usually served over noodles, potato, or spaetzle. This recipe does not rely on a flour or roux for thickening, which is why it's more like a soup. 
 
 ### Ingredients
 

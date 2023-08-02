@@ -9,6 +9,7 @@ source: http://www.foodnetwork.com/recipes/ina-garten/rosemary-roasted-potatoes-
 time: 40 minutes
 title: Rosemary Roasted Potatoes
 ---
+
 This recipe for Rosemary Roasted Potatoes is a simple yet flavorful side dish that pairs well with a variety of main courses. The rosemary adds a fragrant aroma and the roasting process brings out the natural sweetness of the potatoes.
 
 ### Ingredients

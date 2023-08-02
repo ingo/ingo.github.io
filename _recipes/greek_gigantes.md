@@ -1,11 +1,7 @@
 ---
 author: The Wanderlust Kitchen
 category: Sides
-description: "Greek Gigantes, meaning \u201Cgiant beans\u201D, live up to their name.\
-  \ These large white beans are slow simmered in a rich tomato and herb sauce until\
-  \ perfectly tender and creamy. They make a satisfying vegetarian main dish when\
-  \ served over crusty toasted bread. The beans become melt-in-your-mouth soft and\
-  \ soak up the flavors of the aromatic sauce."
+description: "Greek Gigantes, meaning \u201Cgiant beans\u201D, live up to their name."
 image: greek_gigantes.jpg
 original_title: Greek Gigantes
 size: servings
@@ -14,7 +10,8 @@ time: 8 hours 10 minutes
 title: Greek Gigantes
 veggie: "\u2713"
 ---
-These giant beans were first discovered during a trip to Athens. They are huge in size, and huge in flavor. This recipe is intensely comforting and satisfying. It’s also incredibly versatile. You can serve it as a stew-like main course, as a side dish, or even as part of a spread of small plates or appetizers. 
+
+These large white beans are slow simmered in a rich tomato and herb sauce until perfectly tender and creamy. They make a satisfying vegetarian main dish when served over crusty toasted bread. The beans become melt-in-your-mouth soft and soak up the flavors of the aromatic sauce. These giant beans were first discovered during a trip to Athens. They are huge in size, and huge in flavor. This recipe is intensely comforting and satisfying. It’s also incredibly versatile. You can serve it as a stew-like main course, as a side dish, or even as part of a spread of small plates or appetizers. 
 
 ### Ingredients
 

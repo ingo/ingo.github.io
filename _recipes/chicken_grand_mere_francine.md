@@ -1,18 +1,15 @@
 ---
 author: Daniel Bouloud
 category: Entrees
-description: A favorite recipe of Ingo's Dad, after Daniel Bouloud. This chicken dish
-  was a favorite of Ingo's father, adapted from a recipe by renowned chef Daniel Boulud.
-  It features chicken breasts topped with prosciutto and cheese, baked in a paper
-  bag for extra moisture. The recipe captures the essence of French cuisine - elegantly
-  simple yet bursting with flavor. Serve it for a taste of France by way of Ingo's
-  Dad.
+description: A favorite recipe of Ingo's Dad, after Daniel Bouloud.
 favorite: "\u2713"
 image: chicken_grand_mere_francine.jpg
 size: 4 servings
 time: 1 hour
 title: Chicken Grand Mere Francine
 ---
+
+This chicken dish was a favorite of Ingo's father, adapted from a recipe by renowned chef Daniel Boulud. It features chicken breasts topped with prosciutto and cheese, baked in a paper bag for extra moisture. The recipe captures the essence of French cuisine - elegantly simple yet bursting with flavor. Serve it for a taste of France by way of Ingo's Dad.
 
 ### Ingredients
 

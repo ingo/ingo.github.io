@@ -14,6 +14,7 @@ umami: "\u2713"
 vegan: null
 veggie: null
 ---
+
 This recipe is a classic from Louisiana Cookin, bringing the rich flavors of the bayou to your kitchen.
 
 ### Ingredients

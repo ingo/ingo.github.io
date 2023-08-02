@@ -3,7 +3,7 @@ author: Alison Roman
 category: Entrees
 description: This tangy, turmeric-stained, sheet-pan chicken makes the most of the
   schmaltzy bits left behind on the pan, which is deglazed with fresh garlic, briny
-  olives and a bit of water. Think pan sauce, but done on a sheet pan.
+  olives and a bit of water.
 image: vinegar_chicken_with_crushed_olive_dressing.jpg
 image_attribution: Michael Graydon & Nikole Herriott for The New York Times
 nutrition:
@@ -25,7 +25,8 @@ source: https://cooking.nytimes.com/recipes/1020486-vinegar-chicken-with-crushed
 time: 40 minutes
 title: Vinegar Chicken With Crushed Olive Dressing
 ---
-This recipe is a favorite of Alison Roman, who shared it with the New York Times. It's a perfect dish for those who love the combination of tangy vinegar, savory chicken, and the unique flavor of crushed olives.
+
+Think pan sauce, but done on a sheet pan. This recipe is a favorite of Alison Roman, who shared it with the New York Times. It's a perfect dish for those who love the combination of tangy vinegar, savory chicken, and the unique flavor of crushed olives.
 
 ### Ingredients
 

@@ -1,10 +1,7 @@
 ---
 author: Unknown
 category: Sauces
-description: A rich and tangy dressing that is perfect for your Caesar salads. The
-  combination of garlic, anchovies, lemon juice, Worcestershire and Parmesan makes
-  a creamy emulsion with bright, savory umami flavor. Drizzle this Caesar dressing
-  over chopped romaine lettuce for an easy yet impressive salad.
+description: A rich and tangy dressing that is perfect for your Caesar salads.
 difficulty: easy
 image: caesar_salad_dressing.jpg
 salty: "\u2713"
@@ -16,7 +13,8 @@ umami: "\u2713"
 vegan: null
 veggie: "\u2713"
 ---
-This homemade Caesar Salad Dressing will elevate your salad to a whole new level. It's rich, tangy, and incredibly easy to make. 
+
+The combination of garlic, anchovies, lemon juice, Worcestershire and Parmesan makes a creamy emulsion with bright, savory umami flavor. Drizzle this Caesar dressing over chopped romaine lettuce for an easy yet impressive salad. This homemade Caesar Salad Dressing will elevate your salad to a whole new level. It's rich, tangy, and incredibly easy to make. 
 
 ### Ingredients
 

@@ -3,10 +3,6 @@ author: Nagi
 category: Entrees
 description: Fragrant, long grain basmati rice is layered with tender chunks of chicken,
   golden raisins, caramelized onions, and whole spices for an elegant one-pot meal.
-  Though all biryanis build on a similar principle, specifics vary widely across India
-  according to regional and family traditions. This version includes spinach and fresh
-  mint for a bright pop of color and flavor. Best served family-style right from the
-  pot.
 favorite: "\u2713"
 image: chicken_biryani.jpg
 original_title: Biryani
@@ -15,6 +11,8 @@ source: https://www.recipetineats.com/biryani/
 time: 1 hour 20 minutes
 title: Chicken Biryani
 ---
+
+Though all biryanis build on a similar principle, specifics vary widely across India according to regional and family traditions. This version includes spinach and fresh mint for a bright pop of color and flavor. Best served family-style right from the pot.
 
 ### Ingredients
 

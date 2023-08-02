@@ -2,12 +2,13 @@
 author: Ingo Muschenetz
 category: Entrees
 description: A delightful shrimp dish made with sweet onions, beer, and lemon zest.
-  Perfect for a light dinner or lunch.
 image: shrimp_lahaina.jpg
 size: 4 servings
 time: 30 minutes
 title: Shrimp Lahaina
 ---
+
+Perfect for a light dinner or lunch.
 
 ### Ingredients
 

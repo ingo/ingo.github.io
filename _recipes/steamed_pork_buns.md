@@ -1,14 +1,15 @@
 ---
 author: Ingo Muschenetz
 category: Entrees
-description: Ingo's favorite dim sum. Takes a little while to make, but is well worth
-  it.
+description: Ingo's favorite dim sum.
 favorite: "\u2713"
 image: steamed_pork_buns.jpg
 size: 5 buns
 time: 1 hour
 title: Steamed Pork Buns
 ---
+
+Takes a little while to make, but is well worth it.
 
 ### Ingredients
 

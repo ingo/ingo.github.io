@@ -1,17 +1,15 @@
 ---
 author: Alton Brown
 category: Sides
-description: An easy and refreshing no-waste summer snack. Crystallized ginger, allspice
-  berries and apple cider vinegar keep these things from becoming overly sweet or
-  tart. Great as a side with grilled dishes or as a salad tossed with crispy, crumbled
-  bacon and served over greens.
+description: An easy and refreshing no-waste summer snack.
 image: watermelon_rind_pickles.jpg
 size: 1 pound
 source: https://www.altonbrown.com/
 time: 10 hours & 25 minutes
 title: Watermelon Rind Pickles
 ---
-This recipe first appeared on altonbrown.com. Watermelon rind pickles are the finest thing you can do with a watermelon besides greasing it up and chasing it around the pool.
+
+Crystallized ginger, allspice berries and apple cider vinegar keep these things from becoming overly sweet or tart. Great as a side with grilled dishes or as a salad tossed with crispy, crumbled bacon and served over greens. This recipe first appeared on altonbrown.com. Watermelon rind pickles are the finest thing you can do with a watermelon besides greasing it up and chasing it around the pool.
 
 ### Ingredients
 

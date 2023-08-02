@@ -2,10 +2,7 @@
 author: Tejal Rao
 category: Entrees
 description: A crisp, cheesy pan pizza developed by Charlotte Rutledge, using a number
-  of simple techniques to achieve maximum texture and flavor. The dough is folded
-  a few times before it goes in the fridge for a long rest, which develops its flavor
-  and airiness. Cooking the pizza in cast iron gets the edges brown and crackling,
-  and layering the cheese and sauce creates an extra cheesy top with no soggy layer.
+  of simple techniques to achieve maximum texture and flavor.
 image: cheesy_pan_pizza.jpg
 image_attribution: Gentl and Hyers for The New York Times (Photography and Styling)
 original_title: Cheesy Pan Pizza
@@ -14,7 +11,8 @@ source: https://cooking.nytimes.com/ourcooks/tejal-rao/my-recipes
 time: 45 minutes, plus resting
 title: Cheesy Pan Pizza
 ---
-This recipe for a crisp, cheesy pan pizza was developed by Charlotte Rutledge, along with her team of test cooks at King Arthur Flour’s rigorous test kitchen in Vermont. It uses a number of simple techniques to achieve maximum texture and flavor. The dough is folded a few times before it goes in the fridge for a long rest, which develops its flavor and airiness. Cooking the pizza in cast iron gets the edges brown and crackling, and layering the cheese and sauce creates an extra cheesy top with no soggy layer. Make it once in its simplest form, then use the model to play around with the fermentation time and toppings.
+
+The dough is folded a few times before it goes in the fridge for a long rest, which develops its flavor and airiness. Cooking the pizza in cast iron gets the edges brown and crackling, and layering the cheese and sauce creates an extra cheesy top with no soggy layer. This recipe for a crisp, cheesy pan pizza was developed by Charlotte Rutledge, along with her team of test cooks at King Arthur Flour’s rigorous test kitchen in Vermont. It uses a number of simple techniques to achieve maximum texture and flavor. The dough is folded a few times before it goes in the fridge for a long rest, which develops its flavor and airiness. Cooking the pizza in cast iron gets the edges brown and crackling, and layering the cheese and sauce creates an extra cheesy top with no soggy layer. Make it once in its simplest form, then use the model to play around with the fermentation time and toppings.
 
 ### Ingredients
 

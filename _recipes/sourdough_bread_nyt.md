@@ -1,9 +1,7 @@
 ---
 author: NYT Cooking
 category: Breads
-description: A detailed guide to making your own sourdough bread at home. This recipe
-  will walk you through all the key steps and core concepts a first-time sourdough
-  baker needs to know.
+description: A detailed guide to making your own sourdough bread at home.
 difficulty: hard
 image: sourdough_bread_nyt.jpg
 image_attribution: Johnny Miller for The New York Times
@@ -13,7 +11,8 @@ source: https://cooking.nytimes.com/guides/59-how-to-make-sourdough-bread
 time: 3 days
 title: Sourdough Bread (NYT)
 ---
-Perhaps you’ve seen them on social media — sourdough loaves with burnished, intricately scored crusts and expansive, holey interiors — and wondered if you too could make this kind of bread. The answer is yes, you absolutely can. The method below will walk you through all the key steps and core concepts a first-time sourdough baker needs to bake naturally leavened bread at home with good, even great, results. You’ll need to invest in some essential equipment, find a starter, and set aside three days (though only the second requires serious tending — you can start on Friday to have loaves on Sunday). But for those dedicated to learning an age-old craft, it’s the start of a deeply rewarding journey. Your first loaves won't be perfect, and that’s fine. Any sourdough bread made by your hand will still be delicious.
+
+This recipe will walk you through all the key steps and core concepts a first-time sourdough baker needs to know. Perhaps you’ve seen them on social media — sourdough loaves with burnished, intricately scored crusts and expansive, holey interiors — and wondered if you too could make this kind of bread. The answer is yes, you absolutely can. The method below will walk you through all the key steps and core concepts a first-time sourdough baker needs to bake naturally leavened bread at home with good, even great, results. You’ll need to invest in some essential equipment, find a starter, and set aside three days (though only the second requires serious tending — you can start on Friday to have loaves on Sunday). But for those dedicated to learning an age-old craft, it’s the start of a deeply rewarding journey. Your first loaves won't be perfect, and that’s fine. Any sourdough bread made by your hand will still be delicious.
 
 ### Ingredients
 

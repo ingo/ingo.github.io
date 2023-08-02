@@ -1,8 +1,7 @@
 ---
 author: David Tanis
 category: Entrees
-description: A flavorful risotto based on red, ripe tomatoes from the garden. Best
-  as a first course or vegetarian main course.
+description: A flavorful risotto based on red, ripe tomatoes from the garden.
 image: tomato_risotto.jpg
 image_attribution: Andrew Scrivani for The New York Times
 original_title: Tomato Risotto
@@ -12,7 +11,8 @@ time: 30 minutes
 title: Tomato Risotto
 veggie: "\u2713"
 ---
-Once you master the risotto technique, you can make flavorful versions throughout the year. This summery version is based on red, ripe tomatoes from the garden, but if you want to up the tomato quotient, surround the finished dish with slices of multicolored heirloom varieties. Best as a first course or vegetarian main course, it could also pair with a main course — grilled fish, for instance.
+
+Best as a first course or vegetarian main course. Once you master the risotto technique, you can make flavorful versions throughout the year. This summery version is based on red, ripe tomatoes from the garden, but if you want to up the tomato quotient, surround the finished dish with slices of multicolored heirloom varieties. Best as a first course or vegetarian main course, it could also pair with a main course — grilled fish, for instance.
 
 ### Ingredients
 

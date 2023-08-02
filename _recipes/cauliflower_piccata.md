@@ -1,13 +1,8 @@
 ---
 author: Kate Sears
 category: Entrees
-description: "A zesty dish of roasted cauliflower doused in a buttery, briny combination\
-  \ of lemon, butter and capers. Chickpeas make this a fuller vegetarian meal, but\
-  \ leave them out if you\u2019d rather. This cauliflower piccata starts with roasted\
-  \ cauliflower florets cooked until nicely caramelized. Then they are topped with\
-  \ a bright lemony sauce of butter, lemon juice and crunchy capers. Chickpeas can\
-  \ be added to turn it into a hearty vegetarian main. Or serve the cauliflower solo\
-  \ as a flavorful side dish."
+description: A zesty dish of roasted cauliflower doused in a buttery, briny combination
+  of lemon, butter and capers.
 image: cauliflower_piccata.jpg
 size: 2-3 servings
 source: https://cooking.nytimes.com/recipes/1022614-cauliflower-piccataundefined
@@ -15,7 +10,8 @@ time: 1 hour
 title: Cauliflower Piccata
 veggie: "\u2713"
 ---
-Piccata sauce — that buttery, briny combination of lemon, butter and capers, silky in texture and tart in flavor — is not just for chicken or swordfish. It’s also a zesty anchor for roasted vegetables. Here, cauliflower is roasted at high heat, which concentrates the flavor, adds nuttiness and encourages caramelization, before being doused with the sauce. Chickpeas make this a fuller vegetarian meal, but leave them out if you’d rather. Piccata dishes are often served with long pasta, which tangle with the tangy sauce, but this one is also great alongside rice or tender-crisp vegetables like blistered green beans. While you are at it, try this sauce with sweet butternut squash, charred broccoli, earthy roasted carrots, golden wedges of cabbage or crispy slices of tofu.
+
+Chickpeas make this a fuller vegetarian meal, but leave them out if you’d rather. This cauliflower piccata starts with roasted cauliflower florets cooked until nicely caramelized. Then they are topped with a bright lemony sauce of butter, lemon juice and crunchy capers. Chickpeas can be added to turn it into a hearty vegetarian main. Or serve the cauliflower solo as a flavorful side dish. Piccata sauce — that buttery, briny combination of lemon, butter and capers, silky in texture and tart in flavor — is not just for chicken or swordfish. It’s also a zesty anchor for roasted vegetables. Here, cauliflower is roasted at high heat, which concentrates the flavor, adds nuttiness and encourages caramelization, before being doused with the sauce. Chickpeas make this a fuller vegetarian meal, but leave them out if you’d rather. Piccata dishes are often served with long pasta, which tangle with the tangy sauce, but this one is also great alongside rice or tender-crisp vegetables like blistered green beans. While you are at it, try this sauce with sweet butternut squash, charred broccoli, earthy roasted carrots, golden wedges of cabbage or crispy slices of tofu.
 
 ### Ingredients
 

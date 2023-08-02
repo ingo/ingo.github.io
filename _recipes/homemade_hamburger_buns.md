@@ -1,8 +1,7 @@
 ---
 author: Dewiat
 category: Breads
-description: Deliciously soft hamburger buns that are quick and easy to make. Perfect
-  for a snack or with your favorite burger.
+description: Deliciously soft hamburger buns that are quick and easy to make.
 favorite: "\u2713"
 image: homemade_hamburger_buns.jpg
 original_title: Possibly The Best and Easiest Homemade Hamburger Buns
@@ -11,7 +10,8 @@ source: http://elrasbaking.blogspot.com/2011/07/possibly-best-and-easiest-homema
 time: 2 hours
 title: Homemade Hamburger Buns
 ---
-These buns are not only easy and quick to make but also taste deliciously soft, just like eating cotton candy. They can be served as a snack, eaten plain or with jams. The recipe was adapted from Sara's Hamburger Buns recipe.
+
+Perfect for a snack or with your favorite burger. These buns are not only easy and quick to make but also taste deliciously soft, just like eating cotton candy. They can be served as a snack, eaten plain or with jams. The recipe was adapted from Sara's Hamburger Buns recipe.
 
 ### Ingredients
 

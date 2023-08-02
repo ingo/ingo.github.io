@@ -2,7 +2,6 @@
 author: Curt Okimoto and Sam Choy
 category: Entrees
 description: A trio of Hawaiian delicacies made of octopus and various condiments.
-  These recipes are a perfect blend of Japanese and Hawaiian flavors.
 favorite: "\u2713"
 image: tako_poke_trio.jpg
 original_title: Tako Poke
@@ -12,7 +11,8 @@ spicy: "\u2713"
 time: 1 hour
 title: Tako Poke Trio
 ---
-Tako Poke does not mean to jab with a Mexican-style sandwich made of tortillas. Tako is the Japanese word for octopus, and tako poke (pronounced POE-keh) refers to a Hawaiian delicacy made of octopus and condiments of limu (seaweed), Hawaiian sea salt, chiles and 'inamona (roasted kukui nut paste). 
+
+These recipes are a perfect blend of Japanese and Hawaiian flavors. Tako Poke does not mean to jab with a Mexican-style sandwich made of tortillas. Tako is the Japanese word for octopus, and tako poke (pronounced POE-keh) refers to a Hawaiian delicacy made of octopus and condiments of limu (seaweed), Hawaiian sea salt, chiles and 'inamona (roasted kukui nut paste). 
 
 ### Ingredients
 

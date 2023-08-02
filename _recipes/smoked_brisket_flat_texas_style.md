@@ -1,9 +1,7 @@
 ---
 author: Victor @ Taste of Artisan
 category: Entrees
-description: Lean brisket flat smoked to perfection, Texas-style. This recipe guides
-  you through the process of selecting the right meat, preparing it, and smoking it
-  for the best results.
+description: Lean brisket flat smoked to perfection, Texas-style.
 favorite: "\u2713"
 image: smoked_brisket_flat_texas_style.jpg
 original_title: Smoked Brisket Flat (Texas-Style)
@@ -12,7 +10,8 @@ source: https://tasteofartisan.com/smoked-brisket-flat/
 time: 6 hours 50 minutes
 title: Smoked Brisket Flat (Texas-Style)
 ---
-Brisket flat is the leaner portion from a whole brisket. It's a good piece of meat to smoke - it's less intimidating. Being evenly thick throughout, it's easier to smoke and get perfect results, even for a novice cook. There are a few things you need to pay attention to though to make your smoked brisket flat taste like a million bucks.
+
+This recipe guides you through the process of selecting the right meat, preparing it, and smoking it for the best results. Brisket flat is the leaner portion from a whole brisket. It's a good piece of meat to smoke - it's less intimidating. Being evenly thick throughout, it's easier to smoke and get perfect results, even for a novice cook. There are a few things you need to pay attention to though to make your smoked brisket flat taste like a million bucks.
 
 ### Ingredients
 

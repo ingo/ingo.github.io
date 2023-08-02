@@ -8,6 +8,7 @@ source: https://www.foodnetwork.com/recipes/alton-brown/potato-latkes-recipe-194
 time: 1 hour
 title: Potato Latkes
 ---
+
 A traditional Jewish dish, these potato pancakes are a delicious and versatile side that can be enjoyed with a variety of meals. 
 
 ### Ingredients

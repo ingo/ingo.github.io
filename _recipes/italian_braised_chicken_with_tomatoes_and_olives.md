@@ -2,8 +2,7 @@
 author: The Endless Meal
 category: Entrees
 description: The chicken thighs are first seared until the skin is crispy then they're
-  gently simmered in a delicious tomato and olive sauce. The chicken becomes super
-  flavorful and tender. This is a healthy dinner recipe you don't want to miss.
+  gently simmered in a delicious tomato and olive sauce.
 favorite: "\u2713"
 image: italian_braised_chicken_with_tomatoes_and_olives.jpg
 nutrition:
@@ -17,7 +16,8 @@ source: https://www.theendlessmeal.com/italian-braised-chicken-tomatoes-olives/
 time: 1 hour
 title: Italian Braised Chicken with Tomatoes and Olives
 ---
-This recipe now sits firmly in the category of my Favorite Chicken Recipes. It's a one pan chicken dinner with super tender meat that's infused with all the tomato and olive flavor goodness. The salty crispy chicken skin is the best part. It finishes cooking itself in the oven so you can pour yourself a glass of wine, tidy the kitchen, and relax before dinner.
+
+The chicken becomes super flavorful and tender. This is a healthy dinner recipe you don't want to miss. This recipe now sits firmly in the category of my Favorite Chicken Recipes. It's a one pan chicken dinner with super tender meat that's infused with all the tomato and olive flavor goodness. The salty crispy chicken skin is the best part. It finishes cooking itself in the oven so you can pour yourself a glass of wine, tidy the kitchen, and relax before dinner.
 
 ### Ingredients
 

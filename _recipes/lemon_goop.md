@@ -1,7 +1,7 @@
 ---
 category: Pantry
 description: A tangy and sweet lemon sauce that can be used to glaze cooked fish,
-  seafood or vegetables. The syrup can be used in marinades, rubs or even cocktails.
+  seafood or vegetables.
 image: lemon_goop.jpg
 image_attribution: Ellen Silverman
 image_source: https://www.ctinsider.com/connecticutmagazine/food-drink/article/Dorie-Greenspan-s-Recipe-for-Lemon-Goop-and-17044508.php
@@ -9,7 +9,8 @@ size: 1 jar
 time: 1 hour 30 minutes
 title: Lemon Goop
 ---
-This Lemon Goop is a versatile sauce that can add a tangy and sweet flavor to a variety of dishes. It's a great way to use up those extra lemons and add a burst of citrus to your meals.
+
+The syrup can be used in marinades, rubs or even cocktails. This Lemon Goop is a versatile sauce that can add a tangy and sweet flavor to a variety of dishes. It's a great way to use up those extra lemons and add a burst of citrus to your meals.
 
 ### Ingredients
 

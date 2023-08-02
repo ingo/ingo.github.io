@@ -2,7 +2,6 @@
 author: Gimme Some Oven
 category: Entrees
 description: Easy to make, full of big and fresh flavors, and always a crowd favorite.
-  These roasted artichokes are full of lemony, herby, garlicky flavors.
 difficulty: easy
 image: the_most_amazing_roasted_artichokes.jpg
 size: 6 servings
@@ -10,7 +9,8 @@ source: https://www.gimmesomeoven.com/
 time: 1 hour
 title: The Most Amazing Roasted Artichokes
 ---
-Since moving to Barcelona, our veggie bowl has mysteriously been stocked with fresh artichokes pretty much 24/7. Artichokes are by far and away Barclay’s favorite food. After a long history of steaming our artichokes, I began feeling the need for a little variety in our artichoke game happening here in Spain. So I challenged Barc to experiment with some various methods and seasonings for roasted artichokes. And now, dozens of alcachofas asadas later, we’ve both agreed that he’s landed upon a winner of a recipe.
+
+These roasted artichokes are full of lemony, herby, garlicky flavors. Since moving to Barcelona, our veggie bowl has mysteriously been stocked with fresh artichokes pretty much 24/7. Artichokes are by far and away Barclay’s favorite food. After a long history of steaming our artichokes, I began feeling the need for a little variety in our artichoke game happening here in Spain. So I challenged Barc to experiment with some various methods and seasonings for roasted artichokes. And now, dozens of alcachofas asadas later, we’ve both agreed that he’s landed upon a winner of a recipe.
 
 ### Ingredients
 

@@ -6,6 +6,7 @@ description: A guide to understanding how much dough is needed for different siz
 image: one_pound_loaf_flour_weight_or_dough_weight.jpg
 title: One Pound Loaf-Flour Weight or Dough Weight?
 ---
+
 This guide provides a helpful understanding of how much dough is needed for different sizes of loaf pans and brotform bannetons. It's a great reference for when you're planning your bread baking.
 
 ### Ingredients

@@ -2,9 +2,7 @@
 author: Nami
 category: Entrees
 description: Also known as miso-marinated black cod, this seafood dish features tender,
-  buttery cod marinated for days in a sweet and salty miso paste. The fish is then
-  slowly baked until caramelized and irresistibly tender. With its delicate texture
-  that seems to melt in your mouth, it's an impressive recipe you can make at home.
+  buttery cod marinated for days in a sweet and salty miso paste.
 image: cucumber_and_chicken_marinated_in_chili_oil.jpg
 original_title: Cucumber and Chicken Marinated in Chili Oil
 size: 4 servings
@@ -13,7 +11,8 @@ spicy: "\u2713"
 time: 15 mins
 title: Cucumber and Chicken Marinated in Chili Oil
 ---
-This Japanese dish is a delightful blend of cucumber and chicken marinated in chili oil. It's a simple, yet flavorful dish that can be served as a main course or a side dish. The recipe was adapted from Hashimoto's Tohoku Recipes and has been further refined by Nami from Just One Cookbook.
+
+The fish is then slowly baked until caramelized and irresistibly tender. With its delicate texture that seems to melt in your mouth, it's an impressive recipe you can make at home. This Japanese dish is a delightful blend of cucumber and chicken marinated in chili oil. It's a simple, yet flavorful dish that can be served as a main course or a side dish. The recipe was adapted from Hashimoto's Tohoku Recipes and has been further refined by Nami from Just One Cookbook.
 
 ### Ingredients
 

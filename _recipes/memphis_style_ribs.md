@@ -2,10 +2,6 @@
 author: Steven Raichlen
 category: Entrees
 description: Memphis-style ribs showcase a fusion of regional American barbecue traditions.
-  Pork ribs are rubbed with a blend of herbs and spices then smoked over indirect
-  heat. The simple idea of smoked pork ribs has given birth to many great regional
-  variations over time. A pork rib fresh off the grill or smoker is one of life's
-  great pleasures
 image: memphis_style_ribs.jpg
 original_title: Memphis-Style Ribs
 size: 6 servings
@@ -13,7 +9,8 @@ source: https://barbecuebible.com/recipe/memphis-style-ribs/
 time: 4 to 8 hours for marinating the ribs
 title: Memphis-Style Ribs
 ---
-The Memphis-Style Ribs recipe is from Steven Raichlen's The Barbecue! Bible. This recipe never fails to amaze how one simple idea can give birth to so many great regional variations. Consider ribs. The pork rib is one of the most perfect morsels ever to occupy a grill.
+
+Pork ribs are rubbed with a blend of herbs and spices then smoked over indirect heat. The simple idea of smoked pork ribs has given birth to many great regional variations over time. A pork rib fresh off the grill or smoker is one of life's great pleasuresThe Memphis-Style Ribs recipe is from Steven Raichlen's The Barbecue! Bible. This recipe never fails to amaze how one simple idea can give birth to so many great regional variations. Consider ribs. The pork rib is one of the most perfect morsels ever to occupy a grill.
 
 ### Ingredients
 

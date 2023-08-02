@@ -2,9 +2,7 @@
 author: Not Quite Nigella
 category: Entrees
 description: Hearty beef short ribs braised until fall-apart tender in an Asian-inspired
-  glaze of soy sauce, hoisin, chili garlic sauce, ginger and five spice. The ribs
-  are lacquered with the sticky glaze for added flavor. Perfect cozy dish for a rainy
-  winter day that can be made on the stovetop, pressure cooker or slow cooker.
+  glaze of soy sauce, hoisin, chili garlic sauce, ginger and five spice.
 original_title: Sticky Asian Beef Short Ribs
 size: 4-6 servings
 source: https://www.notquitenigella.com/2013/07/12/sticky-glazed-asian-beef-short-ribs/#recipe
@@ -12,7 +10,8 @@ spicy: "\u2713"
 time: 9 hours (including marination and cooking time)
 title: Sticky Glazed Asian Beef Short Ribs
 ---
-One evening during the recent fortnight of repetitive rain, Mr NQN was sitting in the passenger seat of our car with me at the driver's wheel. I dislike driving in the rain as it creates another hazard and it causes pedestrians to pop out of nowhere and do unpredictable things. "Why don't you bring a potato with you?" Mr NQN asked grinning like a monkey. I knew that he was waiting for me to ask him what he meant and suitably intrigued I asked him to explain.
+
+The ribs are lacquered with the sticky glaze for added flavor. Perfect cozy dish for a rainy winter day that can be made on the stovetop, pressure cooker or slow cooker. One evening during the recent fortnight of repetitive rain, Mr NQN was sitting in the passenger seat of our car with me at the driver's wheel. I dislike driving in the rain as it creates another hazard and it causes pedestrians to pop out of nowhere and do unpredictable things. "Why don't you bring a potato with you?" Mr NQN asked grinning like a monkey. I knew that he was waiting for me to ask him what he meant and suitably intrigued I asked him to explain.
 
 ### Ingredients
 

@@ -1,18 +1,15 @@
 ---
 author: The New York Times
 category: Entrees
-description: A slowly braised Moroccan stew, exotic in flavor and appearance. This
-  version may not compare to those that begin with toasting and grinding spices and
-  peeling grapes, but it is easily executed and still divine. This simplified Moroccan
-  tagine still delivers on the exotic flavors of a traditional tagine without requiring
-  hard-to-find ingredients or complex techniques. Chicken and chickpeas
+description: A slowly braised Moroccan stew, exotic in flavor and appearance.
 image: chicken_and_chickpea_tagine.jpg
 size: 4 servings
 source: https://www.nytimes.com/
 time: 1 to 1 1/2 hours
 title: Chicken and Chickpea Tagine
 ---
-Like many dishes that rely on a combination of spices, a tagine, which is a slowly braised Moroccan stew, may look more intimidating to cook than it is. Even with shortcuts, the results are exotic in flavor and appearance. My version may not compare to those that begin with toasting and grinding spices and peeling grapes, but it is easily executed and still divine. 
+
+This version may not compare to those that begin with toasting and grinding spices and peeling grapes, but it is easily executed and still divine. This simplified Moroccan tagine still delivers on the exotic flavors of a traditional tagine without requiring hard-to-find ingredients or complex techniques. Chicken and chickpeasLike many dishes that rely on a combination of spices, a tagine, which is a slowly braised Moroccan stew, may look more intimidating to cook than it is. Even with shortcuts, the results are exotic in flavor and appearance. My version may not compare to those that begin with toasting and grinding spices and peeling grapes, but it is easily executed and still divine. 
 
 ### Ingredients
 

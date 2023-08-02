@@ -1,9 +1,7 @@
 ---
 author: Melissa Clark
 category: Entrees
-description: "A veggie burger that delivers the hamburger experience without the meat.\
-  \ It\u2019s got a firm, beefy texture that takes on the char and smoke of the grill,\
-  \ but is adaptable enough to cook inside on your stove."
+description: A veggie burger that delivers the hamburger experience without the meat.
 image: the_ultimate_veggie_burger.jpg
 image_attribution: Tara Donne
 image_source: The New York Times
@@ -14,7 +12,8 @@ time: 1 1/2 hours, plus at least 2 hours to chill
 title: The Ultimate Veggie Burger
 veggie: "\u2713"
 ---
-This veggie burger is made to give you the hamburger experience without the meat. It’s got a firm, beefy texture that takes on the char and smoke of the grill, but is adaptable enough to cook inside on your stove. The enemy of a veggie burger is mushiness, which stems from a high moisture content. To combat that, the very watery ingredients – mushrooms, tofu, beans and beets – are roasted to both dehydrate them somewhat and intensify their flavors. Yes, the ingredient list here is long; you need a diverse lot to make a good veggie burger. And each one adds something in terms of flavor and/or texture. Garnish this any way you like, and don’t forget to toast the buns.
+
+It’s got a firm, beefy texture that takes on the char and smoke of the grill, but is adaptable enough to cook inside on your stove. This veggie burger is made to give you the hamburger experience without the meat. It’s got a firm, beefy texture that takes on the char and smoke of the grill, but is adaptable enough to cook inside on your stove. The enemy of a veggie burger is mushiness, which stems from a high moisture content. To combat that, the very watery ingredients – mushrooms, tofu, beans and beets – are roasted to both dehydrate them somewhat and intensify their flavors. Yes, the ingredient list here is long; you need a diverse lot to make a good veggie burger. And each one adds something in terms of flavor and/or texture. Garnish this any way you like, and don’t forget to toast the buns.
 
 ### Ingredients
 

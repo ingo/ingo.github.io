@@ -9,6 +9,7 @@ source: https://thewanderlustkitchen.com/hawaiian-style-macaroni-salad/
 time: 40 minutes
 title: Hawaiian Style Macaroni Salad
 ---
+
 A family recipe passed down through seven generations, this Hawaiian Style Macaroni Salad is a staple at picnics and barbecues. With a hint of curry and the addition of tuna, this isn't your average macaroni salad. The secret ingredient? Hard boiled egg yolks in the mayo for a richer texture.
 
 ### Ingredients

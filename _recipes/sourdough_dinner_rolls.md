@@ -2,8 +2,7 @@
 author: King Arthur Flour
 category: Sides
 description: Sourdough adds a touch of its distinct flavor and chewiness to these
-  light, moist, buttery rolls. They're perfect for soaking up a melting pat of butter,
-  or gravy and cranberry sauce at a Thanksgiving feast.
+  light, moist, buttery rolls.
 favorite: "\u2713"
 image: sourdough_dinner_rolls.jpg
 original_title: Sourdough Dinner Rolls | King Arthur Flour
@@ -12,7 +11,8 @@ source: https://www.kingarthurflour.com/recipes/sourdough-dinner-rolls-recipe
 time: 3 hrs 1 min
 title: Sourdough Dinner Rolls
 ---
-These rolls are baked, clustered together, in two 8" round pans, ensuring that each roll retains its soft, pillowy texture on all sides.
+
+They're perfect for soaking up a melting pat of butter, or gravy and cranberry sauce at a Thanksgiving feast. These rolls are baked, clustered together, in two 8" round pans, ensuring that each roll retains its soft, pillowy texture on all sides.
 
 ### Ingredients
 

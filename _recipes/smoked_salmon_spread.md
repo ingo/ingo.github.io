@@ -1,15 +1,15 @@
 ---
 author: Ina Garten
 category: Sides
-description: A creamy, tangy spread with the rich flavor of smoked salmon. Perfect
-  for serving with crudites or crackers.
+description: A creamy, tangy spread with the rich flavor of smoked salmon.
 image: smoked_salmon_spread.jpg
 size: 1 bowl
 source: https://www.foodnetwork.com/recipes/ina-garten/smoked-salmon-spread-recipe3-1943150#reviewsTop
 time: 15 minutes
 title: Smoked Salmon Spread
 ---
-This smoked salmon spread is a delightful addition to any appetizer spread. The recipe comes from Ina Garten, known for her simple yet flavorful dishes.
+
+Perfect for serving with crudites or crackers. This smoked salmon spread is a delightful addition to any appetizer spread. The recipe comes from Ina Garten, known for her simple yet flavorful dishes.
 
 ### Ingredients
 

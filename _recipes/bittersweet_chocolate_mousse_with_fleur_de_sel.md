@@ -2,7 +2,7 @@
 author: Melissa Clark
 category: Desserts
 description: This rich one-ingredient chocolate mousse puts a high quality bittersweet
-  chocolate front and center. 
+  chocolate front and center.
 image: bittersweet_chocolate_mousse_with_fleur_de_sel.jpg
 image_attribution: David Malosh for The New York Times
 original_title: Bittersweet Chocolate Mousse With Fleur de Sel

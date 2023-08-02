@@ -2,8 +2,6 @@
 author: Sarah DiGregorio
 category: Entrees
 description: A great chili should be richly spiced, with layers of deep, savory flavor.
-  This recipe makes a thick, comforting chili that can be prepared in a slow cooker
-  or in a Dutch oven on the stovetop.
 image: slow_cooker_chili.jpg
 image_attribution: Julia Gartland
 image_source: The New York Times
@@ -13,6 +11,8 @@ spicy: "\u2713"
 time: 4 hours, 30 minutes
 title: Slow Cooker Chili
 ---
+
+This recipe makes a thick, comforting chili that can be prepared in a slow cooker or in a Dutch oven on the stovetop.
 
 ### Ingredients
 

@@ -13,6 +13,7 @@ source: https://cooking.nytimes.com/search?q=Kay+Chun&action=click&module=byline
 time: 45 minutes
 title: Yakitori-Style Salmon With Scallions and Zucchini
 ---
+
 Yakitori is a Japanese dish in which boneless chicken pieces seasoned with salt (shio) and a soy basting sauce (tare) are threaded onto bamboo skewers and grilled over a charcoal fire. This weeknight meal borrows the flavors of traditional yakitori and applies it to salmon and vegetables. A salty-sweet sauce of soy sauce, sugar, vinegar, garlic and ginger doubles as a glaze and serving sauce. Tossed with greens, the leftover salmon and vegetables make a nice salad the next day, and the sauce keeps in the refrigerator for up to a week. Brush it onto chicken or pork chops before roasting, or use it to season your next clean-out-the-fridge fried rice.
 
 ### Ingredients

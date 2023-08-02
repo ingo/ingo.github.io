@@ -2,8 +2,7 @@
 author: Food & Wine
 category: Entrees
 description: A simple garlic-and-herb-infused oil combined with wine vinegar acts
-  as both a basting liquid and a sauce for the fish. The trout skin protects the flesh
-  and turns an appealing golden brown during grilling.
+  as both a basting liquid and a sauce for the fish.
 image: tuscan_grilled_trout.jpg
 image_attribution: Helene Dujardin
 size: 8 servings
@@ -11,7 +10,8 @@ source: https://www.foodandwine.com/recipes/tuscan-grilled-trout
 time: 30 minutes
 title: Tuscan Grilled Trout
 ---
-This Tuscan Grilled Trout recipe is a simple yet flavorful dish that's perfect for any occasion. The recipe was first published in Food & Wine magazine in January 2014 and has since been a favorite among readers.
+
+The trout skin protects the flesh and turns an appealing golden brown during grilling. This Tuscan Grilled Trout recipe is a simple yet flavorful dish that's perfect for any occasion. The recipe was first published in Food & Wine magazine in January 2014 and has since been a favorite among readers.
 
 ### Ingredients
 

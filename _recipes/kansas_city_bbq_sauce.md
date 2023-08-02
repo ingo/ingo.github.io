@@ -3,8 +3,7 @@ author: Hey Grill, Hey
 category: Sauces
 description: The perfect balance of sweet and tangy, rich from the molasses, bright
   from the acidic tomatoes and vinegar, and has just the right amount of heat from
-  the chili powder. It's a classic, ketchup-based BBQ sauce that is a must-have for
-  chicken, ribs, and more!
+  the chili powder.
 image: kansas_city_bbq_sauce.jpg
 size: 3 cups
 source: https://heygrillhey.com/kansas-city-bbq-sauce/
@@ -12,7 +11,8 @@ spicy: "\u2713"
 time: 30 minutes
 title: Kansas City BBQ Sauce
 ---
-Kansas City BBQ sauce is something I recommend trying at least once. Though, once you make some from scratch, you’ll likely find yourself making your own sauce over and over again. I personally love making food that has all natural ingredients without anything added, and this BBQ sauce is full of only the good stuff.
+
+It's a classic, ketchup-based BBQ sauce that is a must-have for chicken, ribs, and more!Kansas City BBQ sauce is something I recommend trying at least once. Though, once you make some from scratch, you’ll likely find yourself making your own sauce over and over again. I personally love making food that has all natural ingredients without anything added, and this BBQ sauce is full of only the good stuff.
 
 ### Ingredients
 

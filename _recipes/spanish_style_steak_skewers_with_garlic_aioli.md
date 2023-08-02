@@ -10,6 +10,7 @@ spicy: "\u2713"
 time: 3 hours (including marination time)
 title: Spanish-Style Steak Skewers with Garlic Aioli
 ---
+
 This recipe for Spanish-Style Steak Skewers with Garlic Aioli is a crowd-pleaser. The skewers are marinated in a flavorful blend of spices and grilled to perfection. They are then served with a tangy garlic aioli that complements the smoky, savory flavors of the skewers.
 
 ### Ingredients

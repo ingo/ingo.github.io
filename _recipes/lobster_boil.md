@@ -12,6 +12,7 @@ spicy: "\u2713"
 time: 1 hour
 title: Lobster Boil
 ---
+
 Chef Thomas Keller's Classic Lobster Boil recipe is a feast for seafood lovers. The key to this recipe is timing, staggering the addition of each ingredient so they are ready at the same time. Once you’re ready, spread your feast out on butcher paper and dig in.
 
 ### Ingredients

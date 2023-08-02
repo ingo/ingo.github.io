@@ -2,15 +2,14 @@
 author: The Fresh Loaf
 category: Breads
 description: A fluffy and wonderful 100% sourdough bread with no commercial yeast.
-  This bread has a creamy white moist interior and excellent taste and texture and
-  is a high riser.
 image: sourdough_potato_bread.jpg
 size: 8 servings
 source: http://www.grouprecipes.com/52698/my-sourdough-potato-bread.html
 time: 45 minutes
 title: Sourdough Potato Bread
 ---
-This recipe is a favorite among sourdough bread lovers. The secret to its fluffiness is the use of mashed potatoes, which gives it a unique texture and flavor. The bread requires patience due to its long rising times, but the result is well worth the wait.
+
+This bread has a creamy white moist interior and excellent taste and texture and is a high riser. This recipe is a favorite among sourdough bread lovers. The secret to its fluffiness is the use of mashed potatoes, which gives it a unique texture and flavor. The bread requires patience due to its long rising times, but the result is well worth the wait.
 
 ### Ingredients
 

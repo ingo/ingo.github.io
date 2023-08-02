@@ -1,7 +1,6 @@
 ---
 category: Breads
-description: Focaccia is a flatbread, popular throughout Italy. Puglia has a very
-  special focaccia with an open, moist, tender crumb that you won't soon forget.
+description: Focaccia is a flatbread, popular throughout Italy.
 image: focaccia_pugliese.jpg
 original_title: Focaccia Pugliese (potato flatbread)
 size: 2- 9 inch breads, or 1- 18 x 13 inch 2- 22cm breads, or 1- 45 x 33 cm
@@ -9,7 +8,8 @@ source: https://www.youtube.com/watch?v=f7T3nJ7mkMY
 time: 1 hour 45 minutes
 title: Focaccia Pugliese
 ---
-This Focaccia Pugliese recipe is a traditional Italian flatbread from the Puglia region. It's a simple yet delicious bread that's perfect for dipping in olive oil or serving alongside your favorite Italian dishes.
+
+Puglia has a very special focaccia with an open, moist, tender crumb that you won't soon forget. This Focaccia Pugliese recipe is a traditional Italian flatbread from the Puglia region. It's a simple yet delicious bread that's perfect for dipping in olive oil or serving alongside your favorite Italian dishes.
 
 ### Ingredients
 

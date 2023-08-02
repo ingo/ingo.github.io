@@ -2,7 +2,7 @@
 author: FAYE LEVY
 category: Entrees
 description: A delicate mixture of ground fish or shellfish, cream, egg whites and
-  seasonings. It's a luxurious dish that is amazingly quick to prepare.
+  seasonings.
 image: seafood_terrine_it_s_all_in_the_mousseline.jpg
 original_title: Seafood Terrine
 size: 6 servings
@@ -10,7 +10,8 @@ source: https://www.latimes.com/archives/la-xpm-1992-06-11-fo-307-story.html
 time: 1 hour
 title: Seafood Terrine
 ---
-This recipe is a luxurious dish that is amazingly quick to prepare. You simply grind the ingredients together in a food processor. Scallops, shrimp and such delicate fish as pike and sole are favorites, but I also love salmon mousseline for its flavor and color. 
+
+It's a luxurious dish that is amazingly quick to prepare. This recipe is a luxurious dish that is amazingly quick to prepare. You simply grind the ingredients together in a food processor. Scallops, shrimp and such delicate fish as pike and sole are favorites, but I also love salmon mousseline for its flavor and color. 
 
 ### Ingredients
 

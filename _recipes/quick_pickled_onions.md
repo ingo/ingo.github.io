@@ -1,8 +1,7 @@
 ---
 author: Cookie and Kate
 category: Sides
-description: This tangy and crisp pickled onion recipe is ready in 30 minutes. These
-  onions are the perfect condiment for tacos, burritos, nachos, burgers and more.
+description: This tangy and crisp pickled onion recipe is ready in 30 minutes.
 image: quick_pickled_onions.jpg
 size: 2 cups
 source: https://cookieandkate.com/quick-pickled-onions-recipe/
@@ -10,7 +9,8 @@ time: 10 minutes (plus 30 minutes cooling time)
 title: Quick Pickled Onions
 vegan: "\u2713"
 ---
-This recipe teaches you how to make quick-pickled onions. It's a simple and delicious condiment that can be used in a variety of dishes. 
+
+These onions are the perfect condiment for tacos, burritos, nachos, burgers and more. This recipe teaches you how to make quick-pickled onions. It's a simple and delicious condiment that can be used in a variety of dishes. 
 
 ### Ingredients
 

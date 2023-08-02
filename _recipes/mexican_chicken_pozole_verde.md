@@ -11,6 +11,7 @@ spicy: "\u2713"
 time: 2 hours
 title: Mexican Chicken Pozole Verde
 ---
+
 This recipe is a variation on pozole, a traditional hominy-based Mexican stew closely associated with the Pacific-coast state of Guerrero. It derives much of its flavor from tangy ingredients like tomatillos, cilantro and green chiles.
 
 ### Ingredients

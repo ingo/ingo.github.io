@@ -1,14 +1,14 @@
 ---
 category: Breakfasts
-description: "There are many different ways to make an omelet and two ways to spell\
-  \ it. This way, taken from a recipe by Tyler Florence, makes it easy to get a nice,\
-  \ fluffy specimen. The spelling of omelet vs. omelette comes out to a tie\u2013\
-  evidently the latter is more common in Britain."
+description: There are many different ways to make an omelet and two ways to spell
+  it.
 image: omelet.jpg
 size: 2 omelets
 time: 30 minutes
 title: Omelet
 ---
+
+This way, taken from a recipe by Tyler Florence, makes it easy to get a nice, fluffy specimen. The spelling of omelet vs. omelette comes out to a tie–evidently the latter is more common in Britain.
 
 ### Ingredients
 

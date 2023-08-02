@@ -2,7 +2,7 @@
 author: Pushpesh Pant
 category: Entrees
 description: A delightful dish of lamb stew meat and sweet corn kernels, seasoned
-  with a variety of spices. Perfect for sweet corn season.
+  with a variety of spices.
 image: lamb_with_sweet_corn_kernels.jpg
 original_title: Makki ka Soweta
 size: 4-6 servings
@@ -10,7 +10,8 @@ source: http://www.amazon.com/India-The-Cookbook-Pushpesh-Pant/dp/0714859028
 time: 2 hours
 title: Lamb with Sweet Corn Kernels
 ---
-This recipe was discovered after numerous attempts and consultations of various cookbooks. The Lamb with Sweet Corn Kernels or "Makki ka Soweta" is a seasonal delight during the sweet corn season. The recipe is fairly easy to follow and produces a dish you'd want to make again.
+
+Perfect for sweet corn season. This recipe was discovered after numerous attempts and consultations of various cookbooks. The Lamb with Sweet Corn Kernels or "Makki ka Soweta" is a seasonal delight during the sweet corn season. The recipe is fairly easy to follow and produces a dish you'd want to make again.
 
 ### Ingredients
 

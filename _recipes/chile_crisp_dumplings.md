@@ -2,10 +2,7 @@
 author: Genevieve Ko
 category: Entrees
 description: Great dumplings are as much about texture as taste, and these double
-  the welcome contrast of tenderness and crunch. Simultaneously fried and steamed
-  in a covered skillet, the wrappers develop crackling brown bases, while the tops
-  become delicately chewy. Inside, the crunch of spicy chile crisp punctuates soft
-  tofu and greens.
+  the welcome contrast of tenderness and crunch.
 image: chile_crisp_dumplings.jpg
 image_attribution: Christopher Simpson
 image_source: The New York Times
@@ -17,6 +14,8 @@ time: 1 hour
 title: Chile Crisp Dumplings
 vegan: "\u2713"
 ---
+
+Simultaneously fried and steamed in a covered skillet, the wrappers develop crackling brown bases, while the tops become delicately chewy. Inside, the crunch of spicy chile crisp punctuates soft tofu and greens.
 
 ### Ingredients
 

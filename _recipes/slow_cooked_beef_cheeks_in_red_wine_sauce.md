@@ -2,14 +2,14 @@
 author: RecipeTin Eats
 category: Entrees
 description: Deliciously tender beef cheeks slow-cooked in a rich red wine sauce.
-  Perfect served over creamy mashed potatoes or cauliflower.
 image: slow_cooked_beef_cheeks_in_red_wine_sauce.jpg
 size: 6 servings
 source: https://www.recipetineats.com/slow-cooker-red-wine-beef-cheeks/
 time: 3 hrs 45 mins
 title: Slow-Cooked Beef Cheeks in Red Wine Sauce
 ---
-This Italian-inspired dish is a true comfort food, perfect for a cozy dinner at home. The beef cheeks become incredibly tender when slow-cooked, and the rich red wine sauce is simply irresistible.
+
+Perfect served over creamy mashed potatoes or cauliflower. This Italian-inspired dish is a true comfort food, perfect for a cozy dinner at home. The beef cheeks become incredibly tender when slow-cooked, and the rich red wine sauce is simply irresistible.
 
 ### Ingredients
 

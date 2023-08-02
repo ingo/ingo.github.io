@@ -7,6 +7,7 @@ size: 4 servings
 time: 30 minutes
 title: Pastry Cream
 ---
+
 This recipe for Pastry Cream is a classic dessert that's perfect for any occasion. The combination of egg yolks, sugar, cornstarch, and milk creates a thick and creamy base, while the addition of vanilla extract and Cognac gives it a unique and delightful flavor. The final touch of Greek yogurt makes this dessert irresistibly creamy and delicious.
 
 ### Ingredients

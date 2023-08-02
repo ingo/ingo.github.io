@@ -1,10 +1,8 @@
 ---
 author: Yotam Ottolenghi
 category: Entrees
-description: "A universally loved crispy chicken dish inspired by the westernized\
-  \ lemon chicken found in many local Chinese restaurants. This Middle Eastern version\
-  \ uses a cheater\u2019s preserved lemon paste and plenty of fresh lemon to brighten\
-  \ it up."
+description: A universally loved crispy chicken dish inspired by the westernized lemon
+  chicken found in many local Chinese restaurants.
 image: double_lemon_chicken.jpg
 image_attribution: Christopher Simpson for The New York Times
 original_title: Double Lemon Chicken
@@ -13,7 +11,8 @@ source: https://cooking.nytimes.com/recipes/1022656-double-lemon-chickenundefine
 time: 1 hour 15 minutes
 title: Double Lemon Chicken
 ---
-This universally loved crispy chicken dish is inspired by the westernized lemon chicken that you’d find in many local Chinese restaurants. This Middle Eastern version uses a cheater’s preserved lemon paste and plenty of fresh lemon to brighten it up. You’ll make a little more preserved lemon paste than you need; use it for salad dressing, toss it with roasted vegetables, or swirl it into soups. Serve this dish with some lightly cooked greens and plain white rice.
+
+This Middle Eastern version uses a cheater’s preserved lemon paste and plenty of fresh lemon to brighten it up. This universally loved crispy chicken dish is inspired by the westernized lemon chicken that you’d find in many local Chinese restaurants. This Middle Eastern version uses a cheater’s preserved lemon paste and plenty of fresh lemon to brighten it up. You’ll make a little more preserved lemon paste than you need; use it for salad dressing, toss it with roasted vegetables, or swirl it into soups. Serve this dish with some lightly cooked greens and plain white rice.
 
 ### Ingredients
 

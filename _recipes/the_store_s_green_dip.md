@@ -1,9 +1,8 @@
 ---
 author: Bert Greene
 category: Sides
-description: "A tart, abrasive and wildly delicious dip to serve, garnished with watercress,\
-  \ with an enormous quantity of iced, slivered vegetables. It\u2019s also great on\
-  \ fish, sandwiches, or even as a dip for slices of delivery pizza."
+description: A tart, abrasive and wildly delicious dip to serve, garnished with watercress,
+  with an enormous quantity of iced, slivered vegetables.
 image: the_store_s_green_dip.jpg
 image_attribution: Johnny Miller
 image_source: The New York Times
@@ -12,7 +11,8 @@ source: https://www.nytimes.com/2019/08/28/magazine/the-store-green-dip-recipe.h
 time: 10 minutes, plus chilling
 title: "The Store\u2019s Green Dip"
 ---
-Bert Greene was one of the owners of the Store in Amagansett, a gourmet shop and catering outfit on the eastern end of Long Island, N.Y., that was in the early 1970s a kind of lodestar of casual-elegant cooking and entertaining — expensive and, to those with the money to spend it, worth it. (He was like a cross between Ina Garten and Anna Pump, of Loaves & Fishes in Sagaponack.) This is his recipe for a tart, abrasive and wildly delicious dip to serve, garnished with watercress, with an enormous quantity of iced, slivered vegetables. (It’s also great on fish, sandwiches, or even as a dip for slices of delivery pizza.) —Sam Sifton
+
+It’s also great on fish, sandwiches, or even as a dip for slices of delivery pizza. Bert Greene was one of the owners of the Store in Amagansett, a gourmet shop and catering outfit on the eastern end of Long Island, N.Y., that was in the early 1970s a kind of lodestar of casual-elegant cooking and entertaining — expensive and, to those with the money to spend it, worth it. (He was like a cross between Ina Garten and Anna Pump, of Loaves & Fishes in Sagaponack.) This is his recipe for a tart, abrasive and wildly delicious dip to serve, garnished with watercress, with an enormous quantity of iced, slivered vegetables. (It’s also great on fish, sandwiches, or even as a dip for slices of delivery pizza.) —Sam Sifton
 
 ### Ingredients
 

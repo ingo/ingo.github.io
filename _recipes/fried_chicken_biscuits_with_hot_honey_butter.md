@@ -2,9 +2,7 @@
 author: Tejal Rao
 category: Entrees
 description: Chicken biscuits that could be a weeknight dinner with a side of greens,
-  but it's made to travel, and perfectly suited for a picnic. The biscuit dough is
-  lightly kneaded, so it's not too tender to work in a sandwich. The chicken tenders
-  are pounded and coated in panko for plenty of crunch.
+  but it's made to travel, and perfectly suited for a picnic.
 image: fried_chicken_biscuits_with_hot_honey_butter.jpg
 image_attribution: Michael Kraus
 image_source: The New York Times
@@ -14,7 +12,8 @@ source: https://cooking.nytimes.com/ourcooks/tejal-rao/my-recipes?action=click&m
 time: 1 1/2 hours, plus cooling
 title: Fried Chicken Biscuits With Hot Honey Butter
 ---
-This recipe is inspired by Masaharu Morimoto's katsu in the cookbook "Mastering the Art of Japanese Home Cooking". Prepare both components the day you want to eat them, giving yourself at least one extra hour for everything to cool before you assemble, so the sandwich stays crisp. You can also cook well in advance, and assemble the sandwiches the next day. Either way, cooling the chicken completely, on a wire rack, is crucial. If you prefer breast meat over thigh, feel free to swap it in.
+
+The biscuit dough is lightly kneaded, so it's not too tender to work in a sandwich. The chicken tenders are pounded and coated in panko for plenty of crunch. This recipe is inspired by Masaharu Morimoto's katsu in the cookbook "Mastering the Art of Japanese Home Cooking". Prepare both components the day you want to eat them, giving yourself at least one extra hour for everything to cool before you assemble, so the sandwich stays crisp. You can also cook well in advance, and assemble the sandwiches the next day. Either way, cooling the chicken completely, on a wire rack, is crucial. If you prefer breast meat over thigh, feel free to swap it in.
 
 ### Ingredients
 

@@ -12,6 +12,7 @@ spicy: "\u2713"
 time: 2 hours
 title: Spicy Cumin Lamb Dumplings with Fly by Jing Chili Oil
 ---
+
 Inspired by Xian Famous Foods’ spicy cumin lamb noodles, these juicy dumplings are bursting with rich flavors thanks to Fly by Jing’s Sichuan chili crisp oil and sauces.
 
 ### Ingredients

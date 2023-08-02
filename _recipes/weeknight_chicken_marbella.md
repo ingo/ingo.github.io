@@ -2,11 +2,6 @@
 author: Rick A. Martinez
 category: Entrees
 description: A no-marinade-needed Marbella that gets the job done in under an hour.
-  Chicken thighs are seared hard until deep golden brown to render the fat, which
-  also helps amp up the chicken flavor. This version is also significantly less sweet
-  than the original, but if you like your brown sugar, use 1/3 cup instead. The reduced
-  pan sauce is easy to love, so be sure to serve with a loaf of crusty bread to mop
-  it all up.
 image: weeknight_chicken_marbella.jpg
 image_attribution: David Malosh
 image_source: The New York Times
@@ -16,6 +11,8 @@ source: https://cooking.nytimes.com/search?q=Rick+A.+Martinez&action=click&modul
 time: 45 minutes
 title: Weeknight Chicken Marbella
 ---
+
+Chicken thighs are seared hard until deep golden brown to render the fat, which also helps amp up the chicken flavor. This version is also significantly less sweet than the original, but if you like your brown sugar, use 1/3 cup instead. The reduced pan sauce is easy to love, so be sure to serve with a loaf of crusty bread to mop it all up.
 
 ### Ingredients
 

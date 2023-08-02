@@ -2,8 +2,6 @@
 author: Yvette Marquez
 category: Pantry
 description: A recipe for tamal dough, a vital ingredient for making perfect tamales.
-  The dough is made with fresh masa, lard, baking powder, salt, and broth, resulting
-  in a fluffy, light, tender, and flavorful tamal.
 favorite: "\u2713"
 image: tamal_dough_masa_para_tamales.jpg
 original_title: Masa para Tamales
@@ -12,7 +10,8 @@ source: https://muybuenocookbook.com/tamal-dough/
 time: 3 hours 40 minutes
 title: Tamal Dough (Masa para Tamales)
 ---
-This Tamal Dough recipe is a traditional Mexican recipe passed down through generations. The recipe originates from my grandmother who used to sell lunches to local miners in Shafter, Texas. She would wake up as early as 4 a.m. to start the tedious process of making dough for corn tortillas and tamales. Today, we continue her legacy by using her recipe to make the perfect tamal dough.
+
+The dough is made with fresh masa, lard, baking powder, salt, and broth, resulting in a fluffy, light, tender, and flavorful tamal. This Tamal Dough recipe is a traditional Mexican recipe passed down through generations. The recipe originates from my grandmother who used to sell lunches to local miners in Shafter, Texas. She would wake up as early as 4 a.m. to start the tedious process of making dough for corn tortillas and tamales. Today, we continue her legacy by using her recipe to make the perfect tamal dough.
 
 ### Ingredients
 

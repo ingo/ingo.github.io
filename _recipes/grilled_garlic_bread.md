@@ -3,9 +3,7 @@ author: NYT Cooking
 category: Sides
 description: The perfect accompaniment to backyard grilling, this garlic bread is
   brushed with garlicky herbed butter then grilled until hot and crispy with nice
-  grill marks. The smoky char pairs deliciously with grilled meat, fish and veggies.
-  It can also stand alone as an appetizer. Quick and easy to throw on the grill alongside
-  whatever you're cooking.
+  grill marks.
 image: grilled_garlic_bread.jpg
 image_attribution: Sabra Krock
 image_source: The New York Times
@@ -14,7 +12,8 @@ source: https://cooking.nytimes.com/
 time: 30 minutes
 title: Grilled Garlic Bread
 ---
-This grilled garlic bread is a quick and easy side for summer dinners. It's hot, smoky, and friendly to a juicy steak, a whole fish, or a Caprese salad. Any loaf that is not too thick can be used, but whole grain stands up better to the oil-garlic-fire treatment. You may doubt that using garlic cloves with the papery skins on will work, but the rough surface of the toasted bread rubs them right off.
+
+The smoky char pairs deliciously with grilled meat, fish and veggies. It can also stand alone as an appetizer. Quick and easy to throw on the grill alongside whatever you're cooking. This grilled garlic bread is a quick and easy side for summer dinners. It's hot, smoky, and friendly to a juicy steak, a whole fish, or a Caprese salad. Any loaf that is not too thick can be used, but whole grain stands up better to the oil-garlic-fire treatment. You may doubt that using garlic cloves with the papery skins on will work, but the rough surface of the toasted bread rubs them right off.
 
 ### Ingredients
 
