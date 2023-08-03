@@ -4,7 +4,7 @@ category: Breads
 description: Baking your own hamburger buns is a luxury, but it's not very hard, and
   just requires a little advanced planning.
 favorite: "\u2713"
-image: null
+image: hamburger_buns.jpg
 size: 8 normal size buns, 12-16 slider-sized buns
 source: null
 time: 3 hours

@@ -1,6 +1,6 @@
 ---
 author: King Arthur Flour
-category: Sides
+category: Breads
 description: Sourdough adds a touch of its distinct flavor and chewiness to these
   light, moist, buttery rolls.
 favorite: "\u2713"

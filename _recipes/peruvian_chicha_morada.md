@@ -3,6 +3,7 @@ author: The Spruce Eats
 category: Beverages
 description: Chicha morada is a non-alcoholic beverage from Peru made with purple
   corn, spices like cinnamon and cloves, and apple.
+image: peruvian_chicha_morada.jpg
 image_attribution: The Spruce / Julia Hartbeck
 size: 8 servings
 source: https://www.thespruceeats.com/chicha-morada-4156888

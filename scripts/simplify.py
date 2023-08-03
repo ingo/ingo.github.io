@@ -8,7 +8,7 @@ import argparse
 import shutil
 import unidecode
 
-system_file_path = "system_text.md"
+system_file_path = "scripts/system_text.md"
 
 def read_system_text(file_path):
     with open(file_path, "r") as file:
