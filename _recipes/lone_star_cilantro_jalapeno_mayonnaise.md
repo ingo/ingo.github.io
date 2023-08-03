@@ -1,5 +1,5 @@
 ---
-author: null
+author: Unknown
 category: Sauces
 description: An unusual, creamy sauce for tacos or other Mexican food.
 image: lone_star_cilantro_jalapeno_mayonnaise.jpg

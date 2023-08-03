@@ -1,5 +1,5 @@
 ---
-author: null
+author: Unknown
 category: Breads
 description: Baking your own hamburger buns is a luxury, but it's not very hard, and
   just requires a little advanced planning.

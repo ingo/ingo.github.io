@@ -24,16 +24,14 @@ This recipe will walk you through all the key steps and core concepts a first-ti
 
 ### Directions
 
-#### Day 1: Prepare Starter
+Day 1: Prepare Starter
 
 1. The yeast and bacteria in your starter become sluggish in the cool environment of your refrigerator. They must be energized through successive feedings, a process called refreshing, to be active enough to raise the dough.
 2. Cover the container, and let sit at room temperature until it has at least doubled in volume and its surface teems with sudsy bubbles, 10 to 12 hours, depending on your kitchen’s temperature.
 3. Feed your starter a second time. Once the starter has doubled in size (the evening of the first day), discard all but 20 grams of starter. To the 20 grams of starter, add 100 grams of water, then mix and incorporate another 100 grams of white flour. Cover and set aside at room temperature to be used in your dough the next day.
 4. Feed your starter (refreshing). In the morning, three days before you plan to serve your bread (Friday morning, for example, for loaves on Sunday), pull your starter from the refrigerator and decant 20 grams of it into a clean, clear container. Return any remaining starter to the refrigerator for future use. Stir in 100 grams of room-temperature tap water until the starter is evenly dispersed, then stir in 100 grams of white flour until you have a smooth paste.
 
-#### Day 2: Mix and Rest Your Dough
-
-The bulk of your work occurs on this day, so you’ll want to set aside some time to tend to your dough. Depending on environmental conditions, your dough may take anywhere from five to nine hours to finish its rises. It’s not active time, but you’ll want to stay close to keep an eye on it.
+Day 2: Mix and Rest Your Dough
 
 1. If starter is the life force of bread, then the stretchy strands known as gluten are its backbone. When two proteins in flour come into contact with water, gluten forms a network inside the dough, trapping the gas produced by the yeast. To build lots of gluten from the get-go, bakers employ a technique known as autolyse, in which flour and water are mixed and left to rest, usually before adding the starter. During autolyse, gluten bonds form that create the basic structure of the dough. As little as 30 minutes of autolyse can be effective, but generally speaking a couple of hours is optimal. It will give your gluten a head start and decrease the amount of mixing down the line.
 2. Mix together flour and water and let sit (autolyse). Early on the second day, weigh 700 grams of white bread flour and 300 grams of whole-wheat or whole-grain rye or spelt flour (or a blend) in a large mixing bowl. Mix to combine. Weigh out 750 grams of lukewarm tap water (about 90 degrees) and add to the flours. Mix gently with a clean hand or a flexible bench scraper until all the flours are hydrated and no dry spots remain. Cover with a damp dish towel, and let sit at least 30 minutes while you wait until your starter is ready (see Step 2).
@@ -52,7 +50,7 @@ The bulk of your work occurs on this day, so you’ll want to set aside some tim
 15. Check if dough is proofed (the poke test). Press a floured finger about 1/2 inch into the dough. If the dough springs back immediately, it needs more time — check again every 20 minutes. But, if it springs back slowly and a slight impression remains, the dough is proofed.
 16. Chill the dough. Once the dough passes the poke test, cover the baskets with plastic wrap and transfer to the refrigerator. Chill overnight and up to two days before baking. The longer the dough spends in the refrigerator, the tangier the final bread will taste.
 
-#### Day 3: Bake
+Day 3: Bake
 
 1. Prepare the oven. About an hour before baking, arrange a rack in the lower third of your oven and place a large, uncovered Dutch oven inside. Heat the oven to 500 degrees.
 2. Prepare the dough. Remove one loaf from the refrigerator and uncover. Lightly dust the exposed dough with the 50/50 flour mixture, massaging it into the surface. Place a piece of parchment paper over the basket, making sure the parchment is longer and wider than the basket by several inches. Invert the loaf onto the parchment paper. Remove the basket, then slowly peel away the towel. Dust the rounded side of the dough with more of the 50/50 flour mixture, rubbing it into the surface to coat evenly.
@@ -60,7 +58,7 @@ The bulk of your work occurs on this day, so you’ll want to set aside some tim
 4. Bake the dough. Very carefully place the heated Dutch oven on the stovetop. Taking care not to touch the sides, use the parchment paper to lower the loaf into the Dutch oven. Cover and return it to the oven. Bake for 20 minutes. Then, carefully remove the lid and reduce the oven temperature to 450 degrees. Continue to bake the loaf uncovered until the surface is deeply browned all over, another 30 to 40 minutes. Remove the Dutch oven from the oven, and use tongs to help you pull out the loaf. Transfer the Dutch oven back to the oven, and set the oven temperature back to 500 degrees. Repeat the process with the second loaf of bread.
 5. Cut and serve! Allow the loaves to cool completely, for a few hours, before cutting into them. Whole loaves can be stored uncovered at room temperature for 1 day. Once cut, bread should be stored in paper bags at room temperature and will keep for 5 days or longer. After the second day, it benefits from light toasting.
 
-### How to Maintain Your Starter
+How to Maintain Your Starter
 
 1. Using a digital scale for accuracy, stir 100 grams of room temperature tap water into the starter until the starter is evenly dispersed. Then stir in 100 grams of high-quality white bread flour until you have a smooth paste. Cover and place in the back of the refrigerator. Set a calendar reminder to feed your starter at the same time every week.
 2. Keep your starter in a container with the lid on, labeled clearly. Once a week, discard all but 25 grams of starter (discarding most of the starter helps avoid building up a massive amount with each successive feeding).

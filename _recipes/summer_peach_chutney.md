@@ -1,5 +1,5 @@
 ---
-author: null
+author: Unknown
 category: Sauces
 description: Summertime brings with it a delicious wealth of fruits and vegetables.
 favorite: null

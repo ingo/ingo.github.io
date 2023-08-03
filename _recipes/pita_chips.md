@@ -1,5 +1,5 @@
 ---
-author: null
+author: Unknown
 category: Sides
 description: A much better version than the store-bought chips.
 favorite: null
