@@ -231,8 +231,8 @@
                                                     </ul>                                                    
                                                 </div>
 
+                                                $if(notes)$
                                                 <div class="jetpack-recipe-notes">
-                                                    $if(notes)$
                                                     $for(notes)$
                                                     $if(it.title)$
                                                     <h3 class="wp-block-heading"><br>$it.title$</h3>
@@ -245,7 +245,6 @@
                                                     </ul>
                                                     $endif$
                                                     $endfor$
-                                                    $endif$
 
                                                     $if(nutrition)$
                                                     <p class="nutrition">
@@ -261,6 +260,7 @@
                                                     </p>
                                                     $endif$
                                                 </div>
+                                                $endif$                                                
                                                 <p></p>
                                             </div>
                                         </div>
@@ -360,8 +360,8 @@
                                                 </ul>                                                
                                             </div>
 
+                                            $if(notes)$
                                             <div class="jetpack-recipe-notes">
-                                                $if(notes)$
                                                 $for(notes)$
                                                 $if(it.title)$
                                                 <h3 class="wp-block-heading"><br>$it.title$</h3>
@@ -374,7 +374,6 @@
                                                 </ul>
                                                 $endif$
                                                 $endfor$
-                                                $endif$
 
                                                 $if(nutrition)$
                                                 <p class="nutrition">
@@ -390,6 +389,7 @@
                                                 </p>
                                                 $endif$
                                             </div>
+                                            $endif$                                            
                                             <p></p>
                                         </div>
                                     </div>
