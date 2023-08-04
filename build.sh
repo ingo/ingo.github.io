@@ -68,7 +68,7 @@ if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 status "Extracting metadata..."
 for FILE in _recipes/*.md; do
 
-    python scripts/add_metadata.py "$FILE" "_temp/$(basename "$FILE" .md).yml"
+    python scripts/add_metadata.py "$FILE" "_temp/"
 
     # extract category name for each recipe, set basename to avoid having to
     # use $sourcefile$ in the template which pandoc sets automatically but
@@ -86,6 +86,11 @@ for FILE in _recipes/*.md; do
         --metadata htmlfile="$(basename "$FILE" .md).html" \
         --template _templates/technical/metadata.template.json \
         -t html -o "_temp/$(basename "$FILE" .md).metadata.json"
+done
+
+status "Copying webp files..."
+for FILE in _temp/*.webp; do
+    x cp "$FILE" _site/
 done
 
 status "Grouping metadata by category..."  # (yep, this is a right mess)

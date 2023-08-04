@@ -10,11 +10,12 @@ import datetime
 
 # validate command line arguments
 if len(sys.argv) != 3:
-    print("Usage: python script.py <input_filename> <output_filename>")
+    print("Usage: python script.py <input_filename> <output_directory>")
     sys.exit(1)
 
 input_filename = sys.argv[1]
-output_filename = sys.argv[2]
+output_directory = sys.argv[2]
+output_filename = os.path.join(output_directory, os.path.splitext(os.path.basename(input_filename))[0] + '.yml')
 
 # read markdown
 with open(input_filename, "r") as file:
@@ -67,12 +68,25 @@ else:
 
 image_name = pre_dict["image_validated"]
 image_path = os.path.join(current_file_path, image_name)
+
+# Replace .jpg, .png, etc. with .webp in the filename
+webp_image_path = os.path.join(output_directory, os.path.splitext(image_name)[0] + '.webp')
+webp_image_path_450 = os.path.join(output_directory, os.path.splitext(image_name)[0] + '_450x450.webp')
+
 print(f"Image path: {image_path}")
 with Image.open(image_path) as img:
+
+    # Get the image size
     width, height = img.size
     print(f"Image size: {width}x{height}")
     if width > height:
         pre_dict["landscape"] = "true"
+
+    # Save the image as webp
+    maxsize = (1024, 1024)
+    img.thumbnail(maxsize, Image.ANTIALIAS)
+    img.save(webp_image_path, 'webp')
+    pre_dict["image_validated_webp"] = os.path.basename(webp_image_path)
 
 # Check if difficulty key exists
 difficulty = pre_dict.get("difficulty")
