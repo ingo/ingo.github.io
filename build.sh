@@ -162,7 +162,7 @@ for FILE in _temp/*.category.json; do
 done
 
 # filter index.json to only the latest 6 recipes
-python scripts/filter_index.py _temp/index.json _temp/index_filtered.json 6
+python scripts/filter_index.py _temp/index.json _temp/index_filtered.json 9
 
 status "Building index page..."
 x pandoc _templates/technical/empty.md \
