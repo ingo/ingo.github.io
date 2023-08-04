@@ -1,6 +1,6 @@
 ---
 author: Carol Field
-category: Techniques
+category: Pantry
 description: A starter dough made from small amounts of flour, water, and yeast allowed
   an initial fermentation, used in many classic regional breads such as ciabatta.
 image: italian_biga.jpg

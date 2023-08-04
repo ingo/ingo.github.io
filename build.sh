@@ -161,12 +161,15 @@ for FILE in _temp/*.category.json; do
         -o "_site/$(basename "$FILE" .category.json).html"
 done
 
+# filter index.json to only the latest 6 recipes
+python scripts/filter_index.py _temp/index.json _temp/index_filtered.json 6
+
 status "Building index page..."
 x pandoc _templates/technical/empty.md \
     --metadata-file config.yaml \
     --metadata title="dummy" \
     --metadata updatedtime="$(date "+%Y-%m-%d")" \
-    --metadata-file _temp/index.json \
+    --metadata-file _temp/index_filtered.json \
     --template _templates/index.template.html \
     -o _site/index.html
 

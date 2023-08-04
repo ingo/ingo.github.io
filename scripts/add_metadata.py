@@ -84,7 +84,7 @@ with Image.open(image_path) as img:
 
     # Save the image as webp
     maxsize = (1024, 1024)
-    img.thumbnail(maxsize, Image.ANTIALIAS)
+    img.thumbnail(maxsize, Image.Resampling.LANCZOS)
     img.save(webp_image_path, 'webp')
     pre_dict["image_validated_webp"] = os.path.basename(webp_image_path)
 
