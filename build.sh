@@ -162,7 +162,7 @@ for FILE in _temp/*.category.json; do
 done
 
 # filter index.json to only the latest 6 recipes
-python scripts/filter_index.py _temp/index.json _temp/index_filtered.json 9
+python scripts/filter_index.py _temp/index.json _temp/index_filtered.json 21
 
 status "Building index page..."
 x pandoc _templates/technical/empty.md \
@@ -172,6 +172,15 @@ x pandoc _templates/technical/empty.md \
     --metadata-file _temp/index_filtered.json \
     --template _templates/index.template.html \
     -o _site/index.html
+
+status "Building index (all) page..."
+x pandoc _templates/technical/empty.md \
+    --metadata-file config.yaml \
+    --metadata title="dummy" \
+    --metadata updatedtime="$(date "+%Y-%m-%d")" \
+    --metadata-file _temp/index.json \
+    --template _templates/index.template.all.html \
+    -o _site/index_all.html
 
 status "Assembling search index..."
 echo "[" > _temp/search.json

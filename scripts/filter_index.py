@@ -17,9 +17,19 @@ def write_json_file(filename, data):
         json.dump(data, f, indent=4)
 
 def sort_recipes_by_date(data, size):
+    # Concatenate all recipes into a single list
+    all_recipes = []
     for category in data['categories']:
-        category['recipes'].sort(key=itemgetter('updated'), reverse=True)
-        category['recipes'] = category['recipes'][:size]
+        all_recipes.extend(category['recipes'])
+
+    # Sort all recipes by date and limit to 'size'
+    all_recipes.sort(key=itemgetter('updated'), reverse=True)
+    all_recipes = all_recipes[:size]
+
+    # Create a new category with sorted and limited recipes
+    new_category = {'category_name': 'Recent Additions', 'recipes': all_recipes}
+    data['categories'] = [new_category]
+
     return data
 
 data = read_json_file(input_file)
