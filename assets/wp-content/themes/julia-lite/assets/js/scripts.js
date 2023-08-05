@@ -16630,7 +16630,6 @@ function (_BaseTheme) {
       $container.find('.c-gallery').not('.c-gallery--widget, .c-footer__gallery').each(function (index, element) {
         new Gallery_Gallery(external_jQuery_default()(element));
       });
-      $container.find('.widget_categories select').select2();
       this.handleCarousels();
       this.handleSlideshows();
       external_imagesLoaded_($container, this.initStickyWidget.bind(this));
