@@ -5,9 +5,13 @@
 
         <div class="c-card__aside c-card__thumbnail-background">
             <div class="c-card__frame">
-                <img width="450"  src="$it.image_validated_webp$"
-                    class="attachment-pixelgrade_card_image size-pixelgrade_card_image wp-post-image is-loaded" alt=""
-                    decoding="async" loading="lazy"><span
+                <picture width="450" class="attachment-pixelgrade_card_image size-pixelgrade_card_image wp-post-image is-loaded" alt="" decoding="async" loading="lazy">
+                    <source srcset="$it.image_validated_webp$" type="image/webp">
+                    <source srcset="$it.image_validated$" type="image/jpeg"> 
+                    <img width="450" src="$it.image_validated$"
+                        class="attachment-pixelgrade_card_image size-pixelgrade_card_image wp-post-image is-loaded" alt="" decoding="async" loading="lazy">
+                </picture>
+                <span
                     class="c-card__letter" style="font-size: 162.343px;">S</span>
             </div>
         </div>

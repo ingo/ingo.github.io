@@ -150,9 +150,14 @@
 
                                     $if(image_validated_webp)$
                                     <div class="entry-thumbnail">
-                                        <div><img width="1360" height="1020" src="$image_validated_webp$"
+                                        <div>
+                                            <picture width="1024" height="683" class="attachment-pixelgrade_single_landscape size-pixelgrade_single_landscape wp-post-image is-loaded" alt="" decoding="async" loading="lazy">
+                                                <source srcset="$it.image_validated_webp$" type="image/webp">
+                                                <source srcset="$it.image_validated$" type="image/jpeg"> 
+                                                <img width="1024" height="683" src="$image_validated$"
                                                 class="attachment-pixelgrade_single_landscape size-pixelgrade_single_landscape wp-post-image is-loaded"
                                                 alt="" decoding="async">
+                                            </picture>
                                         </div>
                                     </div>
                                     $endif$
@@ -274,9 +279,14 @@
                             $else$
                             $if(image_validated_webp)$
                             <div class="entry-thumbnail">
-                                <div><img width="681" height="1024" src="$image_validated_webp$"
-                                        class="attachment-pixelgrade_single_portrait size-pixelgrade_single_portrait assets/wp-post-image"
+                                <div>
+                                    <picture width="683" height="1024" class="attachment-pixelgrade_single_landscape size-pixelgrade_single_landscape wp-post-image is-loaded" alt="" decoding="async" loading="lazy">
+                                        <source srcset="$it.image_validated_webp$" type="image/webp">
+                                        <source srcset="$it.image_validated$" type="image/jpeg"> 
+                                        <img width="683" height="1024" src="$image_validated$"
+                                        class="attachment-pixelgrade_single_landscape size-pixelgrade_single_landscape wp-post-image is-loaded"
                                         alt="" decoding="async">
+                                    </picture>
                                 </div>
                             </div>
                             $endif$
