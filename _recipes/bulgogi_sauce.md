@@ -13,7 +13,7 @@ title: Bulgogi Sauce
 umami: "\u2713"
 ---
 
-The combination of soy sauce, pear, sesame, garlic, and onion makes a sauce that works well to marinate beef, pork, chicken or tofu. Use it to infuse Korean flavor into anything you are grilling or cooking.
+The combination of soy sauce, sesame, garlic, and onion makes a sauce that works well to marinate beef, pork, chicken or tofu. The Coca-Cola helps tenderize the meat. Use it to infuse Korean flavor into anything you are grilling or cooking.
 
 ### Ingredients
 
@@ -28,15 +28,13 @@ The combination of soy sauce, pear, sesame, garlic, and onion makes a sauce that
 
 ### Directions
 
+Sauce:
+
 1. Add all ingredients to blender.
 2. Blend on high speed for 30 seconds.
 3. Pour into storage container for future use.
 
-### Notes
-
-- This sauce is terrific for a slow braise using bone in, three pounds of beef short ribs cut 3" wide in a Dutch oven.
-
-#### Cooking Instructions:
+To cook:
 
 1. Brown the short ribs over medium high heat in the Dutch oven with a tablespoon of oil. Reserve the short ribs on a plate.
 2. Add a one onion and two carrots - diced and cook over medium heat until the onions are translucent - about 5 minutes. Reserve in a bowl.
@@ -45,4 +43,6 @@ The combination of soy sauce, pear, sesame, garlic, and onion makes a sauce that
 5. Cook for 3 hours at 300 degrees Fahrenheit.
 6. Drop in 2 dried Thai chilis prior to service (if you want a bit of a kick!)
 
-This dish is typically served with steamed rice.
+### Notes
+
+- This sauce is terrific for a slow braise using bone in, three pounds of beef short ribs cut 3" wide in a Dutch oven.
