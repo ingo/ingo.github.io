@@ -1,8 +1,8 @@
 ---
-title: Passata
+title: Tomato Passata
 category: Sauces
 description: A simple and delicious homemade tomato sauce.
-image: passata.jpg
+image: tomato_passata.jpg
 size: Varies
 time: 40 minutes
 author: Unknown
@@ -13,7 +13,7 @@ This recipe for tomato sauce is a staple in many kitchens. It's incredibly simpl
 
 ### Ingredients
 
-* `Many pounds` of tomatoes
+* tomatoes
 
 ### Directions
 
@@ -27,3 +27,4 @@ This recipe for tomato sauce is a staple in many kitchens. It's incredibly simpl
 
 - The amount of tomatoes needed will depend on how much sauce you want to make. As a general rule, 1 pound of tomatoes will yield approximately 1 cup of sauce.
 - The sauce can be stored in the fridge for up to a week, or canned for longer storage.
+- A Champion Juicer works very well to puree the sauce. There is a special large-hole tomato screen, but also running the spent pulp through the machine 2 times to extract any remaining liquid works great.

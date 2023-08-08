@@ -1,5 +1,5 @@
 ---
-title: Best-Ever Kalua Pork
+title: Kalua Pork
 original_title: My Hawaiian Family's Treasured Recipe
 category: Entrees
 description: Succulent, fall-apart tender pulled pork shoulder infused with rich earthy & smoky flavor, perfect for traditional kalua pork & cabbage, pulled pork sandwiches & sliders, tacos, nachos, & more.
@@ -10,7 +10,7 @@ author: Jess Larson
 source: https://playswellwithbutter.com/kalua-pork-recipe/print/14108/
 ---
 
-This recipe is a treasured family recipe of Jess Larson. The Best-Ever Kalua Pig is succulent, fall-apart tender pulled pork shoulder infused with rich earthy & smoky flavor. Kalua pork is pure Hawaiian goodness, perfect for traditional kalua pork & cabbage, pulled pork sandwiches & sliders, tacos, nachos, & more. Oven, slow cooker & electric pressure cooker instructions provided.
+This recipe is a treasured family recipe of Jess Larson. This Kalua Pig is succulent, fall-apart tender pulled pork shoulder infused with rich earthy & smoky flavor. Kalua pork is pure Hawaiian goodness, perfect for traditional kalua pork & cabbage, pulled pork sandwiches & sliders, tacos, nachos, & more.
 
 ### Ingredients
 
@@ -36,4 +36,3 @@ This recipe is a treasured family recipe of Jess Larson. The Best-Ever Kalua Pig
 - Banana leaf is absolutely crucial in this kalua pork recipe, as it perfumes the pork with a rich, earthy flavor. You can find banana leaf sold in the freezer section of most well-stocked Asian grocery stores.
 - Hawaiian sea salt is also crucial in this kalua pig recipe. It’s richer in minerals than conventional salt (& it’s as authentic as it gets!). Yes, you need 2 full tablespoons for this recipe – Hawaiian sea salt is very coarse (so there are fewer crystals per tablespoon) & it’s notably less salty than conventional salt.
 - Make-Ahead, Storage & Freezing: Kalua pulled pork stores incredibly well! Transfer cooled kalua pork to an airtight container & store in the refrigerator for 4-5 days. Easily reheat on the stovetop or in the microwave. Kalua pulled pork is also incredibly freezer-friendly. To freeze, transfer cooled kalua pork to a freezer container (or divide it up between multiple freezer containers for smaller portions). Freeze for up to 3 months. To thaw, place the frozen kalua pig in the refrigerator overnight or submerge the freezer container in room temperature water for a quicker thaw. Easily reheat on the stovetop or in the microwave.
-- Alternate cooking methods: SLOW COOKER KALUA PORK and ELECTRIC PRESSURE COOKER KALUA PORK instructions are provided in the original recipe.
