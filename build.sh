@@ -57,7 +57,7 @@ x cp -r _assets/ _site/assets/
 x cp _assets/about.html _site/about.html
 
 status "Copying static files..."
-for FILE in _recipes/*; do
+for FILE in _recipes/* _recipes_untested/*; do
     [[ "$FILE" == *.md ]] && continue
     x cp "$FILE" _site/
 done
@@ -66,7 +66,7 @@ done
 if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
 status "Extracting metadata..."
-for FILE in _recipes/*.md; do
+for FILE in _recipes/*.md _recipes_untested/*.md; do
 
     python scripts/add_metadata.py "$FILE" "_temp/"
 
@@ -124,7 +124,7 @@ unset IFS
 echo "]}" >> _temp/index.json
 
 status "Building recipe pages..."
-for FILE in _recipes/*.md; do
+for FILE in _recipes/*.md _recipes_untested/*.md; do
     CATEGORY_FAUX_URLENCODED="$(cat "_temp/$(basename "$FILE" .md).category.txt" | cut -d" " -f2- | awk -f "_templates/technical/faux_urlencode.awk")"
 
     # when running under GitHub Actions, all file modification dates are set to

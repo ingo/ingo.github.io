@@ -20,14 +20,15 @@ def sort_recipes_by_date(data, size):
     # Concatenate all recipes into a single list
     all_recipes = []
     for category in data['categories']:
-        all_recipes.extend(category['recipes'])
+        if(category['category'] != 'Untested'):
+            all_recipes.extend(category['recipes'])
 
     # Sort all recipes by date and limit to 'size'
     all_recipes.sort(key=itemgetter('updated'), reverse=True)
     all_recipes = all_recipes[:size]
 
     # Create a new category with sorted and limited recipes
-    new_category = {'category_name': 'Recent Additions', 'recipes': all_recipes}
+    new_category = {'category': 'Recent Additions', 'recipes': all_recipes}
     data['categories'] = [new_category]
 
     return data

@@ -93,7 +93,7 @@ function showResults(results) {
             // + (e.umami ? `<img src="assets/tabler-icons/tabler-icon-mushroom.svg"> ` : ``)
             // + `</i>`
             + `<span>${e.title}</span> `
-            // + (e.original_title ? `<em>${e.original_title}</em>` : ``)
+            + (e.original_title ? `<em style="font-weight:300">(${e.category})</em>` : ``)
             + `</h3>`
             + `</a>`;
     });
