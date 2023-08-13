@@ -4,7 +4,7 @@ original_title: Roasted Tomato Tart With Ricotta and Pesto Recipe - NYT Cooking
 category: Untested
 future-category: Entrees
 description: A savory tart made with fresh tomatoes, ricotta, and pesto, perfect for a light lunch or dinner.
-image: aw-roasted-tomato-tart-with-ricotta-and-pesto-articleLarge.jpg
+image: roasted_tomato_tart_with_ricotta_and_pesto.jpg
 size: 4 servings
 time: 1 hour
 author: Melissa Clark

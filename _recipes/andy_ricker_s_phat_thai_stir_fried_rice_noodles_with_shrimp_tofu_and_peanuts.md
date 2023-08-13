@@ -46,3 +46,7 @@ title: Andy Ricker's Phat Thai
 7. Add the shrimp, then stir the tamarind mixture once more and add it to the pan. Stir-fry, making sure the shrimp get plenty of time on the hot surface, until they are cooked through, just about all the liquid has evaporated, and the noodles are fully tender and no longer look gloppy or clumpy, 2 to 4 minutes.
 8. Add the chives and 1 tablespoon of the peanuts. Stir-fry briefly, then transfer it all to a plate, sprinkle on the remaining peanuts and chives, and serve with the lime wedges. Season to taste with the fish sauce, sugar, vinegar-soaked chiles, and chile powder.
 9. Note: Semi-dried noodles (fairly pliable rather than brittle, like fully dried) are widely available in the refrigerated sections of Asian markets. If you can’t find semi-dried noodles, you can substitute 2 1/4 ounces of fully dried “phat thai” noodles soaked in lukewarm water for about 10 extra minutes (to approximate the texture of semi-dried noodles).
+
+### Notes
+
+- The noodles should be firm when they go into the wok. The high heat and smaller quantity of noodles finish the cooking and create the ultimate texture.

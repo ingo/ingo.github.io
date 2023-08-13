@@ -6,7 +6,7 @@ description: This flavorful BBQ dry rub recipe is the best and only backyard sea
   you’ll ever need. It is carefully formulated to flavor, color, and form the proper
   crust when cooked at low temps. Try it on chicken, fish, and vegetables too.
 difficulty: easy
-image: meathead_s_world_famous_memphis_dust_bbq_dry_rub_recipe.jpg
+image: memphis_dust.jpg
 nutrition:
 - 3 calories
 - 1 g sugar
