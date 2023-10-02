@@ -11,7 +11,7 @@ vegan: null
 veggie: null
 ---
 
-It was served (vegetarian-style) at her wedding. Bella's special trick is to use buckwheat rather than rice for a fluffier stuffing with a wonderful taste.
+This dish was served (vegetarian-style) at her wedding in Lviv, Ukraine. Bella's special trick is to use buckwheat rather than rice for a fluffier stuffing with a wonderful taste.
 
 ### Ingredients
 
