@@ -7,7 +7,7 @@ image: tvorog_russian_style_farmers_cheese.jpg
 original_title: "\u0422\u0432\u043E\u0440\u043E\u0433"
 size: 5 cups
 time: 24 hours
-title: Tvorog (Russian-Style Farmer's Cheese)
+title: Tvorog (Ukrainian/Russian-Style Farmer's Cheese)
 ---
 
 Unable to buy the kind of Farmer's Cheese they were accustomed to once the Veitzman family came to the United States, making it has become a staple around the family household. Tvorog resembles ricotta in texture, it can be used in a similar fashion. You can whip it into a smooth paste with a food processor, or use it as a stuffing for blintzes, pastas or pastries. It keeps a week in the refrigerator, but it tastes most special right after it has been made.

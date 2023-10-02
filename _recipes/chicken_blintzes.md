@@ -6,7 +6,7 @@ description: In America, we think of blintzes as crepes filled with cheese serve
   best in old-fashioned Jewish delis.
 image: chicken_blintzes.jpg
 servings: 24 blintzes
-title: Chicken-Filled Blintzes
+title: Ukrainian Chicken-Filled Blintzes
 ---
 
 In Russia, the word blintz refers to the crepe itself. A traditional meal at any Russian table, blintzes are a special treat that can be enjoyed in a variety of ways, whether served by themselves, paired with caviar, or filled with a sweet or savory stuffing. This recipe takes a traditional chicken stuffing and adds an ingredient our family discovered in California—jicama—to add a nice texture to the mixture.

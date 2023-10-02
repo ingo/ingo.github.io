@@ -6,7 +6,7 @@ description: Bella Veitzman learned this colorful, joyful recipe from her mom an
 image: stuffed_bell_peppers.jpg
 original_title: null
 size: 8 servings
-title: Stuffed Bell Peppers
+title: Ukrainian Stuffed Bell Peppers
 vegan: null
 veggie: null
 ---
