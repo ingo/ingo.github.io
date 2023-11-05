@@ -1,6 +1,6 @@
 ---
 author: Ani
-category: Entrees
+category: Untested
 description: These traditional slow-cooked carnitas deliver deep, succulent pork flavor.
 image: authentic_mexican_carnitas.jpg
 original_title: Carnitas
@@ -47,7 +47,3 @@ Pork shoulder is simmered for hours until meltingly tender, then fried until cri
 6. Use a slotted spoon to remove meat to a strainer, then place on a paper towel-lined plate to cool enough to handle.
 7. Once cool enough to handle, rough chop meat.
 8. Warm tortillas, fill with meat then add a squeeze of lime over the meat. Add optional garnishes.
-
-Until next time my friends! Hope you have a great week and plan on making these carnitas this weekend. You won't regret it!
-
-xo, Ani
