@@ -7,7 +7,7 @@ time: 4 hours 30 minutes
 title: Carnitas
 ---
 
-Recipe originally from La Taqueria in San Francisco. The pork is slowly braised in lard, orange juice and Mexican beer, emerging richly flavored and so soft it shreds easily. The recipe comes from the famous La Taqueria in San Francisco, widely lauded for its amazing carnitas.
+The pork is slowly braised, emerging richly flavored and so soft it shreds easily. The recipe comes from the famous La Taqueria in San Francisco, widely lauded for its amazing carnitas.
 
 ### Ingredients
 
