@@ -2,13 +2,12 @@
 author: Patrick Ryan  
 category: Beverages  
 description: Unveil the humorous tale of the "Peter Principle," a cocktail that became a delightful emblem of a mix-up in a Parisian bar. This drink masterfully blends the crispness of gin with the aromatic Martini vermouths, garnished with a twist of lime for a sophisticated touch.  
-image: peter-principle.jpg  
+image: peter_principle.jpg  
 size: 1 serving  
 time: 5 minutes  
 title: The Peter Principle  
 ---
 
-### Backstory
 The "Peter Principle" cocktail originated in a quaint Parisian bar, where a cultural mix-up led to its accidental creation. The name and the drink were inspired by a customer named Peter, who, in search of a classic Gin Martini, found himself at the mercy of local bartenders unfamiliar with the cocktail. Instead, they served him a drink mixed with Martini-brand vermouth, mistaking the brand for the cocktail.
 
 As the story goes, the bartenders, while skilled in the art of French aperitifs, were comically unfamiliar with the nuances of international cocktails. This led to the creation of a drink that Peter ironically named the "Peter Principle," a nod to the adage about rising to one's level of incompetence. The bartenders, in their attempt to create a Gin Martini, had inadvertently crafted a unique and delightful cocktail, embodying the essence of the Peter Principle.
