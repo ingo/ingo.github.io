@@ -16,7 +16,8 @@ Perfect for a summer cookout.
 
 * `2` 3-pound tri-tip roasts
 
-### Seasoning Salt Mixture
+Seasoning Salt Mixture:
+
   * `2 tsp` freshly ground black pepper
   * `2 tsp` white pepper
   * `2 tsp` cayenne pepper
@@ -24,17 +25,20 @@ Perfect for a summer cookout.
   * `4 tbsp` granulated garlic
   * `6 tbsp` salt
 
-### Basting Sauce
-  * `1/2 cup` red wine vinegar
-  * `1/2 cup` garlic-infused vegetable oil
+Basting Sauce:
+
+  * `2` garlic cloves
+  * `1/2` teaspoon kosher salt
+  * `1/2` cup canola oil
+  * `1/2` cup red wine vinegar
 
 ### Directions
 
 1. Heat a grill to low.
 2. Mix together all seasoning ingredients in a small bowl.
-3. Mix together all basting sauce ingredients in a small bowl.
+3. Smash garlic cloves into a paste. Transfer garlic paste to a small bowl; whisk in oil and vinegar. Cover and refrigerate basting liquid for at least 24 hours or up to 5 days.
 4. Coat both sides of the tri-tips with half of the seasoning mixture, rubbing it in as you would a dry rub. Let rest for 30 minutes at room temperature.
-5. Place the tri-tips over a low temperature fire, 1 with fat side up, and the other with fat side down.
+5. Place the tri-tips over a low-temperature fire, 1 with the fat side up, and the other with the fat side down.
 6. Turn as the first side gets crispy, approximately 6 to 8 minutes. Be careful of flare-ups, as the dripping fat will fuel the fire.
 7. Turn the tri-tips before the heat pushes juices out the top, and continue to turn using this timing method throughout the cooking process.
 8. After turning, baste with sauce and season lightly, 4 times per side.
