@@ -37,7 +37,4 @@ Originally from James Beard, with modifications by Ingo. Yes, it uses a lot of b
 ### Notes
 
 - When making bread crumbs, for most authentic taste, use San Luis Sourdough (plain), torn into large chunks, and then processed to a coarse consistency in a food processor. San Luis Sourdough can be purchased at Trader Joe's (it is the "house" sourdough bread).
-
-### Pumpkin Variation
-
-In 2008, Ingo was trying to whip up a quick version of this stuffing, and got crazy with some pumpkin puree. It's now the preferred version. To make, add `1 cup` sliced mushrooms with the pine nuts. Let cook 3-5 minutes until the mushrooms release some water. Add `1 cup` pumpkin puree and `1/2 cup` heavy cream. Cook until slightly reduced. Proceed as directed, but add `1 tbsp` thyme with the sage, and omit scallions.
+- In 2008, Ingo was trying to whip up a quick version of this stuffing, and got crazy with some pumpkin puree. It's now the preferred version. To make, add `1 cup` sliced mushrooms with the pine nuts. Let cook 3-5 minutes until the mushrooms release some water. Add `1 cup` pumpkin puree and `1/2 cup` heavy cream. Cook until slightly reduced. Proceed as directed, but add `1 tbsp` thyme with the sage, and omit scallions.
