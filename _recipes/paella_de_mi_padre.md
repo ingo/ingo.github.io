@@ -20,7 +20,7 @@ For a 16”/40cm round pan:
 - **1** tsp. smoked Spanish paprika
 - Salt to taste
 - **1/4** cup olive oil; more if needed
-- **4** skin-on chicken bone-in or boneless thighs, chopped in half and seasoned with salt and pepper, or brined for 2 hours in simple saltwater brine (skin-on is better, but skinless is okay)
+- **4** skin-on chicken bone-in or boneless thighs, chopped in half, and seasoned with salt and pepper, or brined in advance (skin-on is better, but skinless is okay)
 - **1** small head garlic (remove excess papery skins, trim the top, and make a shallow cut around its equator to speed cooking), plus 4 cloves garlic, thinly sliced
 - **1** medium red bell pepper, roasted, cored, seeded, and cut into 1-inch wide strips
 - **1** cup artichoke hearts (frozen artichokes from Trader Joe’s work great)
@@ -30,8 +30,8 @@ For a 16”/40cm round pan:
 - **2** cups Calsparra/[Bomba](https://www.amazon.com/Santo-Tomas-Bomba-Rice-Pound/dp/B01N4EDDH4/)/Arborio rice (Bomba rice is best, if you can get it. Other short-grain rice, like sushi rice, will work okay, but rinse it vigorously) 
 - **1** sprig fresh rosemary
 - **2** lemons, cut in wedges for garnish
-- **3-4** links of sausage (chorizo or other sausage), chopped into bite-size pieces.
-- alioli (a garlicky mayonnaise for which exist many recipes online. If you are pressed for time, some good mayo +  crushed garlic + lemon juice + a little salt works as a reasonable substitute, if not authentic)
+- **3-4** links of sausage (chorizo or other sausage. We prefer Aidells Chicken & Apple Smoked Chicken Sausage), chopped into bite-size pieces.
+- alioli (a garlicky mayonnaise for which exist many recipes online. If you are pressed for time, some good mayo + crushed garlic + lemon juice + a little salt works as a reasonable substitute, if not authentic)
 - 3.5 lbs. of charcoal briquets. Yes, weighing them helps with reproducibility of the recipe time after time, especially when using a charcoal grill. I learned this trick from Alton Brown.
 
 For a 14”/30cm round pan:
@@ -48,7 +48,7 @@ For a 14”/30cm round pan:
 3. Add the olive oil. When the oil is hot, add the chicken skin-side down and the head of garlic; sauté until the chicken is golden. The oil may splatter, so be careful. Transfer the partially cooked chicken to a platter. Leave the head of garlic in the pan.
 4. Reduce the heat to medium low. Slowly sauté the artichokes and green beans in the same pan, until the artichokes are golden and tender, and the beans are soft and slightly wrinkled, 10 minutes. When the artichokes and green beans are done, push them to the perimeter of the pan where there's less heat (or transfer them to the platter with the chicken.)
 5. If you like, you can pause here for a bit and wait until you are about 40 minutes out from dinner before proceeding.
-6. When ready to proceed, add the remaining ~40-50 briquettes (2.5 lbs.). If your fire died, relight the briquettes.
+6. When ready to proceed, add the remaining ~40-50 briquettes (2 lbs.). If your fire died, relight the briquettes.
 7. Bring the broth back to a simmer if it has cooled down.
 8. If there's more than 1 tablespoon of oil in the pan, pour out the excess.
 9. Increase the heat to medium and sauté the grated onion and sliced garlic until the onion is soft (it's all right if it gets slightly brown), about 5 minutes. Add the grated tomato. Season well with salt and sauté until the water from the tomato has cooked out and the mixture, called a sofrito, has darkened to a burgundy color and is a very thick purée, 5 to 10 minutes. 
