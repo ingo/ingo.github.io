@@ -1,8 +1,7 @@
 ---
 author: Hinze
 category: Entrees
-description: A fantastic pizza recipe using Caputo Pizzeria with 24h room fermentation
-  and dry beechwood to fire the oven.
+description: A pizza recipe using 00 flour with 24h room fermentation
 image: hinze_s_woodfired_67_pizza_part_ii.jpg
 size: 10 servings (240g pizza balls)
 source: https://www.youtube.com/watch?v=Amj2MHRMBrE

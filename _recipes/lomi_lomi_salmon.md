@@ -23,7 +23,6 @@ A must-have for any proper Hawaiian meal or luau. Lomi Lomi Salmon is a Hawaiian
 ### Directions
 
 Lomi lomi:
-
 1. Dice all the ingredients (salted salmon, tomatoes, onions, and green onions) separately. You want small, bite-sized pieces, think pencil eraser size.
 2. Put it all together into a big bowl.
 3. _Lomi_ aka gently knead the ingredients together until well mixed. There is no need to salt or season because the salmon is already salted.

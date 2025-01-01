@@ -19,13 +19,9 @@ For the Duck:
   * `1` whole duck, about 4 pounds
   * `1/4 cup` kosher salt
   * `2 tbsp` five-spice powder
-
   * `1/4 cup` maltose syrup, agave syrup, or honey
   * `1/4 cup` rice vinegar
   * `3 tsp` soy sauce
-  * `2 tbsp` kosher salt
-  * `2 tsp` baking powder
-  * `1` 16-ounce tall boy of beer, emptied and refilled half way with water
 
 To Serve:
 

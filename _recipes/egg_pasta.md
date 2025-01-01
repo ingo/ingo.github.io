@@ -22,6 +22,7 @@ Making fresh pasta can be an intimidating process, especially if you're not used
 
 ### Directions
 
+#### Plain Pasta
 1. **To Make the Dough:** On a large, clean work surface, pour flour in a mound. Make a well in the center about 4 inches wide. Pour whole eggs, egg yolks, and salt into well and, using a fork, beat thoroughly. When combined, gradually incorporate flour into the eggs until a wet, sticky dough has formed.
 2. Using a bench knife, scrape excess dough from fork and fingers. Begin to fold additional flour into the dough with the bench knife, turning the dough roughly 45 degrees each time, until dough feels firm and dry, and can form a craggy-looking ball, 2 to 5 minutes.
 3. Press the heel of your hand into the ball of dough, pushing forward and down. Rotate the ball 45 degrees and repeat. Continue until dough develops a smooth, elastic texture similar to a firm ball of Play-Doh. If dough feels too wet, add flour in 1 teaspoon increments. If dough feels too dry, add water slowly using a spray bottle.
@@ -35,3 +36,12 @@ Making fresh pasta can be an intimidating process, especially if you're not used
 11. **To Cut Noodles:** Adjust pasta machine to noodle setting of your choice. Working one dough segment at a time, feed dough through the pasta-cutter. Alternatively, cut folded dough by hand with a chef's knife to desired noodle width. 
 12. Divide the cut noodles into individual portions, dust lightly with flour, and curl into a nest. Place on parchment-lined rimmed baking sheet and gently cover with kitchen towel until ready to cook. Pasta can be frozen directly on the baking sheet, transferred to a zipper-lock freezer bag, and stored in the freezer for up to three weeks before cooking. Cook frozen pasta directly from the freezer.
 13. **To Cook:** Bring a large pot of salted water to a rolling boil. Add pasta, stir gently with a wooden spoon, chopsticks, or a cooking fork, and cook, tasting at regular intervals until noodles are just set with a definite bite, about 1 1/2 to 2 minutes. Drain, toss with sauce, and serve.
+
+#### Striped Pasta
+
+1. Divide the pasta dough in half. Color one half with spinach or another colorant, leaving the other half plain.
+2. Roll out the colored dough to just shy of the desired thickness. Use the fettuccine cutter or a knife to slice it into strips.
+3. Roll out the plain dough to one setting thicker than your desired final thickness.
+4. Arrange the colored strips on top of the plain dough in your preferred decorative pattern. Gently press the strips onto the plain dough to adhere them lightly.
+5. Pass the layered sheet through the pasta machine at the next setting to "glue" the layers together.
+6. Roll the combined sheet to your desired final thickness, and then shape or cut the pasta as needed.
