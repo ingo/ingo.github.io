@@ -1,13 +1,13 @@
 ---
 author: Ingo Muschenetz
 category: Sides
-description: A fish spread featuring two great tastes from the Pacific.
+description: A fish spread featuring two great tastes from the Pacific. The macadamias offer a nice crunch, but the flavor is subtle and does not overpower the cod.
 image: 
 size: 2 cups
 title: Smoked Black Cod Spread
 ---
 
-A variation on the [Drop Dead Trout Spread](drop_dead_trout_spread.html). Black Cod is both tasty and a sustainable choice.
+A variation on the [Drop Dead Trout Spread](drop_dead_trout_spread.html). Black Cod (also known as Sablefish) is both tasty and a sustainable choice.
 
 ### Ingredients
 

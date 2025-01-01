@@ -3,7 +3,7 @@ author: Ingo Muschenetz
 category: Entrees
 description: A recipe designed for making extruded pastas (spaghetti, bucatini, etc.)
 image: 
-size: 300g
+size: 340g
 source: 
 time: 1 hour
 title: Fresh Pasta
