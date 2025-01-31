@@ -14,18 +14,19 @@ This challah recipe delivers a perfect loaf for Jewish holidays and Shabbat. The
 
 ### Ingredients
 
-**Dough**
-* `73g` lukewarm water
-* `6 tbsp` vegetable oil
-* `1/4 cup` honey
+#### Dough
+* `133g` lukewarm water
+* `74g` vegetable oil
+* `63g` honey
 * `2` large eggs
-* `4 cups` King Arthur Unbleached All-Purpose Flour
-* `1 1/2` teaspoons salt
-* `1 tbsp` instant yeast
-* `80g` starter
+* `1` large egg yolk (white reserved for glazing)
+* `540g` bread flour (or other high-protein all-purpose flour)
+* `9g` salt
+* `10g` instant yeast
+* `80g` 1:1 starter
 
-**Glaze**
-* `1` large egg, beaten with `1 tbsp` cold water
+#### Glaze
+* `1` large egg white, beaten with `1 tbsp` cold water
 
 ### Directions
 
