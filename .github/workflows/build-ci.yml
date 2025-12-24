@@ -21,6 +21,12 @@ jobs:
       - name: Restore Timestamps
         uses: chetan/git-restore-mtime-action@v1
 
+      - name: Install dependencies 🛠️
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3 python3-pip libjpeg-dev
+          pip3 install -r requirements.txt
+
       - name: Install and Build 🔧
         run: |
           wget -O pandoc.deb https://github.com/jgm/pandoc/releases/download/2.13/pandoc-2.13-1-amd64.deb
