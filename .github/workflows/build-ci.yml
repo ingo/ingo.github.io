@@ -31,7 +31,7 @@ jobs:
         run: |
           wget -O pandoc.deb https://github.com/jgm/pandoc/releases/download/2.13/pandoc-2.13-1-amd64.deb
           sudo dpkg -i pandoc.deb
-          bash build.sh
+          python3 build.py
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.0

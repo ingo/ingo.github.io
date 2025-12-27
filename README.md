@@ -1,254 +1,314 @@
 # nyum
 
-*A simple Pandoc-powered static site generator for your recipe collection.*
+*A simple, beautiful recipe website generator.*
 
 <img src="_assets/favicon.png" align="right" width="96">
 
-This tool takes a **collection of Markdown-formatted recipes** and turns it into a **lightweight, responsive, searchable website** for your personal use as a reference while cooking, or for sharing with family and friends. It's *not* intended as a cooking blog framework – there's no RSS feed, no social sharing buttons, and absolutely zero SEO.
+**nyum** takes your favorite recipes (written in simple Markdown) and turns them into a **fast, searchable, responsive website**. It's perfect for keeping your personal recipe collection organized, or for sharing recipes with family and friends.
 
-📓 Think of it as a **cookbook for nerds**.
+It's *not* a cooking blog framework – there's no ads, no clutter, and no fuss. Just your recipes, beautifully presented.
 
-Below the screenshots, you'll find some notes on [setting this tool up](#setup), [running it](#building), [formatting your recipes](#formatting), and [deploying the generated site](#deployment).
+Think of it as a **cookbook for nerds**.
 
+## Quick start
+
+1. **[Get started](#getting-started)** – Install the tools you need
+2. **[Add a recipe](#adding-a-recipe)** – Create your first recipe file
+3. **[Build your site](#building-your-website)** – Generate the website
+4. **[Deploy](#deployment)** – Share it with the world
 
 ## Screenshots
 
-If you prefer a live website over the following screenshots, feel free to **check out the [demo on GitHub Pages](https://doersino.github.io/nyum/_site/index.html)**!
+See it in action! [Check out the live demo on GitHub Pages](https://muschenetz.com/) to explore a full working site.
 
-On an old-fashioned computer, a [recipe](https://doersino.github.io/nyum/_site/cheesebuldak.html) might look more or less like this – notice the little star indicating that this is a favorite!
+## Getting started
 
-![](_assets/readme-images/1-laptop.jpg)
+### What you need
 
-Below, on the right, is the same page shown at tablet scale. More interestingly, the index page is shown on the left (with an active search) – note that you can, of course, customize the title and description.
+* **[Python](https://www.python.org)** – version 3.7 or later
+* **[Pandoc](https://pandoc.org)** – version 2.8 or later (converts Markdown to HTML)
 
-![](_assets/readme-images/2-tablets.jpg)
+That's it! No other dependencies.
 
-Finally, more of the same on three phone-sized screens. The three-column layout doesn't fit here, so instructions are shown below ingredients. And *of course* the light's turned off if you've enabled dark mode on your device.
+**Install on macOS:**
+```bash
+brew install python3 pandoc
+```
 
-![](_assets/readme-images/3-phones.jpg)
-
-
-## Usage
+**Install on Linux:**
+Most package managers have both. Try `apt install python3 pandoc` or equivalent.
 
 ### Setup
 
-First off, either `git clone` this repository or [download it as a ZIP](https://github.com/doersino/nyum/archive/refs/heads/main.zip). (You can clear out the `_recipes/` and `_site/` directories to get rid of the demo data.)
+1. Get the code:
+   ```bash
+   git clone https://github.com/ingo/ingo.github.io.git
+   cd ingo.github.io
+   ```
 
-I don't like complicated dependency trees and poorly-documented build processes, so here's an **exhaustive list of the dependencies** you're not overwhelmingly likely to already have:
+2. Remove demo recipes (optional):
+   ```bash
+   rm _recipes/*.md
+   rm _site/*.html
+   ```
 
-* [Pandoc](https://pandoc.org) – version 2.8 (released in November 2019) or later *(earlier versions don't support partials/subtemplates)*.
+3. Edit `config.yaml` to customize your site:
+   - Site title, description, and language
+   - Enable/disable images on the index page
+   - Deployment settings (if deploying to a server)
 
-    On macOS, assuming you're using [Homebrew](https://brew.sh), `brew install pandoc` will do the trick. On Linux, your package manager almost certainly has it (although the version it provides might be outdated – recent binaries are available [here](https://github.com/jgm/pandoc/releases/latest)).
+You're ready to go!
 
-That's it, only one dependency! Hooray!
+## Adding a recipe
 
-(Since `build.sh` relies on some Bash-specific bits and bobs and ubiquitous POSIX utilities like `awk` and `tee`, you'll also need those – but since Bash the default shell on most non-Windows systems, you're likely running it already. If you're a Windows user, don't despair: Through the magic of [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and possibly [some Git or text editor reconfiguration to deal with line endings](https://github.com/doersino/nyum/issues/10), it's definitely possible to run this tool. If you run into trouble, feel free to [file an issue](https://github.com/doersino/nyum/issues), but know that I might be unable to offer much well-founded advice.)
+### Create a new recipe file
 
+Create a new `.md` file in the `_recipes/` folder. For example: `my_awesome_pasta.md`. Each recipe has two parts: **metadata** (at the top) and **instructions** (below).
 
-### Configuration
+### Metadata (the recipe card)
 
-Open `config.yaml` in whichever text editor you heart is drawn to in the moment and follow the instructions in the comments. There's not actually very much to configure.
+Start your file with a YAML block that describes your recipe. Only the `title` is required; everything else is optional:
 
-You can, for example, change the language of your site. There's also a setting `show_images_on_index` (whose name obviates any need for further explanation).
+```yaml
+---
+title: My Awesome Pasta
+category: Pasta
+description: A simple, delicious pasta that takes 20 minutes.
+size: 2 servings
+time: 20 minutes
+author: Your Name
+image: my_awesome_pasta.jpg
+favorite: ✓
+spicy: ✓
+---
+```
 
+**Available fields:**
 
-### Building
+| Field | Purpose | Example |
+|-------|---------|---------|
+| `title` | Recipe name (required) | `Cheese Pasta` |
+| `category` | Group recipes by type | `Pasta`, `Desserts` |
+| `description` | Short summary (shown on index) | `A quick weeknight meal` |
+| `image` | Photo filename | `pasta.jpg` |
+| `size` | Servings or yield | `2 servings`, `12 cupcakes` |
+| `time` | Cooking time | `30 minutes` |
+| `author` | Creator's name | `Grandma` |
+| `source` | Link to original recipe | `https://example.com` |
+| `favorite` | Mark as favorite | `✓` |
+| `veggie` / `vegan` | Dietary info | `✓` |
+| `spicy` / `sweet` / `salty` | Flavor notes | `✓` |
+| `original_title` | Name in original language | `日本のパスタ` |
+| `nutrition` | Nutrition info | See example below |
 
-Run `bash build.sh`.
+**Nutrition example:**
+```yaml
+nutrition:
+  - 300 calories
+  - 10g protein
+  - 45g carbs
+```
 
-(It accepts a few optional flags, notably `--help` which tells you about the rest of them.)
+### Instructions (the recipe)
 
-![](_assets/readme-images/4-build.gif)
-
-
-### Formatting
-
-TL;DR: See the example recipes in `_recipes/`.
-
-Each recipe **begins with YAML front matter specifying its title**, how many servings it produces, whether it's spicy or vegan or a favorite, the category, an image (which must also be located in the `_recipes/` directory), and other information. Scroll down a bit for a list of possible entries – most of these are optional!
-
-The **body of a recipe consists of horizontal-rule-separated steps, each listing ingredients relevant in that step along with the associated instruction**. Ingredients are specified as an unordered list, with ingredient amounts enclosed in backticks (this enables the columns on the resulting website – if you don't care about that, omit the backticks). The instructions must be preceded with a `>`. Note that a step can also solely consist of an instruction.
-
-*You've got the full power of Markdown at your disposal – douse your recipes in [formatting](https://github.com/doersino/nyum/blob/main/_recipes/kkaennipjeon.md), include a picture for each step, and use the garlic emoji as liberally as you should be using garlic in your cooking!*
-
-<sub>(Before building this tool, I had been using a custom LaTeX template built on top of the [cuisine](https://ctan.org/pkg/cuisine?lang=en) package, which enforces a three-column, relevant-ingredients-next-to-instructions structure. [In the process of graduating from university, I found myself contemporaneously graduating from wanting to use LaTeX for everything, which was part of the impetus for building this tool.] I've found this structure to be more useful than the more commonly found all-ingredients-first-then-a-block-of-instructions approach.)</sub>
-
-
-#### Example
+After the `---`, write your recipe using Markdown. The key idea is to **list ingredients next to the steps that use them**. Use horizontal rules (`---`) to separate steps:
 
 ```markdown
 ---
-title: Cheese Buldak
-original_title: 치즈불닭
-category: Entrees
-description: Super-spicy chicken tempered with loads of cheese and fresh spring onions. Serve with rice and a light salad – or, better yet, an assortment of side dishes.
-image: cheesebuldak.jpg
-size: 2-3 servings
-time: 1 hour
-author: Maangchi
-source: https://www.youtube.com/watch?v=T9uI1-6Ac6A
-spicy: ✓
-favorite: ✓
+title: Simple Pasta
 ---
 
-* `2 tbsp` chili flakes (gochugaru)
-* `1 tbsp` gochujang
-* `½-⅔ tbsp` soy sauce
-* `1 tbsp` cooking oil
-* `¼ tsp` pepper
-* `2-3 tbsp` rice or corn syrup
-* `2 tbsp` water
+* `400g` pasta
+* `2 cloves` garlic, minced
+* `3 tbsp` olive oil
+* Salt and pepper to taste
 
-> Mix in an oven-proof saucepan or cast-iron skillet – you should end up with a thick marinade.
+> Bring a large pot of salted water to boil.
 
 ---
 
-* `3-4 cloves` garlic
-* `2 tsp` ginger
+* `200g` spinach
+* `100g` cream
 
-> Peel, squish with the side of your knife, then finely mince and add to the marinade.
-
----
-
-> ⋯ (omitted for brevity)
+> While water heats, sauté garlic in olive oil until fragrant.
+> Add spinach and cook until wilted.
+> Pour in cream and simmer for 2 minutes.
 
 ---
 
-> Garnish with the spring onion slices and serve.
-
+> Add pasta to boiling water and cook until al dente.
+> Drain and toss with the spinach sauce.
+> Season with salt and pepper. Serve immediately!
 ```
 
+**Formatting tips:**
 
-#### YAML front matter
+- **Ingredients**: Use backticks around amounts for proper columns: `` `2 tbsp` ``
+- **Instructions**: Precede with `>` (blockquote)
+- **Full Markdown**: Use bold, italic, links, lists, emojis – whatever you want!
+- **Photos**: Include `![](photo.jpg)` in steps to show cooking progress
+- **See an example**: Check out [kkaennipjeon.md](https://github.com/doersino/nyum/blob/main/_recipes/kkaennipjeon.md) in the repo
 
-You *must* specify a non-empty value for the `title` entry. Everything else is optional:
+## Photos (recipe images)
 
-* `original_title`: Name of the recipe in, say, its country of origin.
-* `category`: Self-explanatory. Recipes belonging to the same category will be grouped on the index page. Don't name a category such that the generated category page will have the same URL as a recipe.
-* `description` A short description of the dish, it will be shown on the index page as well.
-* `nutrition`: Allows you to note down some nutrition facts for a recipe. Must take the form of a list, for example:
-    ```yaml
-    nutrition:
-      - 300 calories
-      - 60 g sugar
-      - 0.8 g fat
-      - 3.8 g protein
-    ```
-* `image`: Filename of a photo of the prepared dish, *e.g.*, `strawberrysmoothie.jpg`. The image must be located *alongside* the Markdown document – not in a subdirectory, for instance.
-* `image_attribution` and `image_source`: If you haven't created the recipe photo yourself, you might be required to attribute its author or link back to its source (which should be an URL). The attribution, if set, will be shown semi-transparently in the bottom right corner of the image. If the source is non-empty, a click on the image will take you there.
-* `size`: How many servings does the recipe produce, or how many cupcakes does it yield, or does it fit into a small or large springform?
-* `time`: Time it takes from getting started to serving.
-* `author`: Your grandma, for example.
-* `source`: Paste the source URL here if the recipe is from the internet. If set, this will turn the `author` label into a link. If no author is set, a link labelled "Source" will be shown.
-* `favorite`: If set to a non-empty value (*e.g.*, "✓"), a little star will be shown next to the recipe's name. It'll also receive a slight boost in search results.
-* `veggie` and `vegan`: Similar and self-explanatory. If *neither* of these is set to a non-empty value, a "Meat" label will be shown.
-* `spicy`, `sweet`, `salty`, `sour`, `bitter`, and `umami`: Similar – if set to a non-empty value, a colorful icon will be shown.
+### Adding a photo to your recipe
 
+1. **Take a photo** of your finished dish and save it as a JPG or PNG
+2. **Place it in `_recipes/`** alongside your recipe file
+3. **Add the filename** to your recipe's metadata:
+   ```yaml
+   image: my_awesome_pasta.jpg
+   ```
+
+That's it! The photo will appear at the top of your recipe page.
+
+### Photo tips for best results
+
+- **Size**: Aim for 800×600 pixels or larger
+- **Format**: JPG works great (smaller file size)
+- **Aspect ratio**: Landscape photos (wider than tall) work best
+- **Lighting**: Good natural light makes a big difference
+- **Styling**: A few nice food styling touches go a long way
+
+### Photo attribution
+
+If you used someone else's photo, give them credit:
+
+```yaml
+image: photo.jpg
+image_attribution: Photo by Jane Smith
+image_source: https://example.com/photo
+```
+
+The attribution appears in the bottom corner of the photo, and clicking it links to the source.
+
+## Building your website
+
+### One-command build
+Once you've added recipes to `_recipes/`, build your site:
+
+```bash
+python3 build.py
+```
+
+That's it! Your website is now in the `_site/` folder, ready to view or deploy.
+
+**What happens during the build:**
+
+- Converts all your Markdown recipes to HTML
+- Creates an index page with all recipes grouped by category
+- Generates a search index for searching recipes
+- Optimizes images and assets
+- Produces a complete, static website in `_site/`
+
+### Build options
+
+```bash
+# See all options
+python3 build.py --help
+
+# Build quietly (less output)
+python3 build.py --quiet
+
+# Clean up build files only (don't generate site)
+python3 build.py --clean
+```
+
+### How it works
+
+The build process:
+
+1. **Extracts metadata** from each recipe's YAML front matter
+2. **Groups recipes by category** and builds an index
+3. **Converts Markdown to HTML** using Pandoc
+4. **Creates category pages** so you can browse by type
+5. **Builds a searchable index** for the website
+
+For the technically curious: see [how the build process works](#how-the-build-process-works) below.
+
+### View your site locally
+
+After building, open `_site/index.html` in your browser to see your website. Or run a local server:
+
+```bash
+# Python 3
+python3 -m http.server 8000 --directory _site
+
+# Then visit: http://localhost:8000
+```
 
 ### Deployment
 
-After running `build.sh`, **just chuck the contents of `_site/` onto a server of your choice**.
+After building, your entire website is in the `_site/` folder. You can:
+
+- **Upload to any web host** – Copy `_site/` contents to your server
+- **Use rsync** – Automated deployment with `deploy.py`
+- **Deploy to GitHub Pages** – Automatically build and deploy on every push
+
+#### Option 1: Manual upload
+
+Upload the contents of `_site/` to your web host using FTP, SFTP, or whatever method your host supports.
+
+#### Option 2: Rsync deployment
+
+For servers you have SSH access to:
+
+1. **Set your deployment target** in `config.yaml`:
+   ```yaml
+   deploy_target: "username@example.com:/var/www/recipes"
+   ```
+
+2. **Deploy with one command:**
+   ```bash
+   python3 deploy.py
+   ```
+
+**Deployment options:**
+
+```bash
+# Preview what will be uploaded (dry-run)
+python3 deploy.py --dry-run
+
+# Deploy quietly
+python3 deploy.py --quiet
+
+# See all options
+python3 deploy.py --help
+```
+
+⚠️ **Important:** `rsync` deletes old files on the server, so double-check your target path before deploying the first time!
+
+#### Option 3: GitHub Pages (automated)
+
+The repo includes a GitHub Actions workflow that automatically:
+- Builds your site on every push to `main`
+- Deploys to the `gh-pages` branch
+- Makes your site available at `username.github.io/nyum`
+
+This works automatically if you fork the repo. You may need to enable GitHub Pages in your repository settings.
 
 
-#### Rsyncing to a server
+## How the build process works
 
-For my own convenience, I've written `deploy.sh`, which reads a remote target of the form `USER@SERVER:PATH` from `config.yaml` and then uses `rsync` to push `_site/` cloudwards – you're welcome to use it, too. If you do:
+The build script does something interesting: it groups recipes by category and builds both a combined index and individual category pages.
 
-* Note that `rsync`'s `--delete` flag is set, so make sure the target path is correct before deploying for the first time. If you don't, stuff that shouldn't be deleted or overwritten might indeed be deleted or overwritten!
-* You'll need to manually create the target path on the remote before the first deployment.
-* You can run `bash deploy.sh --dry-run` to sanity-check yourself.
-* Run `bash deploy.sh --help` to learn about another very exciting flag!
+Here's how:
 
+1. **Extract metadata** – Each recipe's YAML front matter is converted to JSON
+2. **Group by category** – Python reads the categories and organizes recipes
+3. **Build indexes** – Creates a JSON structure for the index page
+4. **Convert to HTML** – Pandoc transforms Markdown to beautiful HTML
+5. **Generate pages** – Creates recipe pages, category pages, and a searchable index
 
-#### Automated deployment to GitHub Pages
+The search functionality works by collecting metadata from all recipes into a single JSON file that the website searches locally in your browser.
 
-Because not everone's into antiquated `rsync`-powered deployment methods, **@jlnrrg** and **@quentin-dev** have constructed a GitHub action (see `.github/workflows/build-ci.yml`) that will spin up a Ubuntu system, install a recent version of Pandoc, build the site, and deploy it to the `gh-pages` branch of the repository.
+## Tips and gotchas
 
-I've disabled it for *this* repsitory since I prefer the `_site/` to be part of the `main` branch for demo purposes, but I believe it should activate automatically if you fork this repository. You might also need to explicitly [enable GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) for your fork.
-
-(Coupled with the "Edit" link shown at the bottom of each recipe if you've specified a link to your repository in `config.yaml`, continuous integration effectively turns your site into a wiki!)
-
-
-### Updating
-
-As bugs are fixed and features added (not that I expect much of either), you might wish to update your instance. Instead of adherence to versioning best-practices or even a semblance of an update scheme, here's instructions on how to perform a manual update:
-
-1. Replace `_assets/`, `_templates/`, `build.sh`, and `deploy.sh` of your instance with what's currently available in this repository.
-2. Check if any new knobs and toggles have been added to `config.yaml` and adapt them into your `config.yaml`.
-
-That should do it! (Perhaps build your site and inspect it to verify that nothing has broken – feel free to [file an issue](https://github.com/doersino/nyum/issues) if something has.)
-
-
-## FAQ
-
-(As in "𝓕ound, by me, to be likely-to-be-𝓐sked 𝓠uestions, the reason being that I asked these questions to myself during construction of this thing".)
-
-
-### Why not just use Jekyll or one of the other 314 fully-featured static site generators out there?
-
-Because I thought writing a Bash script where I construct a JSON value based on other JSON values using a single-purpose reimplementation of SQL's `GROUP BY` clause reliant on the built-in string manipulation functionality would be simpler/faster/better, *i.e.*, **because I'm a dummy**.
-
-(But, newly, a dummy armed with a custom dodgy-yet-working static site generator, so you better not cross me!)
-
-
-### How/why does that huge mess in `build.sh` work?
-
-Apart from the translation of Markdown into HTML, which is a fairly self-explanatory `pandoc` call, and the `config.yaml` shenanigans, which are merely a medium-sized mess: I wanted to **build an index page listing all recipes, but ordered by category** and with cute spicy/vegan/etc. icons along with **category pages linked from the index pages and recipe pages**.
-
-Each recipe has a set of metadata (specified using YAML, but that's not relevant here), including its category. When outputting HTML, Pandoc provides the `$meta-json$` template variable which resolves to a JSON value containing this metadata. Crucially, it understands the same format during input – when invoking `pandoc` with the `--metadata-file PATH` flag, the metadata from that file is merged into the input's metadata before further processing. The challenge, then, was **transforming the JSON-shaped metadata of all recipes into a single JSON value grouping them by category**, along with one separately stored JSON value for each category (which was essentially free, in terms of complexity, given the code generating the grouped JSON value).
-
-This led me down the path of...
-
-1. Writing the metadata of each recipe to a JSON file in `_temp/` by feeding them into Pandoc and using a template solely consisting of `$meta-json$`.
-2. Writing the paths of each metadata file, along with the associated category, to a separate file in `temp/` using a similar minimal template.
-3. Employing a `cut`-`sort`-`uniq` pipeline to distill a list of unique categories.
-4. Using a good ol' bespoke nested-loops join for grouping, *i.e.*, iterating through the list of categories and for each category, writing its name to the output JSON file before iterating though the list of paths-and-categories from step 2 to figure-out-the-path-of-and-collect the recipe metadata belonging to the current category.
-
-The final implementation is a bit more complicated than this pseudocode – largely because of string munging overhead.
-
-Building the search "index" works similarly, but without the need for any grouping shenanigans.
-
-
-### Since this static site generator is based around a Bash script and Bash is a terrible language as far as robust string manipulation is concerned, are there any pitfalls with regard to filenames and such?
-
-Why, there are indeed! I'm 100% sure these could be remedied quite easily, but they don't interfere with my use case, so I didn't bother. If you run into any problems because of this, please [file an issue](https://github.com/doersino/nyum/issues) or cancel me on Twitter.
-
-* No spaces in filenames. Your computer might explode.
-* You can't have a recipe with filename `index.md` – it'll be overwritten by the generated index page.
-* Things will probably break if `_recipes/` is empty (but then, there's not much to be done in that case, anyway).
-* The value of `uncategorized_label` in `config.yaml` may not contain an odd number of double quotation marks `"`.
-* *Almost certainly more!*
-
-
-### What if I want to print one of the recipes with black water on dead wood?
-
-While this isn't a use case I'm particularly interested in, I've added a few CSS rules that should help with it.
-
-
-### How's browser support looking?
-
-The CSS I've written to render Pandoc's output in three columns is a bit fragile, but I've successfully coaxed it into yielding near-identical results in recent versions of Firefox, Chrome and Safari. If you run into any problems, please [file an issue](https://github.com/doersino/nyum/issues).
-
-
-### Any plans for future development?
-
-Eh, not really. Some proposed enhancements that I may or may not implement are tracked in [an issue](https://github.com/doersino/nyum/issues/1). And *content*, but that won't be publicly available.
-
-
-### Is there a C-based tool that's much better but not yours, so your not-invented-here syndrome didn't permit you to use it?
-
-I think you might be alluding to Hundred Rabbits' [Grimgrains](https://github.com/hundredrabbits/GrimGrains). Big fan.
-
-
-### What's the dish in the background of `_assets/favicon.png`?
-
-That's the supremely tasty and [even more Instagram-worthy](https://www.instagram.com/p/B6vQOHDiySF/) "Half-Half Curry" served at [Monami Curry, Yongsan-gu, Seoul](https://www.google.com/maps/place/Monami+Curry+Seoul/@37.5298686,126.9707568,15z/data=!4m5!3m4!1s0x0:0x6ce40a80f13a74d5!8m2!3d37.5298686!4d126.9707568).
-
-
-### And what's with the name?
-
-"Nyum" is an onomatopoeia used to describe the noise made when eating. Like, "nom!", "yummy!".
-
+- **Filenames**: Avoid special characters in recipe filenames
+- **No `index.md`**: Don't create a recipe named `index.md` – it will be overwritten
+- **Images**: Must be in the same `_recipes/` folder as the recipe file
+- **Empty categories**: The script assumes at least one recipe exists
+- **YAML special characters**: If using quotes in titles, escape them properly
 
 ## License
 
@@ -259,9 +319,3 @@ However, the subdirectories `_assets/fonts/` and `_assets/tabler-icons` contain 
 * The sans-serif typeface [**Barlow**](https://github.com/jpt/barlow) is licensed under the *SIL Open Font License Version 1.1*, see `_assets/fonts/barlow/OFL.txt`.
 * [**Lora**](https://github.com/cyrealtype/Lora-Cyrillic), the serif typeface used in places where Barlow isn't, is also licensed under the *SIL Open Font License Version 1.1*, see `_assets/fonts/lora/OFL.txt`.
 * The icons (despite having been modified slightly) are part of [**Tabler Icons**](https://tabler-icons.io), they're licensed under the *MIT License*, see `_assets/tabler-icons/LICENSE.txt`. The placeholder image shown on the index page for recipes that don't have their own image if the `show_images_on_index` option is enabled also makes use of these icons.
-
-Finally, some **shoutouts** that aren't *really* licensing-related, but fit better here than anywhere else in this document:
-
-* The device mockups used to spice up the screenshots in this document are from [Facebook Design](https://design.facebook.com/toolsandresources/devices/).
-* Because you're dying to know this, let me tell you that the screenshots' background image is based on a [Google Maps screenshot of a lithium mining operation in China](https://twitter.com/doersino/status/1324367617763676160).
-* I've designed the logo using a previous project of mine, the [Markdeep Diagram Drafting Board](https://doersino.github.io/markdeep-diagram-drafting-board/).

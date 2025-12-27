@@ -1,12 +1,10 @@
-_temp/
-_site/
 _assets/.DS_Store
+_recipes_to_process/
+_recipes/_to_process
+_recipes/_to_process.zip
+_site/
+_temp/
 .DS_Store
 new_images/
 UpdatedMarkdownFiles.zip
-_recipes/_to_process
 UpdatedMarkdownFiles/
-.gitignore
-_recipes/_to_process.zip
-.DS_Store
-_recipes_to_process/
