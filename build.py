@@ -150,6 +150,11 @@ for category in sorted(categories_data.keys()):
                 category_obj["recipes"].append(metadata)
 
     index_data["categories"].append(category_obj)
+    
+    # Write category JSON file for category page building
+    category_json_path = Path(f"_temp/{category_faux_urlencoded}.category.json")
+    with open(category_json_path, "w") as f:
+        json.dump(category_obj, f)
 
 with open(index_json_path, "w") as f:
     json.dump(index_data, f)
