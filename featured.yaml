@@ -4,9 +4,12 @@
 
 # Featured recipes for the homepage (recent additions section)
 homepage:
-  - baguettes
-  - bavarian_pretzels
-  - basque_style_cheesecake_tarta_de_queso
+  - cucumber_salad_with_caraway_seeds
+  - chocolate_sorbet
+  - hot_smoked_salmon
+  - margarita
+  - no_knead_bread_updated
+  - avocado_grapefruit_and_fennel_salad
 
 # Featured recipes per category
 # Use the category_faux_urlencoded name (lowercase with underscores)

@@ -25,7 +25,7 @@ Developed by Santiago Rivera (chef and owner of La Viña in San Sebastian, Spain
 ### Directions
 
 1. Position a rack in the center of the oven and preheat the oven to 500°F.
-2. To prepare the pan: Take two sheets of 16 1/2" x 12 1/4" parchment and crumple each into a ball. If you don’t have parchment that size, you’ll need enough to cover roughly a 15” square.
+2. To prepare the pan: Take two sheets of 16 1/2” x 12 1/4” parchment and crumple each into a ball. If you don’t have parchment that size, you’ll need enough to cover roughly a 15” square.
 3. Uncrumple the parchment completely and overlap the two sheets in a cross, pressing them into a 9” springform pan to completely cover the bottom and sides of the pan. The paper won’t lie flush with the sides, but crumpling it first will make fitting it into the pan easier.
 4. Fold the overhanging parchment down over the outside edge of the pan to ensure that the top of the cake remains visible and open to the oven’s heat.
 5. To make the cake: Place all the ingredients in the bowl of a food processor fitted with the blade attachment (11-cup capacity is best; see "tips,” below, for alternatives).

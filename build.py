@@ -242,7 +242,7 @@ for file in Path("_temp").glob("*.category.json"):
 
 # Filter index for homepage (latest 21 recipes)
 status("Building index page...")
-subprocess.run([sys.executable, "scripts/filter_index.py", "_temp/index.json", "_temp/index_filtered.json", "21"], check=True)
+subprocess.run([sys.executable, "scripts/filter_index.py", "_temp/index.json", "_temp/index_filtered.json", "12"], check=True)
 
 x(
     "pandoc",

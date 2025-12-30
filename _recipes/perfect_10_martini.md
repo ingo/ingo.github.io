@@ -7,7 +7,7 @@ size: 4 servings
 title: Perfect 10 Martini
 ---
 
-The martini is one of the most famous and iconic cocktails in the world. Its precise origin is a subject of debate, but it is believed to have evolved from a mix of ingredients that included gin and vermouth. Over the years, the classic martini has undergone variations, such as the addition of vodka, and a range of garnishes and flavors.
+The martini is one of the most famous and iconic cocktails in the world. Its precise origin is a subject of debate, but it is believed to have evolved from a mix of ingredients that included gin and vermouth. Over the years, the classic martini has undergone variations, such as the addition of vodka, and a range of garnishes and flavors. 
 
 ### Ingredients
 

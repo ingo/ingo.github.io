@@ -31,4 +31,4 @@ The Paloma is a classic Mexican cocktail usually made with lime juice, tequila a
 
 ### Notes
 
-- This cocktail is a reinvention of the classic Paloma. Feel free to adjust the measures to suit your taste.
+- This cocktail is a reinvention of the classic Paloma. Feel free to adjust the measures to suit your taste. 

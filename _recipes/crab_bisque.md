@@ -10,7 +10,7 @@ time: 0 hours 55 mins
 title: Crab Bisque
 ---
 
-This luxurious crab bisque comes together easily for a special occasion meal or casual dinner alike. A seafood stock simmers with aromatics, sherry and cream before being blended silky smooth. Lumps of crab meat are stirred in at the end for an elegant presentation. Topped with a final swirl of cream, this bisque satisfies cravings in elegant fashion.
+This luxurious crab bisque comes together easily for a special occasion meal or casual dinner alike. A seafood stock simmers with aromatics, sherry and cream before being blended silky smooth. Lumps of crab meat are stirred in at the end for an elegant presentation. Topped with a final swirl of cream, this bisque satisfies cravings in elegant fashion. 
 
 ### Ingredients
 
