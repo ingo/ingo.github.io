@@ -1,0 +1,44 @@
+# Featured recipes configuration
+# Specify featured recipes for the homepage and each category page
+# Featured recipes will be shown first, followed by regular recipes
+
+# Featured recipes for the homepage (recent additions section)
+homepage:
+  - baguettes
+  - bavarian_pretzels
+  - basque_style_cheesecake_tarta_de_queso
+
+# Featured recipes per category
+# Use the category_faux_urlencoded name (lowercase with underscores)
+categories:
+  appetizers_and_snacks:
+    - baba_ganouj
+    - authentic_greek_tzatziki
+  
+  beverages:
+    - border_run_cocktail
+  
+  breads:
+    - baguettes
+    - bavarian_pretzels
+  
+  desserts:
+    - basque_style_cheesecake_tarta_de_queso
+    - better_chocolate_babka
+  
+  main_dishes:
+    - andy_ricker_s_kai_yaang_whole_roasted_young_chicken_from_pok_pok
+    - authentic_mexican_carnitas
+  
+  salads:
+    - beet_salad
+  
+  sauces_and_condiments:
+    - aji_verde_peruvian_green_sauce
+  
+  side_dishes:
+    - baked_parmesan_zucchini
+  
+  soups:
+    - best_gazpacho
+    - beet_soup_with_dill_cream

@@ -6,6 +6,7 @@ import shutil
 import subprocess
 import json
 import time
+import yaml
 from pathlib import Path
 from datetime import datetime
 import random
@@ -113,6 +114,13 @@ for file in Path("_temp").glob("*.webp"):
 status("Grouping metadata by category...")
 index_json_path = Path("_temp/index.json")
 
+# Load featured recipes configuration
+featured_config = {}
+featured_yaml_path = Path("featured.yaml")
+if featured_yaml_path.exists():
+    with open(featured_yaml_path, "r") as f:
+        featured_config = yaml.safe_load(f) or {}
+
 # Read all category files
 categories_data = {}
 category_files = sorted(Path("_temp").glob("*.category.txt"))
@@ -136,18 +144,41 @@ for category in sorted(categories_data.keys()):
     # Faux urlencode the category
     category_faux_urlencoded = category.lower().replace(" ", "_").replace("/", "_")
     
+    # Get featured recipes for this category
+    featured_basenames = featured_config.get("categories", {}).get(category_faux_urlencoded, [])
+    
     category_obj = {
         "category": category,
         "category_faux_urlencoded": category_faux_urlencoded,
+        "featured_recipes": [],
         "recipes": [],
     }
 
+    # Collect all recipe metadata
+    all_recipes = []
     for basename in categories_data[category]:
         metadata_file = Path(f"_temp/{basename}.metadata.json")
         if metadata_file.exists():
             with open(metadata_file, "r") as f:
                 metadata = json.load(f)
-                category_obj["recipes"].append(metadata)
+                all_recipes.append((basename, metadata))
+    
+    # Separate featured and regular recipes
+    featured_recipes = []
+    regular_recipes = []
+    
+    for basename, metadata in all_recipes:
+        if basename in featured_basenames:
+            featured_recipes.append((basename, metadata))
+        else:
+            regular_recipes.append((basename, metadata))
+    
+    # Sort featured recipes by order in featured.yaml
+    featured_recipes.sort(key=lambda x: featured_basenames.index(x[0]) if x[0] in featured_basenames else 999)
+    
+    # Add to category object
+    category_obj["featured_recipes"] = [metadata for _, metadata in featured_recipes]
+    category_obj["recipes"] = [metadata for _, metadata in regular_recipes]
 
     index_data["categories"].append(category_obj)
     
