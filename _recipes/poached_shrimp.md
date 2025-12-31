@@ -18,14 +18,14 @@ Perfect for a raw shellfish bar. This recipe for poached shrimp is courtesy of T
 * `3` bay leaves
 * `1 handful` fresh thyme leaves
 * `1 handful` fresh flat-leaf parsley
-* `1/4 cup` seafood seasoning (optional, recommended: Old Bay or Zatarains shrimp boil)
+* `1/4 cup` seafood seasoning (optional, recommended: Old Bay or Zatarains shrimp boil. If leaving out, use more salt to compensate)
 * `2 pounds` jumbo shrimp, with shells and tails on (heads optional)
 
 ### Directions
 
 Traditional stovetop method:
 
-1. Fill a large pot with about a 1/2 gallon of water, add the salt and squeeze in the lemon juice; toss the halves in there too for extra flavor. Add the herbs and seafood seasoning.
+1. Fill a large pot with about a 1/2 gallon of water, add the salt and squeeze in the lemon juice; toss the halves in there too for extra flavor. Add the herbs and seafood seasoning. The water should taste as salty as the sea.
 2. Bring to a boil over medium-high heat and simmer for 5 minutes to infuse the water with the aromatics.
 3. Turn off the heat and add the shrimp. Poach, covered, for 5 minutes or until the shrimp are bright pink and the tails curl. See notes on timing below.
 4. Using a slotted spoon, remove the shrimp from the poaching liquid and chill thoroughly before peeling.
