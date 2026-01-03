@@ -3,7 +3,7 @@ author: Unknown
 category: Entrees
 description: This recipe produces beautifully flaky, succulent hot smoked salmon with
   a lovely hint of wood smoke flavor.
-image: hot_smoked_salmon.jpg
+image: hot_smoked_salmon.png
 size: Varies with fillet size
 time: 4-5 hours
 title: Hot Smoked Salmon

@@ -11,6 +11,7 @@ from pathlib import Path
 from datetime import datetime
 import random
 import argparse
+import pypandoc
 
 # Parse arguments
 parser = argparse.ArgumentParser(
@@ -22,6 +23,7 @@ args = parser.parse_args()
 
 QUIET = args.quiet
 CLEAN = args.clean
+HOMEPAGE_RECIPE_COUNT = 28
 
 TIME_START = time.time()
 
@@ -41,6 +43,21 @@ def x(*cmd):
         print(f"↪ {' '.join(str(c) for c in cmd)}", file=sys.stderr)
     subprocess.run(cmd, check=True)
 
+
+def pandoc_convert(input_file, output_file, extra_args=None, to_format="html", template=None):
+    """
+    Convert files using pypandoc library (faster than subprocess)
+    """
+    if not QUIET:
+        args_str = ' '.join(extra_args) if extra_args else ''
+        print(f"↪ pypandoc {input_file} {args_str} -o {output_file}", file=sys.stderr)
+    
+    pypandoc.convert_file(
+        input_file,
+        to_format,
+        outputfile=output_file,
+        extra_args=extra_args
+    )
 
 def remove_and_recreate_dir(path):
     """Remove directory if it exists and recreate it"""
@@ -83,26 +100,28 @@ for file in Path("_recipes").glob("*.md"):
     subprocess.run([sys.executable, "scripts/add_metadata.py", file_str, "_temp/"], check=True)
 
     # Extract category
-    x(
-        "pandoc",
+    pandoc_convert(
         file_str,
-        "--metadata-file", "config.yaml",
-        "--metadata-file", f"_temp/{basename}.yml",
-        "--metadata", f"basename={basename}",
-        "--template", "_templates/technical/category.template.txt",
-        "-t", "html",
-        "-o", f"_temp/{basename}.category.txt",
+        f"_temp/{basename}.category.txt",
+        extra_args=[
+            "--metadata-file", "config.yaml",
+            "--metadata-file", f"_temp/{basename}.yml",
+            "--metadata", f"basename={basename}",
+            "--template", "_templates/technical/category.template.txt"
+        ],
+        to_format="html"
     )
 
     # Extract metadata
-    x(
-        "pandoc",
+    pandoc_convert(
         file_str,
-        "--metadata-file", f"_temp/{basename}.yml",
-        "--metadata", f"htmlfile={basename}.html",
-        "--template", "_templates/technical/metadata.template.json",
-        "-t", "html",
-        "-o", f"_temp/{basename}.metadata.json",
+        f"_temp/{basename}.metadata.json",
+        extra_args=[
+            "--metadata-file", f"_temp/{basename}.yml",
+            "--metadata", f"htmlfile={basename}.html",
+            "--template", "_templates/technical/metadata.template.json"
+        ],
+        to_format="html"
     )
 
 # Copy webp files
@@ -184,11 +203,11 @@ for category in sorted(categories_data.keys()):
     
     # Write category JSON file for category page building
     category_json_path = Path(f"_temp/{category_faux_urlencoded}.category.json")
-    with open(category_json_path, "w") as f:
-        json.dump(category_obj, f)
+    with open(category_json_path, "w", encoding="utf-8") as f:
+        json.dump(category_obj, f, indent=2, ensure_ascii=False)
 
-with open(index_json_path, "w") as f:
-    json.dump(index_data, f)
+with open(index_json_path, "w", encoding="utf-8") as f:
+    json.dump(index_data, f, indent=2, ensure_ascii=False)
 
 # Build recipe pages
 status("Building recipe pages...")
@@ -213,59 +232,63 @@ for file in Path("_recipes").glob("*.md"):
     else:
         updated_at = datetime.fromtimestamp(file.stat().st_mtime).strftime("%Y-%m-%d")
 
-    x(
-        "pandoc",
+    pandoc_convert(
         file_str,
-        "--metadata-file", "config.yaml",
-        "--metadata-file", f"_temp/{basename}.yml",
-        "--metadata", f"basename={basename}",
-        "--metadata", f"category_faux_urlencoded={category_faux_urlencoded}",
-        "--metadata", f"updatedtime={updated_at}",
-        "--template", "_templates/recipe.template.html",
-        "-o", f"_site/{basename}.html",
+        f"_site/{basename}.html",
+        extra_args=[
+            "--metadata-file", "config.yaml",
+            "--metadata-file", f"_temp/{basename}.yml",
+            "--metadata", f"basename={basename}",
+            "--metadata", f"category_faux_urlencoded={category_faux_urlencoded}",
+            "--metadata", f"updatedtime={updated_at}",
+            "--template", "_templates/recipe.template.html"
+        ]
     )
 
 # Build category pages
 status("Building category pages...")
 for file in Path("_temp").glob("*.category.json"):
     basename = file.stem.replace(".category", "")
-    x(
-        "pandoc",
+    pandoc_convert(
         "_templates/technical/empty.md",
-        "--metadata-file", "config.yaml",
-        "--metadata", "title=dummy",
-        "--metadata", f"updatedtime={datetime.now().strftime('%Y-%m-%d')}",
-        "--metadata-file", str(file),
-        "--template", "_templates/category.template.html",
-        "-o", f"_site/{basename}.html",
+        f"_site/{basename}.html",
+        extra_args=[
+            "--metadata-file", "config.yaml",
+            "--metadata", "title=dummy",
+            "--metadata", f"updatedtime={datetime.now().strftime('%Y-%m-%d')}",
+            "--metadata-file", str(file),
+            "--template", "_templates/category.template.html"
+        ]
     )
 
 # Filter index for homepage (latest 21 recipes)
 status("Building index page...")
-subprocess.run([sys.executable, "scripts/filter_index.py", "_temp/index.json", "_temp/index_filtered.json", "12"], check=True)
+subprocess.run([sys.executable, "scripts/filter_index.py", "_temp/index.json", "_temp/index_filtered.json", str(HOMEPAGE_RECIPE_COUNT)], check=True)
 
-x(
-    "pandoc",
+pandoc_convert(
     "_templates/technical/empty.md",
-    "--metadata-file", "config.yaml",
-    "--metadata", "title=dummy",
-    "--metadata", f"updatedtime={datetime.now().strftime('%Y-%m-%d')}",
-    "--metadata-file", "_temp/index_filtered.json",
-    "--template", "_templates/index.template.html",
-    "-o", "_site/index.html",
+    "_site/index.html",
+    extra_args=[
+        "--metadata-file", "config.yaml",
+        "--metadata", "title=dummy",
+        "--metadata", f"updatedtime={datetime.now().strftime('%Y-%m-%d')}",
+        "--metadata-file", "_temp/index_filtered.json",
+        "--template", "_templates/index.template.html"
+    ]
 )
 
 # Build index (all) page
 status("Building index (all) page...")
-x(
-    "pandoc",
+pandoc_convert(
     "_templates/technical/empty.md",
-    "--metadata-file", "config.yaml",
-    "--metadata", "title=dummy",
-    "--metadata", f"updatedtime={datetime.now().strftime('%Y-%m-%d')}",
-    "--metadata-file", "_temp/index.json",
-    "--template", "_templates/index.template.all.html",
-    "-o", "_site/index_all.html",
+    "_site/index_all.html",
+    extra_args=[
+        "--metadata-file", "config.yaml",
+        "--metadata", "title=dummy",
+        "--metadata", f"updatedtime={datetime.now().strftime('%Y-%m-%d')}",
+        "--metadata-file", "_temp/index.json",
+        "--template", "_templates/index.template.all.html"
+    ]
 )
 
 # Assemble search index
@@ -275,8 +298,8 @@ for file in sorted(Path("_temp").glob("*.metadata.json")):
     with open(file, "r") as f:
         search_data.append(json.load(f))
 
-with open("_temp/search.json", "w") as f:
-    json.dump(search_data, f)
+with open("_temp/search.json", "w", encoding="utf-8") as f:
+    json.dump(search_data, f, indent=2, ensure_ascii=False)
 
 x("cp", "-r", "_temp/search.json", "_site/")
 

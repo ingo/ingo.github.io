@@ -138,7 +138,14 @@ for header in soup.find_all('h3'):
         sublist_dict = {"title": "", "list": []}
 
         if next_node.name == 'ul' or next_node.name == 'ol':
-            sublist_dict["list"] = [li.text for li in next_node.find_all('li')]
+            list_items = []
+            for li in next_node.find_all('li'):
+                # Get the HTML content
+                content = str(li.decode_contents())
+                # Convert <code> tags to <b> tags
+                content = re.sub(r'<code>(.*?)</code>', r'<b>\1</b>', content)
+                list_items.append(content)
+            sublist_dict["list"] = list_items
         elif next_node.name == 'p' or next_node.name == 'h4':
             sublist_dict["title"] = next_node.text
 

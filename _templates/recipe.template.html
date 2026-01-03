@@ -9,6 +9,11 @@
         var jetpack_recipes_vars = { "pageTitle": "$title$ | ", "loadCSS": "\/assets\/wp-content\/plugins\/jetpack\/modules\/shortcodes\/css\/recipes-print.min.css" };
         /* ]]> */
     </script>
+    <style type="text/css">
+        .sub-title {
+            margin-bottom:20px !important; 
+        }     
+    </style>
 </head>
 
 <body
@@ -195,11 +200,11 @@
 
                                                 <p></p>
                                                 <div class="jetpack-recipe-ingredients">
-                                                    <h4 class="jetpack-recipe-ingredients-title">Ingredients</h4>
+                                                    <h3 class="jetpack-recipe-ingredients-title">Ingredients</h3>
                                                     $if(ingredients)$
                                                     $for(ingredients)$
                                                     $if(it.title)$
-                                                    <h3 class="wp-block-heading"><br>$it.title$</h3>
+                                                    <b class="sub-title">$it.title$</b>
                                                     $endif$
                                                     $if(it.list)$
                                                     <ul>
@@ -207,6 +212,7 @@
                                                         <li>$it$</li>
                                                         $endfor$
                                                     </ul>
+                                                    <br/>
                                                     $endif$
                                                     $endfor$
                                                     $endif$
@@ -217,11 +223,11 @@
 
                                                 <p></p>
                                                 <div class="jetpack-recipe-directions e-instructions">
-                                                    <h4 class="jetpack-recipe-directions-title">Directions</h4>
+                                                    <h3 class="jetpack-recipe-directions-title">Directions</h3>
                                                     $if(directions)$
                                                     $for(directions)$
                                                     $if(it.title)$
-                                                    <h3 class="wp-block-heading"><br>$it.title$</h3>
+                                                    <h4>$it.title$</h4>
                                                     $endif$
                                                     $if(it.list)$
                                                     <ul>
@@ -229,6 +235,7 @@
                                                         <li>$it$</li>
                                                         $endfor$
                                                     </ul>
+                                                    <br/>
                                                     $endif$
                                                     $endfor$
                                                     $endif$
@@ -242,7 +249,7 @@
                                                 <div class="jetpack-recipe-notes">
                                                     $for(notes)$
                                                     $if(it.title)$
-                                                    <h3 class="wp-block-heading"><br>$it.title$</h3>
+                                                    <h3>$it.title$</h3>
                                                     $endif$
                                                     $if(it.list)$
                                                     <ul>
@@ -335,7 +342,7 @@
                                                 $if(ingredients)$
                                                 $for(ingredients)$
                                                 $if(it.title)$
-                                                <h3 class="wp-block-heading"><br>$it.title$</h3>
+                                                <b class="sub-title">$it.title$</b>
                                                 $endif$
                                                 $if(it.list)$
                                                 <ul>
@@ -343,6 +350,7 @@
                                                     <li>$it$</li>
                                                     $endfor$
                                                 </ul>
+                                                <br/>
                                                 $endif$
                                                 $endfor$
                                                 $endif$
@@ -353,11 +361,11 @@
 
                                             <p></p>
                                             <div class="jetpack-recipe-directions e-instructions">
-                                                <h4 class="jetpack-recipe-directions-title">Directions</h4>
+                                                <h3 class="jetpack-recipe-directions-title">Directions</h3>
                                                 $if(directions)$
                                                 $for(directions)$
                                                 $if(it.title)$
-                                                <h3 class="wp-block-heading"><br>$it.title$</h3>
+                                                <h4>$it.title$</h4>
                                                 $endif$
                                                 $if(it.list)$
                                                 <ul>
@@ -365,6 +373,7 @@
                                                     <li>$it$</li>
                                                     $endfor$
                                                 </ul>
+                                                <br/>
                                                 $endif$
                                                 $endfor$
                                                 $endif$
@@ -378,7 +387,7 @@
                                             <div class="jetpack-recipe-notes">
                                                 $for(notes)$
                                                 $if(it.title)$
-                                                <h3 class="wp-block-heading"><br>$it.title$</h3>
+                                                <h3>$it.title$</h3>
                                                 $endif$
                                                 $if(it.list)$
                                                 <ul>
