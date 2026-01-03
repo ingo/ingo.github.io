@@ -26,8 +26,8 @@ def read_json_file(filename):
 
 def write_json_file(filename, data):
     debug_print(f"Writing JSON file: {filename}")
-    with open(filename, "w") as f:
-        json.dump(data, f, indent=4)
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
     debug_print(f"Data written to {filename}")
 
 def load_featured_config():

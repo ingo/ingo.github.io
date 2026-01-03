@@ -1,0 +1,6 @@
+DEBUG: Using image prompt: A candid, documentary-style image of freshly baked Brunsli cookies, star-shaped and dusted with granulated sugar, resting on a parchment-lined baking tray. The cookies, with their slightly crisp bottoms and soft, gooey middles, are set on a rustic wooden table, bathed in warm, natural window light mixed with soft indoor lighting. The scene captures the joy of home baking, with a few crumbs and uneven edges adding to its charm.
+DEBUG: Sending request to Gemini API for new_recipes_2/brunsli_chocolate_cookies.md.
+DEBUG: Image saved: new_recipes_2/brunsli_chocolate_cookies.png
+DEBUG: Using image prompt: A warm, home-cooked image of stovetop mac and cheese in the making. The elbow macaroni is cooked to perfection, the evaporated milk is added, and the cheese is melting into a creamy sauce. The image is taken in a casual home kitchen setting, with natural light illuminating the dish. The focus is on the pot, with the surrounding kitchen blurred, creating a shallow depth of field. The image is candid and unposed, capturing the real-life process of cooking this comforting dish.
+DEBUG: Sending request to Gemini API for new_recipes_2/3_ingredient_stovetop_mac_and_cheese.md.
+DEBUG: Image saved: new_recipes_2/3_ingredient_stovetop_mac_and_cheese.png
