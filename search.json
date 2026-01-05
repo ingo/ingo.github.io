@@ -24217,7 +24217,7 @@
           "Dungeness crabs vary widely in density. Overcooking by even 2–3 minutes can dry out the leg meat. Steaming by weight preserves sweetness and tenderness.",
           "Rule of thumb: ~7 minutes per pound, measured after the pot returns to a strong steam.",
           "<p>\nSteaming time by crab weight (Whole Crabs): <br/>\n<table>\n<tr>\n<th>\nWeight\n</th>\n<th>\nSteaming Time\n</th>\n</tr>\n<tr>\n<td>\n1.25–1.5 lb\n</td>\n<td>\n12–14 minutes\n</td>\n</tr>\n<tr>\n<td>\n1.75–2.0 lb\n</td>\n<td>\n15–17 minutes\n</td>\n</tr>\n<tr>\n<td>\n2.25–2.5 lb\n</td>\n<td>\n18–20 minutes\n</td>\n</tr>\n<tr>\n<td>\n2.75–3.0 lb\n</td>\n<td>\n20–22 minutes\n</td>\n</tr>\n</table>\n</p>",
-          "<p>\nIf crabs are cleaned or halved, reduce steaming time by 30–35%: <br/>\n<table>\n<tr>\n<th>\nWeight\n</th>\n<th>\nSteaming Time\n</th>\n</tr>\n<tr>\n<td>\n1.5–2.0 lb\n</td>\n<td>\n10–12 minutes\n</td>\n</tr>\n<tr>\n<td>\n2.25–2.5 lb\n</td>\n<td>\n13–14 minutes\n</td>\n</tr>\n</table>\n</p>"
+          "<p>\nIf crabs are cleaned or halved, reduce steaming time by 30–35%: <br/>\n<table>\n<tr>\n<th>\nWeight\n</th>\n<th>\nSteaming Time\n</th>\n</tr>\n<tr>\n<td>\n1.5–2.0 lb\n</td>\n<td>\n7-10 minutes\n</td>\n</tr>\n<tr>\n<td>\n2.25–2.5 lb\n</td>\n<td>\n10–12 minutes\n</td>\n</tr>\n</table>\n</p>"
         ]
       }
     ],
@@ -24235,7 +24235,7 @@
     "htmlfile": "steamed_dungeness_crab.html",
     "difficulty": "medium",
     "size": "Varies depending on crab size",
-    "updated": "2026-01-03",
+    "updated": "2026-01-05",
     "time": "Varies depending on crab size"
   },
   {
