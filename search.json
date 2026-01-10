@@ -4439,33 +4439,6 @@
   },
   {
     "image_prompt": "A food photojournalism-style image of a Cajun seafood boil spread out on a large table. The table is covered with newspaper and the seafood, potatoes, corn, and hard-boiled eggs are scattered across it, smothered in a rich, golden garlic butter sauce. Natural light spills onto the table, highlighting the vibrant colors and textures of the food. In the background, a group of friends are laughing and reaching for the food, ready to dig in.",
-    "seafood options (pick one or more)": [
-      {
-        "title": "",
-        "list": [
-          "<b>1 lb</b> pre-cooked snow crab leg clusters, fresh or frozen",
-          "<b>1-2</b> live Dungeness crabs, cleaned and halved",
-          "<b>1-2</b> live spiny lobsters"
-        ]
-      },
-      {
-        "title": "For the garlic butter sauce",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "<b>1 cup (2 sticks)</b> unsalted butter",
-          "<b>10</b> cloves of garlic, finely minced or pressed",
-          "<b>2 tbsp</b> lemon juice, freshly squeezed",
-          "<b>1 tbsp</b> Old Bay seasoning",
-          "<b>1 tbsp</b> fresh chopped parsley",
-          "<b>1 tsp</b> Creole Cajun Seasoning – homemade or store-bought",
-          "<b>1 tsp</b> smoked paprika",
-          "Hot sauce, to taste"
-        ]
-      }
-    ],
     "directions": [
       {
         "title": "",
@@ -4506,6 +4479,35 @@
           "<b>1 – 1 ½ lbs</b> jumbo shrimp, deveined, <em>shell-on or peeled</em>",
           "<b>4 - 6</b> ears of sweet corn on the cob, I use the mini ones"
         ]
+      },
+      {
+        "title": "Seafood options (pick one or more)",
+        "list": []
+      },
+      {
+        "title": "",
+        "list": [
+          "<b>1 lb</b> pre-cooked snow crab leg clusters, fresh or frozen",
+          "<b>1-2</b> live Dungeness crabs, cleaned and halved",
+          "<b>1-2</b> live spiny lobsters"
+        ]
+      },
+      {
+        "title": "For the garlic butter sauce",
+        "list": []
+      },
+      {
+        "title": "",
+        "list": [
+          "<b>1 cup (2 sticks)</b> unsalted butter",
+          "<b>10</b> cloves of garlic, finely minced or pressed",
+          "<b>2 tbsp</b> lemon juice, freshly squeezed",
+          "<b>1 tbsp</b> Old Bay seasoning",
+          "<b>1 tbsp</b> fresh chopped parsley",
+          "<b>1 tsp</b> Creole Cajun Seasoning – homemade or store-bought",
+          "<b>1 tsp</b> smoked paprika",
+          "Hot sauce, to taste"
+        ]
       }
     ],
     "title": "Cajun Seafood Boil with Garlic Butter Sauce",
@@ -4519,7 +4521,7 @@
     "description": "A hearty and flavorful seafood boil loaded with shrimp, crab, andouille sausage, potatoes, eggs, and corn on the cob, all smothered in an epic garlic butter sauce.",
     "htmlfile": "cajun_seafood_boil_with_garlic_butter_sauce.html",
     "difficulty": "medium",
-    "updated": "2026-01-05",
+    "updated": "2026-01-10",
     "time": "1 hour"
   },
   {
