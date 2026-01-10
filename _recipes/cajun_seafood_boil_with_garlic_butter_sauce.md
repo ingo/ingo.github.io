@@ -35,7 +35,7 @@ This Cajun Seafood Boil is the ultimate communal dining experience. Originating 
 * `1 – 1 ½ lbs` jumbo shrimp, deveined, *shell-on or peeled*
 * `4 - 6` ears of sweet corn on the cob, I use the mini ones
 
-### Seafood options (pick one or more)
+#### Seafood options (pick one or more)
 * `1 lb` pre-cooked snow crab leg clusters, fresh or frozen 
 * `1-2` live Dungeness crabs, cleaned and halved
 * `1-2` live spiny lobsters
