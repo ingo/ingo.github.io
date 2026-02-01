@@ -52,6 +52,6 @@ Steaming Dungeness crabs is a culinary tradition in many coastal regions. The ke
 * If crabs are cleaned or halved, reduce steaming time by 30–35%:
   <table>
     <tr><th>Weight</th><th>Steaming Time</th></tr>
-    <tr><td>1.5–2.0 lb</td><td>10–12 minutes</td></tr>
-    <tr><td>2.25–2.5 lb</td><td>13–14 minutes</td></tr>
+    <tr><td>1.5–2.0 lb</td><td>7-10 minutes</td></tr>
+    <tr><td>2.25–2.5 lb</td><td>10–12 minutes</td></tr>
   </table>
