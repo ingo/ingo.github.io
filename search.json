@@ -12252,7 +12252,7 @@
           "Set up the grill in a 2-zone configuration or get the smoker started, and get the indirect zone up to about 150°F. Put the fish in and add the wood.",
           "After 1.5-2 hours, raise the temperature to 225°F.",
           "Start spot-checking the meat temps after about 30 minutes. Remove the meat when it is at about 120°F internal. Total cooking time will be about 2-3 hours, depending on the actual temperature of your oven and the thickness of the meat.",
-          "Remove the fillet once smoked and it them cool for about 15 minutes, until you can handle it. You can then cut the paper to match the outline of the fillet, and serve it as is. The skin will stick to the paper, and the meat will slide right off when serving."
+          "Remove the fillet once smoked and let it cool for about 15 minutes, until you can handle it. You can then cut the paper to match the outline of the fillet, and serve it as is. The skin will stick to the paper, and the meat will slide right off when serving."
         ]
       }
     ],
@@ -12287,11 +12287,11 @@
     "author": "Unknown",
     "image_validated": "hot_smoked_salmon.png",
     "image": "hot_smoked_salmon.png",
-    "description": "This recipe produces beautifully flaky, succulent hot smoked salmon with a lovely hint of wood smoke flavor.",
+    "description": "This recipe produces beautifully flaky, succulent hot-smoked salmon with a lovely hint of wood smoke flavor.",
     "htmlfile": "hot_smoked_salmon.html",
     "difficulty": "medium",
     "size": "Varies with fillet size",
-    "updated": "2026-01-31",
+    "updated": "2026-02-01",
     "time": "4-5 hours"
   },
   {
