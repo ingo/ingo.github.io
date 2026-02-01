@@ -274,8 +274,8 @@
     "spicy": "✓",
     "backstory": "<p>The zesty lime cured shrimp are served chilled, usually with saltine crackers or tostadas to scoop them up. This Aguachile de Camarón recipe is a traditional Mexican dish that delivers a flavorful and zesty appetizer. The shrimp is marinated in a refreshing lime and chile sauce, making it a perfect dish to serve with tortilla chips or tostadas.</p>",
     "category": "Entrees",
-    "image_validated_webp": "placeholder_entrees.webp",
-    "image_validated": "placeholder_entrees.jpg",
+    "image_validated_webp": "aguachile_de_camaron.webp",
+    "image_validated": "aguachile_de_camaron.jpg",
     "image": "aguachile_de_camaron.jpg",
     "description": "This bright appetizer features tender shrimp marinated in a spicy and refreshing sauce of lime juice, serrano chiles, cilantro, onions, and cucumber.",
     "htmlfile": "aguachile_de_camaron.html",
@@ -1465,11 +1465,11 @@
     "author": "Jamie Oliver",
     "image_validated": "baked_lamb_shanks.jpg",
     "image": "baked_lamb_shanks.jpg",
-    "description": "Many people have a real affection for lamb shanks, thinking of them  as a bit of a treat.",
+    "description": "Many people have a real affection for lamb shanks, thinking of them as a bit of a treat.",
     "htmlfile": "baked_lamb_shanks.html",
     "difficulty": "medium",
     "size": "4 servings",
-    "updated": "2023-08-02",
+    "updated": "2026-01-31",
     "time": "3 hours"
   },
   {
@@ -6961,7 +6961,7 @@
       {
         "title": "",
         "list": [
-          "When making this classic version, be sure to use the freshest cod, pollock, or haddock that you can find for the best results. Frozen fish is also fine, but make sure it is thoroughly defrosted and dried with paper towels first. Prepare the batter and only dip the fish at the last moment before plunging into hot oil to fry. This way you will always have a light and crisp snap to the batter. Use a floury potato for the chips. The best varieties are King Edward, Maris Piper, Sante, russet and Yukon Gold."
+          "When making this classic version, be sure to use the freshest cod, pollock, or haddock that you can find for the best results. Frozen fish is also fine, but make sure it is thoroughly defrosted and dried with paper towels first. Prepare the batter and only dip the fish at the last moment before plunging into hot oil to fry. This way you will always have a light and crisp snap to the batter. Use a floury potato for the chips. The best varieties are King Edward, Maris Piper, Sante, Russet and Yukon Gold."
         ]
       }
     ],
@@ -6985,7 +6985,7 @@
     "htmlfile": "classic_british_fish_and_chips.html",
     "difficulty": "medium",
     "size": "4 servings",
-    "updated": "2023-08-01",
+    "updated": "2026-01-31",
     "time": "1 hour 25 minutes"
   },
   {
@@ -12250,9 +12250,9 @@
           "Place in refrigerator for 24-36 hours.",
           "Cut pieces of paper bag or plain white paper about the same size as each hunk of fish and place the fish on the paper, skin side down.",
           "Set up the grill in a 2-zone configuration or get the smoker started, and get the indirect zone up to about 150°F. Put the fish in and add the wood.",
-          "After 2 hours, raise the temperature to 225°F",
+          "After 1.5-2 hours, raise the temperature to 225°F.",
           "Start spot-checking the meat temps after about 30 minutes. Remove the meat when it is at about 120°F internal. Total cooking time will be about 2-3 hours, depending on the actual temperature of your oven and the thickness of the meat.",
-          "Remove the fillets once grilled and let them cool for about 15 minutes, until you can handle them. Then peel off the paper, and the skins should come right off with it."
+          "Remove the fillet once smoked and it them cool for about 15 minutes, until you can handle it. You can then cut the paper to match the outline of the fillet, and serve it as is. The skin will stick to the paper, and the meat will slide right off when serving."
         ]
       }
     ],
@@ -12291,7 +12291,7 @@
     "htmlfile": "hot_smoked_salmon.html",
     "difficulty": "medium",
     "size": "Varies with fillet size",
-    "updated": "2026-01-03",
+    "updated": "2026-01-31",
     "time": "4-5 hours"
   },
   {
