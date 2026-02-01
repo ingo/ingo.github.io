@@ -1,8 +1,7 @@
 ---
 author: Jamie Oliver
 category: Entrees
-description: Many people have a real affection for lamb shanks, thinking of them\
-  \ as a bit of a treat.
+description: Many people have a real affection for lamb shanks, thinking of them as a bit of a treat.
 image: baked_lamb_shanks.jpg
 nutrition:
 - 626 kcal

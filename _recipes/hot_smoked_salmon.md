@@ -29,9 +29,9 @@ Salmon fillets are cured in a brown sugar brine, then smoked over smoldering woo
 7. Place in refrigerator for 24-36 hours.
 8. Cut pieces of paper bag or plain white paper about the same size as each hunk of fish and place the fish on the paper, skin side down.
 9. Set up the grill in a 2-zone configuration or get the smoker started, and get the indirect zone up to about 150°F. Put the fish in and add the wood.
-10. After 2 hours, raise the temperature to 225°F
+10. After 1.5-2 hours, raise the temperature to 225°F.
 11. Start spot-checking the meat temps after about 30 minutes. Remove the meat when it is at about 120°F internal. Total cooking time will be about 2-3 hours, depending on the actual temperature of your oven and the thickness of the meat.
-12. Remove the fillets once grilled and let them cool for about 15 minutes, until you can handle them. Then peel off the paper, and the skins should come right off with it.
+12. Remove the fillet once smoked and it them cool for about 15 minutes, until you can handle it. You can then cut the paper to match the outline of the fillet, and serve it as is. The skin will stick to the paper, and the meat will slide right off when serving.
 
 ### Notes
 
