@@ -12,4 +12,6 @@ _recipes/.DS_Store
 salt-calculator/node_modules/
 salt-calculator/dist/
 grill-calculator/node_modules/
-grill-calculator/build/
+grill-calculator/dist/
+salt-calculator/node_modules
+

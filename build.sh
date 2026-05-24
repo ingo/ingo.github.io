@@ -56,14 +56,16 @@ status "Copying assets..."
 x cp -r _assets/ _site/assets/
 x cp _assets/about.html _site/about.html
 
-if [ -f salt-calculator/package.json ]; then
-    status "Building salt-calculator..."
-    pushd salt-calculator > /dev/null
-    [ -d node_modules ] || npm install --no-audit --no-fund
-    ./node_modules/.bin/vite build
-    popd > /dev/null
-    x cp -r salt-calculator/dist _site/salt-calculator
-fi
+for SPA in salt-calculator grill-calculator; do
+    if [ -f "$SPA/package.json" ]; then
+        status "Building $SPA..."
+        pushd "$SPA" > /dev/null
+        [ -d node_modules ] || npm install --no-audit --no-fund
+        ./node_modules/.bin/vite build
+        popd > /dev/null
+        x cp -r "$SPA/dist" "_site/$SPA"
+    fi
+done
 
 status "Copying static files..."
 for FILE in _recipes/*; do

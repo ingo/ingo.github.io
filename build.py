@@ -79,14 +79,15 @@ status("Copying assets...")
 x("cp", "-r", "_assets/", "_site/assets/")
 x("cp", "_assets/about.html", "_site/about.html")
 
-# Build salt-calculator (Vite SPA) and publish to _site/salt-calculator/
-salt_calc_dir = Path("salt-calculator")
-if salt_calc_dir.exists() and (salt_calc_dir / "package.json").exists():
-    status("Building salt-calculator...")
-    if not (salt_calc_dir / "node_modules").exists():
-        subprocess.run(["npm", "install", "--no-audit", "--no-fund"], cwd=salt_calc_dir, check=True)
-    subprocess.run(["./node_modules/.bin/vite", "build"], cwd=salt_calc_dir, check=True)
-    x("cp", "-r", str(salt_calc_dir / "dist"), "_site/salt-calculator")
+# Build Vite SPAs and publish to _site/<name>/
+for spa in ("salt-calculator", "grill-calculator"):
+    spa_dir = Path(spa)
+    if spa_dir.exists() and (spa_dir / "package.json").exists():
+        status(f"Building {spa}...")
+        if not (spa_dir / "node_modules").exists():
+            subprocess.run(["npm", "install", "--no-audit", "--no-fund"], cwd=spa_dir, check=True)
+        subprocess.run(["./node_modules/.bin/vite", "build"], cwd=spa_dir, check=True)
+        x("cp", "-r", str(spa_dir / "dist"), f"_site/{spa}")
 
 # Copy static files
 status("Copying static files...")
