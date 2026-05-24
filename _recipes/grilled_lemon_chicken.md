@@ -13,6 +13,11 @@ size: Serves 4
 time: 2 hours (including optional brining)
 title: Grilled Lemon Chicken
 author: Cook’s Illustrated
+brine:
+  category: Poultry
+  cut: Thighs/Drumsticks
+  mode: dry
+  note: "The recipe calls for a 6 tbsp salt / 1 qt water concentration brine for 1.5 hours. For chicken parts, a dry brine is simpler and won't soften skin going onto the grill — the calculator below sizes that. If you'd rather follow the original wet method, the wet-brine tab gives the equilibrium equivalent."
 ---
 
 

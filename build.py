@@ -79,6 +79,15 @@ status("Copying assets...")
 x("cp", "-r", "_assets/", "_site/assets/")
 x("cp", "_assets/about.html", "_site/about.html")
 
+# Bundle salt-calculator meat data so the inline brine widget can read it.
+status("Bundling brine widget data...")
+brine_data_src = Path("salt-calculator/src/data/meatData.json")
+if brine_data_src.exists():
+    with open(brine_data_src, "r", encoding="utf-8") as f:
+        brine_payload = f.read().strip()
+    brine_data_js = "window.__BRINE_DATA__ = " + brine_payload + ";\n"
+    Path("_site/assets/brine-data.js").write_text(brine_data_js, encoding="utf-8")
+
 # Build Vite SPAs and publish to _site/<name>/
 for spa in ("salt-calculator", "grill-calculator"):
     spa_dir = Path(spa)

@@ -5,6 +5,11 @@ image: soy_sauce_and_sugar_fish_marinade.jpg
 size: 8-10 pounds of fillets
 time: 4 hours for marinating, 6-12 hours for smoking
 title: Soy Sauce, Brown Sugar and Seasonings for Salmon, Trout and other Fish
+brine:
+  category: Seafood
+  cut: Fish
+  mode: wet
+  note: "This recipe is a high-salt soy + sugar marinade rather than a controlled equilibrium brine — its 4-hour soak in concentrated soy will be saltier than the equilibrium target. If you want a milder result with the same flavor profile, use the calculator below to size the salt, then add soy sauce sparingly for color and umami."
 ---
 
 Perfect for smoking and grilling. This brine recipe is perfect for enhancing the flavor of your favorite fish before smoking or grilling. The combination of soy sauce, brown sugar, and seasonings creates a savory and slightly sweet profile that complements the natural taste of the fish.

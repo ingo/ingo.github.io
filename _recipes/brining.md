@@ -4,6 +4,11 @@ description: This guide covers key brining techniques for various meats like por
   chops, chicken, and turkey to help retain moisture and impart flavor.
 image: brining.jpg
 title: Brining
+brine:
+  category: Poultry
+  cut: Whole Bird
+  mode: wet
+  note: "The percentages below this primer (3 / 5 / 6%) are concentrations — they assume a fixed brine time and depend on it. The widget uses equilibrium brining (the salt % is of the meat + water together), which gives the same final saltiness regardless of how long the meat sits. Pick a cut in the full calculator if you're brining something other than a whole bird."
 ---
 
 It includes details on wet brines, buttermilk brines, and dry rubs along with tips for brining success. Brining pork or poultry before cooking enhances juiciness and infuses seasoning all the way through. A wet brine of salt, sugar and aromatics adds the most moisture

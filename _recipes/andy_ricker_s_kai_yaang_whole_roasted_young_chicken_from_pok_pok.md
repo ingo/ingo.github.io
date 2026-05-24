@@ -9,6 +9,11 @@ size: 2 servings
 source: https://www.seriouseats.com/andy-ricker-whole-roasted-chicken-game-hen-recipe-from-pok-pok-cookbook
 time: 4 hours
 title: Andy Ricker's Kai Yaang (Whole Roasted Young Chicken)
+brine:
+  category: Poultry
+  cut: Whole Bird
+  mode: wet
+  note: "The recipe specifies a 3% concentration brine for 4+ hours. The widget below uses equilibrium brining (1% salt of meat + water), which lands at a comparable final saltiness without overshooting if you leave it overnight. Aromatics from the original (lemongrass, ginger, peppercorns) still go in the brine — the calculator just sizes the salt and sugar."
 ---
 
  It's marinated overnight in garlic, black pepper, and coriander

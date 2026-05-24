@@ -199,6 +199,15 @@
                                                 </p>
 
                                                 <p></p>
+                                                $if(brine)$
+                                                <div class="brine-comparison">
+                                                    $if(brine.note)$
+                                                    <p class="brine-comparison__note">$brine.note$</p>
+                                                    $endif$
+                                                    <div data-brine-widget data-category="$brine.category$" data-cut="$brine.cut$" data-mode="$brine.mode$"></div>
+                                                </div>
+                                                $endif$
+
                                                 <div class="jetpack-recipe-ingredients">
                                                     <h3 class="jetpack-recipe-ingredients-title">Ingredients</h3>
                                                     $if(ingredients)$
@@ -337,6 +346,15 @@
                                             </p>
 
                                             <p></p>
+                                            $if(brine)$
+                                            <div class="brine-comparison">
+                                                $if(brine.note)$
+                                                <p class="brine-comparison__note">$brine.note$</p>
+                                                $endif$
+                                                <div data-brine-widget data-category="$brine.category$" data-cut="$brine.cut$" data-mode="$brine.mode$"></div>
+                                            </div>
+                                            $endif$
+
                                             <div class="jetpack-recipe-ingredients">
                                                 <h4 class="jetpack-recipe-ingredients-title">Ingredients</h4>
                                                 $if(ingredients)$

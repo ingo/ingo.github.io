@@ -8,6 +8,11 @@ size: 8-10 servings
 source: http://www.saveur.com/article_print.jsp?ID=54843
 time: 3 hours
 title: Crisp Apple-Scented Roast Turkey with Cider-Calvados Gravy
+brine:
+  category: Poultry
+  cut: Whole Bird
+  mode: wet
+  note: "The recipe brines the bird at roughly 1 hour per pound in a salt + sugar + cider + apple purée brine. The widget sizes the salt (and sugar) for an equilibrium brine of the same fundamentals — keep the recipe's aromatics, just use the calculator's salt amount and time."
 ---
 
 This recipe brings together the traditional roast turkey with a unique apple and cider twist. The result is a succulent, flavorful turkey that's perfect for any special occasion.

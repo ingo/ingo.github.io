@@ -11,6 +11,11 @@ source: https://www.sharemycook.com/Recipe/Details/132
 spicy: "\u2713"
 time: 8-10 hours
 title: The Best BBQ Pulled Pork
+brine:
+  category: Pork
+  cut: Pork Belly
+  mode: dry
+  note: "The recipe says 'dry brine 12–24 hours in advance' but doesn't specify how much salt. Pork shoulder is fatty enough that the Pork Belly profile (1.3% by weight) is the closest match — fatty cuts take more salt than lean ones."
 ---
 
 This recipe is a favorite from Meathead Goldwyn, a renowned BBQ expert. His method for creating the perfect BBQ pulled pork involves a slow and steady cooking process that results in tender, flavorful meat that's perfect for sandwiches, tacos, or simply enjoyed on its own.

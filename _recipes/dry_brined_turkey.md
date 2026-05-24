@@ -11,6 +11,11 @@ size: 12-14 servings
 source: https://cooking.nytimes.com/recipes/1012869-dry-brined-turkey
 time: "3½ hours, plus 2 days’ brining"
 title: Dry-Brined Turkey
+brine:
+  category: Poultry
+  cut: Whole Bird
+  mode: dry
+  note: "The recipe calls for 1 tbsp kosher salt per 4 lb (~0.85% by weight). The calculator below targets 1.1%, which is closer to the modern Serious Eats / AmazingRibs consensus for poultry — adjust the slider down to ~0.85 if you want to match the original."
 ---
 
 No more fussy liquid brine that alters the texture of the meat — just crisp, golden skin and tender, moist meat. This turkey will be the talk of the table. Allow two days for the bird to season before roasting.
