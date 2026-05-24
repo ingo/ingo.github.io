@@ -9,3 +9,7 @@ new_images/
 UpdatedMarkdownFiles.zip
 UpdatedMarkdownFiles/
 _recipes/.DS_Store
+salt-calculator/node_modules/
+salt-calculator/dist/
+grill-calculator/node_modules/
+grill-calculator/build/

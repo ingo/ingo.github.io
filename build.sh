@@ -56,6 +56,15 @@ status "Copying assets..."
 x cp -r _assets/ _site/assets/
 x cp _assets/about.html _site/about.html
 
+if [ -f salt-calculator/package.json ]; then
+    status "Building salt-calculator..."
+    pushd salt-calculator > /dev/null
+    [ -d node_modules ] || npm install --no-audit --no-fund
+    ./node_modules/.bin/vite build
+    popd > /dev/null
+    x cp -r salt-calculator/dist _site/salt-calculator
+fi
+
 status "Copying static files..."
 for FILE in _recipes/*; do
     [[ "$FILE" == *.md ]] && continue
