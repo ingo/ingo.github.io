@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import tempData from './data/tempData.json'
+import { SiteMasthead } from './SiteMasthead.jsx'
 
 const COOKERS = [
   { value: 'kingsford', label: 'Kingsford', subtext: 'standard briquettes' },
@@ -43,23 +44,7 @@ export default function App() {
 
   return (
     <div className="page">
-      <header className="masthead">
-        <a className="brand" href="/" rel="home" aria-label="Table M home">
-          <img
-            src="/assets/images/tablem-logo2x-300x80.png"
-            srcSet="/assets/images/tablem-logo2x-300x80.png 300w, /assets/images/tablem-logo2x-450x120.png 450w"
-            sizes="150px"
-            alt="Table M"
-            width="150"
-            height="40"
-          />
-        </a>
-        <nav>
-          <a href="/">Recipes</a>
-          <a href="/grill-calculator/" aria-current="page">Tools</a>
-          <a href="/about.html">About</a>
-        </nav>
-      </header>
+      <SiteMasthead currentHref="/grill-calculator/" />
 
       <main className="content">
         <div className="lede">

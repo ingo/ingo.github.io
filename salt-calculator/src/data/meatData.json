@@ -5,6 +5,12 @@
       "defaultSaltByWeight": 1,
       "img": "https://www.flaticon.com/svg/static/icons/svg/1728/1728818.svg",
       "instruction": "S",
+      "wetBrine": {
+        "defaultSaltByWeight": 1,
+        "defaultSugarByWeight": 0.5,
+        "thicknessInches": 1,
+        "instruction": "Equilibrium brine: the % above is of the meat + water together. Default ratio is 1:1 by weight. Submerge fully in the fridge, then pat dry and air-dry uncovered for at least 30 minutes before cooking — wet skin won't crisp."
+      },
       "resources": {
         "The Food Lab's Complete Guide to Sous Vide Chicken Breast": "https://www.seriouseats.com/2015/07/the-food-lab-complete-guide-to-sous-vide-chicken-breast.html",
         "28 Chicken Breast Recipes to Make You Like White Meat": "https://www.seriouseats.com/roundups/chicken-breast-recipes"
@@ -22,6 +28,12 @@
       "defaultSaltByWeight": 1.1,
       "img": "https://www.flaticon.com/svg/static/icons/svg/1046/1046853.svg",
       "instruction": "Salt at least 24 hours before and up to 48 hours before cooking. If you are roasting the bird, put it on a wire rack and leave it uncovered in the fridge to dry the exterior. Once you take it out of the fridge, spray or rub olive oil all over the bird and then apply any other spices/herbs you like. This will help you develop a nice crust!",
+      "wetBrine": {
+        "defaultSaltByWeight": 1,
+        "defaultSugarByWeight": 0.5,
+        "thicknessInches": 4,
+        "instruction": "If you want crispy skin, dry-brine instead. Wet brine is best when the bird's going into soup or stock, or when the breast really needs help staying moist. Submerge fully in the fridge for the time below, then air-dry on a rack for several hours before cooking."
+      },
       "resources": {
         "How to spatchcock a chicken - BBC Good Food": "https://www.youtube.com/watch?v=pod4x5NJoYI&ab_channel=BBCGoodFood",
         "Expertly Spiced and Glazed Roast Turkey (replace their salt amount with calculator output for your bird)": "https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey",
@@ -87,11 +99,23 @@
     }
   },
   "Pork": {
-    "Boneless Pork": {
-      "type": "Boneless Pork",
+    "Pork Loin": {
+      "type": "Pork Loin",
       "defaultSaltByWeight": 1,
       "img": "https://www.flaticon.com/svg/static/icons/svg/2177/2177533.svg",
-      "instruction": "S"
+      "instruction": "S",
+      "wetBrine": {
+        "defaultSaltByWeight": 1,
+        "defaultSugarByWeight": 0.5,
+        "thicknessInches": 2,
+        "instruction": "Pork loin is lean and dries out fast — it's one of the cuts wet brining was made for. Submerge in the fridge, pat dry, and rest uncovered for 30 minutes before cooking."
+      }
+    },
+    "Pork Chop": {
+      "type": "Pork Chop",
+      "defaultSaltByWeight": 1,
+      "img": "https://www.flaticon.com/svg/static/icons/svg/2177/2177533.svg",
+      "instruction": "T"
     },
     "Pork Ribs": {
       "type": "Pork Ribs",
@@ -152,7 +176,13 @@
       "type": "Fish",
       "defaultSaltByWeight": 0.75,
       "img": "https://www.flaticon.com/svg/static/icons/svg/2255/2255609.svg",
-      "instruction": "You don't need to brine fish for very long, the salt can break down the proteins too much over time. Salt the fish 15 minutes before cooking."
+      "instruction": "You don't need to brine fish for very long, the salt can break down the proteins too much over time. Salt the fish 15 minutes before cooking.",
+      "wetBrine": {
+        "defaultSaltByWeight": 1,
+        "defaultSugarByWeight": 0.5,
+        "thicknessInches": 1,
+        "instruction": "Wet brine is great for salmon and other lean fillets — keeps them moist on the grill and helps prevent the white albumin pushed out by overcooking. Don't overshoot the time; fish flesh turns mushy if you leave it too long."
+      }
     }
   }
 }
