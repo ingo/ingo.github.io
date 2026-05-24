@@ -1,7 +1,7 @@
 ---
 author: Unknown
 category: Entrees
-description: This recipe produces beautifully flaky, succulent hot smoked salmon with
+description: This recipe produces beautifully flaky, succulent hot-smoked salmon with
   a lovely hint of wood smoke flavor.
 image: hot_smoked_salmon.png
 size: Varies with fillet size
@@ -31,7 +31,7 @@ Salmon fillets are cured in a brown sugar brine, then smoked over smoldering woo
 9. Set up the grill in a 2-zone configuration or get the smoker started, and get the indirect zone up to about 150°F. Put the fish in and add the wood.
 10. After 1.5-2 hours, raise the temperature to 225°F.
 11. Start spot-checking the meat temps after about 30 minutes. Remove the meat when it is at about 120°F internal. Total cooking time will be about 2-3 hours, depending on the actual temperature of your oven and the thickness of the meat.
-12. Remove the fillet once smoked and it them cool for about 15 minutes, until you can handle it. You can then cut the paper to match the outline of the fillet, and serve it as is. The skin will stick to the paper, and the meat will slide right off when serving.
+12. Remove the fillet once smoked and let it cool for about 15 minutes, until you can handle it. You can then cut the paper to match the outline of the fillet, and serve it as is. The skin will stick to the paper, and the meat will slide right off when serving.
 
 ### Notes
 
