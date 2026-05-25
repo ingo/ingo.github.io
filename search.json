@@ -574,12 +574,21 @@
     "source": "https://www.seriouseats.com/andy-ricker-whole-roasted-chicken-game-hen-recipe-from-pok-pok-cookbook",
     "author": "Andy Ricker",
     "image_validated": "andy_ricker_s_kai_yaang_whole_roasted_young_chicken_from_pok_pok.jpg",
+    "brine": {
+      "mode": "equilibrium",
+      "category": "Poultry",
+      "note": "The recipe specifies a 3% concentration brine for 4+ hours, which is fine if you stop the clock on time but easy to overshoot on a small bird. An equilibrium brine (1% salt of meat + water, 12–24 hours) lands at a comparable final saltiness without the timing anxiety — the chicken can’t get saltier than the brine. The original aromatics (lemongrass, ginger, peppercorns) still go in the brine; the calculator just sizes salt and sugar.",
+      "defaultWeightUnit": "lb",
+      "saltType": "Diamond Kosher",
+      "defaultWeight": "3",
+      "cut": "Whole Bird"
+    },
     "image": "andy_ricker_s_kai_yaang_whole_roasted_young_chicken_from_pok_pok.jpg",
     "description": "This whole roasted young chicken is inspired by the incredible flavors of Thai street food.",
     "htmlfile": "andy_ricker_s_kai_yaang_whole_roasted_young_chicken_from_pok_pok.html",
     "difficulty": "medium",
     "size": "2 servings",
-    "updated": "2023-08-02",
+    "updated": "2026-05-25",
     "time": "4 hours"
   },
   {
@@ -942,73 +951,6 @@
     "size": "8 servings",
     "updated": "2023-08-02",
     "time": "8 hours 10 minutes"
-  },
-  {
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "Trim excess fat from pork butt then cut into 3 inch chunks. Set aside.",
-          "Add lard and water to a cold stock pot or dutch oven. Turn heat to medium high. Once lard has liquified, carefully add meat.",
-          "Squeeze the juice from the oranges directly into the pot of meat; add the spent oranges to the pot.",
-          "Simmer on medium, uncovered, for one hour. Stir the meat every 15 minutes to ensure it doesn’t stick to the bottom of the pot.",
-          "Add the garlic, onion, cinnamon, bay leaves, salt, oregano, thyme, milk and beer to the pot. Stir well to combine. Continue simmering on medium heat, uncovered, for an additional hour. Stir meat at least every 20 minutes to make sure it’s cooking evenly.",
-          "Use a slotted spoon to remove meat to a strainer, then place on a paper towel-lined plate to cool enough to handle.",
-          "Once cool enough to handle, rough chop meat.",
-          "Warm tortillas, fill with meat then add a squeeze of lime over the meat. Add optional garnishes."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>2 pounds</b> pork butt",
-          "<b>2 pounds</b> pork lard",
-          "<b>1 cup</b> water",
-          "<b>2</b> medium oranges, washed and halved",
-          "<b>4</b> cloves garlic, peeled",
-          "<b>½</b> medium onion, peeled",
-          "<b>1</b> large stick Mexican cinnamon stick or 2 small regular cinnamon sticks",
-          "<b>4</b> bay leaves",
-          "<b>2 tablespoons</b> kosher salt",
-          "<b>1 tablespoon</b> dried whole Mexican oregano, crushed between palms",
-          "<b>1 teaspoon</b> dried thyme",
-          "<b>1 cup</b> evaporated milk",
-          "<b>½ cup</b> beer (nothing too hoppy)",
-          "<b>16</b> corn tortillas"
-        ]
-      },
-      {
-        "title": "For Garnish:",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "Lime wedges",
-          "Chopped onions",
-          "Chopped cilantro",
-          "Salsa",
-          "Queso fresco"
-        ]
-      }
-    ],
-    "original_title": "Carnitas",
-    "title": "Authentic Mexican Carnitas",
-    "backstory": "<p>Pork shoulder is simmered for hours until meltingly tender, then fried until crispy and caramelized. Authentic carnitas are meant to be served with accompaniments like tortillas, guacamole, salsa, cilantro, and onion rather than made into tacos.</p>",
-    "category": "Untested",
-    "image_validated_webp": "authentic_mexican_carnitas.webp",
-    "source": "https://youtu.be/E9ScMitTylQ",
-    "author": "Ani",
-    "image_validated": "authentic_mexican_carnitas.jpg",
-    "image": "authentic_mexican_carnitas.jpg",
-    "description": "These traditional slow-cooked carnitas deliver deep, succulent pork flavor.",
-    "htmlfile": "authentic_mexican_carnitas.html",
-    "difficulty": "medium",
-    "size": "8 servings",
-    "updated": "2023-11-05",
-    "time": "2 hours 20 minutes"
   },
   {
     "directions": [
@@ -3217,81 +3159,6 @@
     "size": "10 lbs",
     "updated": "2023-08-01",
     "time": "Varies"
-  },
-  {
-    "ingedients": [
-      {
-        "title": "Wet Brining",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "<b>3:100</b> (3% brine): <b>30 g</b> salt per L water for a 3% solution",
-          "<b>5:100</b> (5% brine): <b>50 g</b> salt per L water for a 5% solution",
-          "<b>6:100</b> (6% brine): <b>60 g</b> salt per L water for a 6% solution"
-        ]
-      }
-    ],
-    "directions": [
-      {
-        "title": "Wet Brining",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "For overnight chicken brining, use the 3% brine solution.",
-          "For other meats, use the 5% brine solution. The brining time varies depending on the type of meat:\n<ul>\n<li>\nCornish Game Hens or chicken parts: <b>2 hours</b>\n</li>\n<li>\nWhole fish fillets: <b>3 hours</b>\n</li>\n<li>\nWhole Chicken: <b>5 hours</b>\n</li>\n</ul>",
-          "Cornish Game Hens or chicken parts: <b>2 hours</b>",
-          "Whole fish fillets: <b>3 hours</b>",
-          "Whole Chicken: <b>5 hours</b>",
-          "For turkey, use the 6% solution, brining for <b>12 hours</b> to <b>18 hours</b>.",
-          "For chicken, turkey, pork and fish, add an equivalent amount of sugar as salt to the brine (making it a X:X:100 solution).",
-          "After brining, dry the meat on a rack for the same amount of time to equalize the salt gradient. If possible, let dry at least 2 hours to dry out the skin or form a pellicle. This will assist with roasting or smoking later."
-        ]
-      },
-      {
-        "title": "Dry Brining",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "Follow the calculations at [Salt Your Meat](https://www.saltyourmeat.com]."
-        ]
-      }
-    ],
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "Brining time is approximately <b>1 hour</b> per pound of meat. Adjust accordingly for larger or smaller cuts.",
-          "If using water-cooled poultry, use a <a href=\"https://www.americastestkitchen.com/cooksillustrated/how_tos/8466-dont-brine-water-chilled-chicken\">dry brine instead</a>."
-        ]
-      }
-    ],
-    "landscape": "true",
-    "title": "Brining",
-    "backstory": "<p>It includes details on wet brines, buttermilk brines, and dry rubs along with tips for brining success. Brining pork or poultry before cooking enhances juiciness and infuses seasoning all the way through. A wet brine of salt, sugar and aromatics adds the most moisture</p>",
-    "dry brining": [
-      {
-        "title": "",
-        "list": [
-          "<b>salt</b> as needed. See directions below."
-        ]
-      }
-    ],
-    "category": "Pantry",
-    "image_validated_webp": "brining.webp",
-    "image_validated": "brining.jpg",
-    "image": "brining.jpg",
-    "description": "This guide covers key brining techniques for various meats like pork chops, chicken, and turkey to help retain moisture and impart flavor.",
-    "htmlfile": "brining.html",
-    "difficulty": "medium",
-    "size": "TBD",
-    "updated": "2025-01-31",
-    "time": "TBD"
   },
   {
     "directions": [
@@ -7775,12 +7642,21 @@
     "source": "http://www.saveur.com/article_print.jsp?ID=54843",
     "author": "Saveur",
     "image_validated": "crisp_apple_scented_roast_turkey_with_cider_calvados_gravy.jpg",
+    "brine": {
+      "mode": "equilibrium",
+      "category": "Poultry",
+      "note": "The recipe brines the bird at roughly 1 hour per pound in a salt + sugar + cider + apple purée brine. An equilibrium brine (1% salt of meat + water, 12–24 hours) hits the same final saltiness without overshooting on a long soak — the bird stops absorbing salt once it matches the brine. Keep the recipe’s cider, calvados and aromatics; the calculator just sizes the salt and sugar relative to your particular bird and water volume. The recipe’s 1 cup of salt assumes Diamond Crystal kosher — Morton kosher is roughly 1.5× as salty by volume, so use 2/3 cup if that’s what you have.",
+      "defaultWeightUnit": "lb",
+      "saltType": "Diamond Kosher",
+      "defaultWeight": "11",
+      "cut": "Whole Bird"
+    },
     "image": "crisp_apple_scented_roast_turkey_with_cider_calvados_gravy.jpg",
     "description": "A succulent roast turkey with a unique apple and cider twist, served with a rich gravy.",
     "htmlfile": "crisp_apple_scented_roast_turkey_with_cider_calvados_gravy.html",
     "difficulty": "medium",
     "size": "8-10 servings",
-    "updated": "2023-08-01",
+    "updated": "2026-05-25",
     "time": "3 hours"
   },
   {
@@ -8626,12 +8502,18 @@
     "source": "https://cooking.nytimes.com/recipes/1012869-dry-brined-turkey",
     "author": "NYT Cooking",
     "image_validated": "dry_brined_turkey.jpg",
+    "brine": {
+      "mode": "dry",
+      "category": "Poultry",
+      "note": "The recipe calls for 1 tbsp kosher salt per 4 lb (~0.85% by weight). The calculator below targets 1.1%, which is closer to the modern Serious Eats / AmazingRibs consensus for poultry — adjust the slider down to ~0.85 if you want to match the original.",
+      "cut": "Whole Bird"
+    },
     "image": "dry_brined_turkey.jpg",
     "description": "This fantastic turkey recipe borrows a technique perfected by Judy Rodgers, the chef from the Zuni Café in San Francisco, who had exceptional results salting chickens long before roasting them (also called dry-brining).",
     "htmlfile": "dry_brined_turkey.html",
     "difficulty": "medium",
     "size": "12-14 servings",
-    "updated": "2023-08-02",
+    "updated": "2026-05-24",
     "time": "3½ hours, plus 2 days’ brining"
   },
   {
@@ -10466,12 +10348,21 @@
     "category": "Entrees",
     "image_validated_webp": "gravlax.webp",
     "image_validated": "gravlax.jpg",
+    "brine": {
+      "mode": "dry",
+      "category": "Seafood",
+      "note": "Heavy dry cure — salt and sugar by fillet weight, no water. The default 5% salt + 2.5% sugar over 4 days is the version I keep coming back to. Shorter cures (1–2 days) work too, but the longer cure has more time for the texture and flavor to develop.",
+      "defaultWeightUnit": "lb",
+      "saltType": "Diamond Kosher",
+      "defaultWeight": "1.5",
+      "cut": "Lox"
+    },
     "image": "gravlax.jpg",
     "description": "A traditional Nordic dish of raw salmon cured with salt, sugar, and dill.",
     "htmlfile": "gravlax.html",
     "difficulty": "medium",
     "size": "4 servings",
-    "updated": "2024-11-29",
+    "updated": "2026-05-25",
     "time": "5 days"
   },
   {
@@ -11082,12 +10973,21 @@
     "image_validated_webp": "grilled_lemon_chicken.webp",
     "author": "Cook’s Illustrated",
     "image_validated": "grilled_lemon_chicken.png",
+    "brine": {
+      "mode": "dry",
+      "category": "Poultry",
+      "note": "The recipe calls for a 6 tbsp salt / 1 qt water concentration brine for 1.5 hours. For chicken parts headed to a hot grill, a dry brine is simpler and keeps the skin from softening — the calculator below sizes that. If you’d rather follow the wet method, the calculator’s wet-concentration tab estimates internal salt at any given pull time.",
+      "defaultWeightUnit": "lb",
+      "saltType": "Diamond Kosher",
+      "defaultWeight": "3",
+      "cut": "Thighs/Drumsticks"
+    },
     "image": "grilled_lemon_chicken.png",
     "description": "This recipe, perfect for a casual outdoor gathering, focuses on the simple yet flavorful combination of chicken parts, herbs, and lemon.",
     "htmlfile": "grilled_lemon_chicken.html",
     "difficulty": "medium",
     "size": "Serves 4",
-    "updated": "2026-01-03",
+    "updated": "2026-05-25",
     "time": "2 hours (including optional brining)"
   },
   {
@@ -12286,12 +12186,22 @@
     "image_validated_webp": "hot_smoked_salmon.webp",
     "author": "Unknown",
     "image_validated": "hot_smoked_salmon.png",
+    "brine": {
+      "concentrationThickness": "1",
+      "concentrationLabel": "Hot-smoked salmon brine",
+      "note": "Gradient brine — the brine is much saltier than the target internal saltiness, and you stop the clock early. The cooking-log default below (5% salt + 5% sugar in water, 3 hours, 1″ fillet) lands at roughly 1.75% internal salt, which has consistently turned out well. Dial salt or time down for a milder cure; longer/saltier moves toward lox.",
+      "concentrationHours": "3",
+      "concentrationWater": "2",
+      "concentrationSugar": "5",
+      "concentrationSalt": "5",
+      "concentrationWaterUnit": "lb"
+    },
     "image": "hot_smoked_salmon.png",
     "description": "This recipe produces beautifully flaky, succulent hot-smoked salmon with a lovely hint of wood smoke flavor.",
     "htmlfile": "hot_smoked_salmon.html",
     "difficulty": "medium",
     "size": "Varies with fillet size",
-    "updated": "2026-02-01",
+    "updated": "2026-05-25",
     "time": "4-5 hours"
   },
   {
@@ -20267,63 +20177,6 @@
     "time": "1 hour"
   },
   {
-    "image_attribution": "Chris Simpson for The New York Times",
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "Make the base stock: Heat oven to 350 degrees. Rub the chicken backs and necks with olive oil to coat. Season liberally with salt and pepper and arrange in a single layer on 2 sheet pans. Roast for 40 minutes, until golden brown.",
-          "Transfer the contents of both sheet pans — chicken pieces, rendered fat and crispy bits — into a 16-quart stock pot. Use a spatula to scrape up all the drippings. Pour in enough water to cover the chicken by 4 inches. Add the apple cider vinegar and bring to a heavy boil. Continue boiling over high for 2 hours or reduce the heat to low and simmer for 12 hours, breaking up the chicken pieces intermittently with a wooden spoon, until the backs and necks are very soft, completely clean and broken apart.",
-          "Strain the stock through a fine-mesh sieve, using a large wooden pestle or spoon to press out the fat from the meat, bone and cartilage. The solids should be almost dry when you are finished. Discard the solids and set the base stock aside; you should have 6 cups.",
-          "Make the turkey stock: Take the turkey carcass and pick off the meat, using a knife or your hands. Refrigerate the picked or sliced meat. Separate the breast plate from the spinal column and remove the thigh and leg bones. The turkey carcass pieces do not need to be roasted again. If using additional chicken or turkey necks, roast them: Heat oven to 350 degrees. Coat the necks with olive oil and season with salt and pepper. Arrange in a single layer on a sheet pan. Roast until golden brown.",
-          "Pour the base stock into a 16-quart stock pot. Submerge the turkey carcass pieces in the stock and add the additional roasted necks and drippings from the sheet pans (if using). If the stock does not cover all the pieces completely, add water until covered. Add 1 teaspoon salt and the apple cider vinegar and bring to a heavy boil. Continue boiling over high for 2 hours or reduce the heat to low and simmer for 12 hours, breaking up the turkey pieces intermittently with a wooden spoon. When finished, it should be opaque and have a silky viscosity that feels slippery on your tongue when you taste it.",
-          "Strain the stock through a fine-mesh sieve, using a large wooden pestle or spoon to press out the fat from the remaining meat, bone and cartilage. Discard the pressed material. Taste the broth: It should be rich, smooth and salty. Add salt to taste if needed. Pour the broth back into the pot and keep over low heat.",
-          "Make the ramen: In a heavy saucepan, melt the butter over medium. Add the garlic and shallot and cook, stirring, for 1 to 2 minutes. Add the sliced mushrooms and cook, stirring often, for 1 to 2 minutes. Add the salt and pepper and continue cooking until the mushrooms begin to sweat, then add the soy sauce and Worcestershire sauce. Continue to cook, stirring occasionally, until the mushrooms start to absorb liquid again. Set aside.",
-          "Bring a large saucepan of water to a boil. Using a slotted spoon, carefully lower the eggs into the pot. Leave uncovered. Set a timer for 6 minutes. Fill a bowl with an ice and water. When the timer goes off, transfer the eggs immediately to the ice bath and let sit for 2 minutes. Drain the eggs, then peel and set aside.",
-          "Return the large saucepan of water to a boil and cook the ramen noodles according to package instructions. Drain and divide among 6 to 8 bowls. Add the sautéed mushrooms and reserved turkey meat to each bowl. Slice each boiled egg in half — the yolks should be slightly runny — and apportion two halves to each serving. Ladle the hot turkey broth over everything in each bowl. Sprinkle the scallions over the top and serve with soy sauce and sriracha on the table."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "For the Base Stock: * 8 to 10 chicken backs and necks * Extra-virgin olive oil, for coating * Kosher salt and black pepper * 2 tbsp apple cider vinegar",
-        "list": []
-      },
-      {
-        "title": "For the Turkey Stock: * 1 leftover carcass from a 16- to 18-pound roasted turkey, preferably including neck, wing and leg bones * 3 chicken or turkey necks (optional) * Extra-virgin olive oil, if needed * Kosher salt and black pepper * 1 tbsp apple cider vinegar",
-        "list": []
-      },
-      {
-        "title": "For the Ramen: * 4 tbsp unsalted butter * 1 garlic clove, chopped fine * 1 small shallot, chopped fine * 1 cup cremini mushrooms, sliced * 1 cup white button mushrooms, sliced * 1 cup shiitake mushrooms, sliced * ¼ tsp kosher salt * ¼ tsp black pepper, freshly ground * 2 tbsp soy sauce, plus more for serving * 1 tbsp Worcestershire sauce * 6 to 8 large eggs * 6 to 8 packages ramen noodles (3 to 5 ounces each), seasoning packs discarded * Leftover slices and/or large chunks of roasted turkey * 8 to 10 scallions, chopped into ¼-inch pieces * Sriracha, for serving",
-        "list": []
-      }
-    ],
-    "original_title": "Roasted Turkey Ramen",
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "To save time, you can substitute 6 quarts of store-bought chicken stock for the base stock."
-        ]
-      }
-    ],
-    "landscape": "true",
-    "title": "Roasted Turkey Ramen",
-    "backstory": "<p>The original recipe was created by Joshua Mangerson, who would pick off the remaining meat from the turkey carcass, submerge it in chicken stock and let it simmer. The next day, the turkey leftovers are transformed into turkey ramen, with mushrooms, scallions and a six-minute egg in each bowl. The rich, cloudy broth is an ode to the Strongbow Inn, the turkey restaurant that Mr. Mangerson’s great-grandmother opened in 1940 on the family turkey farm in Valparaiso, Ind.</p>",
-    "category": "Entrees",
-    "image_validated_webp": "roasted_turkey_ramen.webp",
-    "source": "https://cooking.nytimes.com/recipes/1023674-roasted-turkey-ramen",
-    "author": "Joshua Mangerson, Adapted by Ligaya Mishan",
-    "image_validated": "roasted_turkey_ramen.jpg",
-    "image": "roasted_turkey_ramen.jpg",
-    "description": "Transform your Thanksgiving leftovers into a delicious turkey ramen, complete with mushrooms, scallions and a six-minute egg in each bowl.",
-    "htmlfile": "roasted_turkey_ramen.html",
-    "difficulty": "hard",
-    "size": "6 to 8 servings",
-    "updated": "2023-08-02",
-    "time": "6 hours"
-  },
-  {
     "directions": [
       {
         "title": "",
@@ -20442,56 +20295,6 @@
     "size": "8-10 servings",
     "updated": "2023-08-02",
     "time": "1 hour"
-  },
-  {
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "Into the bowl of your stand mixer, add the cream, condensed milk (or sugar) and attach the whisk and whip to soft peaks.",
-          "Meanwhile, add the sugar and rose petals into a food processor and pulse until a puree.",
-          "Turn down the speed and add the rose petal puree, rosewater and vodka and mix for a couple of minutes or until well incorporated.",
-          "Empty into a container, place plastic wrap on top of the ice cream and place the lid on. Place in your freezer for minimum 5 hours to overnight."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>2 cups</b> cold heavy cream",
-          "<b>1 can</b> condensed milk (or <b>1 cup</b> powdered sugar)",
-          "<b>1 tbsp</b> granulated sugar",
-          "<b>12</b> large red rose petals (untreated/unsprayed)",
-          "<b>1 tsp</b> coloured rosewater or pomegranate mollases (for colour)",
-          "<b>1 shot</b> of vodka"
-        ]
-      }
-    ],
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "Alcohol in ice cream is added to give you a softer texture when it is taken out of the freezer. You can omit if you like."
-        ]
-      }
-    ],
-    "title": "Rose Petal Ice Cream",
-    "backstory": "<p>Rose petals are indeed edible but one must ensure the petals haven’t been sprayed with any pesticides before using. If you don’t have roses in your garden, ask your florist. This recipe takes the route of “no-churn” ice creams. I scream, you scream, we all scream for rose petal ice cream!</p>",
-    "category": "Desserts",
-    "image_validated_webp": "rose_petal_ice_cream.webp",
-    "source": "https://www.kalofagas.ca/2021/07/04/rose-petal-ice-cream/",
-    "author": "Peter Minaki",
-    "image_validated": "rose_petal_ice_cream.jpg",
-    "image": "rose_petal_ice_cream.jpg",
-    "veggie": "✓",
-    "description": "A delightful rose petal ice cream that will make many happy 013 those on team rose and those perhaps on the fence, will like this treat.",
-    "htmlfile": "rose_petal_ice_cream.html",
-    "difficulty": "medium",
-    "sweet": "✓",
-    "size": "6 servings",
-    "updated": "2023-08-02",
-    "time": "5-24 hours"
   },
   {
     "directions": [
@@ -22122,57 +21925,6 @@
       {
         "title": "",
         "list": [
-          "Cut the kabocha into 1-inch cubes and put into a medium saucepan.",
-          "Add just enough water to completely cover kabocha, and add Hikari Miso Shio Koji.",
-          "Bring to a boil then lower the heat to simmer. Cook the kabocha until a skewer goes through smoothly, about 4-5 minutes.",
-          "Cover with a lid and set aside to allow the flavor to slowly be absorbed. Let the kabocha squash cook slowly with the residual heat while it absorbs flavor from the shio koji. If you overcook the kabocha squash, it will get mushy and lose its shape and appeal. You can serve this dish cold, at room temperature, or warm."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>12 oz</b> kabocha squash/pumpkin",
-          "<b>1 tbsp</b> Hikari Miso Shio Koji (or 2 tsp kosher salt for 1 tbsp Shio Koji)",
-          "Water"
-        ]
-      }
-    ],
-    "original_title": "南瓜の塩麹煮",
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "All images and content on this site are copyright protected. Please do not use my images without my permission. If you’d like to share this recipe on your site, please re-write the recipe in your own words and link to this post as the original source. Thank you."
-        ]
-      },
-      {
-        "title": "This post is sponsored by Hikari Miso. To read more about my partnership with Hikari Miso, click here.",
-        "list": []
-      }
-    ],
-    "title": "Simmered Kabocha with Shio Koji",
-    "backstory": "<p>This recipe is a simple yet flavorful side dish that showcases the unique taste of kabocha squash. The shio koji seasoning enhances the natural sweetness of the kabocha, making this a dish that is sure to impress.</p>",
-    "category": "Sides",
-    "image_validated_webp": "simmered_kabocha_with_shio_koji.webp",
-    "umami": "✓",
-    "source": "https://www.justonecookbook.com/simmered-kabocha-with-shio-koji/",
-    "author": "Namiko Chen",
-    "image_validated": "simmered_kabocha_with_shio_koji.jpg",
-    "image": "simmered_kabocha_with_shio_koji.jpg",
-    "description": "Delicious simmered kabocha squash flavored with the popular Japanese seasoning shio koji (rice koji and salt), resulting in unique umami flavor.",
-    "htmlfile": "simmered_kabocha_with_shio_koji.html",
-    "difficulty": "medium",
-    "size": "4 servings",
-    "updated": "2023-08-01",
-    "time": "10 minutes"
-  },
-  {
-    "directions": [
-      {
-        "title": "",
-        "list": [
           "Begin by sifting the almond flour. You can return the leftovers to a food processor and blend to recover some additional fine ground almond. Resist the temptation to use these large clumps of flour since they will make your cake clumpy instead of homogenous.",
           "Optionally, add a bit of cream of tartar to help form a more perfect meringue.",
           "Butter and flour your pan before pouring in the batter. To prepare this batter gluten-free swap the flour with corn starch, being very careful to avoid any cross-contamination.",
@@ -22378,14 +22130,13 @@
         ]
       }
     ],
-    "landscape": "true",
     "title": "Skillet Caramel-Apple Crisp",
     "backstory": "<p>First, it lends sweetness to the apple filling, and second, it yields a lot of leftovers to serve alongside. Use firm, tart apples like Mutsu, Jonathan or Honeycrisp, which will hold their shape during baking.</p>",
     "category": "Desserts",
-    "image_validated_webp": "skillet_caramel_apple_crisp.webp",
+    "image_validated_webp": "placeholder_desserts.webp",
     "source": "https://cooking.nytimes.com/recipes/1020588-skillet-caramel-apple-crisp",
     "author": "Yossy Arefi",
-    "image_validated": "skillet_caramel_apple_crisp.jpg",
+    "image_validated": "placeholder_desserts.jpg",
     "image": "skillet_caramel_apple_crisp.jpg",
     "description": "The caramel sauce does double duty in this warm, comforting crisp.",
     "htmlfile": "skillet_caramel_apple_crisp.html",
@@ -23879,7 +23630,6 @@
         ]
       }
     ],
-    "landscape": "true",
     "nutrition facts": [
       {
         "title": "",
@@ -23896,10 +23646,10 @@
     "title": "Sous Vide Flan",
     "backstory": "<p>This Sous Vide Flan recipe is a unique take on the traditional flan dessert, using a sous vide cooker to achieve a perfectly smooth and creamy texture. The recipe was originally found on Allrecipes.com.</p>",
     "category": "Desserts",
-    "image_validated_webp": "sous_vide_flan.webp",
+    "image_validated_webp": "placeholder_desserts.webp",
     "source": "https://www.allrecipes.com/recipe/263114/sous-vide-flan/",
     "author": "Allrecipes.com",
-    "image_validated": "sous_vide_flan.jpg",
+    "image_validated": "placeholder_desserts.jpg",
     "image": "sous_vide_flan.jpg",
     "description": "A creamy, smooth flan made using the sous vide method for perfect texture every time.",
     "htmlfile": "sous_vide_flan.html",
@@ -23948,12 +23698,18 @@
     "category": "Pantry",
     "image_validated_webp": "soy_sauce_and_sugar_fish_marinade.webp",
     "image_validated": "soy_sauce_and_sugar_fish_marinade.jpg",
+    "brine": {
+      "mode": "wet",
+      "category": "Seafood",
+      "note": "This is a high-salt soy + sugar concentration brine — the 4-hour soak in concentrated soy will be saltier than a typical fish brine. If you want a milder result with the same flavor, use the calculator’s wet-concentration tab to size the salt at a lower percentage and shorter soak, then add soy sparingly for color and umami.",
+      "cut": "Fish"
+    },
     "image": "soy_sauce_and_sugar_fish_marinade.jpg",
     "description": "A flavorful brine for salmon, trout, sturgeon or other fish.",
     "htmlfile": "soy_sauce_and_sugar_fish_marinade.html",
     "difficulty": "medium",
     "size": "8-10 pounds of fillets",
-    "updated": "2023-08-01",
+    "updated": "2026-05-25",
     "time": "4 hours for marinating, 6-12 hours for smoking"
   },
   {
@@ -24474,14 +24230,13 @@
         ]
       }
     ],
-    "landscape": "true",
     "title": "Stewed Sweet Peppers (Peperonata)",
     "backstory": "<p>It makes a great antipasto atop bruschetta. This sweet, simple pepper stew is an ideal use for summer’s bounty of sweet peppers. It makes a great antipasto atop bruschetta. It’s a recipe that has been passed down through generations and is a staple in many Italian households.</p>",
     "category": "Sides",
-    "image_validated_webp": "stewed_sweet_peppers_peperonata.webp",
+    "image_validated_webp": "placeholder_sides.webp",
     "source": "http://www.saveur.com/gallery/Roman-Pasta-and-Side-Dishes",
     "author": "Saveur",
-    "image_validated": "stewed_sweet_peppers_peperonata.jpg",
+    "image_validated": "placeholder_sides.jpg",
     "image": "stewed_sweet_peppers_peperonata.jpg",
     "description": "This sweet, simple pepper stew is an ideal use for summer’s bounty of sweet peppers.",
     "htmlfile": "stewed_sweet_peppers_peperonata.html",
@@ -24650,14 +24405,13 @@
         ]
       }
     ],
-    "landscape": "true",
     "title": "Strawberry Pretzel Pie",
     "backstory": "<p>The classic recipe consists of a crumbled pretzel crust, a whipped cream cheese and Cool Whip filling, and a top layer of strawberry Jell-O. In this fresher adaptation, crushed pretzels form the foundation of an easy shortbread crust, followed by a fluffy cream filling and a pile of fresh strawberries, omitting the use of gelatin. If you’re making this pie in advance — especially with juicy, height-of-season berries — complete Steps 1 to 3, then cloak the filled crust with plastic wrap and chill up to 24 hours. Just before serving, toss the berries in sugar and pile them on top.</p>",
     "category": "Desserts",
-    "image_validated_webp": "strawberry_pretzel_pie.webp",
+    "image_validated_webp": "placeholder_desserts.webp",
     "source": "https://cooking.nytimes.com/search?q=Jerrelle+Guy",
     "author": "Jerrelle Guy",
-    "image_validated": "strawberry_pretzel_pie.jpg",
+    "image_validated": "placeholder_desserts.jpg",
     "image": "strawberry_pretzel_pie.jpg",
     "description": "A wonderful but simple summer pie inspired by strawberry pretzel salad, a popular Southern dessert.",
     "htmlfile": "strawberry_pretzel_pie.html",
@@ -25353,55 +25107,6 @@
   {
     "directions": [
       {
-        "title": "",
-        "list": [
-          "Slice shallots thinly and deep fry until golden brown. Remove from pan. Keep some shallot oil in the pan to fry pork. The rest can be used for other stir-fry dishes.",
-          "Hand cut pork belly into 1cmx1cm slices.",
-          "Stir fry until the fat is rendered, with sliced ginger, minced garlic, white part of spring onions, dark soya, and huatiao wine (Chinese cooking wine).",
-          "Pour enough water to cover the meat, bring to a boil and add 2 star anise, five spice powder, white pepper, and the fried shallots.",
-          "Simmer 2-3hours, stirring every 15mins to make sure it doesn’t burn.",
-          "After 3 hours, it should have a sticky, sweet braise. Serve over plain rice and garnish with spring onion."
-        ]
-      },
-      {
-        "title": "Optional: add braised egg and salted vegetables (stir-fry with sugar if it’s too salty).",
-        "list": []
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>12-15</b> medium sized shallots, sliced",
-          "<b>1</b> slab of pork belly (the ideal pork belly should have five layers of fat/meat)",
-          "<b>3</b> slices of ginger",
-          "<b>2</b> pc star anise",
-          "Five spice powder to taste",
-          "White pepper to taste",
-          "<b>3</b> cloves minced garlic",
-          "Huatiao wine to taste",
-          "Spring onions, cut into pieces"
-        ]
-      }
-    ],
-    "title": "Taiwanese Braised Pork Rice",
-    "backstory": "<p>This recipe is a crowd favorite and always requested.</p>",
-    "category": "Entrees",
-    "image_validated_webp": "taiwanese_braised_pork_rice.webp",
-    "author": "Anonymous",
-    "image_validated": "taiwanese_braised_pork_rice.jpg",
-    "image": "taiwanese_braised_pork_rice.jpg",
-    "favorite": "✓",
-    "description": "A delicious, restaurant-standard dish of braised pork belly served over rice.",
-    "htmlfile": "taiwanese_braised_pork_rice.html",
-    "difficulty": "medium",
-    "size": "4-6 servings",
-    "updated": "2023-08-01",
-    "time": "3-4 hours"
-  },
-  {
-    "directions": [
-      {
         "title": "Tako Poke",
         "list": []
       },
@@ -25756,69 +25461,6 @@
     "time": "7 hours 30 minutes"
   },
   {
-    "image_attribution": "David Malosh for The New York Times",
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "Set a rack in the center of the oven, and heat oven to 350 degrees. Have 6 (4-ounce) ramekins ready. Make the caramel: Combine sugar and tangerine juice in a small skillet or saucepan. Set over medium heat, stirring to dissolve sugar, and bring to a simmer.",
-          "Simmer, stirring occasionally, until mixture begins to thicken, about 5 minutes. Continue simmering until mixture begins to caramelize and brown, stirring or swirling the pan, 5 to 6 minutes more. Let the caramel go as dark as possible without burning, to a deep brown color, then carefully pour a bit in the bottom of each ramekin, dividing the hot caramel among them evenly. Set ramekins aside at room temperature.",
-          "Make the custard: Put the half-and half and sugar in a medium saucepan, and set over medium-high heat. Add bay leaves, rosemary (if using) and vanilla. Bring to just under a simmer, then turn off heat. Stir to dissolve sugar.",
-          "In a medium bowl, whisk together eggs and tangerine juice. Whisk in the hot half-and-half mixture a little at a time.",
-          "Strain the custard through a fine-mesh sieve set over a medium bowl. Set ramekins in a deep baking dish. Fill each ramekin with 1/2 cup of the strained mixture.",
-          "Place baking dish on middle rack in the oven. Add hot tap water to baking dish so it comes halfway up the sides of the ramekins. Cover dish tightly with foil and bake until custards set, 25 to 30 minutes. Start checking at 15 minutes. When done, custards should look opaque and just a little wiggly. Insert a paring knife into the center of the flan to test. The knife should come out clean.",
-          "Carefully remove ramekins from water bath and let cool to room temperature. Wrap and refrigerate for 4 hours or overnight.",
-          "To serve, run a small knife around the inside edge of each ramekin to loosen the flan. Invert a dessert plate over the ramekin, then flip plate while securing ramekin. Tap or shake ramekin, lift from plate and the flan will release. Spoon any remaining caramel around flan. Garnish with tangerine segments, if desired."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "For the Caramel:",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "<b>½ cup/101 grams</b> granulated sugar",
-          "<b>½ cup/118 milliliters</b> tangerine juice (from 3 to 4 medium tangerines)"
-        ]
-      },
-      {
-        "title": "For the Custard:",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "<b>2 cups/473 milliliters</b> half-and-half",
-          "<b>½ cup/101 grams</b> granulated sugar",
-          "<b>2</b> dried bay leaves",
-          "<b>1</b> small rosemary sprig (optional)",
-          "<b>¼ teaspoon</b> pure vanilla extract",
-          "<b>3</b> large eggs, at room temperature",
-          "<b>½ cup/118 milliliters</b> tangerine juice (from 3 to 4 medium tangerines)",
-          "Tangerine segments, for garnish (optional)"
-        ]
-      }
-    ],
-    "landscape": "true",
-    "title": "Tangerine Flan",
-    "backstory": "<p>Ideally made a day in advance for the ingredients to mingle. The caramel is dark, but be careful not to burn it. This flan often incorporates orange notes, but this version looks to that jewel of winter, tangerine. The end result is somewhat brighter in flavor, and is ideally made a day in advance of serving so the ingredients have time to mingle. Be sure to let the caramel go quite dark, but take care to avoid burning it.</p>",
-    "category": "Desserts",
-    "image_validated_webp": "tangerine_flan.webp",
-    "source": "https://cooking.nytimes.com/ourcooks/david-tanis/my-recipes?action=click&amp;module=byline&amp;region=recipe%20page",
-    "author": "David Tanis",
-    "image_validated": "tangerine_flan.jpg",
-    "image": "tangerine_flan.jpg",
-    "description": "A bright and flavorful flan incorporating the winter jewel, tangerine.",
-    "htmlfile": "tangerine_flan.html",
-    "difficulty": "medium",
-    "size": "6 servings",
-    "updated": "2023-08-02",
-    "time": "2 hours, plus at least 4 hours’ refrigerating"
-  },
-  {
     "directions": [
       {
         "title": "",
@@ -25909,9 +25551,9 @@
     "spicy": "✓",
     "backstory": "<p>This Texas Beef Chili, also known as Chili Con Carne, is a hearty dish with tender chunks of beef enveloped in a deep, spicy, and smoky sauce. It’s like a chili-flavored beef stew that’s perfect for those cold winter nights.</p>",
     "category": "Entrees",
-    "image_validated_webp": "texas_beef_chili.webp",
+    "image_validated_webp": "placeholder_entrees.webp",
     "author": "Once Upon a Chef",
-    "image_validated": "texas_beef_chili.jpg",
+    "image_validated": "placeholder_entrees.jpg",
     "image": "texas_beef_chili.jpg",
     "description": "With tender chunks of beef enveloped in a deep, spicy and smoky sauce, Chili con Carne is like a chili-flavored beef stew.",
     "htmlfile": "texas_beef_chili.html",
@@ -25998,10 +25640,10 @@
     "spicy": "✓",
     "backstory": "<p>This recipe is a delightful fusion of Thai flavors with classic BBQ ribs. The ribs are marinated overnight in a flavorful mix, slow-cooked until tender, and then grilled to perfection. The Peanut BBQ Sauce adds a nutty, savory twist, and the Sweet Thai Ginger Slaw provides a refreshing crunch. Grab some napkins – things are going to get deliciously messy!</p>",
     "category": "Entrees",
-    "image_validated_webp": "thai_bbq_ribs_w_peanut_bbq_sauce_sweet_thai_ginger_slaw.webp",
+    "image_validated_webp": "placeholder_entrees.webp",
     "source": "http://www.halfbakedharvest.com/extra-sticky-thai-bbq-ribs-wpeanut-bbq-sauce-sweet-thai-ginger-slaw/",
     "author": "Half Baked Harvest",
-    "image_validated": "thai_bbq_ribs_w_peanut_bbq_sauce_sweet_thai_ginger_slaw.jpg",
+    "image_validated": "placeholder_entrees.jpg",
     "image": "thai_bbq_ribs_w_peanut_bbq_sauce_sweet_thai_ginger_slaw.jpg",
     "description": "Extra Sticky Thai BBQ Ribs with Peanut BBQ Sauce and Sweet Thai Ginger Slaw.",
     "htmlfile": "thai_bbq_ribs_w_peanut_bbq_sauce_sweet_thai_ginger_slaw.html",
@@ -26009,62 +25651,6 @@
     "size": "2 racks",
     "updated": "2023-08-01",
     "time": "Overnight marination + 6 hours cooking"
-  },
-  {
-    "image_attribution": "Claudia Totir",
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "Place 1 cup coconut milk in a mixing bowl. Crack in the eggs, and add a pinch of salt. Beat well with a fork or whisk until smooth (30 seconds to 1 minute).",
-          "Sprinkle the rice flour over and beat until smooth.",
-          "Add the extracts plus the sugar. Beat until smooth.",
-          "Taste-test the batter for sweetness, adding a little more sugar if desired.",
-          "Grease 4 ramekins (individual baking dishes) with a few drops of cooking oil (or you can use butter). Ladle the batter into these ramekins, filling to 3/4.",
-          "Place ramekins inside a long baking dish (the type you would use for lasagna). Pour some water into this dish so that it reaches 1/3 to 1/2 up the sides of the ramekins.",
-          "Place carefully in the oven. Bake at 375 F for 30 to 35 minutes, or until pudding/cakes are set. A fork inserted into the center should come out clean.",
-          "To Serve Pudding Cakes: Either leave them in the ramekins or loosen with a knife and remove by turning upside-down over serving plates. Add a dollop of the coconut cream (or whipped/ice cream) and a sprinkling of toasted coconut, if desired. Note that if you have refrigerated your coconut milk/cream, it will have hardened - not to worry, it will slowly “melt” over the warm pudding, making it delicious!",
-          "To Make Toasted Coconut: Simply “dry fry” (no oil) the coconut over medium heat, stirring continuously until the coconut turns golden brown and is fragrant. Remove coconut from the pan immediately, or it will continue toasting."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>1 can</b> good-quality coconut milk",
-          "<b>2</b> eggs",
-          "<b>Pinch</b> of salt",
-          "<b>1/2 cup</b> rice flour (available at Asian/Chinese food stores in small plastic bags)",
-          "<b>1 tsp</b> coconut extract",
-          "<b>1 tsp</b> vanilla extract",
-          "<b>1/4 cup</b> sugar (or more to taste)",
-          "<b>4 dollops</b> of coconut cream (or thick coconut milk from the top of the can, whipped cream, or ice cream)",
-          "<b>2 to 3 tbsp</b> toasted dry shredded coconut (see toasting instructions at end of recipe)"
-        ]
-      }
-    ],
-    "landscape": "true",
-    "nutrition": [
-      "223 calories",
-      "15g fat",
-      "19g carbs",
-      "6g protein"
-    ],
-    "title": "Thai Coconut Pudding Cake Dessert",
-    "backstory": "<p>Served warm with a dollop of thick coconut milk or cream plus a sprinkling of toasted coconut, this tropical-tasting dessert is certain to please, especially if you’re a coconut fan. Delicious and super easy to make, this pudding is healthy too - low in fat and sugar, plus gluten-free.</p>",
-    "category": "Desserts",
-    "image_source": "Getty Images",
-    "image_validated_webp": "thai_coconut_pudding_cake_dessert.webp",
-    "author": "Claudia Totir",
-    "image_validated": "thai_coconut_pudding_cake_dessert.jpg",
-    "image": "thai_coconut_pudding_cake_dessert.jpg",
-    "description": "This deliciously moist Thai dessert is like a pudding but with the consistency of a cake.",
-    "htmlfile": "thai_coconut_pudding_cake_dessert.html",
-    "difficulty": "medium",
-    "size": "6 to 8 servings",
-    "updated": "2023-08-02",
-    "time": "40 mins"
   },
   {
     "directions": [
@@ -26230,58 +25816,6 @@
       {
         "title": "",
         "list": [
-          "Let these simmer for ten minutes, now strain it through a muslin or gravy strainer.",
-          "When the onions are browned add the mollagoo tanney with a small bay leaf, and skim off the grease, and send to table in a soup tureen as a soup; but this should be used instead of soup, or the first dish for a lunch or breakfast or dinner, but I recommend for dinner in Europe.",
-          "Cut lemon should be handed round with the above and plain boiled rice. Fried red herring wouldn’t be a bad accompaniment. In India the mullagatawny is used generally once a week—say on a Sunday or Wednesday.",
-          "The natives usually have this mullagatawny on Fridays after their caste. Some mullagatawny are made of plain Curry stuffs, tamarind, etc., not worth for Europeans.",
-          "The Curry stuffs you use for mollagoo tanney should be very fine. Take a large stew-pan and mix all the above together, only one onion (sliced), garlic and ginger chopped up fine. Let these simmer for ten minutes, now strain it through a muslin or gravy strainer. Now fry the other onion in the dessertspoon of butter in another stew-pan."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>2 quarts</b> of Chicken Soup",
-          "<b>2</b> Large Spoons of Coriander Powder",
-          "<b>1 tbsp</b> of Rice Powder as No. 48, and Pinch of Pepper",
-          "<b>1 pint</b> of good Milk",
-          "<b>2</b> Large Onions, sliced",
-          "<b>1</b> Piece of Ginger",
-          "<b>1</b> Garlic, small one",
-          "<b>½ tsp</b> of Cumin Powder",
-          "<b>1</b> Dessertspoon Butter"
-        ]
-      }
-    ],
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "Tips: Some parties who visited India like native mullagatawny better than the above, according to taste, but I recommend the above for Europeans. The cayenne pepper should be added if required hot. The above plan of chutney is suitable for cold meats, Curries, etc. In Ceylon, Mango Chutney is made in similar way, but they use tamarind, and when grinding use vinegar to soften the ingredients when grinding. In Ceylon every cook would send a samball to table with the Curry and rice; also native meals are never without a samball—especially samball, or some ball. It is only a new-made chutney or pickle, but fresh made, called <em>sampball</em>."
-        ]
-      }
-    ],
-    "title": "Thai Red Curry Noodles",
-    "spicy": "✓",
-    "backstory": "<p>With a supply of good eggs and a variety of spices, this recipe is a tasty custard that is perfect for any meal.</p>",
-    "category": "Entrees",
-    "image_validated_webp": "thai_red_curry_noodles.webp",
-    "author": "Ingo Muschenetz",
-    "image_validated": "thai_red_curry_noodles.jpg",
-    "image": "thai_red_curry_noodles.jpg",
-    "description": "A perfect blend of curry, beans, and eggs, this Thai Red Curry Noodles recipe is a staple diet in many foreign countries.",
-    "htmlfile": "thai_red_curry_noodles.html",
-    "difficulty": "medium",
-    "size": "2-4 servings",
-    "updated": "2023-08-01",
-    "time": "Not specified"
-  },
-  {
-    "directions": [
-      {
-        "title": "",
-        "list": [
           "In a large bowl, whisk together the bread flour, salt, and yeast.",
           "Slowly add the water, and mix with a wooden spoon just to combine. Once the mixture is moistened, lightly flour a countertop or large cutting board and remove the dough from the bowl with lightly oiled or wet hands (to discourage sticking). Knead for 2-3 minutes to remove clumps. The dough won’t become elastic, but should easily form a loose ball.",
           "Place the dough in a lightly oiled bowl and cover with a damp, clean kitchen towel or plastic wrap to prevent it from drying out and developing a skin.",
@@ -26383,145 +25917,20 @@
     "source": "https://www.sharemycook.com/Recipe/Details/132",
     "author": "Meathead Goldwyn",
     "image_validated": "the_best_bbq_pulled_pork_recipe.jpg",
+    "brine": {
+      "mode": "dry",
+      "category": "Pork",
+      "note": "The recipe says ‘dry brine 12–24 hours in advance’ but doesn’t specify how much salt. Pork shoulder is fatty enough that the Pork Belly profile (1.3% by weight) is the closest match — fatty cuts take more salt than lean ones.",
+      "cut": "Pork Belly"
+    },
     "image": "the_best_bbq_pulled_pork_recipe.jpg",
     "favorite": "✓",
     "description": "A flavorful and tender BBQ pulled pork recipe that is perfect for any occasion.",
     "htmlfile": "the_best_bbq_pulled_pork_recipe.html",
     "difficulty": "medium",
     "size": "4-6 servings",
-    "updated": "2023-08-01",
+    "updated": "2026-05-24",
     "time": "8-10 hours"
-  },
-  {
-    "directions": [
-      {
-        "title": "Make the Meat Filling.",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "Add the oil to a large skillet and place it over medium-high heat for 2 minutes. Add the onions. Cook 5 minutes, stirring occasionally.",
-          "Add the ground beef (or ground lamb) to the skillet and break it apart with a wooden spoon. Add the parsley, rosemary, thyme, salt, and and pepper. Stir well. Cook for 6-8 minutes, until the meat is browned, stirring occasionally.",
-          "Add the Worcestershire sauce and garlic. Stir to combine. Cook for 1 minute.",
-          "Add the flour and tomato paste. Stir until well incorporated and no clumps of tomato paste remain.",
-          "Add the broth, frozen peas and carrots, and frozen corn. Bring the liquid to a boil then reduce to simmer. Simmer for 5 minutes, stirring occasionally.",
-          "Set the meat mixture aside. Preheat oven to 400 degrees F."
-        ]
-      },
-      {
-        "title": "Make the potato topping.",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "Place the potatoes in a large pot. Cover the potatoes with water. Bring the water to a boil. Reduce to a simmer. Cook until potatoes are fork tender, 10-15 minutes.",
-          "Drain the potatoes in a colander. Return the potatoes to the hot pot. Let the potatoes rest in the hot pot for 1 minute to evaporate any remaining liquid.",
-          "Add butter, half &amp; half, garlic powder, salt, and pepper. Mash the potatoes and stir until all the ingredients are mixed together.",
-          "Add the parmesan cheese to the potatoes. Stir until well combined."
-        ]
-      },
-      {
-        "title": "Assemble the casserole.",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "Pour the meat mixture into a 9x9 (or 7x11) inch baking dish. Spread it out into an even layer. Spoon the mashed potatoes on top of the meat. Carefully spread into an even layer.",
-          "If the baking dish looks very full, place it on a rimmed baking sheet so that the filling doesn’t bubble over into your oven. Bake uncovered for 25-30 minutes. Cool for 15 minutes before serving."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "Meat Filling:",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "<b>2 tbsp</b> olive oil",
-          "<b>1 cup</b> chopped yellow onion",
-          "<b>1 lb.</b> 90% lean ground beef -or ground lamb",
-          "<b>2 tsp</b> dried parsley leaves",
-          "<b>1 tsp</b> dried rosemary leaves",
-          "<b>1 tsp</b> dried thyme leaves",
-          "<b>1/2 tsp</b> salt",
-          "<b>1/2 tsp</b> ground black pepper",
-          "<b>1 tbsp</b> Worcestershire sauce",
-          "<b>2</b> garlic cloves -minced",
-          "<b>2 tbsp</b> all purpose flour",
-          "<b>2 tbsp</b> tomato paste",
-          "<b>1 cup</b> beef broth",
-          "<b>1 cup</b> frozen mixed peas &amp; carrots",
-          "<b>1/2 cup</b> frozen corn kernels"
-        ]
-      },
-      {
-        "title": "Potato Topping:",
-        "list": []
-      },
-      {
-        "title": "",
-        "list": [
-          "<b>1 1/2 - 2 lb.</b> russet potatoes -about 2 large potatoes peeled and cut into 1 inch cubes",
-          "<b>8 tbsp</b> unsalted butter -1 stick",
-          "<b>1/3 cup</b> half &amp; half",
-          "<b>1/2 tsp</b> garlic powder",
-          "<b>1/2 tsp</b> salt",
-          "<b>1/4 tsp</b> ground black pepper",
-          "<b>1/4 cup</b> parmesan cheese"
-        ]
-      }
-    ],
-    "original_title": "Shepherd’s Pie",
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "If you can’t find frozen mixed peas and carrots, you could use 1/2 cup frozen peas and 1/2 cup frozen sliced carrots."
-        ]
-      }
-    ],
-    "landscape": "true",
-    "nutrition": [
-      {
-        "title": "",
-        "list": [
-          "400 calories",
-          "13 g carbohydrates",
-          "19 g protein",
-          "30 g fat",
-          "15 g saturated fat",
-          "97 mg cholesterol",
-          "751 mg sodium",
-          "483 mg potassium",
-          "2 g fiber",
-          "2 g sugar",
-          "2860 IU vitamin A",
-          "7.9 mg vitamin C",
-          "99 mg calcium",
-          "2.7 mg iron"
-        ]
-      }
-    ],
-    "title": "The Best Classic Shepherd’s Pie",
-    "backstory": "<p>While traditional Irish Shepherd’s Pie calls for ground lamb, this recipe allows for either ground beef or lamb. The meat is cooked with vegetables in a rich gravy, then topped with cheesy mashed potatoes and baked until golden. Perfect for a hearty family dinner or a special occasion like St. Patrick’s Day!</p>",
-    "category": "Entrees",
-    "image_validated_webp": "the_best_classic_shepherd_s_pie.webp",
-    "source": "https://www.thewholesomedish.com/the-best-classic-shepherds-pie/",
-    "author": "Amanda Finks",
-    "image_validated": "the_best_classic_shepherd_s_pie.jpg",
-    "image": "the_best_classic_shepherd_s_pie.jpg",
-    "favorite": "✓",
-    "description": "Ground Beef (or lamb) with vegetables in a rich gravy, topped with cheesy mashed potatoes, and baked.",
-    "htmlfile": "the_best_classic_shepherd_s_pie.html",
-    "difficulty": "medium",
-    "size": "6 servings",
-    "updated": "2023-08-02",
-    "time": "1 hour 10 minutes"
   },
   {
     "image_prompt": "A photojournalistic image of golden crispy roast potatoes, fresh out of the oven. The potatoes are tossed in a rustic metal bowl with finely chopped herbs, ready to be served. The natural light from a nearby window highlights the crisp texture of the potatoes, capturing the essence of a home-cooked meal.",
@@ -26995,73 +26404,6 @@
       {
         "title": "",
         "list": [
-          "Night Before: Mix levain, allow to ferment overnight at 68-70F. It should rise but not yet be fully mature.",
-          "Next Morning: Weigh flour into mixing bowl and coat a 3-4 cup bulk ferment container with olive oil.",
-          "Use spice grinder to grind toasted sesame seeds, salt and main dough sugar until fine. Stir into flour.",
-          "Add 32g levain (the rest is for perpetuating the culture), water and oil to the flour mixture and mix until combined, then knead by hand about 10 minutes.",
-          "Transfer to oiled container and cover. Ferment until dough has doubled, about 5 hours at 81F.",
-          "Using olive oil to grease work surfaces and dough, stretch and fold 3 times in first 3.5 hours, then allow to rise. Ready when rounded peak reaches a little past 2 2/3 cups.",
-          "Afternoon: Divide and pre-shape into 12 rounds. Place on oiled sheet pan and rest one hour, covered.",
-          "In spice grinder, grind star anise with 2 tsp sugar until fine, then scrape into bowl.",
-          "Preheat oven to 450F, placing rack in middle of oven. Prep a half sheet pan with silpat or parchment.",
-          "Spread 2 Tbs granulated sugar on a plate.",
-          "Flatten dough balls slightly, then sprinkle the top with 1/4 tsp of the anise-sugar mixture. Spread mixture over dough disc with fingertip.",
-          "Shape six discs into pizza-like tortas about 3 1/2 inches in diameter, then turn face down in sugar plate to coat with sugar.",
-          "Place six tortas on one half sheet pan and bake 8 minutes, then rotate and bake 3-5 more minutes, until nicely caramelized.",
-          "Repeat with remaining six tortas."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>6g</b> Sourdough starter, 60% hyd.",
-          "<b>30g</b> KAF AP",
-          "<b>18g</b> Water, room temp",
-          "<b>180g</b> Unbleached AP, 10% protein",
-          "<b>1Tb + 3/4 tsp</b> Sesame seeds, toasted",
-          "<b>1 Tb</b> Sugar",
-          "<b>1/4 tsp</b> Salt",
-          "<b>108g</b> Water, room temp",
-          "<b>32g</b> Levain",
-          "<b>54g</b> Olive oil",
-          "<b>1 piece</b> Star anise",
-          "<b>2 tsp + 2 Tbs</b> Granulated sugar"
-        ]
-      }
-    ],
-    "original_title": "Tortas de Aceite",
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "Don’t be tempted to add the anise into the main dough- it has potent anti-bacterial and anti-fungal qualities and will kill off every discernable trace of sourdough culture (did this with my first go at these).",
-          "These re-heat and re-crisp beautifully in the toaster."
-        ]
-      }
-    ],
-    "title": "Tortas de Aceite",
-    "backstory": "<p>This recipe was inspired by a family trip to Spain, particularly Sevilla, during Semana Santa. The Tortas de Aceite, yeast-leavened olive oil wafers laced with sesame and anise, were a standout. This version is a little different than the standard torta in that it is leavened with sourdough and uses star anise instead of anise seed.</p>",
-    "category": "Desserts",
-    "image_validated_webp": "tortas_de_aceite.webp",
-    "source": "http://www.thefreshloaf.com/",
-    "author": "The Fresh Loaf",
-    "image_validated": "tortas_de_aceite.jpg",
-    "image": "tortas_de_aceite.jpg",
-    "favorite": "✓",
-    "description": "Yeast-leavened olive oil wafers laced with sesame and star anise, a delightful Spanish treat.",
-    "htmlfile": "tortas_de_aceite.html",
-    "difficulty": "medium",
-    "size": "12 servings",
-    "updated": "2023-08-01",
-    "time": "1 day"
-  },
-  {
-    "directions": [
-      {
-        "title": "",
-        "list": [
           "Heat the oil in an 8-inch or 9-inch skillet over medium heat until it sizzles when you drop in a potato slice.",
           "Add the potatoes and onion one slice at a time to prevent sticking, alternating layers of potatoes and onion. Season with salt.",
           "Cook, turning occasionally, until the potatoes are tender but not browned, for about 20 minutes. Transfer with a slotted spoon or spatula to a colander and let drain. Reserve 4 teaspoons oil and wipe out the skillet.",
@@ -27144,62 +26486,6 @@
     "htmlfile": "tostones.html",
     "difficulty": "medium",
     "size": "8 servings",
-    "updated": "2023-08-02",
-    "time": "1 hour"
-  },
-  {
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "To make sure your tsampa or roasted flour is fine enough, pass it through a fine sieve. Set aside.",
-          "Peel the daikon radish, then grate it on a coarse grater into long strands. Set aside.",
-          "Pour 3 cups of the broth into a wide heavy pot and bring to a boil. Add the tsampa or roasted flour and stir until smooth. Add the remaining 3 cups broth and bring to a boil. Add the radish strands and simmer until tender, about 10 minutes.",
-          "Meanwhile, heat the oil or butter in a heavy skillet over medium heat. Add the onion and saute gently for several minutes. Add the meat strips and 1/2 tsp salt, raise the heat to medium-high, and cook, turning once, just until the beef has changed color, about 3 minutes total. Use tongs to lift out the meat and set it aside on a plate. Add the onion and oil or butter to the soup.",
-          "To deglaze the skillet, place the pan over high heat, add 1 cup water, and bring to a boil. Scrape the bottom of the pan with a spatula to detach any browned bits of caramelized juices, then add the flavored water to the soup.",
-          "Add 1 cup more water to the soup and bring back to a simmer. Add the meat and bring back to a simmer. Add extra water if you wish a thinner broth. Taste for salt and add up to 2 more teaspoons if necessary. Add the spinach leaves to the simmering broth. When they turn bright green, after a minute or two, add the butter and stir to blend it in.",
-          "Serve the soup hot in large bowls, with bread, or with rice if you prefer."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>1 ½ cups</b> Tsampa or substitute 1 cup barley flour, dry-roasted in a skillet until golden",
-          "<b>¼ lb</b> daikon radish about 1/2 small radish",
-          "<b>6 cups</b> Tibetan Bone Broth",
-          "<b>2 tbsp</b> peanut oil, vegetable oil, or butter",
-          "<b>½</b> medium onion thinly sliced",
-          "<b>½ to ¾ lb</b> boneless beef round or sirloin steak cut into strips about 1 1/2 to 2 inches long and 1/4 inch wide",
-          "<b>2 to 3 cups</b> water",
-          "<b>2 to 2 ½ tsp</b> salt or to taste",
-          "<b>1 ½ to 2 cups</b> baby spinach leaves or coarsely chopped regular spinach",
-          "<b>2 tbsp</b> butter"
-        ]
-      }
-    ],
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "A number of recipes in Lhasa cooking use soy sauce. These tend to be wealthy people’s versions of traditional dishes. People in the country, or those with less money, would usually not include city refinements, such as soy sauce and a greater variety of vegetables. Add 1 to 2 Tbsp soy sauce; it gives an extra depth of flavor."
-        ]
-      }
-    ],
-    "landscape": "true",
-    "title": "Tsampa Soup (Tsam-Thuk)",
-    "backstory": "<p>This Tibetan staple, Tsampa Soup, is perfect for the cold weather. The soup is made with Tsampa, a roasted barley flour, giving it a unique, fragrant and almost nutty taste. This version of the soup, from Lhasa, one of the cities in Tibet, uses strips of steak as a substitute for yak meat.</p>",
-    "category": "Entrees",
-    "image_validated_webp": "tsampa_soup_tsam_thuk.webp",
-    "source": "https://whattocooktoday.com/tsampa-souptsam-thuk-2.html",
-    "author": "What to Cook Today",
-    "image_validated": "tsampa_soup_tsam_thuk.jpg",
-    "image": "tsampa_soup_tsam_thuk.jpg",
-    "description": "A hearty Tibetan soup made with Tsampa, a roasted barley flour, and strips of steak.",
-    "htmlfile": "tsampa_soup_tsam_thuk.html",
-    "difficulty": "medium",
-    "size": "4-6 servings",
     "updated": "2023-08-02",
     "time": "1 hour"
   },
@@ -27456,53 +26742,6 @@
     "size": "8 servings",
     "updated": "2023-08-01",
     "time": "30 minutes"
-  },
-  {
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "<p>\nStarting in January (really you can start any time) add 1 cup of a seasonal fresh fruit, citrus is usually readily available in winter, 1 qt brandy and 1 cup of sugar to a crock. Stir with a wooden spoon until mixed and the sugar dissolves. Cover with a lid or plastic wrap secured with a rubber band, cover that with a nylon stocking. Store in a cool dark place.\n</p>",
-          "<p>\nEvery month for 10 months open the crock, add 1 cup of fruit and one cup of sugar, give it a stir and seal it back up. Use only seasonal fresh fruit such as kumquats, pineapples, oranges, lemons, limes, nectarines, strawberries, blueberries, raspberries, kiwi, gooseberries, peaches, apples, grapes, figs, cranberries, pears and plums. Write down what fruit you have added each month so as not to repeat. Do not use bananas. Thinly slice and remove the seeds from citrus and grapes, cut other fruits into ½ inch pieces.\n</p>",
-          "<p>\nOn the 11th month after starting this, stir in one cup of currants and one cup of raisins, but no sugar. On the 12th month, transfer into sterile pint jars, adding a sprinkling of pecans to each jar if you like. No need to water bath them, just screw on the lids and store in a dark cool place for up to 6 months, one year if kept refrigerated.\n</p>"
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>1 qt</b> good brandy",
-          "<b>1 cup</b> fruit chopped or thinly sliced- added monthly",
-          "<b>1 cup</b> sugar- added monthly",
-          "<b>1</b> gallon fermenting crock"
-        ]
-      }
-    ],
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "Tutti Frutti is a highly alcoholic condiment that is traditionally served over Ice cream, pudding, Brulees or cakes. My favorite use for it is to strain off the fruit and use the delicious liquid for the base for a hot Tutti Frutti Toddy, my drink of choice on a cold winter night. Bottle the Tutti Frutti in December and you can give it as holiday gifts."
-        ]
-      }
-    ],
-    "landscape": "true",
-    "title": "Tutti Frutti",
-    "backstory": "<p>Tutti Frutti, a magical elixir, is a tradition in our family, always served with dessert after a weekend noonday meal. This was served to adults only, usually followed by a long nap. My grandmother and aunts spoke about it with reverence, in hushed tones. There was a mystique about Tutti Frutti that I never understood until I found the recipe in an old letter. Having inherited the family Tutti Frutti crock I decided to make it. The delicious tastes and smells that evolved from that crock over the year of fermenting were indeed sublime.</p>",
-    "category": "Beverages",
-    "image_validated_webp": "tutti_frutti.webp",
-    "source": "https://fifthseasongardening.com/tutti-frutti-a-magical-elixir",
-    "author": "Pam Scott",
-    "image_validated": "tutti_frutti.jpg",
-    "image": "tutti_frutti.jpg",
-    "favorite": "✓",
-    "description": "A highly alcoholic condiment traditionally served over desserts.",
-    "htmlfile": "tutti_frutti.html",
-    "difficulty": "medium",
-    "size": "Varies",
-    "updated": "2023-08-02",
-    "time": "1 year"
   },
   {
     "directions": [
@@ -27802,14 +27041,13 @@
         ]
       }
     ],
-    "landscape": "true",
     "title": "Waffled Ham and Cheese Melt with Maple Butter",
     "backstory": "<p>When Daniel Shumski first dreamed up this sandwich, he wanted the maple butter to go on the bread before it went into the waffle iron, but that turned out to be a recipe for disaster: The sugars in the maple syrup burned quickly, much more quickly than the cheese melted. There would have to be another way. And there is! After a few modifications, he hit on the right balance of pre- and post-buttering.</p>",
     "category": "Breakfasts",
-    "image_validated_webp": "waffled_ham_and_cheese_melt_with_maple_butter.webp",
+    "image_validated_webp": "placeholder_breakfasts.webp",
     "source": "https://www.epicurious.com/recipes/food/views/waffled-ham-and-cheese-melt-with-maple-butter",
     "author": "Daniel Shumski",
-    "image_validated": "waffled_ham_and_cheese_melt_with_maple_butter.jpg",
+    "image_validated": "placeholder_breakfasts.jpg",
     "image": "waffled_ham_and_cheese_melt_with_maple_butter.jpg",
     "description": "A crispy, golden brown sandwich with a sweet, rich mixture of maple butter soaking into the still-warm bread.",
     "htmlfile": "waffled_ham_and_cheese_melt_with_maple_butter.html",
@@ -27873,70 +27111,6 @@
     "size": "4 servings",
     "updated": "2024-05-27",
     "time": "30 minutes"
-  },
-  {
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "Wash and sort beans and soak overnight in cold water.",
-          "Drain beans and place in a 2-quart saucepan. Add fresh water to cover by 2 inches. Add sliced onion and simmer, covered, for 2 hours, until tender.",
-          "Heat oil in a large pan and sauté garlic. Add beef and celery and cook until lightly browned. Add chili powder, paprika, and thyme. Mix in chopped tomatoes. Cover and simmer for 1 hour.",
-          "When beans are tender, combine with meat, stirring gently. Add salt and pepper to taste."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>1/4 cup</b> olive oil, divided",
-          "<b>3/4 pounds</b> beef stew meat",
-          "<b>1</b> small onion, diced",
-          "<b>1</b> medium green pepper, diced",
-          "<b>4</b> cloves garlic, minced",
-          "<b>1 pound</b> ground beef",
-          "<b>1 tbsp</b> ground cumin",
-          "<b>1 1/2 tbsp</b> onion powder",
-          "<b>3/4 tsp</b> cayenne pepper",
-          "<b>3 tbsp</b> tomato paste",
-          "<b>2</b> plum tomatoes, diced",
-          "<b>1 (28 ounce)</b> can diced tomatoes",
-          "<b>2 tbsp</b> beef base",
-          "<b>1 1/2 cups</b> water",
-          "<b>1 (14.5 ounce)</b> can pinto beans, rinsed and drained",
-          "Coarse salt to taste",
-          "Garnish: <b>1/2 cup</b> sour cream, <b>1 cup</b> shredded cheddar cheese, <b>2</b> diced tomatoes"
-        ]
-      }
-    ],
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "For a spicier chili, add <b>1/8 tsp</b> each coriander, turmeric, chili seeds, fennel, cloves, cinnamon, and ground ginger. You can also add dried hot pepper to taste."
-        ]
-      },
-      {
-        "title": "All recipes are the property of Walt Disney and Walt Disney Parks and Resorts U.S., Inc., and may not be reproduced without express permission.",
-        "list": []
-      }
-    ],
-    "landscape": "true",
-    "title": "Walt’s Chili",
-    "backstory": "<p>This hearty chili recipe is based on Walt’s own recipe, and is delicious topped with sour cream, cheese, and fresh tomatoes. Walt’s diet was that of a mid-western meat and potatoes man: his taste was simple but hardy. Throughout most of his life funding was always an issue but he was always able to find a way to make ends meet. One of his fixes was his favorite chili.</p>",
-    "category": "Entrees",
-    "image_validated_webp": "walt_s_chili.webp",
-    "source": "http://disneyland.com/",
-    "author": "Walt Disney",
-    "image_validated": "walt_s_chili.jpg",
-    "image": "walt_s_chili.jpg",
-    "description": "Recreate Walt’s Chili from Carnation Café in your own kitchen!",
-    "htmlfile": "walt_s_chili.html",
-    "difficulty": "medium",
-    "size": "4 servings",
-    "updated": "2023-08-02",
-    "time": "3 hours 20 minutes"
   },
   {
     "directions": [
@@ -28280,55 +27454,6 @@
     "size": "4 servings",
     "updated": "2023-08-01",
     "time": "5 minutes"
-  },
-  {
-    "image_attribution": "Stacy Zarin Goldberg for The Washington Post; food styling by Lisa Cherkasky for The Washington Post",
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "Make the pie crust: In a large bowl, whisk together the flour and salt. Sprinkle half of the butter and lard over the flour and use your fingertips, a pastry blender or two knives to cut and mix until the mixture resembles large peas. Sprinkle in the remaining butter and lard and cut and mix until you’re left with coarse crumbs. Sprinkle the dough with ice water, 1 tablespoon at a time, and use a fork to lightly mix until the dough just comes together and pulls away from the sides of the bowl. Gather the dough into a ball. Divide the ball in half. Press into two 1-inch-thick disks and wrap in plastic. Refrigerate for 30 minutes before rolling, or freeze for later use. You will use 1 for this pie; save the other for a future pie.",
-          "Make the pie: Place the chopped, toasted pecans in a small bowl and toss with the whiskey or rum until coated. Let stand 1 hour.",
-          "Preheat the oven to 350 degrees with the rack in the middle.",
-          "Over a generously floured counter, roll the disk of dough out to roughly a 13-inch circle. Transfer it to a 9-inch pie pan, then trim and tuck excess crust and crimp as you like.",
-          "Using a hand mixer on medium, beat the butter and brown sugar until light, about 3 minutes. Mix in the corn syrup, eggs, salt and vanilla. Stir in the whiskey-soaked pecans. Pour into the pie shell, and arrange the pecan halves on top in an attractive pattern.",
-          "Bake 55 to 60 minutes, until the filling is set but still has a slight jiggle in the middle. Cool the pie slightly, then serve warm or at room temperature."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "For the crust * 3 cups flour, plus more for rolling * 3/4 tsp kosher salt * 1 1/2 sticks unsalted butter, cut into 1/2-inch pieces and chilled * 6 tbsp lard or shortening, cut into 1/2-inch pieces and chilled (can substitute more butter) * 12 to 15 tbsp ice water",
-        "list": []
-      },
-      {
-        "title": "For the pie * 1 1/2 cups chopped toasted pecans, plus 3/4 cup pecan halves * 2 tbsp whiskey or rum * 6 tbsp unsalted butter, at room temperature * 1 cup packed dark brown sugar * 3/4 cup dark brown corn syrup * 3 large eggs, beaten * 1/4 tsp kosher salt * 1 tsp vanilla extract",
-        "list": []
-      }
-    ],
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "Toast the pecan halves in a small, dry skillet over medium-low heat for a few minutes, until fragrant and lightly browned. Cool completely before using."
-        ]
-      }
-    ],
-    "landscape": "true",
-    "title": "Whiskey-Laced Pecan Pie",
-    "backstory": "<p>Cookbook author Tipton-Martin writes that in slavery days, molasses pie, a cinnamon-spiced syrup-based pie without nuts, was a Christmas treat. Later on, other ingredients started to appear: grated orange zest or coconut, melted chocolate or chocolate chips, and pie crusts made from all kinds of ingredients from crushed cookies to zwieback toasts. Tipton-Martin, however, has a soft spot for the traditional pecan pie so many expect at their Thanksgiving dessert buffets.</p>",
-    "category": "Desserts",
-    "image_validated_webp": "whiskey_laced_pecan_pie.webp",
-    "source": "https://www.washingtonpost.com/recipes/whiskey-laced-pecan-pie/17212/mailto:food@washpost.com?Subject=About%20the%20Whiskey-Laced%20Pecan%20Pie%20Recipe",
-    "author": "Toni Tipton-Martin",
-    "image_validated": "whiskey_laced_pecan_pie.jpg",
-    "image": "whiskey_laced_pecan_pie.jpg",
-    "description": "A splash of whiskey or rum adds a surprising and delicious flavor to this seasonal favorite pie and tames the sweetness while amplifying pecans’ earthy nuttiness.",
-    "htmlfile": "whiskey_laced_pecan_pie.html",
-    "difficulty": "medium",
-    "size": "8-10 servings",
-    "updated": "2023-08-01",
-    "time": "3 hours"
   },
   {
     "directions": [
@@ -28821,115 +27946,6 @@
     "time": "45 minutes"
   },
   {
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "Preheat your waffle iron.",
-          "In a large mixing bowl whisk together the eggs, milk, oil, honey, cinnamon, and baking soda until well combined.",
-          "Add in the flour, baking powder, and salt and whisk together just until the large lumps disappear.",
-          "When the waffle iron is hot, dab it with a little butter and then ladle some batter onto the center of the iron. Follow the instructions that came with your waffle maker to know how long it should be cooked (usually takes about 3 - 4 minutes each).",
-          "Keep waffles warm until you finish cooking all of them. Top with pure maple syrup and fruit. Enjoy!"
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>2</b> large eggs",
-          "<b>1 ¾ cups</b> milk (You can use everything from skim milk to thick buttermilk)",
-          "<b>¼ cup</b> <a href=\"http://www.100daysofrealfood.com/2011/05/14/mini-pledge-week-10-no-refined-oils/\" title=\"Mini-Pledge Week 10: No Refined Oils\">oil</a> (Melted butter can be used)",
-          "<b>1 tbsp</b> honey",
-          "<b>½ tsp</b> ground cinnamon",
-          "<b>¼ tsp</b> baking soda",
-          "<b>1 ½ cups</b> whole-wheat flour (King Arthur’s organic white whole-wheat flour can be used)",
-          "<b>2 tsp</b> baking powder",
-          "<b>⅛ tsp</b> salt",
-          "Warmed 100% pure maple syrup for serving",
-          "Fresh fruit for serving"
-        ]
-      }
-    ],
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "Ensure to keep the waffles warm as you cook the rest. This will ensure they all stay crispy and delicious."
-        ]
-      }
-    ],
-    "landscape": "true",
-    "title": "Whole-Wheat Waffles",
-    "backstory": "<p>This recipe for whole-wheat waffles is a breakfast favorite. The use of whole- wheat flour adds a healthy twist to the traditional waffle recipe. The waffles are light and fluffy, with a hint of sweetness from the honey. The addition of cinnamon gives it a warm, comforting flavor. Top these waffles with warm 100% pure maple syrup and fresh fruit for a satisfying start to your day.</p>",
-    "category": "Breakfasts",
-    "image_validated_webp": "whole_wheat_waffles.webp",
-    "author": "Unknown",
-    "image_validated": "whole_wheat_waffles.jpg",
-    "image": "whole_wheat_waffles.jpg",
-    "description": "Delicious and healthy whole-wheat waffles, perfect for a hearty breakfast.",
-    "htmlfile": "whole_wheat_waffles.html",
-    "difficulty": "medium",
-    "vegan": "null",
-    "size": "4-5 servings",
-    "updated": "2023-08-02",
-    "time": "30 minutes"
-  },
-  {
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "Gather the ingredients.",
-          "Peel and chop 1 garlic clove.",
-          "In a small saucepan, combine soy sauce, mirin, sugar, sesame oil, and garlic.",
-          "Heat over medium to high heat until sugar dissolves – about 3 minutes. Stir constantly to help dissolve sugar and to prevent burning. Allow the sauce to cool for about 5 to 10 minutes.",
-          "Using a strainer, pour the sauce into a small bowl to separate the garlic pieces. Discard the garlic.",
-          "Add ground, roasted white sesame seeds and whole, roasted sesame seeds to the strained sauce in the bowl. Mix gently.",
-          "The yakiniku sauce is now ready to use! Use to dip meats and vegetables, or as a sauce to pour over meat."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>1</b> clove garlic",
-          "<b>1/4 cup</b> soy sauce",
-          "<b>2 tbsp</b> mirin",
-          "<b>2 1/2 tbsp</b> granulated white sugar",
-          "<b>2 tsp</b> sesame oil",
-          "<b>1 1/2 tsp</b> roasted white sesame seeds (ground)",
-          "<b>1/2 tsp</b> roasted white sesame seeds"
-        ]
-      }
-    ],
-    "notes": [
-      {
-        "title": "",
-        "list": [
-          "The sauce may be stored in an airtight container for 5 to 7 days.",
-          "The sauce has a concentrated flavor, so a little bit goes a long way. If you’re going to use it as a dipping sauce for yakiniku, for younger children, or for those that prefer a milder flavor, simply add a bit of hot water to the sauce to dilute it.",
-          "The sauce can be prepared in advance and stored in the refrigerator for a quick, weeknight meal. My favorite way of using this yakiniku sauce is to stir-fry thin shabu-shabu or sukiyaki cuts of beef in a frying or griddle pan until well done then pour some of the sauce over the cooked meat, toss, and serve.",
-          "Typical ingredients for making yakiniku sauce include soy sauce, mirin, sugar, and sesame seeds. The addition of sesame oil and garlic adds more complexity and boldness to the sauce. The key to yakiniku sauce, however, is sesame seeds, and in this recipe, the addition of roasted, ground sesame seeds takes the sauce to an entirely new level of “wow.” The ground roasted sesame seeds impart a complexity of flavors that makes the sauce mouth-wateringly delicious."
-        ]
-      }
-    ],
-    "title": "Yakiniku Sauce for Grilled Japanese Meat",
-    "backstory": "<p>Yakiniku sauce is a term derived from the Japanese term <em>yaki</em> , which means “grilled,” and <em>niku</em> , which means “meat,” or “beef.” It is used broadly to describe various grilled and cooked meats, including American outdoor BBQ style meats and Korean style BBQ. Regardless of the cooking method, grilled meat is often served with a yakiniku dipping sauce, or it is seasoned with yakiniku sauce prior to being cooked.</p>",
-    "category": "Sauces",
-    "image_validated_webp": "yakiniku_sauce_for_grilled_japanese_meat.webp",
-    "author": "Unknown",
-    "image_validated": "yakiniku_sauce_for_grilled_japanese_meat.jpg",
-    "image": "yakiniku_sauce_for_grilled_japanese_meat.jpg",
-    "description": "A mixture of savory and sweet flavors with bold sesame essence used to season grilled meats in Japanese cuisine.",
-    "htmlfile": "yakiniku_sauce_for_grilled_japanese_meat.html",
-    "difficulty": "medium",
-    "size": "2 servings",
-    "updated": "2023-08-01",
-    "time": "8 minutes"
-  },
-  {
     "image_attribution": "Andrew Scrivani for The New York Times",
     "directions": [
       {
@@ -28964,14 +27980,13 @@
         ]
       }
     ],
-    "landscape": "true",
     "title": "Yakitori Chicken With Ginger, Garlic and Soy Sauce",
     "backstory": "<p>This recipe calls for marinating chicken thighs, gizzards and livers in a savory-sweet sauce of ginger, sake, mirin, soy sauce, garlic and a touch of brown sugar, grilling or broiling, then scattering with chopped scallions. Yakitori is a popular street food in Japan, and this recipe brings that authentic flavor right to your kitchen. Serve it alongside something fresh and green, like a cucumber salad, and a pile of rice.</p>",
     "category": "Entrees",
-    "image_validated_webp": "yakitori_chicken_with_ginger_garlic_and_soy_sauce.webp",
+    "image_validated_webp": "placeholder_entrees.webp",
     "source": "https://cooking.nytimes.com/ourcooks/melissa-clark/my-recipes?action=click&amp;module=byline&amp;region=recipe%20page",
     "author": "Melissa Clark",
-    "image_validated": "yakitori_chicken_with_ginger_garlic_and_soy_sauce.jpg",
+    "image_validated": "placeholder_entrees.jpg",
     "image": "yakitori_chicken_with_ginger_garlic_and_soy_sauce.jpg",
     "description": "Yakitori is Japanese skewered and grilled chicken that can use approximately 30 different chicken parts.",
     "htmlfile": "yakitori_chicken_with_ginger_garlic_and_soy_sauce.html",
@@ -28979,55 +27994,6 @@
     "size": "6 appetizer servings",
     "updated": "2023-08-01",
     "time": "15 minutes"
-  },
-  {
-    "image_attribution": "Johnny Miller",
-    "directions": [
-      {
-        "title": "",
-        "list": [
-          "In a small saucepan, heat 1 tablespoon oil over medium-low. Add garlic and ginger and cook, stirring, until fragrant, 1 minute. Add 2/3 cup water, plus the soy sauce, sugar and vinegar, and bring to a boil over high heat.",
-          "Reduce heat to low and simmer, stirring to dissolve the sugar, 1 to 2 minutes. Mix cornstarch with 2 tablespoons water and whisk into sauce. Simmer until thickened, about 2 minutes. Reserve 1 cup of sauce for basting, and transfer remaining sauce to a small bowl, for serving.",
-          "Heat a grill, or a lightly greased cast-iron griddle or grill pan over medium. Season zucchini and scallions with salt and pepper and toss with 2 tablespoons oil. Thread onto wooden skewers that have been soaked in water or metal ones. Season salmon with salt and pepper and toss with remaining 1 tablespoon oil. Thread onto skewers.",
-          "Grill, basting with sauce and turning every few minutes, until salmon and vegetables are caramelized and cooked through, about 10 to 12 minutes for salmon and 12 to 15 minutes for vegetables. Serve with lemon wedges and reserved sauce for dipping."
-        ]
-      }
-    ],
-    "ingredients": [
-      {
-        "title": "",
-        "list": [
-          "<b>¼ cup</b> canola oil, plus more for greasing",
-          "<b>1 tbsp</b> minced garlic (from about 3 cloves)",
-          "<b>1 tbsp</b> minced ginger (from a 1-inch piece)",
-          "<b>⅔ cup</b> low-sodium soy sauce",
-          "<b>⅓ cup</b> turbinado sugar",
-          "<b>2 tbsp</b> unseasoned rice vinegar",
-          "<b>2 tbsp</b> cornstarch",
-          "<b>1 lb</b> small zucchini (about 3), trimmed and sliced 1/8-inch-thick",
-          "<b>8</b> scallions, trimmed, halved lengthwise, if large, and cut into 2-inch pieces",
-          "Kosher salt and black pepper",
-          "<b>2 lbs</b> boneless, skinless salmon fillets, cut into 1-inch pieces",
-          "Lemon wedges, for serving"
-        ]
-      }
-    ],
-    "original_title": "Yakitori-Style Salmon With Scallions and Zucchini",
-    "title": "Yakitori-Style Salmon With Scallions and Zucchini",
-    "backstory": "<p>Yakitori is a Japanese dish in which boneless chicken pieces seasoned with salt (shio) and a soy basting sauce (tare) are threaded onto bamboo skewers and grilled over a charcoal fire. This weeknight meal borrows the flavors of traditional yakitori and applies it to salmon and vegetables. A salty-sweet sauce of soy sauce, sugar, vinegar, garlic and ginger doubles as a glaze and serving sauce. Tossed with greens, the leftover salmon and vegetables make a nice salad the next day, and the sauce keeps in the refrigerator for up to a week.</p>",
-    "category": "Entrees",
-    "image_source": "The New York Times",
-    "image_validated_webp": "yakitori_style_salmon_with_scallions_and_zucchini.webp",
-    "source": "https://cooking.nytimes.com/search?q=Kay+Chun&amp;action=click&amp;module=byline&amp;region=recipe%20page",
-    "author": "Kay Chun",
-    "image_validated": "yakitori_style_salmon_with_scallions_and_zucchini.jpg",
-    "image": "yakitori_style_salmon_with_scallions_and_zucchini.jpg",
-    "description": "A Japanese-inspired dish where salmon and vegetables are seasoned with a salty-sweet sauce of soy sauce, sugar, vinegar, garlic and ginger, and then grilled to perfection.",
-    "htmlfile": "yakitori_style_salmon_with_scallions_and_zucchini.html",
-    "difficulty": "medium",
-    "size": "4 servings",
-    "updated": "2023-08-02",
-    "time": "45 minutes"
   },
   {
     "directions": [
