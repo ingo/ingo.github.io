@@ -17,7 +17,10 @@ brine:
   category: Poultry
   cut: Thighs/Drumsticks
   mode: dry
-  note: "The recipe calls for a 6 tbsp salt / 1 qt water concentration brine for 1.5 hours. For chicken parts, a dry brine is simpler and won't soften skin going onto the grill — the calculator below sizes that. If you'd rather follow the original wet method, the wet-brine tab gives the equilibrium equivalent."
+  defaultWeight: 3
+  defaultWeightUnit: lb
+  saltType: Diamond Kosher
+  note: "The recipe calls for a 6 tbsp salt / 1 qt water concentration brine for 1.5 hours. For chicken parts headed to a hot grill, a dry brine is simpler and keeps the skin from softening — the calculator below sizes that. If you'd rather follow the wet method, the calculator's wet-concentration tab estimates internal salt at any given pull time."
 ---
 
 

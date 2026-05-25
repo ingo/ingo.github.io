@@ -8,10 +8,14 @@ size: Varies with fillet size
 time: 4-5 hours
 title: Hot Smoked Salmon
 brine:
-  category: Seafood
-  cut: Fish
-  mode: wet
-  note: "The recipe below uses a 5% concentration brine for ~3 hours — that's the traditional method, where final saltiness depends on time. The widget below uses equilibrium brining (1% salt of meat + water), which lands at a fixed final saltiness no matter how long it sits. Cooking-log entries at 5% × 3 hrs (steelhead) tasted right; 3% × 3 hrs ran underseasoned. If you want repeatability without watching the clock, the equilibrium math below will get you there."
+  note: "Gradient brine — the brine is much saltier than the target internal saltiness, and you stop the clock early. The cooking-log default below (5% salt + 5% sugar in water, 3 hours, 1″ fillet) lands at roughly 1.75% internal salt, which has consistently turned out well. Dial salt or time down for a milder cure; longer/saltier moves toward lox."
+  concentrationLabel: "Hot-smoked salmon brine"
+  concentrationWater: 2
+  concentrationWaterUnit: lb
+  concentrationSalt: 5
+  concentrationSugar: 5
+  concentrationHours: 3
+  concentrationThickness: 1
 ---
 
 Salmon fillets are cured in a brown sugar brine, then smoked over smoldering wood chips just until cooked through, without drying them out. The fish stays moist, with its natural oils and richness intensified by the smoke.

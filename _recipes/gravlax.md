@@ -5,6 +5,14 @@ image: gravlax.jpg
 size: 4 servings
 time: 5 days
 title: Gravlax
+brine:
+  category: Seafood
+  cut: Lox
+  mode: dry
+  defaultWeight: 1.5
+  defaultWeightUnit: lb
+  saltType: Diamond Kosher
+  note: "Heavy dry cure — salt and sugar by fillet weight, no water. The default 5% salt + 2.5% sugar over 4 days is the version I keep coming back to. Shorter cures (1–2 days) work too, but the longer cure has more time for the texture and flavor to develop."
 ---
 
 Perfect for a special occasion or just a fancy brunch! Gravlax is a traditional Nordic dish made from raw salmon that's been cured with salt, sugar, and dill. It's a time-consuming process, but the result is a deliciously flavorful and unique dish.

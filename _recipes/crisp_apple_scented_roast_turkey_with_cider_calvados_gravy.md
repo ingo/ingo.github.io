@@ -11,8 +11,11 @@ title: Crisp Apple-Scented Roast Turkey with Cider-Calvados Gravy
 brine:
   category: Poultry
   cut: Whole Bird
-  mode: wet
-  note: "The recipe brines the bird at roughly 1 hour per pound in a salt + sugar + cider + apple purée brine. The widget sizes the salt (and sugar) for an equilibrium brine of the same fundamentals — keep the recipe's aromatics, just use the calculator's salt amount and time."
+  mode: equilibrium
+  defaultWeight: 11
+  defaultWeightUnit: lb
+  saltType: Diamond Kosher
+  note: "The recipe brines the bird at roughly 1 hour per pound in a salt + sugar + cider + apple purée brine. An equilibrium brine (1% salt of meat + water, 12–24 hours) hits the same final saltiness without overshooting on a long soak — the bird stops absorbing salt once it matches the brine. Keep the recipe's cider, calvados and aromatics; the calculator just sizes the salt and sugar relative to your particular bird and water volume. The recipe's 1 cup of salt assumes Diamond Crystal kosher — Morton kosher is roughly 1.5× as salty by volume, so use 2/3 cup if that's what you have."
 ---
 
 This recipe brings together the traditional roast turkey with a unique apple and cider twist. The result is a succulent, flavorful turkey that's perfect for any special occasion.

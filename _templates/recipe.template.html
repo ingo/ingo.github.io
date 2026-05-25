@@ -204,7 +204,18 @@
                                                     $if(brine.note)$
                                                     <p class="brine-comparison__note">$brine.note$</p>
                                                     $endif$
-                                                    <div data-brine-widget data-category="$brine.category$" data-cut="$brine.cut$" data-mode="$brine.mode$"></div>
+                                                    $if(brine.concentrationLabel)$
+                                                    <div data-brine-concentration
+                                                         data-label="$brine.concentrationLabel$"
+                                                         data-default-water="$brine.concentrationWater$"
+                                                         data-default-water-unit="$brine.concentrationWaterUnit$"
+                                                         data-default-salt="$brine.concentrationSalt$"
+                                                         data-default-sugar="$brine.concentrationSugar$"
+                                                         data-default-hours="$brine.concentrationHours$"
+                                                         data-thickness="$brine.concentrationThickness$"></div>
+                                                    $else$
+                                                    <div data-brine-widget data-category="$brine.category$" data-cut="$brine.cut$" data-mode="$brine.mode$" data-default-weight="$brine.defaultWeight$" data-default-weight-unit="$brine.defaultWeightUnit$" data-salt-type="$brine.saltType$"></div>
+                                                    $endif$
                                                 </div>
                                                 $endif$
 
@@ -351,7 +362,18 @@
                                                 $if(brine.note)$
                                                 <p class="brine-comparison__note">$brine.note$</p>
                                                 $endif$
-                                                <div data-brine-widget data-category="$brine.category$" data-cut="$brine.cut$" data-mode="$brine.mode$"></div>
+                                                $if(brine.concentrationLabel)$
+                                                <div data-brine-concentration
+                                                     data-label="$brine.concentrationLabel$"
+                                                     data-default-water="$brine.concentrationWater$"
+                                                     data-default-water-unit="$brine.concentrationWaterUnit$"
+                                                     data-default-salt="$brine.concentrationSalt$"
+                                                     data-default-sugar="$brine.concentrationSugar$"
+                                                     data-default-hours="$brine.concentrationHours$"
+                                                     data-thickness="$brine.concentrationThickness$"></div>
+                                                $else$
+                                                <div data-brine-widget data-category="$brine.category$" data-cut="$brine.cut$" data-mode="$brine.mode$" data-default-weight="$brine.defaultWeight$" data-default-weight-unit="$brine.defaultWeightUnit$" data-salt-type="$brine.saltType$"></div>
+                                                $endif$
                                             </div>
                                             $endif$
 

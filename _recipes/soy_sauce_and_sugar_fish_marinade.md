@@ -9,7 +9,7 @@ brine:
   category: Seafood
   cut: Fish
   mode: wet
-  note: "This recipe is a high-salt soy + sugar marinade rather than a controlled equilibrium brine — its 4-hour soak in concentrated soy will be saltier than the equilibrium target. If you want a milder result with the same flavor profile, use the calculator below to size the salt, then add soy sauce sparingly for color and umami."
+  note: "This is a high-salt soy + sugar concentration brine — the 4-hour soak in concentrated soy will be saltier than a typical fish brine. If you want a milder result with the same flavor, use the calculator's wet-concentration tab to size the salt at a lower percentage and shorter soak, then add soy sparingly for color and umami."
 ---
 
 Perfect for smoking and grilling. This brine recipe is perfect for enhancing the flavor of your favorite fish before smoking or grilling. The combination of soy sauce, brown sugar, and seasonings creates a savory and slightly sweet profile that complements the natural taste of the fish.

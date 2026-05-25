@@ -56,6 +56,21 @@ status "Copying assets..."
 x cp -r _assets/ _site/assets/
 x cp _assets/about.html _site/about.html
 
+# Bundle salt-calculator meat + salt data so the inline brine widget can read them.
+status "Bundling brine widget data..."
+if [ -f salt-calculator/src/data/meatData.json ]; then
+    {
+        printf 'window.__BRINE_DATA__ = '
+        cat salt-calculator/src/data/meatData.json
+        printf ';\n'
+        if [ -f salt-calculator/src/data/saltData.json ]; then
+            printf 'window.__SALT_DATA__ = '
+            cat salt-calculator/src/data/saltData.json
+            printf ';\n'
+        fi
+    } > _site/assets/brine-data.js
+fi
+
 for SPA in salt-calculator grill-calculator; do
     if [ -f "$SPA/package.json" ]; then
         status "Building $SPA..."

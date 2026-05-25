@@ -12,8 +12,11 @@ title: Andy Ricker's Kai Yaang (Whole Roasted Young Chicken)
 brine:
   category: Poultry
   cut: Whole Bird
-  mode: wet
-  note: "The recipe specifies a 3% concentration brine for 4+ hours. The widget below uses equilibrium brining (1% salt of meat + water), which lands at a comparable final saltiness without overshooting if you leave it overnight. Aromatics from the original (lemongrass, ginger, peppercorns) still go in the brine — the calculator just sizes the salt and sugar."
+  mode: equilibrium
+  defaultWeight: 3
+  defaultWeightUnit: lb
+  saltType: Diamond Kosher
+  note: "The recipe specifies a 3% concentration brine for 4+ hours, which is fine if you stop the clock on time but easy to overshoot on a small bird. An equilibrium brine (1% salt of meat + water, 12–24 hours) lands at a comparable final saltiness without the timing anxiety — the chicken can't get saltier than the brine. The original aromatics (lemongrass, ginger, peppercorns) still go in the brine; the calculator just sizes salt and sugar."
 ---
 
  It's marinated overnight in garlic, black pepper, and coriander

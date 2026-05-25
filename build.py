@@ -12,6 +12,11 @@ from datetime import datetime
 import random
 import argparse
 import pypandoc
+from concurrent.futures import ThreadPoolExecutor
+
+# Cap parallelism well above logical cores: each task spends most of its
+# time waiting on a pandoc subprocess, so the OS schedules them happily.
+WORKERS = min(32, (os.cpu_count() or 4) * 4)
 
 # Parse arguments
 parser = argparse.ArgumentParser(
@@ -19,6 +24,8 @@ parser = argparse.ArgumentParser(
 )
 parser.add_argument("-q", "--quiet", action="store_true", help="Quiet mode")
 parser.add_argument("-c", "--clean", action="store_true", help="Clean and exit")
+parser.add_argument("-s", "--serve", action="store_true", help="Serve _site/ on a local port after building")
+parser.add_argument("--port", type=int, default=8000, help="Port for --serve (default 8000)")
 args = parser.parse_args()
 
 QUIET = args.quiet
@@ -79,14 +86,19 @@ status("Copying assets...")
 x("cp", "-r", "_assets/", "_site/assets/")
 x("cp", "_assets/about.html", "_site/about.html")
 
-# Bundle salt-calculator meat data so the inline brine widget can read it.
+# Bundle salt-calculator meat + salt data so the inline brine widget can read them.
 status("Bundling brine widget data...")
 brine_data_src = Path("salt-calculator/src/data/meatData.json")
+salt_data_src = Path("salt-calculator/src/data/saltData.json")
 if brine_data_src.exists():
     with open(brine_data_src, "r", encoding="utf-8") as f:
         brine_payload = f.read().strip()
-    brine_data_js = "window.__BRINE_DATA__ = " + brine_payload + ";\n"
-    Path("_site/assets/brine-data.js").write_text(brine_data_js, encoding="utf-8")
+    parts = ["window.__BRINE_DATA__ = " + brine_payload + ";\n"]
+    if salt_data_src.exists():
+        with open(salt_data_src, "r", encoding="utf-8") as f:
+            salt_payload = f.read().strip()
+        parts.append("window.__SALT_DATA__ = " + salt_payload + ";\n")
+    Path("_site/assets/brine-data.js").write_text("".join(parts), encoding="utf-8")
 
 # Build Vite SPAs and publish to _site/<name>/
 for spa in ("salt-calculator", "grill-calculator"):
@@ -111,14 +123,16 @@ if Path("requirements.txt").exists():
 
 # Extract metadata
 status("Extracting metadata...")
-for file in Path("_recipes").glob("*.md"):
+
+def extract_metadata_for(file):
     file_str = str(file)
     basename = file.stem
 
-    # Run add_metadata.py
-    subprocess.run([sys.executable, "scripts/add_metadata.py", file_str, "_temp/"], check=True)
+    subprocess.run(
+        [sys.executable, "scripts/add_metadata.py", file_str, "_temp/"],
+        check=True,
+    )
 
-    # Extract category
     pandoc_convert(
         file_str,
         f"_temp/{basename}.category.txt",
@@ -131,7 +145,6 @@ for file in Path("_recipes").glob("*.md"):
         to_format="html"
     )
 
-    # Extract metadata
     pandoc_convert(
         file_str,
         f"_temp/{basename}.metadata.json",
@@ -142,6 +155,9 @@ for file in Path("_recipes").glob("*.md"):
         ],
         to_format="html"
     )
+
+with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+    list(pool.map(extract_metadata_for, Path("_recipes").glob("*.md")))
 
 # Copy webp files
 status("Copying webp files...")
@@ -230,18 +246,19 @@ with open(index_json_path, "w", encoding="utf-8") as f:
 
 # Build recipe pages
 status("Building recipe pages...")
-for file in Path("_recipes").glob("*.md"):
+
+IS_CI = os.environ.get("GITHUB_ACTIONS") == "true"
+
+def build_recipe_page(file):
     file_str = str(file)
     basename = file.stem
 
-    # Get category
     category_file = Path(f"_temp/{basename}.category.txt")
     with open(category_file, "r") as f:
         category = f.read().strip().split(" ", 1)[1]
     category_faux_urlencoded = category.lower().replace(" ", "_").replace("/", "_")
 
-    # Get update date
-    if os.environ.get("GITHUB_ACTIONS") == "true":
+    if IS_CI:
         result = subprocess.run(
             ["git", "log", "-1", "--date=short-local", "--pretty=format:%cd", file_str],
             capture_output=True,
@@ -264,9 +281,13 @@ for file in Path("_recipes").glob("*.md"):
         ]
     )
 
+with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+    list(pool.map(build_recipe_page, Path("_recipes").glob("*.md")))
+
 # Build category pages
 status("Building category pages...")
-for file in Path("_temp").glob("*.category.json"):
+
+def build_category_page(file):
     basename = file.stem.replace(".category", "")
     pandoc_convert(
         "_templates/technical/empty.md",
@@ -279,6 +300,9 @@ for file in Path("_temp").glob("*.category.json"):
             "--template", "_templates/category.template.html"
         ]
     )
+
+with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+    list(pool.map(build_category_page, Path("_temp").glob("*.category.json")))
 
 # Filter index for homepage (latest 21 recipes)
 status("Building index page...")
@@ -329,3 +353,16 @@ TIME_TOTAL = int(TIME_END - TIME_START)
 EMOJIS = "🍇🍈🍉🍊🍋🍌🍍🥭🍎🍏🍐🍑🍒🍓🥝🍅🥥🥑🍆🥔🥕🌽🌶️🥒🥬🥦"
 random_emoji = random.choice(EMOJIS)
 status(f"All done after {TIME_TOTAL} seconds! {random_emoji}")
+
+if args.serve:
+    import http.server
+    import socketserver
+
+    os.chdir("_site")
+    handler = http.server.SimpleHTTPRequestHandler
+    with socketserver.TCPServer(("", args.port), handler) as httpd:
+        print(f"\nServing _site/ at http://localhost:{args.port}/  (Ctrl-C to stop)")
+        try:
+            httpd.serve_forever()
+        except KeyboardInterrupt:
+            print("\nStopped.")
